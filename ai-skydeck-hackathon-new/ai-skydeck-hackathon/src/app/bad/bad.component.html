@@ -1,0 +1,82 @@
+<h1>"BAD" companies</h1>
+
+<div *ngIf="badCompanies.length > 0">
+    <h3>Select a Bad Company</h3>
+    <select (change)="setCompany($event)">
+      <option value="">Select a company</option>  <option *ngFor="let company of badCompanies" [value]="company">{{ company }}</option>
+    </select>
+  </div>
+  <div *ngIf="selectedCompany">
+  <h2>Average Score: 60</h2>
+  
+  
+    <div class="info">
+       
+    </div>
+    <div class="emissionsTable">
+    <table>
+      <tbody>
+          <tr>
+              <th>Scope 1 Emissions</th>
+              <td>597000000</td>
+            </tr>
+            <tr>
+              <th>Scope 2 Emissions</th>
+              <td>7900000</td>
+            </tr>
+            <tr>
+              <th>Scope 3 Emissions</th>
+              <td>358000000</td>
+            </tr>
+            <tr>
+              <th>Total Emissions in mtCo2e</th>
+              <td>{{358000000+7900000+597000000}}</td>
+            </tr>
+      </tbody>
+    </table>
+      <div *ngIf="company">
+        <h2>Sentiment Data for {{ this.selectedCompany }}</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Year</th>
+              <th>Report</th>
+              <th>Video</th>
+              <th>Report Sentiment</th>
+              <th>Video Sentiment</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let year of company | keyvalue">
+              <td>{{ year.key }}</td>
+              <td><a href="{{ year.value.report }}" target="_blank">View Report</a></td>
+              <td><a href="{{ year.value.video }}" target="_blank">Watch</a></td>
+              <td>{{ year.value.report_sentiment }}</td>
+              <td>{{ year.value.video_sentiment }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  
+  <app-bad-emissions-graph></app-bad-emissions-graph>
+  <p>How should {{selectedCompany}} avoid greenwashing and <br>improve their sustainability given the pdf context?</p>
+    <p>To avoid greenwashing and enhance sustainability,<br>
+         {{selectedCompany}} should commit to full transparency <br>
+         by disclosing successes and areas needing improvement,<br>
+          using third-party verification, and adopting standardized <br>
+          metrics for reporting. Setting ambitious, science-based <br>
+          targets aligned with the Paris Agreement and regularly <br>
+          updating goals is crucial. Reducing the carbon footprint<br>
+           through investments in renewable energy, carbon capture <br>
+           technologies, and energy-efficient practices is essential.<br>
+            Engaging stakeholders, including local communities and <br>
+            employees, and fostering a sustainability culture is vital.<br>
+            {{selectedCompany}} should innovate by developing environmentally friendly<br>
+              products and implementing recycling practices, ensure clear<br>
+               and accurate sustainability communications, collaborate with<br>
+                industry partners, and continuously review and improve<br>
+                 sustainability strategies. Addressing Scope 3 emissions by<br>
+                  working with suppliers and promoting sustainable consumption<br>
+                   is also necessary</p>
+  </div>

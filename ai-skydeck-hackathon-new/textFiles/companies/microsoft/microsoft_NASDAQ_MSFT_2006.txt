@@ -1,0 +1,4845 @@
+partners in innovation
+
+2 0 0 6   C i t i z e n s h i p   R e p o R t
+
+about this report
+
+sCope
+In the 2006 Microsoft Global Citizenship Report, 
+we discuss our key citizenship initiatives and 
+activities worldwide, highlight some of our 
+more significant accomplishments in fiscal year 
+2006, and share our goals for fiscal year 2007.
+
+RepoRting peRiod
+This report focuses on Microsoft’s fiscal 
+year 2006 (which began July 1, 2005, 
+and ended June 30, 2006). All data is for 
+that period unless otherwise noted.
+
+RepoRt stRuCtuRe
+This report is organized to reflect the 
+structure of our Global Citizenship Initiative 
+and related activities, because we want our 
+stakeholders — employees, customers, partners, 
+shareholders, and others—to be able to 
+compare our program goals and objectives 
+with our results. The report is a combination 
+of this print volume, which highlights and 
+provides an overview of some key issues, and 
+a more detailed online publication that we will 
+update annually. In addition, both the print 
+and online components of the report provide 
+key links to more detailed information on 
+Microsoft.com, Microsoft’s corporate Web site.
+
+CuRRenCy
+All money figures in this report are in 
+U.S. dollars unless otherwise noted.
+
+teRminology
+The terms “Global Citizenship” and “Corporate 
+Citizenship,” which are used throughout 
+this report, are interchangeable with 
+similar terms such as “Corporate Social 
+Responsibility” and “Corporate Sustainability.”
+
+global RepoRting initiative (gRi)
+The function of the GRI performance 
+indicators is to make it easier to compare 
+organizational reports on the basis of economic, 
+environmental, and social impacts. In the 
+online portion of this report, we have included 
+references to applicable GRI indicators to assist 
+stakeholders in their review and assessment 
+of our Global Citizenship Initiative.
+
+more information 
+
+about the GRI performance indicators is 
+
+available at www.globalreporting.org.
+
+table of contents
+
+Executive Welcome  ..................................................  2
+
+Global Citizenship at Microsoft  ................................  3
+
+Security and Internet Safety ......................................  9
+
+Knowledge Economy ...............................................  19
+
+Responsible Business Practices ................................ 41
+
+Our Company .........................................................  54
+
+Looking Ahead  .......................................................  56
+
+Awards  ....................................................................  57
+
+“We know that the most significant problems 
+facing our planet cannot be solved without the 
+close cooperation of the private sector. Microsoft 
+is not only a leader in responsible business 
+practices, but also works with us to ensure that 
+other businesses will rise to a similar standard.”
+
+— Rich LeimsideR, the Aspen institute
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+executive welcome
+
+Microsoft’s mission is to enable people 
+
+and businesses throughout the world 
+to realize their full potential. One 
+
+way we fulfill our mission is by developing 
+innovative software that transforms the 
+way people work, learn, and communicate. 
+Another way is by using our resources and 
+expertise to help expand social and economic 
+opportunities in communities around the world.
+
+Our company’s greatest strengths are 
+our employees’ passion, creativity, and 
+dedication, and our strong partnerships with 
+thousands of private, public, and community 
+organizations. Our people and partnerships 
+propel innovation at Microsoft, and they also 
+guide our worldwide citizenship efforts.
+
+A few years ago, we set a goal that, by the end of 
+this decade, we would help bring the benefits 
+of technology to one-quarter of a billion 
+underserved people worldwide. We recognize 
+that we cannot do this alone. That’s why our two 
+flagship digital inclusion programs, Partners 
+in Learning and Unlimited Potential, build on 
+the strength of partnerships with governments, 
+schools, NGOs, and community organizations. 
+Working together, we are bringing valuable 
+technology skills to teachers, students, and 
+others — more than 135 million people so far, 
+putting us more than halfway to our goal.
+
+and industry on important technology issues 
+such as interoperability and security.
+
+We are constantly expanding our understanding 
+of what we must do to be a responsible leader 
+and a good corporate citizen, and we are 
+always seeking new ways to put partnerships 
+and innovation to work to really make a 
+difference. Our global citizenship efforts 
+represent our mission and values in action, 
+and they underscore how creativity and a 
+spirit of innovation can make a difference, not 
+only in the products we create, but in the way 
+we give back to communities worldwide.
+
+By working together with our many partners to 
+solve challenging problems, we are optimistic 
+that Microsoft can continue to help make 
+positive and lasting contributions to society.
+
+Bill Gates 
+Chairman
+
+Steven A. Ballmer 
+Chief Executive Officer
+
+Our innovative technology and partnerships 
+are also helping meet some of society’s toughest 
+challenges: assisting law enforcement in the 
+fight against online predators with the Child 
+Exploitation Tracking System; helping industry 
+and government to protect individual privacy 
+and fight spammers and identity thieves; and 
+enabling people with disabilities to develop 
+job skills and live fuller lives through advanced 
+tools that make technologies more accessible.
+
+From the beginning, our community investments 
+have been inspired by our employees, and it’s 
+their passion and commitment that continue to 
+drive Microsoft’s efforts to help people in need. 
+This is especially true when disaster strikes. Our 
+employees are often on the front lines, giving 
+help wherever it’s needed and devising unique 
+ways to use technology to aid relief efforts.
+
+Another important measure of a company’s 
+commitment to corporate citizenship is the way it 
+conducts business and works productively with 
+all its stakeholders. At Microsoft, everything 
+we do is guided by corporate values, codes 
+of conduct, and company policies that, for 
+example, ensure diversity and fair business 
+practices among vendors and suppliers, provide 
+for good stewardship of the environment in 
+the way we create and package our products, 
+and support collaboration with governments 
+
+global citizenship at microsoft
+
+p A R t n e R s   i n   i n n o v A t i o n
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+global citizenship at microsoft
+
+At Microsoft, we bring the same spirit 
+
+of innovation to global citizenship 
+that we have always applied to our 
+business. Our Global Citizenship Initiative 
+combines innovative technology, partnerships, 
+and programs to create economic, educational, 
+and social opportunities in local communities 
+worldwide, and to help foster a more secure 
+computing experience for people everywhere.
+
+Our mission is to enable people and businesses 
+throughout the world to realize their full 
+potential. For more than 30 years, we have 
+built our company on that principle, providing 
+innovative software and services that help 
+people do more with technology, and creating 
+innovative partnerships that extend those 
+benefits to millions of people we never 
+could have reached by working alone.
+
+Innovation is an integral part of our business. It 
+characterizes our technology platform, which 
+enhances personal productivity and business 
+performance while supporting accessibility that 
+makes it easier for people with all abilities to 
+see, hear, and use computers. Innovation also 
+defines our partnerships. These partnerships 
+strengthen communities worldwide by 
+developing the workforce and helping to build 
+local software economies. They provide relief in 
+many areas devastated by natural disasters. And 
+
+they work to bring the benefits of technology 
+to one-quarter of a billion underserved 
+people globally by the end of this decade.
+
+“Technology is an extremely powerful tool, a grand 
+enabler of human imagination, innovation, creativity, 
+and productivity. Creating innovation with real 
+impact, listening carefully to what our customers 
+want, and creating amazing products that are 
+going to benefit as many other people on the planet 
+as possible — that’s really the reason Microsoft 
+exists. Innovation is the lifeblood of our business.”
+
+— steve BALLmeR, ceo micRosoft
+
+We are proud of our achievements as an 
+industry leader, a global citizen, and an 
+active partner to thousands of governments, 
+businesses, and community organizations 
+around the world — but our work is just 
+beginning. Our success in business has given 
+us the opportunity, and the responsibility, 
+to use our resources and influence to help 
+change the world, to make it a better and more 
+rewarding place for people everywhere.
+
+We look forward to the challenges — and 
+accomplishments—that lie ahead.
+
+the GLoBAL citizenship initiAtive
+As a global company, we recognize that 
+every country and community where we do 
+business has its own set of social, economic, 
+and environmental challenges. With that 
+in mind, we strive to nurture a spirit of 
+innovation throughout our company that 
+provides our employees and partners with 
+the tools — and inspiration — to meet those 
+challenges and turn them into opportunities.
+
+The importance and integral nature of global 
+citizenship at Microsoft were underscored 
+by Kevin Turner, Microsoft Chief Operating 
+Officer, at an internal meeting with employees: 
+“Good citizenship is just good business. It’s 
+the right thing to do. It’s who we are as a 
+company. It’s our commitment to communities 
+around the world. It’s really that simple.”
+
+Although our Citizenship programs are 
+diverse and tailored to the specific needs of the 
+people and communities they serve, they are 
+all organized around one of the three central 
+themes of our Global Citizenship Initiative:
+
+global citizenship at microsoft       
+
+Since issuing our first Global Citizenship Report 
+in 2003, we at Microsoft have continued to 
+strengthen our internal organizational structure. 
+Just as important, we also are improving and 
+extending our external programs to create a 
+greater awareness of, and accountability for, the 
+economic, social, and environmental issues that 
+affect communities and individuals worldwide.
+
+more information 
+
+about the Microsoft Global Citizenship  
+
+Initiative and our progress on each of  
+
+its three central themes is available at  
+
+www.microsoft.com/citizenship.
+
+An Invitation to Our Readers
+We appreciate frank and honest feedback, both 
+positive and negative, because it helps us to improve. 
+We invite you to offer your observations and 
+suggestions about this report as well as Microsoft’s 
+global citizenship activities. Please send your 
+comments to citizenship@microsoft.com.
+
+Improving Security and Internet Safety  
+We address the societal challenges of information 
+and communications technology — such 
+as security, privacy, and children’s safety 
+on the Internet — through innovative 
+technology and partnerships with industry, 
+governments, and law enforcement agencies. 
+We also work with our partners to provide 
+consumer education and expert guidance 
+about online safety to help people protect 
+their PCs, themselves, and their families.
+
+Advancing the Knowledge Economy 
+We advance the knowledge economy by 
+partnering with governments and communities 
+around the world on digital inclusion as 
+well as on innovation that brings valuable 
+technology and skills to more people and 
+stimulates the growth of local economies.
+
+Demonstrating Responsible Business Practices 
+We ensure integrity, transparency, and social 
+accountability in our business practices, whether 
+complying with the laws of the countries 
+where we do business, supporting industry 
+standards, adhering to the highest ethical and 
+environmental practices, or making sure our 
+products interoperate well with those of other 
+companies — including our competitors.
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+a global citizen — examples of programs around the world
+
+Canada: Providing Access and 
+Training to Technology
+
+The Community Access Program (CAP) is a Government of 
+Canada initiative that provides Canadians with affordable 
+public access to the Internet and the skills they need to use 
+it effectively. Together with Pacific Community Networks 
+Association, a nonprofit organization representing 22 
+CAP Networks in British Columbia, Microsoft will be 
+supporting the creation of an online community focused 
+on teaching the art and science of game development.
+
+Philadelphia: Building the School of the Future
+
+Microsoft and the School District of Philadelphia joined 
+forces to create a 750-student high school — opened  
+in September 2006 — that embodies innovation  
+and technology. The goal of the partnership is to  
+create a technology-based educational model that  
+can be replicated in communities around the globe.  
+Learn more about the school at www.microsoft.com/ 
+education/schooloffuture.mspx.
+
+New Mexico: Reaching Out to the Community
+
+In April 2006, Microsoft took part in 
+TechFest at the Gathering of Nations 
+in Albuquerque, New Mexico, the 
+largest Native American Pow Wow 
+held in North America. Microsoft, in 
+partnership with HP, helped bring 
+technology to Native American youth 
+by providing TechFest with free PCs and monitors.
+
+Mexico: Supporting NGOs
+
+In fiscal year 2006, Microsoft funding will support the 
+Fortaleza program of Fundación Merced. The goal of the 
+Fortaleza program is to build the professional capacities of 
+nongovernmental organizations (NGOs) in the Mexico City 
+metropolitan area by helping them adopt technology to 
+enhance their productivity, efficiency, and management.
+
+Peru: Removing Barriers for Speakers of 
+Native American Language
+
+In collaboration with three 
+Peruvian universities, Microsoft 
+developed the Quechua 
+Language Pack to make 
+Microsoft® Windows® and 
+Office products more accessible. 
+Released in June 2006, the Quechua Language Pack 
+is expected to have a significant impact on improving 
+technology access for the approximately 10 million 
+Quechua speakers in South America, who are a 
+traditionally underserved community in the region.
+
+Brazil: Leading the Way to Innovation
+
+Microsoft Innovation Centers 
+(MICs), found throughout 
+Brazil, are designed to foster 
+strong, self-sustaining local 
+software economies by providing 
+customers and partners with a 
+comprehensive set of programs 
+and services. Based in part on the successes achieved 
+in Brazil, an additional 30 MICs will open in 2006, with 
+facilities planned in India, Korea, and South Africa.
+
+Argentina: Fostering Social Inclusion
+
+The Committee for Democracy in Information 
+Technology (CDI) is a Latin American NGO that fosters 
+social inclusion and active citizenship by promoting 
+the use of information and communication technology 
+(ICT) in low-income communities. In Argentina, CDI 
+operates 40 community technology centers (CTCs) 
+and has provided training to more than 2,000 people. 
+Microsoft’s 2006 Unlimited Potential (UP) grant will 
+provide funding for 20 more CTCs and two regional 
+offices to manage existing centers more efficiently.
+
+Portugal: Ensuring Employability for Europe
+
+In support of its 21st Century Skills for Employability 
+initiative, Microsoft launched a new digital literacy 
+
+curriculum. The new curriculum will be offered free to 
+governments, academia, and NGOs, and will be accessible 
+online. In addition, Microsoft announced that it will increase 
+the number of Microsoft IT Academies from 1,900 to more 
+than 8,000 by 2010, with the goal of providing local access 
+to technology skills training for more than 6 million adults.
+
+Belgium: Helping SMEs Find Funding
+
+The European Union Grants 
+Advisor (EUGA) program is 
+a collaborative effort led by 
+Microsoft to help small and 
+medium-sized enterprises (SMEs), 
+as well as local and regional 
+governments, better understand 
+and use EU funding opportunities. SME owners are 
+able to find information on the EUGA Web site about 
+what funding is available and which programs they may 
+be eligible for. More information on this program can 
+be found at www.microsoft.com/emea/euga/.
+
+Italy: University Tours
+
+In order to demonstrate Microsoft’s commitment to 
+innovation, facilitate communication, and strengthen 
+the relationships between Microsoft and university 
+students and professors, Microsoft held events at 
+11 universities throughout Italy. More than 1,500 
+students and professors have attended an event, which 
+included a speech from a Microsoft executive.
+
+Poland: Delivering Skills Training to the 
+Unemployed in Rural Areas
+
+The Your Chance for Employment 
+program provides ICT skills 
+training for the unemployed 
+living in rural areas of Poland. 
+The training is designed to help 
+increase job opportunities for 
+the unemployed, build the skills of those who have jobs 
+but lack critical ICT skills, and teach entrepreneurial 
+skills for those who want to start small businesses. 
+
+global citizenship at microsoft       
+
+Afghanistan: Supporting Women 
+and the Interim Government
+
+Japan: Removing the Digital  
+Divide Between NPOs
+
+Russia: Leveraging ICT Curriculum
+
+In Russia, a 2006 Unlimited Potential grant will support 
+Project Harmony — a program supporting 21 select IDEA 
+centers designed to provide improved technology access 
+and skills training in underserved areas of the country. The 
+program will offer 30 hours of introductory technology 
+training each month by using Microsoft’s UP curriculum. It 
+is expected to train more than 8,500 people in one year.
+
+Morocco: Developing IT Skills for Adolescents
+
+In February 2006, Microsoft signed a partnership with 
+the Moroccan Secretary of State in charge of Youth and 
+the UNDP for the expansion of the Ajialcom project. 
+This project is setting up 100 new CTCs throughout 
+Morocco to help close the digital divide, and train 
+and educate young people to use IT. It is expected 
+that about 30,000 young people will be trained in IT 
+skills over a period of one year through the centers.
+
+In Afghanistan, the Interim Authority, the United 
+Nations Development Programme (UNDP), and other 
+organizations are driving the rebuilding of the country’s 
+basic social, political, and economic structure after years 
+of instability. Microsoft is donating cash and software 
+to help create 15 CTCs, where as many as 25 percent 
+of the people expected to be served will be female.
+
+India: Generating Self-Sustaining Employment
+
+Grameen Sanchar Society (GRASSO) seeks to enable a self-
+sufficient rural West Bengal by establishing self-employment 
+plans for generating opportunities in the villages. With the 
+support of Microsoft, GRASSO will set up 1,500 Community 
+Information and Services Centers to host for-profit IT 
+services and provide free IT skills training over two years 
+to more than 67,800 people across rural West Bengal.
+
+Uganda: Aiding Child Refugees
+
+China: Encouraging Skills Development
+
+The United Nations High Commissioner for Refugees 
+recently launched ninemillion.org to bring attention to 
+the plight of the world’s refugee youth. Founded by Right 
+to Play, the campaign aims to create a global community 
+dedicated to giving the world’s refugee youth the chance 
+to learn and play. Microsoft supports ninemillion.org 
+through MSN® by hosting and localizing the Web site 
+content in nine languages. More information on the 
+program can be found at www.ninemillion.org.
+
+South Africa: Promoting Accessibility
+
+QuadPara is a South African organization offering 
+quadriplegics, paraplegics, and people with other 
+disabilities a variety of services including helping to 
+develop skills needed for employment. A Microsoft 
+grant in fiscal year 2006 will further the availability of 
+accessible technology in the QuadPara center, and 
+through the use of Microsoft technology, the center’s 
+patrons will be able to use assistive devices better.
+
+Migrant workers in China face 
+many challenges and often lack 
+the opportunity to acquire the 
+skills needed to find better jobs. 
+The Beijing Young Entrepreneurs’ 
+Association — in cooperation 
+with Microsoft and government, 
+community, and educational institutions — will establish 
+CTCs in Beijing to provide IT skills training to more than 
+1,000 migrant workers. The training will help migrant 
+workers improve their employment skills and better 
+integrate into their community.
+
+Hong Kong: Refurbishing Student PCs
+
+Despite the affluence of the general population in Hong 
+Kong, more than 1 million people live in poverty. The 
+Hong Kong Council of Social Service is working to 
+address this issue and, under the Microsoft Authorized 
+Refurbisher program, plans to donate 20,000 refurbished 
+PCs in 2006 to school-age children living in poverty.
+
+At the Non-Profit Organization 
+(NPO) Day held this April 
+in Tokyo, a new program 
+supporting the elimination 
+of the digital divide between 
+NPOs was announced. The NPO 
+Partnership Program will provide IT tools and templates 
+needed for member and financial management, event 
+operations, and daily work, as well as a digital literacy 
+curriculum to help NPO users acquire vital IT skills.
+
+Australia: Helping Seniors Participate  
+in the Digital Economy
+
+The percentage of Australia’s 
+population aged 65 and 
+over is increasing, creating 
+greater demand for accessible 
+technology and training for 
+seniors. The Australian Seniors 
+Computer Clubs Association (ASCCA) is working to 
+keep seniors engaged in the Australian economy by 
+providing practical IT skills and knowledge training. With 
+110 Seniors Centers under the Microsoft UP umbrella, 
+ASCCA will train 16,000 Australian seniors in 2006.
+
+New Zealand: Creating New Tools 
+to Preserve Ancient Cultures
+
+The Maori language in New Zealand was on the verge 
+of extinction until a revival in the 1970s and 1980s. 
+Despite the revival, it remains an endangered language. 
+In late 2005, Microsoft released a Maori Language 
+Pack for Office 2003 and Windows XP to facilitate the 
+use of computers by Maori speakers. Microsoft’s work 
+is an important step in preserving and promoting a 
+vital piece of Maori culture for generations to come.
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+security road shows on the information highway
+
+PC security check available to everyone in 
+Germany, Microsoft organized a truck tour 
+through major cities. At each stop, people could 
+consult with IT professionals and perform 
+a full security check on their 
+PCs. To enable security checks 
+for other Germans, Microsoft 
+distributed CDs and videos, 
+provided online and offline 
+checklists, and worked with a 
+network of certified consultants.
+
+In Sweden, the Livstid (Lifetime) 
+Project — a partnership between 
+Microsoft, the Swedish Media 
+Council, and the Swedish 
+National Agency for School 
+Improvement — educated teachers and 
+students about the risks young people 
+may face when they use the Internet.
+
+And the Get Net Safe Tour — a joint initiative 
+of a dozen business, government, and 
+nonprofit partners — visited 12 major 
+U.S. cities to raise public awareness about 
+computer security and Internet safety.
+
+This year, Microsoft took its security 
+message on the road — from Asia to 
+Europe and across the United States.
+
+to the specific challenges and needs of each 
+audience, Microsoft shared its latest security 
+strategies with more than 3,400 professionals.
+
+During a security tour through the Philippines, 
+Thailand, Malaysia, Indonesia, and Vietnam, 
+Microsoft discussed common security issues 
+facing computer users. Tailoring the message 
+
+Microsoft CEO Steve Ballmer traveled to Berlin 
+for the second summit on security and the 
+information society in Germany. As part of 
+a broader commitment to help make a free 
+
+security and internet safety
+
+A   m o R e   t R u s t w o R t h y   e x p e R i e n c e
+
+10       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+security and internet safety
+
+In 2002, Microsoft Chairman Bill Gates 
+
+announced a companywide commitment 
+to make computing a more trustworthy 
+
+experience for all of our customers by 
+developing software that is more secure and 
+reliable — software designed to help people 
+protect their privacy and ensure that they and 
+their families can have a safer online experience.
+
+Trustworthy computing and online safety are 
+ongoing priorities for us, and we are making 
+progress toward those goals through a powerful 
+combination of technology innovation and 
+investment, collaboration and leadership on 
+key issues through strategic partnerships, 
+and prescriptive education and guidance.
+
+We develop innovative technology to help parents 
+monitor and control their children’s Internet use, 
+and to help consumers protect their privacy and 
+personal data by blocking spam e-mail, phishing 
+scams, and malicious software. We collaborate 
+closely with industry, government, academic, 
+and law enforcement partners on strategies to 
+make computing safer and more trustworthy 
+for all users, and to prevent and prosecute 
+online crime. And we offer customers, teachers, 
+parents, and children expert guidance and 
+education to help them meet the ever-changing 
+challenges of security and online safety.
+
+pARtneRships with industRy, 
+LAw enfoRcement, And nGos
+Microsoft recognizes its responsibility as an 
+industry leader to help combat global cybercrime. 
+We believe that working to make the Internet 
+safer for today’s users and future generations 
+is, quite simply, the right thing to do. We 
+also realize that no one group can tackle the 
+challenge of Internet safety. Accordingly, we 
+work collaboratively with industry partners, 
+government agencies, law enforcement officials, 
+NGOs, and other influential people and 
+organizations to improve safety, privacy, and 
+security through enforcement efforts, technology 
+tools, and education and awareness campaigns.
+
+partnerships to enhance children’s online safety
+
+Microsoft worked 
+with Canadian police 
+and international law 
+enforcement agencies 
+to develop the Child 
+Exploitation Tracking 
+System (CETS), a unique and innovative software 
+tool that helps protect children and reduce 
+child exploitation online, and increases the 
+effectiveness of investigators and police agencies. 
+Using CETS, police agencies can manage, search, 
+analyze, and share huge volumes of information 
+and evidence, cross-reference obscure data 
+
+relationships, and use social-network analysis 
+to identify communities of offenders.
+
+CETS began producing results almost 
+immediately. In November 2004, while it 
+was still being tested, CETS created a link 
+connecting child pornography crimes across 
+three continents, which led to the rescue of a 
+four-year-old in Toronto, Canada. Since then, 
+CETS has contributed to several investigations 
+that have crossed police jurisdictions and 
+international borders, creating connections 
+that have led to the apprehension of more 
+than 40 online offenders and the rescue of 
+children in many different countries.
+
+CETS was conceived after Sergeant Paul Gillespie, 
+who was a detective with the Toronto Police 
+Service’s Child Exploitation Section, sent an e-
+mail message to Microsoft Chairman Bill Gates in 
+2003, explaining that he and other police officers 
+were fighting a losing battle in their efforts to stop 
+child exploitation online. Child predators were 
+becoming increasingly adept at using technology 
+to exploit children while keeping their identities 
+hidden, but the police weren’t keeping pace 
+in their use of technology to identify, arrest, 
+and convict these criminals. Gillespie asked 
+for help, and Microsoft provided a solution.
+
+To develop CETS, Microsoft worked with 
+law enforcement agencies around the world, 
+including the Toronto Police Service and the 
+Royal Canadian Mounted Police. Microsoft 
+contributed technical expertise and resources 
+to develop a system that was designed by 
+law enforcement, for law enforcement.
+
+The success of CETS as a tool to help 
+international law enforcement officials protect 
+children has attracted widespread attention. 
+In June 2006, Indonesia adopted CETS after 
+sending Indonesian police officers to Toronto 
+to see how CETS was being used in Canada. 
+Several other countries are considering 
+deploying CETS, and more countries are 
+expected to adopt the system in the near future.
+
+“CETS puts together the work of hundreds 
+of police agencies in one place. The tool can 
+establish links from the different agencies 
+that police wouldn’t necessarily make.”
+
+— coRpoRAL GARRy BeLAiR, technoLoGy 
+
+mAnAGeR with the RoyAL cAnAdiAn 
+
+mounted poLice’s nAtionAL chiLd 
+
+expLoitAtion cooRdinAtion centeR
+
+cambodia — protecting children from predators
+Cambodia has become an international trouble 
+spot for child exploitation and human trafficking, 
+fueled by foreign pedophiles who prey on poor 
+Cambodian children and use the Internet to 
+produce and disseminate child pornography. 
+According to the UNICEF report “Children 
+on the Edge: Protecting Children from Sexual 
+Exploitation and Trafficking in East Asia and the 
+Pacific,” as many as one-third of sex workers in 
+Cambodia are children under 18 years of age.
+
+In October 2005, Microsoft joined Britain’s 
+National Criminal Intelligence Service and 
+the National Crime Squad to offer a two-week 
+seminar to about 150 Cambodian, Thai, 
+and Indonesian law enforcement officials 
+and humanitarian workers. The training 
+included a range of computer skills, from 
+Internet basics to network security, as well 
+as how to trace sex offenders online.
+
+Before the seminar, many of the Cambodian 
+police and prosecutors who received the training 
+had never used a computer or the Internet. This 
+has contributed to Cambodia’s difficulties in 
+addressing the human trafficking in child sex 
+workers. The training offered by Microsoft 
+and its partners is, we hope, changing that.
+
+security and internet safety       11
+
+Child Safety — Employee Volunteering
+
+“The impact was astonishing — all groups were attentive 
+and engaged with the materials. Many had not made the 
+link to strangers …the local PC was excellent and was able 
+to connect my online world to their offline experiences.”
+
+“Anyway, thanks for giving me a chance to put 
+something back. I have really enjoyed my day and 
+will look to see how else I might get the message 
+across through my school governor network.”
+
+“My final comment would be just to say that this was 
+the BEST and most fulfilling community activity I have 
+ever undertaken during my eight years at Microsoft.”
+
+“I’ve just — five minutes ago — finished three 
+runs of this presentation to a total of 840 pupils 
+in years 7, 8, and 9 at Philip Morant school in 
+Colchester. The impact was astonishing.”
+
+“The children did you proud, and I can honestly 
+say it was one of the most rewarding days I have 
+had in the 12 years I have been at Microsoft.”
+
+“The school was enthusiastic; we did all three year 
+groups — as well as a staff session at lunchtime 
+and a parents session. The school will use the 
+Know IT All resource kit almost immediately; they 
+are doing Internet safety this week in IT.”
+
+— Microsoft UK employees at the  
+Getting to Know IT All volunteer event
+
+1       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+“In Cambodia, the 
+Internet and child 
+safety are deeply 
+connected, but they 
+are connected in a way 
+that may not seem 
+
+obvious when we talk about protecting our 
+children online,” said Charles Ray, former 
+U.S. Ambassador to Cambodia. “The truth is, 
+many Cambodian children have never used 
+a computer and may never, in their lives, use 
+the Internet … but Cambodian children are 
+abused daily by the pedophiles that use the 
+Internet and computers to plan, coordinate, 
+and facilitate abuse of children in Cambodia.”
+
+enfance en ligne — children’s 
+
+online safety in france
+Microsoft organized Enfance en ligne in 
+partnership with the National Union of 
+Family Associations (an important NGO that 
+represents 120 local community organizations 
+and is the French government’s primary 
+partner on family issues) and Defenseur des 
+Enfants (the Children’s Ombudsman Office 
+under the patronage of the Prime Minister). 
+Enfance en ligne was the first conference on 
+children’s online safety ever held in France.
+
+Enfance en ligne brought together parent and 
+family associations, public authorities, and 
+industry representatives. The goals of the 
+conference were to initiate public discussion 
+about child safety in conjunction with the 
+Family Ministry Conference in September 
+2005, and to teach parents how to keep 
+their children safe online through smart 
+online behavior and the use of technology 
+that features built-in parental controls.
+
+Approximately 300 
+people attended the 
+conference, which 
+featured roundtable 
+discussions and 
+workshops that 
+
+focused on parental controls for computers, 
+mobile phones, and video games. In a postevent 
+survey, 93 percent of respondents said they felt 
+better informed to guide children as a result of 
+the conference. Approximately 20 journalists 
+attended the event and published 25–30 positive 
+news stories that helped to further inform the 
+public about the issues of children’s online 
+safety and the resources available to families.
+
+The conference sponsors developed a parents’ 
+guide to children’s online safety. The National 
+Union of Family Associations and other NGOs 
+distributed 40,000 of these guides, another 
+1,700 were downloaded from the Microsoft.com 
+site, and 250,000 were shipped with a popular 
+family magazine. The sponsors also launched an 
+educational Web site, Décode le Web  
+(www.decodeleweb.com), which uses an online  
+game to teach children 11–15 years old 
+how to use the Internet safely. The site, a 
+French adaptation of the MSN UK Websafe 
+Crackerz site (www.websafecrackerz.com/), 
+had 9,000 visitors the first month.
+
+technoLoGy innovAtion
+Security and Internet safety are top innovation 
+priorities for Microsoft. We are committed to 
+delivering software, services, and best practices 
+that help protect customers’ data, systems, 
+and networks. We are investing in technology 
+fundamentals that make our products more 
+secure, and innovations that provide layered 
+defenses against cybercrime and many other 
+threats to security, privacy, and online safety.
+
+security and internet safety       13
+
+empowering parents with parental controls
+We are building parental controls into many 
+of our most popular products and services, 
+including Windows Vista™, Windows Live™, 
+Xbox®, and MSN. These controls help parents 
+protect their children from inappropriate content 
+and unwelcome contacts online. Our parental 
+control tools also incorporate guidance from 
+recognized experts, including advice about 
+age-appropriate content from the American 
+Academy of Pediatrics in Windows Live 
+and game ratings from independent ratings 
+boards such as the Entertainment Software 
+Rating Board in Xbox and Xbox 360™.
+
+“For Microsoft, family-safe computing is essential 
+to what we do every day. We interact with parents 
+and kids across all of our consumer products, 
+because we want them to have a great experience 
+with our technology. We want them to have fun 
+and we want them to learn, so it is important 
+that we provide the tools and information they 
+need to make intelligent choices and to feel 
+comfortable with the technology they’re using.” 
+
+— RoBeRt (RoBBie) BAch, pResident, 
+
+enteRtAinment And devices 
+
+division At micRosoft
+
+windows Live and windows vista  
+
+parental controls
+Microsoft is incorporating parental 
+control tools into products like Windows Live 
+and Windows Vista to help families create a 
+safer, more secure, and more enjoyable online 
+experience for children. These tools enable 
+parents to control and monitor their children’s 
+Internet use by creating customized settings 
+that are appropriate for each child and by 
+reviewing reports on his or her Internet use.
+
+Windows Live Family Safety Settings is a Web-
+based service that includes Web content filtering, 
+activity reporting, and contact management 
+features. These settings apply to online content 
+and services, including other Windows Live 
+services such as MSN Messenger and MSN 
+Spaces. Microsoft will make Windows Live 
+Family Safety Settings available at no charge 
+and, because it is part of the Windows Live 
+Web-based services, users can access settings 
+and reporting functionality from any PC 
+connected to the Internet — offering parents 
+greater flexibility in how they monitor and 
+manage their children’s online activity.
+
+Surfing Safely in Latin America
+In Latin America, Microsoft teamed with the Ricky 
+Martin Foundation to launch Navega Protegido to 
+promote online safety for children. Martin, two-time 
+Grammy Award winner and Goodwill Ambassador to 
+UNICEF, taped three educational videos—each one 
+in English, Spanish, and Portuguese — to provide 
+children, teachers, parents, and other adult family 
+members with the tools and information they need 
+to protect children from online hazards such as 
+sexual predators and inappropriate content. 
+
+The videos will be distributed over the Internet, 
+at campaign events, and to millions of children 
+throughout Latin America. Two of the videos address 
+children 7 to 11 years old. The third video addresses 
+parents, teachers, and other adult mentors. Both 
+children and adults can find more information 
+about Internet safety on the Navega Protegido 
+Web site at www.navegaprotegido.org.
+
+Martin, who is well-known for his commitment to 
+child welfare, established the Ricky Martin Foundation 
+to advocate for children around the world in critical 
+areas such as social justice, education, and health. 
+The online safety campaign has attracted support 
+from more than 40 major sponsors such as Visa, Intel, 
+HP, and Citibank as well as many Latin American 
+governments and businesses. Microsoft and the 
+foundation hope to expand the campaign globally.
+
+1       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+The parental controls built into Windows Vista 
+help provide security and safety functionality 
+to the computer on which it is installed and 
+provides functionality for the management of 
+offline activity as well — such as PC games. 
+Windows Vista’s new parental controls 
+can help parents feel comfortable that their 
+children are using the Internet safely by:
+
+§  Limiting when and for how long 
+their children use the computer.
+
+§  Controlling which Web sites their 
+children can visit and limiting the 
+programs their children can run.
+
+§  Restricting access to computer games 
+
+(including online games with Xbox Live®) 
+based on title, content, or independent ratings.
+
+§  Providing detailed reports about 
+their children’s computer usage.
+
+Additional information 
+
+about Windows Live Family Safety Settings is 
+
+available at www.microsoft.com/presspass/
+
+features/2006/mar06/03-13familysafety.mspx.
+
+windows Live search
+Parents can set the SafeSearch feature 
+in Windows Live Search to Moderate 
+
+(the default setting) to automatically filter out 
+sexually explicit Web sites and images. For a 
+higher level of protection, parents can increase 
+the SafeSearch setting to Strict, which causes 
+Windows Live Search to filter out sexually 
+explicit text as well as sexually explicit images.
+
+xbox 360 and xbox Live
+Individual players can use 
+Family Safety Settings 
+in the Xbox 360 game 
+console and the Xbox 
+Live service to customize 
+their own settings, and parents can limit the 
+games their children play, whom they play 
+with, the movies they watch, and their online 
+and offline experience — even when they are 
+away from home. The Family Safety Settings 
+for Xbox 360 and Xbox Live support all major 
+game ratings systems used in every part of the 
+world — from the United States to Australia.
+
+In addition to building Family Safety Settings 
+into the Xbox 360 console, Microsoft 
+has partnered with elected officials, 
+nongovernmental agencies, and retailers to 
+educate consumers about Family Safety Settings 
+and other resources that parents can use to 
+
+protect their children from inappropriate 
+video game content. The campaign includes 
+a digital literacy curriculum for parents, a 
+grassroots effort to reach families in their 
+communities, and a toolkit for retailers. 
+This initiative is part of Microsoft’s ongoing 
+commitment to promote responsible gaming.
+
+Additional information 
+
+about Microsoft Xbox 360 Family Settings is 
+
+available at www.microsoft.com/athome/security/
+
+children/xbox_360_family_settings.mspx.
+
+security by design
+The Security Development Lifecycle (SDL) is a 
+process designed to train Microsoft developers, 
+testers, and program managers to develop 
+code that is more secure, and to test and review 
+Microsoft products for security. SDL includes 
+mandatory security checkpoints at each phase 
+of software development for many of our 
+products, and a rigorous security review that 
+products subject to SDL must pass before they 
+can be released. The SDL process is continually 
+improved and updated with best practices and 
+new information learned from the Microsoft 
+Security Response Center, which provides 
+rapid, targeted security responses whenever 
+software vulnerabilities are discovered.
+
+suppoRtinG LeGisLAtion
+As an innovative technology company whose 
+products are helping to transform many aspects 
+of personal and professional life for millions of 
+people worldwide, Microsoft has a responsibility 
+to work with lawmakers and law enforcement 
+agencies to develop laws and policies that help 
+ensure online safety, security, and privacy.
+
+Because cybercrime crosses jurisdictional and 
+international boundaries, Microsoft is working 
+with governments around the world to enact 
+legislation that prohibits the distribution 
+of deceptive e-mail or spyware, protects 
+individual privacy, empowers consumers, and 
+preserves the health and vitality of legitimate 
+e-commerce. And we’re making progress. The 
+worldwide proliferation of spam, phishing, 
+malicious code, and spyware attacks has 
+spurred numerous legislative bodies to 
+adopt laws addressing these cybercrimes.
+
+Windows Vista, Microsoft’s next-generation 
+operating system, builds on a 30-year legacy 
+of technical excellence, industry collaboration, 
+and customer-focused product development 
+to deliver the most secure version of Windows 
+ever. Built to be more secure from the ground 
+up, Windows Vista introduces important new 
+features and functionality designed to provide 
+layered defenses against malware threats, 
+intrusions, and data breaches. It provides 
+corporate and personal data enhanced protection 
+from hackers, malicious software, and theft.
+
+One of the most recent security innovations 
+from Microsoft is Windows Live OneCare, an 
+
+all-in-one, always-on 
+PC care service that 
+is like a “pit crew” 
+for PCs. Windows 
+Live OneCare 
+performs a wide 
+
+range of maintenance tasks and provides 
+automatic security updates, antivirus and 
+firewall protection, and backup and restore 
+features, so that customers can focus on enjoying 
+their online experience without worrying about 
+how to keep their PCs running smoothly.
+
+security and internet safety       1
+
+Helping Law Enforcement Officials 
+Track Cybercriminals
+Microsoft launched the Global Phishing Enforcement 
+Initiative to expand its ongoing efforts to prevent 
+and prosecute Internet fraud worldwide through 
+consumer protection and innovative partnerships with 
+governments, law enforcement agencies, and various 
+industries. In fiscal year 2006 alone, Microsoft initiated 
+legal action against more than 100 alleged online 
+criminals in Europe, the Middle East, and Africa.
+
+In January 2006, for example, the National Services 
+to Combat Organized Crime (NSCOC) in Bulgaria 
+arrested eight individuals for allegedly running 
+an international phishing operation that stole 
+more than $50,000 from MSN users in the United 
+States, Germany, and the United Kingdom.
+
+Nicknamed the MBAM (Microsoft Billing Account 
+Management) Gang by investigators, the cybercriminals 
+allegedly contacted MSN customers with e-mail 
+messages that looked as though they were sent by MSN 
+customer service representatives. The phishers, who 
+launched attacks in 11 countries, asked MSN users to 
+update personal financial data, and then used the stolen 
+information to make purchases or initiate express money 
+transfers. Microsoft assisted the NSCOC by providing 
+investigative and technical support, enabling Bulgarian 
+authorities to identify and arrest MBAM Gang members.
+
+1       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+A call for federal privacy Legislation 
+
+in the united states
+In November 2005, Microsoft Senior Vice 
+President and General Counsel Brad Smith 
+
+appeared before the 
+U.S. Congressional 
+Internet Caucus to 
+advocate federal 
+privacy legislation. The 
+proposed legislation 
+would not only coordinate privacy protections 
+within the United States, but also harmonize 
+and align U.S. protections with those offered 
+by countries around the world. Smith said 
+federal privacy legislation should establish 
+baseline privacy protections for consumers 
+and also provide organizations with a uniform 
+standard on which they can build effective 
+privacy policies and compliance efforts.
+
+But the potential of information technology to 
+drive further social and economic advances 
+depends on building and maintaining a solid 
+foundation of trust. Individuals will not take 
+full advantage of the Internet or any other 
+commercial medium if they believe their 
+personal information could be compromised. 
+Effective federal legislation will help provide 
+consumers with the confidence and knowledge 
+that the legitimate companies they do business 
+with are following an established set of privacy 
+
+practices. Smith told the caucus that Microsoft 
+believes it is the right time for federal privacy 
+legislation because it has become increasingly 
+clear that a comprehensive approach is needed to 
+help protect consumers from identity theft and 
+other misuses of their personal information.
+
+to learn more 
+
+about Microsoft’s views on privacy legislation, see 
+
+www.microsoft.com/presspass/features/2005/nov 
+
+05/11-03privacy.mspx and www.microsoft.com/press 
+
+pass/press/2005/nov05/11-03dataprivacypR.mspx.
+
+privacy Legislation worldwide
+Asia-Pacific Economic Cooperation (APEC) is 
+the premier forum for facilitating economic 
+growth, cooperation, trade, and investment 
+in the Asia-Pacific region. Microsoft has been 
+a major sponsor of APEC for the past three 
+years and has participated at the Leaders/CEO 
+Summit and in a number of APEC committees 
+and working groups on the issues of privacy, 
+online safety, and security. Microsoft and 
+other APEC members have endorsed the 
+APEC Privacy Framework to encourage the 
+development of appropriate information privacy 
+protection and as a means to ensure the free 
+flow of information in the Asia-Pacific region.
+
+The proposed APEC Privacy Framework 
+starts from the principle that the flow of 
+information between countries is crucial to 
+trade and economic development. It reflects 
+the region’s commitment to balancing 
+privacy protections with the need to avoid 
+unnecessary barriers to the flow of data. 
+Based on a common understanding of the 
+privacy protections consumers expect, and 
+acknowledging the political and cultural 
+differences between nations in the region, the 
+APEC Privacy Framework provides guidance 
+and direction to member countries.
+
+Microsoft believes that the advantage of this 
+approach is that it enables countries to adopt 
+legislation that effectively protects their citizens’ 
+personal information while also maintaining 
+some level of consistency throughout the region. 
+Legislation based on this framework will make it 
+easier for both local and multinational companies 
+to efficiently and profitably offer products and 
+services to any customer in APEC countries.
+
+In May 2006, the International Association 
+of Privacy Professionals (IAPP), the world’s 
+
+largest association in 
+this field, brought its 
+signature privacy 
+networking program 
+on a three-city tour 
+to Sydney, Singapore, 
+
+and Tokyo. The tour was cosponsored by 
+Microsoft and Ernst & Young, and supported 
+locally by public- and private-sector companies. 
+The IAPP Asia-Pacific Tour attracted more 
+than 250 privacy professionals from consumer, 
+business, and government organizations.
+
+The purpose of the tour was to create a 
+dialogue about the increasingly important 
+issue of privacy and data protection between 
+a growing and nascent group of Asia-Pacific 
+privacy professionals. The tour was timely 
+for Singapore, where data protection 
+legislation is expected to be announced by 
+the Ministry of Information, Communication, 
+and Arts (MICA) in the near future.
+
+Many governments and regional organizations 
+around the world have affirmed their 
+commitment to privacy laws that do not 
+unnecessarily impede e-commerce and 
+international trade. Still, many of the differences 
+between approaches to privacy protection around 
+the world continue to create friction in the flow of 
+data between, and within, nations and regions.
+
+“Many privacy-related policy problems arise 
+because we live in an increasingly interconnected 
+world. Communication and collaboration are 
+continuously expanding; online commerce and 
+banking are growing at a rapid rate; and people are 
+using computers in almost every aspect of their daily 
+lives. As a result, we face increasing challenges in 
+maintaining privacy and confidentiality. At Microsoft, 
+we are building privacy-enabling technologies into 
+our products that strike a balance between the 
+collection, transmission, storage, and use of data.”
+
+— cRAiG mundie, micRosoft’s chief 
+
+ReseARch And stRAteGy officeR
+
+security and internet safety       1
+
+Microsoft Helps Neutralize Antinny Virus in Japan
+Microsoft works closely with governments, law 
+enforcement agencies, and industry partners around the 
+world to limit the spread of computer viruses and the 
+damage they cause. But the Antinny virus was an unusual 
+case that illustrates the depth of our commitment to 
+making computing a safe experience for all users.
+
+The Antinny virus first appeared in Japan in March 
+2004, overloading Web servers at the Association 
+of Copyright for Computer Software and forcing the 
+group to shut down its site. The virus spread quickly 
+through peer-to-peer connections to thousands 
+of PCs that unknowingly attacked and overloaded 
+servers at ISPs throughout Japan, threatening to 
+make the Internet inaccessible to Japanese users.
+
+After struggling for a year to neutralize the virus, the 
+IT community in Japan asked Microsoft for help. 
+Some people worried that Microsoft might not want 
+to get involved, since the virus was not affecting 
+users of Windows directly. But Microsoft responded 
+immediately, working with Japanese companies to 
+isolate 30 different strains of the virus and to create a 
+remedy that was added to the company’s Malicious 
+Software Removal Tool for delivery to users.
+
+When the new tool was released, approximately 
+40 percent of the damage caused by the virus 
+was rapidly eliminated. Within a month, the virus 
+had been removed from more than 200,000 PCs, 
+and before long that number had doubled.
+
+1       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+microsoft and the u.n. partner on children’s online safety
+
+§	Building a legal framework to 
+
+protect children by broadening each 
+nation’s existing laws to include 
+online safety
+
+§	Involving many different 
+
+stakeholders, from parents and 
+teachers to government agencies 
+and law enforcement officials
+
+§	Working through NGOs at the grassroots level
+
+§	Increasing public awareness and providing 
+
+clear guidelines for keeping children safe online
+
+In addition, the U.N. and Microsoft jointly 
+developed a toolkit that can help any country 
+or organization set up and maintain an Internet 
+Safety Program to educate and support children, 
+parents, teachers, and community leaders. The 
+toolkit includes training materials, educational 
+resources, and activities. It was launched at 
+the official presentation of the U.N. Secretary 
+General’s report on Violence Against Children in 
+October 2006.
+
+In June 2005, Microsoft took part in the 
+United Nations Middle East and North 
+Africa (MENA) Regional Consultation on 
+Violence Against Children. The consultation, 
+held in Cairo, brought together more than 
+600 government representatives, NGOs, 
+activists, media professionals, and young 
+people from the region. It was part of a 
+
+global study on violence against children 
+commissioned by the U.N. Secretary General.
+
+Microsoft explained how the Internet is 
+transforming childhood worldwide, making 
+online safety for children important to all 
+nations. Microsoft proposed a strategic 
+plan of action with four main pillars:
+
+knowledge economy
+
+R e A L i z i n G   p o t e n t i A L
+
+0       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+knowledge economy
+
+In today’s economy, knowledge is the new 
+
+currency, and technology is the tool most 
+commonly used to transfer, share, and 
+apply that knowledge. As a result, technology 
+access and skills have become the keys to 
+economic viability for a growing number of 
+people and communities around the world.
+
+Through innovative partnerships with 
+governments, educators, NGOs, and other 
+industry leaders, Microsoft is expanding digital 
+inclusion. We do this by providing technology 
+access and skills training to a wide range of 
+people in different life circumstances — from 
+educators and students who teach and learn 
+in traditional classroom settings to the 
+unemployed and underemployed, women and 
+youth, and people with disabilities who learn 
+in community technology centers (CTCs).
+
+We work closely with NGOs worldwide, 
+finding ways to help them build their capacity 
+and extend their services to more people.
+
+We make sure our products are accessible to 
+people who may have difficulty using standard 
+technology because of physical or cognitive 
+issues, whether they experience only mild 
+impairments or severe disabilities. And we 
+provide a platform that enables other companies 
+to develop innovative devices that make it 
+easier to see, hear, and use a computer.
+
+We’re also working with partners to grow 
+the local software economy in thousands 
+of communities across more than 100 
+countries worldwide, and to develop a 
+workforce of highly skilled people who can 
+support and benefit from those businesses.
+
+The knowledge economy offers immense 
+opportunity for people and businesses in all 
+parts of the world to build better societies 
+and better lives. As a global technology 
+leader and responsible global citizen, 
+Microsoft is committed to helping countries 
+and communities advance their goals of 
+human and technological development.
+
+diGitAL incLusion
+At Microsoft, our mission is to help people and 
+businesses throughout the world realize their 
+full potential. We know that if people have 
+the right tools, they can accomplish almost 
+anything. But tools alone won’t enable people 
+to build a better life and reach their dreams. 
+They also need the skills to use those tools.
+
+It is that understanding, along with our 
+experience and success in providing technology 
+training to millions of people of varying 
+circumstances and abilities, that has given us 
+the confidence to make a bold commitment: 
+
+to bring the benefits of technology — and 
+technology skills — to one-quarter of a billion 
+underserved people worldwide by 2010. 
+
+Nations everywhere are striving to harness 
+the opportunities and meet the challenges 
+of the twenty-first-century knowledge 
+economy. They are focused on promoting job 
+growth and workforce training, encouraging 
+the development of local industry, and 
+enhancing their global competitiveness.
+
+Governments around the world understand 
+that addressing these issues today will provide 
+a solid foundation for growth and prosperity 
+tomorrow. And because computer operating 
+systems and applications are the engines 
+that drive the knowledge economy, many of 
+these governments’ economic development 
+strategies center on increasing digital literacy 
+and technology usage among all their citizens.
+
+Microsoft is working in partnership with 
+governments and leading companies in the 
+United States and around the world to develop 
+innovative solutions to the workforce problems 
+we all share. We know that creating economic 
+opportunities for nations, communities, and 
+businesses worldwide begins by opening 
+doors of opportunity for individuals.
+
+employability and workforce development
+
+The readiness of 
+American workers 
+to compete in the 
+global economy is 
+a growing concern 
+for Microsoft and 
+
+many other companies. The United States 
+is falling behind many other nations in 
+various measures of workforce readiness:
+
+§  Only 13 percent of U.S. adults are proficient 
+in the knowledge and skills needed to search 
+for, comprehend, and use information — a 
+decrease of 2 percentage points since 1992.1
+
+§  Despite efforts to improve math and 
+science skills, only 13 percent of U.S. 
+adults are proficient in the knowledge 
+and skills needed to identify and perform 
+computational tasks — the same percentage 
+of adults who were proficient in 1992.2
+
+§  Only 5 percent of U.S. college undergraduates 
+
+today are pursuing degrees in science or 
+engineering, compared with 42 percent 
+of university students in China.3
+
+Meanwhile, the nature of work in the United 
+States is changing rapidly. As we move from a 
+manufacturing-based economy to an information-
+based economy, employers are demanding more 
+skills that revolve around knowledge creation, 
+collaboration, communication, and analysis.
+
+Information workers now account for 72 
+percent of the U.S. labor force, and over the 
+next decade, 6 out of every 10 new jobs will be 
+in professional and service-related occupations. 
+Even jobs as diverse as delivery driver, retail 
+clerk, and manufacturing supervisor require at 
+least a basic level of proficiency in computers.4
+
+1 National Center for Education Statistics, 2003 National 
+Assessment of Adult Literacy (NAAL), A First Look at the 
+Literacy of America’s Adults in the 21st Century (2005).
+
+2 Ibid.
+
+3 Committee on Science, Engineering, and Public 
+
+Policy, Rising Above the Gathering Storm: Energizing 
+and Employing America for a Brighter Economic 
+Future (National Academies Press, 2006).
+
+4 Norman C. Saunders, “Employment Outlook 
+
+2004–2014: A Summary of BLS Projections,” Monthly 
+Labor Review Online (November 2005), p. 6.
+
+knowledge economy       1
+
+Technology Offers New Hope to Amputees
+On New Year’s Day 2005, Jonathan Kuniholm, 
+a U.S. Marine officer, was wounded in Iraq 
+and lost his right arm below the elbow.
+
+Before his Marine reserve unit was called up, Kuniholm 
+was a partner in a startup product design firm and 
+working toward a PhD in biomedical engineering at Duke 
+University. He was also a private pilot. On the day he 
+was wounded, he wondered if his flying days were over.
+
+Today, with the help of prosthetic devices and assistive 
+computer technology, Kuniholm is back at work and 
+in school, and he has regained his pilot’s privileges.
+
+“Technology is playing an enormous role in 
+helping to mitigate the effects of my injury — from 
+prostheses that help to simulate the functions of my 
+lost hand and arm to Windows-enabled assistive 
+computer technology that has made it possible 
+for me to resume my career,” Kuniholm said.
+
+He has shifted the focus of his engineering work 
+to creating innovative designs for prosthetic 
+devices that can be shared with amputees and 
+designers in impoverished or war-torn areas such 
+as Bosnia, Iraq, and Sierra Leone — places where 
+there are severe problems but few solutions.
+
+“There are an estimated 650,000 upper-extremity 
+amputees worldwide, most with no access to 
+prosthetic devices,” he said. “I want to help 
+developing regions better serve their amputee 
+populations by providing designs for devices they 
+can build with materials they have on hand.”
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+Microsoft has been working to foster workforce 
+development through IT skills training and other 
+programs for the past 10 years. For example, 
+Microsoft Learning is a group at Microsoft that 
+focuses on developing and delivering IT skills 
+training and certification solutions. Working 
+with hundreds of commercial training partners 
+in the United States, more than 7 million 
+American workers have received IT skills 
+training on Microsoft technologies in classrooms, 
+at corporate offices, and over the Web.
+
+And our workforce development efforts don’t 
+stop at the U.S. border. Microsoft is a founding 
+member of the European Alliance on Skills 
+for Employability, a public-private initiative to 
+provide 20 million Europeans with access to 
+technology, content, certification, and training 
+in computer technology and other skills by 2010, 
+enabling the creation of new and better jobs in 
+the European Union. The Employability Alliance 
+was founded in January 2006 and launched at the 
+Microsoft Government Leaders Forum in Europe 
+with the endorsement of 
+European Commission 
+President José Manuel 
+Barroso, a keynote 
+speaker at the forum.
+
+“I welcome the creation of the European Alliance 
+on Skills for Employability. The alliance is a 
+leading example of how innovative business-to-
+business collaborations, working with different 
+stakeholders, can provide opportunities to the 
+European unemployed. Access to skills training, 
+content provision, and certification can help 
+older workers, people with disabilities, and the 
+young to face the challenges of unemployment 
+and the changing workplace, and so contribute to 
+Europe’s prosperity. I commend this initiative as it 
+represents one of the best practices in this field.”
+
+— vLAdimiR spidLA, eu commissioneR 
+
+foR empLoyment, sociAL AffAiRs, 
+
+And equAL oppoRtunities
+
+There are 18 million people unemployed across 
+Europe,5 many of them from disadvantaged 
+groups that often have little access to good 
+jobs. The training offered by Microsoft 
+and its partners is designed to reach many 
+of those people, including immigrants, 
+young people with low levels of education, 
+seniors, and people with disabilities.
+
+5 Eurostat, Unemployment rate total (accessed August 2006).
+
+unlimited potential and partners in Learning
+
+In 2003, we launched 
+Partners in Learning 
+and Unlimited Potential 
+
+(UP), our two global flagship programs for 
+education and digital inclusion. The early 
+success of these two programs inspired us to 
+set our ambitious goal of bringing the benefits 
+of technology to one-quarter of a billion 
+underserved people around the world by 2010.
+
+Today, Partners in Learning and Unlimited 
+Potential programs are under way in more 
+than 100 countries around the world. Through 
+innovative partnerships with governments and 
+NGOs, we have trained more than 20 million 
+people through UP, and 24 million teachers and 
+students through Partners in Learning, reaching 
+a total of 135 million people around the world.
+
+Partners in Learning provides students, 
+educators, and local governments worldwide 
+with the resources they need to make technology 
+an integral part of classroom learning and 
+instruction. Partners in Learning programs 
+provide the IT skills training, software, 
+curriculum, and professional development 
+resources that educators need to inspire and 
+facilitate new ways of teaching and learning.
+
+Unlimited Potential is designed to provide 
+underserved populations with IT education 
+and skills training through community-based 
+technology learning centers around the world. 
+In the three years since the UP program began, 
+Microsoft has provided cash grants, software 
+donations, and technical support and training 
+to some 17,500 community technology centers 
+in more than 100 countries, many of them 
+specifically targeted at workforce development.
+
+Partners in Learning 
+and Unlimited Potential 
+are key components of 
+Microsoft’s worldwide 
+employability and 
+
+workforce development 
+
+efforts. Both provide technology skills 
+training that empower people to transform 
+PCs into tools that can help them learn, build 
+better livelihoods, and improve their lives.
+
+ireland — helping the Long-term unemployed
+Through the Unlimited Potential program, 
+Microsoft provides critical resources for a 
+number of employability and workforce 
+development efforts in Ireland.
+
+Fastrack to IT (FIT) is a workforce development 
+program that provides technology and job skills 
+
+training to Ireland’s long-term unemployed. 
+Starting as a one-time course for 25 people in 
+1998, FIT has since grown into an international 
+role model for how to design and manage a 
+community-based employability program.
+
+FIT began in Ballymun as a Microsoft initiative 
+called Tramlines, but later became an 
+independent organization with board members 
+drawn from many of the leading businesses and 
+government agencies in Ireland. Today, FIT offers 
+19 full-time courses and has spread to other 
+cities in Ireland, including Dublin and Belfast.
+
+Of the 5,000 people FIT has trained, 3,000 
+are employed in jobs directly related to their 
+training, and another 600 are engaged in 
+further education or training. Many graduates 
+are now teaching the subjects they learned 
+through FIT, thereby increasing the effective 
+reach of the program. And 47 percent of FIT 
+graduates are women, an unusually high 
+number for technology training programs.
+
+Another UP-supported employability 
+program in Ireland is the Dublin Inner City 
+Partnership (DICP). Working with DICP, 
+Microsoft is helping to equip computer 
+rooms in four Dublin inner-city community 
+centers to increase IT access and training for 
+communities in their own neighborhoods.
+
+knowledge economy       3
+
+Australia’s School of the Air Goes High-Tech
+The Katherine School of the Air was established 
+in 1966 to educate children at isolated 
+homesteads, remote schools, and indigenous 
+communities in the Australian outback.
+
+For four decades, the Katherine School used a 
+combination of radio broadcasts and correspondence 
+materials to provide distance learning to students 
+scattered across 800,000 sq. km. In March 2006, 
+Microsoft and the Northern Territory Government 
+unveiled the Interactive Distance Learning (IDL) 
+service to improve distance education in Australia.
+
+Today, the program could be renamed the school of 
+the future. Satellite feeds and laptop computers have 
+replaced radio headsets and pencils. Teachers and 
+students see and speak to each other in real time, 
+and use a Web-based white board to collaborate 
+on lessons. Students receive learning materials 
+electronically instead of by mail, and they build strong 
+social networks through interactive communication.
+
+IDL is based on Conference XP, a special technology 
+developed by Microsoft Research Asia and adapted 
+for local conditions by M&S Consultants, an 
+Australian company from the Northern Territory.
+
+After its debut at the Katherine School, the IDL 
+service was implemented at the Alice Springs 
+School of the Air and the Northern Territory Open 
+Education Centre. Eventually, the IDL service will be 
+available to approximately 110 remote homesteads, 
+90 remote schools, four remote training centers, 
+and a number of urban and regional schools.
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+Microsoft donated 110 refurbished PCs to 
+equip the four DICP centers, along with a 
+full range of software for the PCs, Unlimited 
+Potential curriculum to support training 
+efforts, and access to employee volunteers 
+who wish to donate their time to work with 
+the centers. Microsoft also committed a total 
+cash investment of nearly €100,000 to cover 
+equipment installation, technical support, IT 
+skills training, and the purchase of peripheral 
+hardware such as printers and scanners.
+
+China — Extending Economic Benefits  
+
+to migrant workers
+One of the greatest 
+economic migrations 
+in history is happening 
+in China. Although 60 
+percent of the Chinese 
+population lives in rural agricultural areas, 
+the country’s rapid economic growth has left 
+those areas largely untouched, according to a 
+report by Progress Strategy, a market research 
+and consulting firm. The average annual 
+income of people living and working in China’s 
+cities is more than three times that of those in 
+rural areas. As a result, more than 10 million 
+people each year leave the country to seek 
+better economic opportunities in the cities.
+
+Because many of the migrating Chinese are 
+uneducated and lack basic skills, they end up in 
+low-paying urban jobs. According to the Progress 
+Strategy report, if the migrant workers remain 
+disenfranchised they could end up undermining 
+“the sustainable and stable development of the 
+national economy.” To help prevent this outcome, 
+the Chinese government is aiming to provide 30 
+million migrant workers with vocational training 
+by 2010 — and Microsoft is committed to helping 
+China achieve that goal.
+
+The Xicheng CTC, located in the Xicheng District 
+Library in Beijing, opened in June 2004 with 
+40 workstations. Through Unlimited Potential, 
+Microsoft provided the computers, software, and 
+additional funding. The Xicheng CTC was the 
+first CTC in China, and the program has since 
+been expanded to include four new rural CTCs 
+and five new urban CTCs.
+
+Africa — offering hope to disadvantaged 
+
+women and youth in 43 countries
+Through Unlimited Potential, Microsoft 
+has collaborated with NGOs and IGOs, as 
+well as local partners, to provide resources 
+to more than 1,000 CTCs in 43 African 
+countries. Microsoft has invested more than 
+$7.5 million in cash and software to help 
+train and empower thousands of Africans.
+
+More than half of these projects are designed to 
+help young people, who represent a majority of 
+the population in Africa. Another third are aimed 
+at training women, and the rest are focused on 
+training refugees, children, and underserved 
+communities. To further serve disadvantaged 
+youth, women, and refugees in African 
+communities, Microsoft 
+is localizing the UP 
+training curricula for the 
+Arabic and Portuguese 
+languages as well as 
+English and French.
+
+At the Microsoft Government Leaders Forum 
+Africa 2006, Microsoft Chairman Bill Gates 
+announced that Microsoft is collaborating 
+with global and local organizations — such 
+as the United Nations World Tourism 
+Organization (UNWTO), the United Nations 
+Industrial Development Organization 
+(UNIDO), and the New Partnership for Africa’s 
+Development (NEPAD) — to help African 
+governments create sustainable economic 
+growth by providing ICT training to more 
+than 45 million people in Africa by 2010.
+
+india — making technology part of Learning
+India is a perfect example of the need for digital 
+inclusion. Although there are thriving technology 
+sectors throughout the country, state-funded 
+schools in poorer areas have no computers and 
+most teachers have little or no ICT training.
+
+Project Shiksha, launched by Microsoft 
+Chairman Bill Gates in 2002, is a Partners in 
+Learning–sponsored IT Academy program 
+designed to provide computer literacy 
+for more than 80,000 teachers and 3.5 
+million students throughout India over 
+a five-year period. Microsoft has made a 
+$20 million investment in the project.
+
+Teachers travel to 
+Hyderabad for an 
+intensive 12-day course 
+in basic IT skills that 
+includes instruction 
+on how to use the 
+
+Internet, e-mail, and popular software products 
+such as Windows XP and Microsoft Word, 
+PowerPoint®, Paint, and Excel®. The teachers 
+also learn how to integrate technology into 
+their lesson plans and classroom instruction.
+
+Teachers who have taken the course say that 
+both they and their students benefited from 
+the program. The teachers gained more 
+confidence and left the Microsoft IT Academy 
+eager to share their new skills. Energized by the 
+training, teachers are motivated, which, in turn, 
+motivates students and improves attendance.
+
+Central America — Certification 
+
+for competitiveness
+Working with Microsoft Partners in Learning, 
+many countries in the Caribbean and Central 
+America (CCA) region are starting Peer Coaching 
+Programs, which will become a fundamental part 
+of professional development plans for public-
+school teachers. Peer Coaching allows public 
+schools to have at least two teachers working as 
+“coaches” for the rest of the teachers in that school. 
+The program includes 10 sessions in 12 months, 
+and during that time all coaches are expected 
+to guide other teachers to discover how they 
+can help students achieve academic success by 
+making technology part of the learning process.
+
+knowledge economy       
+
+telecentre.org
+Many people around the world lack easy access to 
+potentially life-changing information. Telecentres — public 
+spaces equipped with computers, the Internet, and other 
+technologies — equip users with the resources needed to 
+tackle a wide array of social issues, from computer-based 
+job training and health education to democracy building.
+
+To help strengthen the effectiveness of telecentres 
+worldwide, Microsoft, the International Development 
+Research Center, and the Swiss Agency for Development 
+and Cooperation developed telecentre.org, an initiative 
+designed to strengthen the capacity of community-
+based telecentres to better serve their local needs. At 
+its core, telecentre.org is built around collaboration 
+and partnership — connecting telecentres, networks, 
+innovators, and social investors.
+
+The focus of the telecentre.org program is to provide 
+social investments and services at the national and 
+regional level to grassroots telecentre networks. These 
+networks give telecentre managers the training, 
+business planning, marketing, and technology 
+they need to succeed. Through online information-
+sharing services, they also help local telecentre users 
+learn and innovate together, making technology 
+more useful for the communities they serve.
+
+In November 2005, the first round of social investments 
+was launched, offering financial support for telecentre 
+networks in India, Sri Lanka, Uganda, Mozambique, 
+South Africa, Chile, and other areas across the Americas.
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+To become more 
+competitive, several 
+CCA countries have 
+started extensive 
+certification programs. 
+Partners in Learning, 
+
+in cooperation with local partners, makes it 
+easy for CCA countries to certify teachers and 
+students. Using Partners in Learning resources, 
+in 2006 Costa Rica plans to certify 10,000 
+people, El Salvador 22,500, and Panama and 
+the Dominican Republic more than 5,000.
+
+In El Salvador, the first country in Central 
+America to implement the Free Trade 
+Agreement with the United States, the Ministry 
+of Education plans to make the Partners 
+in Learning curriculum an official part of 
+secondary education, and to make certification 
+a requirement for high school graduation — a 
+move that will lead to more than 60,000 
+students being certified each year starting in 
+2007. In January 2006, 27 teachers in Panama 
+completed Master Teachers Office XP training 
+and were certified, and they will now share their 
+skills and knowledge with other teachers. This 
+first class of 27 was the start of an ambitious 
+project to certify 750 public-school teachers 
+as Microsoft Office Specialists or Masters.
+
+Asia-Pacific — Technology Training 
+
+to Stop Human Trafficking
+Throughout the Asia-Pacific region, low-income 
+villagers frequently migrate from rural to 
+urban areas in search of greater economic 
+opportunities and a better life. Once away from 
+their home communities, however, their lack 
+of skills and job prospects often puts them at 
+risk of falling victim to human trafficking.
+
+In June 2006, Microsoft 
+announced six 
+Unlimited Potential 
+(UP) grants, together 
+valued at more 
+than $1 million, to 
+help combat human trafficking in the region. 
+With the grants, NGOs in Cambodia, India, 
+Indonesia, the Philippines, Singapore, and 
+Thailand will deliver IT skills training to enhance 
+the employment prospects and economic 
+conditions of people most vulnerable to human 
+traffickers, and those who have already been 
+victimized. Through outreach efforts and 
+subgrants, the network will provide resources 
+to more than 40 NGOs, including several in 
+Sri Lanka, Bangladesh, Nepal, and Vietnam.
+
+“Microsoft is the first company to approach us with 
+a vision of empowering OFWs (Overseas Filipino 
+Workers) through technology, and we are very 
+happy that we are able to sustain this partnership.”
+
+— mR. mARiAnito d. Roque, AdministRAtoR, 
+
+oveRseAs woRkeRs weLfARe 
+
+AdministRAtion, phiLippine depARtment 
+
+of LABoR And empLoyment
+
+Microsoft will support more than 130 new 
+community technology centers to provide the 
+benefits of technology to those most at risk. 
+In addition to financial support, Microsoft is 
+providing software 
+and the Unlimited 
+Potential curriculum, 
+which is available 
+in 10 languages that 
+are used in Asia.
+
+knowledge economy       
+
+Opening Doors in Latvia
+On February 6, 2006, the Open Door center was 
+founded in Riga, Latvia, to provide ICT training for 
+people with disabilities and others in the community 
+to help broaden their employment, educational, and 
+communication opportunities. Four months later, 
+on June 6, the Open Door Center graduated its first 
+class of students, who became instructors in the 
+program to help train others in the community.
+
+A joint project of Microsoft Latvia and APEIRONS, a 
+Latvian organization for people with disabilities, 
+Open Door is supported by a Microsoft Unlimited 
+Potential grant, along with donations of Microsoft 
+software and curriculum materials. The center 
+has a computer classroom with workstations for 
+IT instruction, and it also offers computer and 
+Internet access to people in the community.
+
+AccessiBiLity
+Microsoft has been a leader in accessible 
+technology design and development since 
+1988. We develop software and tools that 
+make it easier for people to see, hear, and 
+use their personal computers, and we 
+never stop working to make Windows an 
+outstanding platform that other companies 
+can use to develop accessible technologies.
+
+Originally, accessible technology was viewed 
+exclusively as a tool to assist people with 
+disabilities, and that is still one of its most 
+important functions. Today, however, the 
+demand for accessible technology is expanding, 
+as more people with mild or moderate 
+impairments realize all of the ways accessible 
+technology can help them adjust their computers 
+to make them easier and more comfortable to use. 
+
+Although the benefits of accessible technology 
+are not limited to people who experience 
+physical or cognitive difficulties, addressing 
+the needs of people with a wide range of 
+abilities gives us deeper insights into the 
+challenges all consumers face as they interact 
+with technology. As a result, Microsoft is able 
+to create software that is more functional for 
+everyone while continuing to address the 
+unique needs of people with disabilities.
+
+Before technology can empower people with 
+disabilities, or anyone else, they have to know 
+how to use it. Microsoft has created innovative 
+partnerships and programs throughout the 
+world to provide the training and technology 
+that people with disabilities need to transform 
+their lives and realize their potential.
+
+innovative Accessibility in windows vista
+Windows Vista, the newest version of the 
+Microsoft Windows operating system, includes 
+several new accessibility innovations.
+
+A new Ease of Access center helps 
+computer users identify, locate, and 
+turn on the built-in accessibility 
+
+settings and programs in Windows Vista. 
+Also, by answering a few simple questions 
+about their experience performing routine 
+tasks, such as difficulty seeing faces on a 
+TV or hearing conversation in a crowded 
+room, users can receive a personalized 
+recommendation for accessibility settings that 
+may improve their computing experience.
+
+Windows Vista also includes new technologies, 
+such as state-of-the-art Speech Recognition 
+and Magnification, which can assist 
+users with a wide range of abilities. 
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+With Windows Speech Recognition, users can 
+
+dictate documents and 
+e-mail messages, fill 
+out forms on the Web using voice commands, 
+and manage their PC and applications by 
+saying what they see. Speech Recognition is 
+designed to improve as people use it, adapting 
+to their speaking style and vocabulary.
+
+Magnifier makes a portion of the screen from 
+2 to 16 times larger to improve the readability 
+of text for people with low vision. Instead of 
+stretching an image to enlarge it, which often 
+creates jagged edges and other distortions, 
+Windows Vista enables users to enlarge buttons, 
+icons, and other graphics to the size they find 
+easiest to see with no loss of image quality.
+
+A new accessibility and automated testing 
+model in Windows Vista, called Microsoft 
+UI Automation (“UI” refers to user interface), 
+reduces development costs not only for accessible 
+and assistive technology (AT) developers, but 
+also for application developers who make their 
+software compatible with AT products such 
+as screen readers for people who are blind. 
+Microsoft UI Automation also improves product 
+quality by providing increased testing support 
+and a new way of doing automated UI testing 
+
+for software developers. Microsoft Accessibility 
+Resource Centers throughout the United States 
+are available to help people with disabilities find 
+the accessibility settings and assistive technology 
+products that are right for them. These low- or 
+no-cost centers offer consultation and training.
+
+ecdL Barrier-free Access project
+The European Computer Driving Licence (ECDL) 
+is an internationally recognized computer skills 
+certification program with about 2.5 million 
+participants in more than 90 countries. Because 
+of a lack of dedicated resources, however, people 
+
+with disabilities had 
+difficulty attaining the 
+certificate and were  
+facing significant 
+disadvantages in 
+the job market.
+
+To address this problem, Microsoft Austria and 
+the Integrated Study Institute of the University 
+of Linz worked with representatives from the 
+public and private sectors to establish a new 
+pan-European initiative called the European 
+Computer Driving Licence for People with 
+Disabilities (ECDL-PD), better known as 
+the ECDL Barrier-free Access project.
+
+ECDL Barrier-free Access is tailored to meet 
+the unique challenges faced by people with 
+visual, hearing, mobility, and cognitive 
+disabilities. It allows them to work with 
+assistive technologies — Braille displays 
+or keyboard and mouse alternatives such 
+as on-screen keyboards or hands-free mice 
+for people who are paralyzed — although 
+the standards of certification are the same 
+as for everyone else. The possible benefits 
+of ECDL Barrier-free Access include:
+
+§  Improved employment prospects for people 
+
+with disabilities who earn the ECDL certificate.
+
+§  Reduced unemployment among 
+people with disabilities, and less 
+dependency on state benefits.
+
+§  Employer access to a larger 
+pool of skilled workers.
+
+§  Local economic benefits derived 
+
+from greater productivity.
+
+helping people with disabilities 
+
+in Latin America
+Partnership in Opportunities for Employment 
+through Technology in the Americas (POETA) 
+is the latest program to emerge from the 
+partnership between Microsoft and the 
+Organization of American States, which 
+began in 2001. POETA provides technology 
+job training and job placement assistance at 
+centers located throughout Latin America to 
+young people and adults with disabilities.
+
+At some centers, the program also serves 
+other vulnerable populations, such as at-risk 
+youth, women, and people from indigenous 
+cultures. POETA is 
+working with more 
+than 10,000 people 
+with disabilities and 
+others in 29 centers 
+that span 11 countries: 
+
+Argentina, Colombia, the Dominican Republic, 
+Ecuador, El Salvador, Guatemala, Honduras, 
+Mexico, Panama, Peru, and Venezuela.
+
+Job training in kazakhstan
+The Namys Foundation is an organization in 
+Kazakhstan for people with disabilities and 
+those who support them in their everyday lives. 
+Working together, the Namys Foundation and 
+Microsoft Kazakhstan used Unlimited Potential 
+cash, software, and curriculum to open a CTC to 
+provide ICT training to people with disabilities 
+and others in the community. During the first 
+year, more than 130 people received computer 
+skills training at the center. According to the 
+foundation, nearly 70 percent of those trained 
+had disabilities, and 43 percent of the trainees 
+with disabilities used their new skills to find jobs 
+immediately after completing their training.
+
+“All the telecentre.org partners have extensive 
+experience of working in developing countries, 
+but we know that we can achieve much more by 
+collaborating and sharing information than by 
+working independently. Microsoft’s expertise in 
+providing training materials and in introducing 
+technology outside traditional office environments 
+will play a particularly important part.”
+
+— mARk suRmAn, mAnAGinG diRectoR, 
+
+inteRnAtionAL deveLopment 
+
+ReseARch centRe (idRc)
+
+knowledge economy       9
+
+Partnership for Technology Access
+The Microsoft Partnership for Technology Access (PTA) 
+program is an innovative initiative that draws on the 
+expertise of governments, technology organizations, 
+and financial institutions to make PCs more affordable.
+
+Despite a high level of literacy and education, there 
+is widespread poverty in Egypt. A majority of 
+Egypt’s 77 million people are considered “working 
+poor,” with average monthly incomes of about 
+$100. Few have any credit history, which puts 
+purchasing a home PC beyond their means.
+
+The PC in Every Home initiative, a PTA program, has 
+enabled Egyptians with no credit history to purchase 
+PCs with low monthly payments. More than 250,000 
+PCs have been sold, and more than 1 million Egyptians 
+have gained digital skills and the chance for a better life.
+
+Similar PTA programs have been established in 
+the Philippines and Nigeria. Konek ka diyan! is a 
+PC-purchase program that gives 9 million overseas 
+Filipino workers and their families the chance to own 
+computers. The Computers for All Nigerians Initiative 
+offers low-interest PC loans to government employees 
+who use their paychecks as collateral. Over the 
+next two years, the program will expand to include 
+students, microenterprise owners, and pensioners.
+
+According to The Economist, five of every six people on 
+the planet have no access to institutional credit. With its 
+private- and public-sector partners worldwide, Microsoft 
+is working to eliminate that barrier to digital inclusion.
+
+30       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+LocAL softwARe economy
+Innovation and collaboration have always been 
+hallmarks of Microsoft and the commercial 
+software industry as a whole, a trillion-dollar 
+market that helps to create and sustain 
+local software economies worldwide.
+
+Microsoft’s success depends on its extensive 
+partnerships with nearly 700,000 businesses 
+worldwide—including independent software 
+vendors, system integrators, resellers, and 
+hardware manufacturers. Local software 
+economies and the Microsoft partner 
+network create jobs, generate tax revenue 
+for governments, offer skills and workforce 
+development programs, and make significant 
+investments in innovative new technologies.
+
+Building opportunities for economic 
+development through local software economies is 
+an important driver of growth in many countries. 
+Evidence increasingly shows that countries 
+with the best economic growth rates have 
+invested in developing local IT industries and 
+deploying IT across all sectors of the economy 
+to foster social and economic development.
+
+A 2005 global study by IDC, a market research 
+firm, shows that IT continues to be a major 
+driver of local and regional economic activity, 
+
+including job creation, company formation, 
+local IT spending, and tax revenues. For 
+example, the IT industries in Australia, India, 
+Indonesia, Korea, Malaysia, New Zealand, the 
+Philippines, Singapore, Thailand, and Vietnam 
+will generate an aggregate of more than 1 
+million new jobs between 2004 and 2009, and 
+account for the creation of more than 19,000 
+new IT companies. Over the same period, the 
+IT industry will drive $11.3 billion in new 
+tax revenues and contribute almost $350 
+billion to regional gross domestic product.
+
+Software is a significant contributor to 
+this growth. Currently, 38 percent of all IT 
+employees in these 10 countries are engaged in 
+creating, distributing, or servicing software. As 
+further evidence that Microsoft helps to drive 
+the success of the larger IT ecosystem, IDC 
+estimates that for every dollar of Microsoft 
+revenue in these countries, an average of 
+$12.29 is generated by other companies selling 
+hardware or software that runs on Microsoft 
+operating systems or in servicing that software.
+
+In countries and communities around the world, 
+Microsoft is forging innovative partnerships 
+with governments, NGOs, and local businesses 
+to create new economic opportunities.
+
+france — initiative for the economic 
+
+development of isvs and startups
+In October 2005, Microsoft launched the 
+Initiative for the Economic Development of ISVs 
+and Startups (the French acronym is IDEES) to 
+enable promising young companies in France 
+to emerge and grow more quickly. Microsoft 
+spent four months identifying and recruiting 25 
+companies to participate in IDEES, looking for 
+businesses that offered innovative products with 
+talented R&D and management teams that could 
+bring value to Microsoft customers and partners.
+
+To assist the IDEES startups and independent 
+software vendors (ISVs), Microsoft provides 
+funding for technical consulting and 
+marketing, introductions to leading venture 
+capitalists, and direct links to product groups 
+and other resources within Microsoft.
+
+A good example of the effectiveness of IDEES 
+is Miyowa, a mobile instant messaging and 
+infotainment platform provider that had 15 
+employees and no venture capital funding when 
+Microsoft invited it to join IDEES. Microsoft 
+provided Miyowa with €15,000 for technical 
+consulting, introduced the company to MSN 
+executives and IDEES venture capitalists, and 
+presented the young firm to i-mode operators in 
+
+Holland and Japan. (Developed in Japan, i-mode 
+is a wireless Internet service that is becoming 
+increasingly popular in other parts of the world.)
+
+Miyowa won a competitive contract to operate 
+MSN Messenger services on Bouyges i-mode 
+mobile devices. In 2006, Miyowa will generate 
+at least €2 million in revenue thanks to the 
+MSN deal, and the company closed a similar 
+deal in Holland with another company. On 
+the strength of those contracts, Miyowa was 
+able to secure €7 million in venture capital 
+and expects to recruit more than 20 new 
+people. The company also plans to expand 
+operations into the United States in 2006.
+
+india — quality Assurance initiative
+India has become a global leader in information 
+technology services and support, but the nation’s 
+commercial software industry — which has the 
+potential to reach $50 billion in revenue by the 
+end of 2008 — has not yet achieved the same level 
+of success. The greatest barrier to growth is the 
+lack of efficient software development processes, 
+which are necessary to ensure consistent 
+product quality and customer satisfaction.
+
+To help the Indian software industry reach 
+its potential, Microsoft has partnered with 
+India’s National Association of Software and 
+
+Services Companies (NASSCOM) — the Indian 
+software industry’s chamber of commerce—to 
+train and certify ISVs. The program uses the 
+Microsoft Solutions Framework, a set of proven 
+software development principles, processes, and 
+best practices. This disciplined yet adaptable 
+development approach provides companies 
+with the information and tools they need 
+to deliver high-quality software solutions 
+faster, and with fewer people and less risk.
+
+The ISV Quality Certification program guides 
+software developers and IT managers through 
+the entire life cycle of a software-engineering 
+project. It consists of four stages: training, 
+consultation, assessment, and certification. 
+The Quality Assurance Institute India Ltd. 
+(QAI), the largest software-process consulting 
+organization in the Asia-Pacific region, provides 
+independent certification to validate that proven 
+and accepted methodologies have been used 
+throughout the software design and development 
+process. The goal is to assure customers that they 
+are getting high-quality, reliable, and scalable 
+products. The entire process takes three to 
+six months. Twenty-four ISVs have completed 
+the training, and 10 companies are on track to 
+achieve QAI certification by the end of 2006.
+
+knowledge economy       31
+
+NGO Days in Asia
+In 2006, Microsoft conducted NGO Days in 
+Australia, Hong Kong, Indonesia, Japan, Malaysia, 
+the Philippines, Singapore, Sri Lanka, and Thailand 
+to help nongovernmental organizations increase 
+their technology capacity. An innovative hands-
+on approach, NGO Days offer Microsoft staff 
+the chance to gain a deeper understanding of 
+the NGOs in their country and provide NGOs an 
+opportunity to learn more about Microsoft and its 
+community investments, technology, and people.
+
+Microsoft makes frequent software donations that 
+benefit NGOs; the company also provides technology 
+training and other resources through its Unlimited 
+Potential program. In Asia, Microsoft employees 
+volunteer their time and expertise to help organizations 
+build capacity and improve performance.
+
+NGO Days are tailored to the specific needs of the NGOs 
+in each country where events are held. The needs are 
+assessed in advance through surveys or input from 
+cosponsoring organizations that work directly with the 
+NGOs. Some NGO Days focus on NGOs that work in 
+a particular sector, such as agriculture in Indonesia.
+
+Feedback from NGOs attending these events has 
+been so positive that Microsoft intends to expand 
+the program. We are also pursuing follow-up 
+activities: some offices are working more closely with 
+select NGOs, and others are developing technology 
+applications specifically for the NGOs in their country.
+
+3       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+Argentina — meeting the Growing 
+
+demand for it workers
+In Argentina, a vibrant economy is creating huge 
+demand for trained IT workers. Recent research 
+from IDC indicates that IT spending is projected 
+to increase at an annual rate of more than 20 
+percent through 2008 — nearly triple the pace 
+for Latin America as a whole. The increase is 
+driven not only by local companies that need 
+skilled IT professionals, but also by businesses 
+outside the country that are considering 
+investing in new opportunities in Argentina.
+
+To address the growing need for skilled IT 
+workers in Argentina, Microsoft joined forces 
+with the Chamber of Enterprise Software and 
+IT Services (CESSI), 12 universities, and nearly 
+two dozen software companies and technology 
+incubation centers to create +MAS, a training 
+and certification program that provides 
+college students and recent graduates with the 
+skills needed by local software companies.
+
++MAS is also designed to help newly trained 
+graduates connect with prospective employers. 
+In Argentina, Bolivia, Chile, Paraguay, and 
+Uruguay more than 2,200 students have received 
+scholarships for training and certification in 
+Microsoft .NET technologies, and more than 
+250 were hired into new jobs by local software 
+companies. Building on this success, Microsoft 
+
+and Argentina’s Ministry of Labor agreed to 
+cosponsor 1,000 additional scholarships in 2006 
+and, in partnership with CESSI and local IT 
+companies, to create and fill 600 more new jobs.
+
+By June 2006, the Microsoft Founder Initiative 
+was supporting 18 initiatives at both the federal 
+and regional levels and had mentorships 
+for 12 startup companies. The goal is to 
+have 20 mentorships in fiscal year 2007.
+
+Germany — microsoft founder initiative
+Creating jobs and developing a thriving high-
+tech industry are top economic priorities for 
+the German government, yet the number of 
+new high-tech companies in Germany has 
+been decreasing steadily since 1995, according 
+to a German economic research institute.
+
+One goal of the Microsoft Founder Initiative is 
+to support the business development of high-
+tech founders and startup companies, enabling 
+them to achieve above-average growth and 
+create good jobs in Germany. Another goal is 
+to showcase these companies as examples of 
+how technology innovations can become the 
+basis for successful businesses and to encourage 
+the founding of more high-tech companies.
+
+The Microsoft Founder Initiative operates as 
+a public-private partnership. Basic support 
+for the startup companies is provided on a 
+regional basis. Microsoft works closely with 
+regional governments, and many of the startup 
+companies receive some funding from public 
+subsidy banks along with matching funds from 
+venture capitalists or other private investors.
+
+“In Bavaria we have been successful in the past years 
+with our focus on innovation — and we also owe 
+this to the support of companies such as Microsoft.”
+
+— edmund stoiBeR, BAvARiAn stAte pRime ministeR
+
+Brazil — microsoft innovation centers
+To help fuel innovation and the development of 
+strong, self-sustaining local software industries 
+in communities worldwide, Microsoft is 
+partnering with local governments, academic 
+institutions, industry organizations, and 
+software and hardware vendors to expand its 
+network of Microsoft Innovation Centers (MICs). 
+Today, these centers serve 100 communities 
+worldwide. By the end of 2006, there will be 
+MICs in 125 communities in 50 nations.
+
+Microsoft and its partners in each community 
+work together to operate the MICs, which 
+are open to students, professional software 
+developers, IT professionals, entrepreneurs, 
+and academic researchers. Each MIC 
+
+tailors its programs to local needs, but they 
+all provide similar content and services 
+designed to accelerate technology advances 
+and stimulate local software economies 
+through skills and professional training, 
+industry partnerships, and innovation.
+
+In Brazil, more than 14,000 students, university 
+professors, and local software entrepreneurs 
+have used the country’s 20 Microsoft Innovation 
+Centers to collaborate on new technologies, 
+test software prototypes, participate in 
+seminars on emerging technologies, receive 
+advanced training, and prepare for jobs in 
+Brazil’s fast-growing high-tech sector. Since 
+the Brazilian centers opened in 2002, more 
+than 200 software projects and solutions 
+have been developed around the XML open 
+standard and other innovative technologies, 
+in collaboration with 72 universities and 
+numerous local governments and businesses.
+
+saksham — Rural computing in india
+Information and communications technology 
+has spurred rapid socioeconomic development 
+in developed countries and in urban areas in 
+developing countries, but many rural areas6 in 
+developing countries have been left behind.
+
+In India, more than 70 percent of the population 
+lives in rural areas with either limited access 
+to technology, or no access at all, which, in 
+turn, limits access to government services 
+and participation in the knowledge economy. 
+Project Saksham is an initiative launched by 
+Microsoft in partnership with governments in 
+India to help energize the nation’s rural economy 
+by creating a sustainable IT infrastructure 
+and an environment for economic growth.
+
+For Project Saksham, 
+Microsoft is partnering 
+with government 
+agencies and NGOs 
+and taking advantage 
+of resources, funding, 
+
+and grants from rural development programs 
+to provide microfinancing and to encourage 
+kiosk-based microenterprises throughout rural 
+India. Over the next three years, Project Saksham 
+will establish 50,000 such businesses in India, 
+which will be operated by village entrepreneurs.
+
+6  2001 Census of India, Office of the Registrar General, 
+
+http://censusindia.net (accessed August 2006).
+
+knowledge economy       33
+
+Microsoft Research: Empowering Academic 
+Researchers to Change the World
+Besides working to solve complex computer science 
+problems and developing innovative technologies, 
+Microsoft Research (MSR) also finds ways to 
+inspire and engage the academic community.
+
+As part of the company’s efforts to increase digital 
+inclusion by expanding global access to technology 
+and skills training, MSR created a $1.2 million 
+funding opportunity for academic researchers. In 
+October 2005, MSR issued a request for proposal 
+(RFP) to encourage academic research that explores 
+how technologies can help people around the 
+world reach their potential by making computing 
+more accessible, affordable, and relevant to their 
+cultures, communities, and everyday lives.
+
+Four months later, Microsoft named the 17 digital 
+inclusion RFP winners from teaching universities in 
+Argentina, Botswana, Canada, Chile, China, India, the 
+Netherlands, Pakistan, the United States, and Uruguay.
+
+Some of the research projects proposed by the 
+RFP winners included delivering integrated Internet-
+based healthcare information and services for 
+HIV/AIDS patients in Botswana; exploring whether 
+WiFi-enabled phones and online chat services can 
+boost cognitive development in Chilean children; 
+and building a prototype of an early warning 
+system for flood control in Honduras. Many of the 
+winning research universities are partnering with 
+NGOs to develop proof-of-concept applications.
+
+3       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+korea — software ecosystem project
+In May 2006, Microsoft expanded its partnership 
+with the Korean government by signing a 
+Memorandum of Understanding with the 
+Korea IT Industry Promotion Agency (KIPA) to 
+implement the Software Ecosystem Project and 
+accelerate the growth of the Korean IT industry. 
+
+Under the agreement, Microsoft will invest an 
+additional $30 million in the Korean IT industry, 
+bringing its total investment to $60 million 
+over the next three years. The money will be 
+used in part to build two new labs — the ISV 
+Empowerment Lab and the Web Engineering 
+Lab — that will help local companies strengthen 
+their ability to compete in the global marketplace 
+through ongoing innovation. The two new labs 
+will join the existing Microsoft Mobile Innovation 
+Lab in the expanded Microsoft Innovation Center.
+
+The goal of the ISV Empowerment Lab is 
+to nurture 60 Korean ISVs, helping them 
+create new products and technologies. In 
+addition, Microsoft will help key ISVs gain 
+access to the global market through export 
+opportunities. The Web Engineering Lab is 
+designed to foster collaboration between local 
+companies in Web services and digital 
+
+content. The two labs will also support the 
+training of 1,000 skilled software architects.
+
+“Together with the Korean government’s 
+initiatives to build a stronger software industry, 
+we expect Microsoft’s contribution and 
+commitments will help nurture a more globally 
+competitive software industry for Korea.” 
+
+— hyun Jin ko, pResident of kipA
+
+heLpinG nGos BuiLd cApAcity 
+And impRove peRfoRmAnce
+
+Nongovernmental 
+organizations 
+enrich millions of 
+lives worldwide 
+and make vital 
+contributions to the 
+
+quality of life in communities everywhere, 
+offering essential services that form a safety 
+net in the gap between government programs 
+and the private sector. Yet despite the critical 
+services they provide, many NGOs lack the 
+skilled staff, up-to-date technology, and 
+other resources that would allow them to 
+operate more efficiently and cost-effectively.
+
+Microsoft has a long history of working with 
+NGOs to help them streamline their logistics and 
+internal processes, improve their performance, 
+and extend their services to more people. 
+Through our involvement in innovative programs 
+designed to bring the power of technology to 
+NGOs worldwide, we seek to strengthen, support, 
+and empower the entire NGO community.
+
+ensuring technology Access to 
+
+underserved communities
+Technology upgrades and organizational changes 
+at many companies routinely add to a worldwide 
+surplus of usable PCs, yet only a small number 
+of these used computers are redeployed to serve 
+the educational and training needs of people who 
+lack access to life-changing technology. Millions 
+of potentially useful PCs are literally going to 
+waste, and millions of opportunities to empower 
+people through technology are being lost.
+
+knowledge economy       3
+
+The Microsoft 
+Authorized Refurbisher 
+(MAR) donation 
+program, operating 
+in scores of countries, 
+facilitates community 
+ICT access and learning by enabling more than 
+530 authorized PC refurbishers worldwide to 
+install donated Windows operating systems and 
+Microsoft Works 7.0 on PCs destined for NGOs, 
+community centers, and K – 14 schools (including 
+community colleges and vocational schools).
+
+Microsoft provides Windows operating 
+systems — approximately 150,000 in fiscal 
+year 2006 alone — to NGOs that refurbish 
+thousands of surplus PCs every year. We 
+provide software, certificates of authenticity, 
+and end-user license agreements to the MAR 
+program, and the authorized MARs distribute 
+those donations to qualified recipients. By 
+reducing the refurbishers’ costs, the MAR 
+program makes refurbished technology more 
+affordable and increases the availability of low-
+cost usable PCs to communities most in need.
+
+more information 
+
+on MAR programs around the world is 
+
+available at www.microsoft.com/mar.
+
+helping nGos help themselves
+
+In 2000, Microsoft 
+helped to establish 
+NPower, a network 
+of independent, 
+local nonprofit 
+organizations 
+
+that help NGOs use technology to operate 
+more efficiently and serve their communities 
+more effectively. We started with a five-year 
+commitment of $25 million in cash and 
+software; in 2003, we extended our support 
+through 2007. Microsoft employees also support 
+NPower as onsite volunteers and trainers, 
+and serve as board members for NPower 
+organizations throughout the United States.
+
+“NPower provides a tremendous resource that 
+enables NGOs to get the expert technology 
+assistance they need when they need it,” said 
+Kevin Johnson, Co-President, Platforms & 
+Services Division at Microsoft, who serves on 
+the national NPower board. “NGOs play a vital 
+role in society, providing critical services that 
+strengthen communities. Directly or indirectly, 
+we all rely on the work of these essential 
+organizations for the quality of life we enjoy.”
+
+Microsoft is also a founding partner of TechSoup, 
+which is operated by CompuMentor, one of the 
+
+oldest and largest NGO technology assistance 
+agencies in the United States. TechSoup.org 
+is a Web site that offers NGOs a one-stop 
+shop for their technology needs by providing 
+free information, resources, and support. 
+TechSoup gives NGOs access to donated 
+and discounted technology products that 
+are provided by TechSoup’s ICT industry 
+partners. Currently, we are working with 
+CompuMentor to replicate this model worldwide.
+
+Microsoft software donation programs 
+represent the primary method for engaging 
+the broader NGO community, offering 
+valued tools to small nonprofits in an open 
+and accessible manner. In fiscal year 2006, 
+Microsoft donated more than $307 million in 
+software worldwide. Through our partnership 
+with TechSoup, we are expanding our North 
+American program to key markets worldwide.
+
+TechSoup not only provides the administration 
+required for our donations, but also supports 
+the NGOs with online content and services 
+to help them effectively implement our 
+donations. In addition, TechSoup helps them 
+receive donations of technology tools from 
+other corporate donors (such as Cisco, Adobe, 
+and Symantec) to complement our donations 
+and provide a holistic technology solution.
+
+3       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+technology solutions to improve disaster 
+
+Response and humanitarian Relief
+Microsoft works closely with a number of 
+major NGOs on relief efforts in many parts 
+of the world, either in direct response to 
+natural disasters or as part of ongoing 
+efforts to address the needs of refugees.
+
+Microsoft and its employees made significant 
+contributions to relief efforts in response to 
+recent natural disasters, such as the Indian 
+Ocean tsunami, Hurricane Katrina, and the 
+earthquake in Pakistan. In 2006, to help 
+improve humanitarian relief efforts worldwide, 
+Microsoft donated $41 million in software and 
+cash to NetHope and the Interagency Working 
+Group on Emergency Capacity Building (ECB).
+
+NetHope is a membership 
+organization that 
+
+includes the chief information officers and/or 
+chief technology officers of 17 global NGOs 
+engaged in international development. 
+ECB comprises seven of the world’s most 
+active relief agencies, including Catholic 
+Relief Services, Mercy Corps, and Save the 
+Children. The focus of both NetHope and 
+ECB is to improve collaboration and capacity 
+in disaster response, including improving 
+the use of information and communications 
+technology to assist in their work.
+
+The grant is part of our ongoing effort to 
+provide NGOs with tools that enable them 
+to increase their capacity and fulfill their 
+missions more effectively. By partnering 
+with leading nonprofit organizations like 
+NetHope and ECB, Microsoft is helping to 
+create innovative technology solutions that 
+strengthen NGOs and relief agencies worldwide.
+
+Earlier, when civil war sent thousands of 
+refugees fleeing Kosovo in 1999, many were 
+stripped of their identity papers and became 
+separated from family members. Hundreds 
+of Microsoft employees reached out to help by 
+applying their knowledge of technology and 
+volunteering their time. The Refugee Field Kit, 
+developed by Microsoft employees, provided 
+displaced people with official identity cards and 
+an easier method for finding missing relatives. 
+Our employees have continued to refine the 
+kit and to work with the United Nations High 
+Commissioner for Refugees to address similar 
+refugee needs in many different countries.
+
+As technology evolves, and innovative software 
+products are developed that make businesses and 
+consumers more mobile and productive, some of 
+these solutions can help NGOs and volunteers 
+
+meet the challenges of providing disaster relief. 
+Groove, a Microsoft product that enables flexible 
+peer-to-peer collaboration, is a good example.
+
+A team of Microsoft employees was working 
+with a group of NGOs to help doctors deliver 
+medical care to remote areas of Afghanistan 
+that had no power, no water systems, and no 
+mobile-phone connections. The local clinic was 
+a two-day drive from the nearest hospital.
+
+“Before introducing technology into the 
+equation, it took between two and six weeks 
+to coordinate getting the results of tests based 
+on tissue samples that were taken locally and 
+flown to Pakistan. Doctors had to communicate 
+back and forth over long distances however 
+they could, a process that often took weeks,” 
+said Ray Ozzie, Microsoft’s Chief Software 
+Architect. “The goal was to use Groove and 
+other technologies in a pilot program to help 
+the NGOs reduce the coordination time among 
+doctors from weeks down to two days.”
+
+imagine cup: inspiring students to dream
+
+knowledge economy       3
+
+Microsoft Imagine 
+Cup, an annual 
+
+technology competition for university students, 
+encourages young people to develop software 
+solutions that address real-world problems. The 
+event rewards the students’ innovative work 
+with cash prizes and international recognition.
+
+When Imagine Cup began in 2003, 1,000 
+students from 25 countries 
+competed for $50,000 in prizes 
+in one invitational division: 
+Software Design. Imagine Cup 
+2006 drew 65,000 students 
+from more than 100 countries, 
+competing for more than 
+$125,000 in prize money in six 
+invitationals. The competition 
+challenged students to “imagine 
+a world where technology 
+enables us to live healthier lives.”
+
+One of the many innovative entries in the 
+2006 competition was from a team of Brazilian 
+university students, who combined GPS 
+technology with vibrating wrist bands to create 
+a mobile map to help blind people navigate.
+
+The winners were announced in a gala 
+awards ceremony in Delhi, India. First 
+place winners in each invitational were:
+
+Software Design — Italy.  
+Team Even .ctor: Giorgio Sardo, Massimo 
+Paternoster, Silvia Perrone, and Andrea Sossich
+
+Algorithm — Poland. Piotr Marek Mikulski
+
+IT — Austria. Andreas Tomek 
+
+Interface Design — Brazil.  
+Team Virtual Dreams: Roberto Sonnino and  
+Eduardo Sonnino
+
+Short Film — Canada.  
+Team Forest: Sam Chow, Nick Haffie-Emslie,  
+Ryan Marr, and Meg Majewski 
+
+Project Hoshimi (Programming 
+Battle) — France. Team Atomnium: 
+Manon Gaucher and Flavien Charlon
+
+3       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+innovation days in asia and europe
+
+Microsoft is committed to helping nations 
+and communities worldwide build vibrant 
+local software economies. As part of that 
+commitment, we establish and operate 
+regional research centers to support and 
+inspire technology innovation among local 
+companies, and we regularly host Innovation 
+
+Day events in different parts of the world. Two 
+events in fiscal year 2006 — the Microsoft 
+European Research and Innovation Day and 
+the India Is Innovation summit — illustrate 
+the strength of our commitment and the 
+value of our ongoing involvement with local 
+economies and industries around the world.
+
+The India Is Innovation event took place in 
+Bangalore, India, in April 2006, just four months 
+after Microsoft Chairman Bill Gates opened 
+the city’s new Microsoft Innovation Center. 
+The center provides startup companies with 
+resources, guidance, and end-to-end tools to 
+help them become commercially successful 
+
+knowledge economy       39
+
+“This agreement [Microsoft’s collaboration with 
+the UNWTO to support tourism in developing 
+countries and on the continent of Africa] is a huge 
+leap forward for tourism-driven job creation, export 
+income, and capacity-building for the world’s poorest 
+countries — especially in Africa, where it will be integrated 
+into our programmes to alleviate poverty through 
+sustainable tourism. It links Microsoft’s technology 
+and solutions with UNWTO’s central role of advancing 
+the sector as an instrument of development.“
+
+— Francesco Frangialli, Secretary General of United 
+Nations World Tourism Organization (UNWTO)
+
+and transform innovative ideas into intellectual 
+property. The India Is Innovation event built 
+on that theme by focusing on Indian startup 
+companies and how they can design and build 
+world-class software products and solutions.
+
+More than 150 Indian companies participated 
+in the event, which brought together 
+software entrepreneurs, venture capitalists, 
+academic incubators, researchers, and 
+industry analysts. Microsoft also provided a 
+startup showcase, where fledgling software 
+companies could present their ideas and 
+proposals to a panel of venture capitalists 
+in the hope of securing funding.
+
+“We hope that initiatives such as these not only create 
+greater respect for intellectual property rights creation 
+among Indian companies, but also serve as an 
+impetus to helping them create intellectual property 
+out of great ideas, and realize their true potential.”
+
+ — RAvi venkAtesAn, chAiRmAn, micRosoft indiA
+
+The annual Microsoft European Research and 
+Innovation Day, held this year in Brussels, 
+achieved two key goals. First, it served as a 
+showcase for some of the world’s most exciting 
+next-generation technologies in areas such 
+as mobility, security, and interoperability. 
+Second, it gave European software companies 
+and entrepreneurs an opportunity to interact 
+with leading researchers, academics, and 
+policymakers; to get a glimpse of emerging 
+technologies; and to see how innovation 
+leads to economic growth and job creation.
+
+In his keynote address at the event, Jean-Philippe 
+Courtois, President of Microsoft International, 
+said that Microsoft has been conducting R&D 
+in Europe for nearly a decade because Europe 
+consistently produces “some of the brightest 
+thinkers, most dedicated universities, and 
+most innovative partners in the world.
+
+“In this global age, Europe will need to be not 
+only a good place to do business, it must be a 
+great place to innovate, too,” Courtois said. “The 
+products and ideas coming out of our European 
+research laboratories illustrate that Europe still 
+has great potential and is not only thriving, but 
+is at the forefront of thinking in the IT sector.”
+
+0       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+disaster relief: rapid response and long-term recovery
+
+for real-world problems, and we 
+also apply that knowledge and 
+experience to disaster relief.
+
+In disaster relief, as in business, we 
+work in partnership with others. When 
+Hurricane Katrina hit the Gulf Coast 
+of the United States, Microsoft worked 
+with the American Red Cross to create a 
+“people finder” solution called  
+Katrinasafe.org, now Safe and Well  
+(disastersafe.redcross.org). This Web-
+based solution reunites families and 
+communities and has registered more 
+than 300,000 Katrina evacuees. It is also 
+being used to help provide relief to victims 
+of the Pakistan-India earthquake.
+
+“Creating a Web site and database like Katrinasafe 
+.org would normally take months, and our teams 
+put it together in less than four days,” said Gerri 
+Elliott, Corporate Vice President, Worldwide 
+Public Sector at Microsoft. “In the first 24 
+hours, more than a thousand people checked 
+the site for information on their loved ones.”
+
+Like many corporations around the world, 
+Microsoft and its employees are generous 
+with donations when disaster strikes. Our 
+employees drive and direct the company’s 
+relief efforts and often serve as volunteers 
+on the front lines of disaster relief.
+
+What really distinguishes our approach to 
+disaster relief, however, is the use of business 
+and technology expertise to address some of 
+the critical challenges faced by individuals and 
+communities following a natural disaster. Our 
+business is developing technology solutions 
+
+responsible business practices
+
+m A i n t A i n i n G   t h e   h i G h e s t   s t A n d A R d s
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+responsible business practices
+
+As a global corporation, Microsoft has 
+
+its decisions tracked and evaluated 
+by industry analysts. Governments in 
+100 different countries monitor our activities. 
+And millions of other businesses — from 
+partners to competitors — keep a 
+close eye on everything we do.
+
+Yet our commitment to integrity, transparency, 
+and social accountability in our business 
+practices goes far beyond meeting the 
+expectations of professional observers. People 
+care about our business. Microsoft products 
+are in homes and offices all over the world, 
+where millions of people rely on them for work, 
+entertainment, and personal fulfillment. Our 
+shareholders and employees are invested 
+in our vision and continuing success, and a 
+growing number of people worldwide are being 
+empowered by innovative Microsoft programs 
+that bring them the benefits of technology.
+
+The foundation for all of the work we do is 
+our unwavering commitment to responsible 
+and ethical business practices — and we 
+strive daily to maintain the highest possible 
+standards in every aspect of our business.
+
+enABLinG ip oppoRtunity  
+And innovAtion
+
+At Microsoft, 
+intellectual property 
+(IP) is at the heart of 
+what we do. Our belief 
+in the value of IP and 
+the opportunities it 
+
+creates is a clear strategic priority for Microsoft, 
+as indicated by the company’s R&D investment 
+of more than $6.6 billion in fiscal year 2006. 
+IP is a great incentive system that fosters 
+innovation and provides a framework that 
+promotes business growth and allows innovators 
+to effectively bring their ideas to market.
+
+Enabling IP opportunity confers tremendous 
+benefits on society: consumers benefit from 
+innovation in the form of new products; new 
+business and employment opportunities 
+are created; local economic growth is 
+enabled; productivity gains are achieved; and 
+governments gain opportunities for increased 
+tax revenue. For example, improved IP 
+incentive systems over the past two decades 
+have contributed directly to the dramatic 
+growth of the IT sector, which consists of 
+
+over 1.1 million businesses, supporting 11 
+million high-skill, high-wage IT jobs, and 
+adding $1.7 trillion per year to global economic 
+prosperity.7 And these figures do not even take 
+into account the tremendous efficiency and 
+productivity gains that other businesses and 
+organizations realize by using IT and through 
+the indirect contributions of IT firms. Studies 
+have shown that for every dollar of revenue 
+generated by these firms, additional revenue 
+is generated upstream and downstream in 
+supporting supplier and service industries.
+
+Enabling IP opportunity is based on acting 
+responsibly and ethically, respecting the IP 
+rights of others, and fostering a climate in which 
+IP rights are respected by all. One of the most 
+fundamental IP rights is the right for those who 
+create something to decide how it is used.
+
+7  IDC, Expanding the Frontiers of Our Digital Future: Reducing 
+Software Piracy to Accelerate Global IT Benefits, December 
+2005 (commissioned by the Business Software Alliance).
+
+to learn more 
+
+about Microsoft’s technology access 
+
+programs, see www.microsoft.com/
+
+about/legal/intellectualproperty/.
+
+to learn more 
+
+about the new Creative Commons copyright licensing 
+
+tool for Microsoft Office, or for a free download, see 
+
+www.microsoft.com/downloads/details.aspx? 
+
+familyid=113B53dd-1cc0-4fBe-9e1d-B91d07c7
+
+6504&displaylang=en.
+
+In 2006, Microsoft worked with Creative 
+Commons, a nonprofit organization that 
+offers a flexible range of copyright licenses 
+for creative works, to develop and release 
+a free copyright licensing tool. The new 
+downloadable tool makes it easy for people 
+who use Microsoft Office applications to embed 
+Creative Commons licensing information 
+in their work, and thus specify how it can 
+be shared or reused. By working with the 
+community and Creative Commons, Microsoft 
+enabled a simple method for creators and users 
+of IP to share and build upon ideas, while 
+recognizing and respecting the legitimacy of IP.
+
+Microsoft takes a similar approach to 
+patent licensing by respecting the rights 
+of other IP holders and licensing its 
+products’ innovative technologies as needed. 
+Microsoft also makes a wide range of its 
+technology available to customers and the 
+industry, including competitors, through 
+numerous IP licensing programs.
+
+responsible business practices       3
+
+JBoss and Microsoft: Responding 
+to Customer Demands
+In September 2005, Microsoft and open source 
+company JBoss announced plans to explore enhanced 
+interoperability between Microsoft Windows Server 
+and JBoss Enterprise Middleware System (JEMS), and 
+to deepen JBoss support for the Windows Server 
+operating system. The goal of the collaboration is to 
+provide improved functionality, better integration, 
+and lower cost of ownership to customers.
+
+“JBoss is experiencing tremendous growth and is a driving 
+force of consolidation of the Java space,” said Bill Hilf, 
+Director of Platform Technology Strategy at Microsoft. 
+“So it makes sense to work with them on interoperability 
+and optimizing for the Windows Server platform.”
+
+Under the agreement, the two companies are 
+working together to improve the integration of 
+directory services, database software, Web services, 
+and systems management tools, which will enable 
+customers using both Java and .NET-based programs 
+to link and manage their systems more easily. While 
+JBoss and Microsoft will continue to compete for 
+software developers with their separate Java and 
+.NET offerings, they are responding to customer 
+and market demands by exploring opportunities to 
+integrate their open source and proprietary software 
+platforms to improve interoperability and ensure 
+an optimized experience for their customers.
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+inteRopeRABiLity — customeR-
+focused And By desiGn
+In today’s heterogeneous IT marketplace, 
+interoperability — the ability of diverse IT 
+applications or systems to exchange and use 
+information — is considered by customers 
+to be an increasingly important software 
+feature, ranking almost as high as security and 
+reliability. Innovative interoperable solutions 
+are valued by customers as they seek to reduce 
+costs and complexity, and increasingly pick 
+and choose the best products from multiple 
+vendors to meet their IT needs. Whether it is 
+sharing data between applications written in 
+different programming languages, or trying 
+to log on across multiple systems, Microsoft 
+is committed to delivering innovative 
+interoperable solutions that enable technologies 
+to work together without compromising 
+their distinctive underlying capabilities.
+
+Microsoft takes a very customer-focused 
+approach to providing translation tools and 
+interoperability, and is committed to meeting 
+customer and market needs. Because the best 
+way to meet customer interoperability needs 
+will depend on many factors and circumstances, 
+Microsoft does this in a range of ways, including:
+
+§  Designing our software to be interoperable 
+
+“out of the box,” without the need for 
+expensive consulting services
+
+§  Working with the community, including 
+
+partners and competitors
+
+§  Providing access to technology
+
+§  Implementing and participating 
+
+in industry standards
+
+Better understanding customer needs
+
+In June 2006, we formed 
+the Interoperability 
+Customer Executive 
+Council as part of 
+our commitment to 
+listening to customers 
+better and meeting their needs. The Council will 
+identify areas for interoperability improvements 
+in our own products and throughout the software 
+industry. It will focus on interoperability 
+issues that are of primary importance to 
+customers, including document archiving and 
+management, heterogeneous management, 
+directory management and synchronization, 
+virtualization, and data integration and 
+exchange. Council members, who are Microsoft 
+customers, will have direct contact with 
+Microsoft executives and product teams.
+
+The Council will include Chief Information 
+Officers, Chief Technology Officers, and 
+System Architects from leading corporations 
+and governments worldwide. Members 
+include the European Commission, Société 
+Générale, American Express, Siemens AG, 
+Toyota Motor Corporation, LexisNexis, Kohl’s 
+Department Stores, Denmark’s Ministry of 
+Finance, UNICEF, Brazil’s São Paulo State 
+Court of Justice (Tribunal de Justiça do Estado 
+de São Paulo–Brazil), Bell Canada, The Boeing 
+Company, and NATO’s Communications and 
+Information Systems Services Agency (NCSA).
+
+“As part of our commitment to Trustworthy 
+Computing, we design our products with 
+interoperability in mind so our customers 
+can connect to other platforms, applications, 
+and data easily,” said Bob Muglia, Senior Vice 
+President of the Server and Tools Business at 
+Microsoft, who will host the council meetings. 
+“The Interoperability Customer Executive 
+Council will help us prioritize areas where we 
+can achieve greater interoperability through 
+product design, collaborative agreements with 
+other companies, standards, and effective 
+licensing of our intellectual property.”
+
+partnering with communities 
+
+enabling interoperability by 
+
+for Greater interoperability
+To serve customers well, competitors 
+must also work together. Microsoft is a 
+leader in forging strategic partnerships 
+with the community, including competing 
+companies and technologies, to provide 
+customers with increased interoperability.
+
+In February 2006, for example, Microsoft 
+and the open source software company 
+SugarCRM announced that they would 
+work together to enhance interoperability 
+between Microsoft Windows Server® and 
+SugarCRM products. SugarCRM provides 
+customer relations management applications 
+for companies of all sizes worldwide.
+
+Microsoft and SugarCRM are working on a 
+broad technical collaboration project intended 
+to help their mutual customers obtain the 
+maximum benefits from both companies’ 
+products, including the increased reliability 
+and simplified administration available 
+on the Windows® platform. (For another 
+example of a recent Microsoft interoperability 
+partnership, see the JBoss story on page 43.)
+
+providing Access to technology
+In addition to delivering interoperability 
+by design through customer-focused 
+products, community collaboration, and 
+standards implementation, Microsoft fosters 
+interoperability by making available a wide 
+range of its technology to customers and the 
+industry, including competitors, through:
+
+Commercial Licenses
+
+Community Licensing. Enables no-cost access 
+to technologies that allow others to add-on to our 
+products or build their own unique solutions.
+
+The Open Specification Promise. Developed 
+with feedback from customers and the open 
+source community, it is a simplified method 
+for sharing technical assets while recognizing 
+the legitimacy of IP. It further highlights 
+Microsoft’s commitment to customers and 
+meeting their interoperability needs.
+
+for more information 
+
+on Microsoft’s commitment to meeting 
+
+customer interoperability needs and the 
+
+numerous ways Microsoft meets those needs, 
+
+please visit www.microsoft.com/interop/.
+
+responsible business practices       
+
+Open XML Translator: Customer-focused 
+Interoperability
+Microsoft takes a customer-focused approach to product 
+features such as interoperability, responding to customer 
+needs for products and solutions that work well with 
+those of other companies or the open source community.
+
+A good example is the new Open XML Translator project 
+to create a technical bridge between the Open XML and 
+OpenDocument (ODF) formats. Microsoft undertook this  
+project in response to requests from government agencies  
+that work with constituents who use the ODF format.
+
+We are sponsoring the French IT solution provider 
+Clever Age and several independent software vendors, 
+including Aztecsoft in India and Dialogika in Germany, 
+to develop the translators. The tools will be developed 
+as open source software projects and housed for 
+development work on Sourceforge, the open source 
+software community Web site.
+
+We are making the translator tools available as free, 
+downloadable add-ins for Microsoft Office 2007 and 
+several older versions of the Microsoft Office System, 
+which will enable our customers to read and write ODF 
+files easily. Many Microsoft Office products already 
+include built-in support for dozens of formats, which 
+allows widespread interoperability.
+
+The new tools also will be licensed as open source 
+software and made broadly available to the industry for 
+use with other individual or commercial projects. These 
+tools will accelerate the creation of innovations based on 
+Open XML and expand customer choice.
+
+ 
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+enviRonmentAL sustAinABiLity
+Environmental 
+stewardship is an 
+important part of 
+our business. Over 
+the past 30 years, 
+we have translated 
+
+our personal beliefs and corporate philosophy 
+into meaningful environmental action. This 
+year, we have furthered our commitment to 
+the environment, focusing our efforts on 
+sustainability and continuing innovation.
+
+As of December 31, 2005, we eliminated 
+PVC (polyvinyl chloride) from all our 
+packaging. We also have reduced our overall 
+use of plastic clamshells by 70 percent, and 
+continue to explore the use of sustainable 
+packaging and biodegradable materials. We 
+reduced fuel consumption and greenhouse 
+gas emissions through a variety of strategies, 
+including employee commuter programs and 
+replacing nearly half our fleet of passenger 
+vans with fuel-efficient hybrid cars.
+
+We also continued to create productivity and 
+communication software that contributes to 
+lowered greenhouse gas emissions by reducing 
+the need for business travel, as well as operating 
+systems with features that can decrease PC 
+energy use by more than 50 percent. In Windows 
+Vista™, for example, users can choose any of 
+three preconfigured power plans that balance 
+performance and power consumption in different 
+ways — in effect, creating a custom power 
+plan tailored precisely to meet their needs. 
+
+In February 2006, we adopted the Microsoft 
+Environmental Principles, which formalized 
+our ongoing commitment to protect our 
+environment and natural resources as well as 
+the health and safety of our employees, our 
+customers, and local communities. Every 
+Microsoft employee shares the responsibility of 
+helping the company fulfill these principles.
+
+to learn more 
+
+about the Microsoft Environmental Principles, 
+
+see www.microsoft.com/citizenship/
+
+businesspractices/environmentalprinciples.mspx.
+
+“Green” and Energy-Efficient Buildings
+
+For many years, 
+Microsoft has 
+been committed 
+to constructing 
+energy-efficient 
+and eco-friendly 
+
+buildings at its corporate facilities. But recently 
+we took big steps forward at our campuses 
+in Silicon Valley, California, and Hyderabad, 
+India, and our newest data center under 
+construction in Quincy, Washington.
+
+At an Earth Day celebration in April 2006, 
+employees at the Microsoft Silicon Valley 
+Campus (SVC) unveiled a new solar panel 
+power system — the largest in Silicon Valley. 
+The system has 2,288 solar tiles covering 
+31,000 square feet on building roofs across 
+the campus. It generates 480 kilowatts per 
+hour at peak capacity — enough to power 
+nearly 500 homes — and will provide 15 
+percent of the energy used at SVC.
+
+That same month, Microsoft opened the doors 
+to Building 2 on our new campus in Hyderabad, 
+India. Building 2 is a state-of-the-art structure 
+that incorporates sound environmental design 
+and furniture made by local Indian companies.
+
+The east and west ends of the building, where 
+the sun is strongest, are made of solid masonry 
+to cut down on heat penetration. The building 
+is designed to be protected from direct sunlight 
+more than 70 percent of the time. Double-
+glazed windows allow natural light to enter, 
+but sunshades cut glare and save money on 
+air conditioning. Lights automatically turn 
+off if offices are unoccupied for more than 10 
+minutes. Microsoft also built a reservoir that 
+will capture and recycle some 36,000 cubic 
+meters of rainwater to serve the irrigation 
+needs of the 48-acre campus and run energy-
+efficient, water-cooled air conditioning units.
+
+In May 2006, we broke ground on our newest 
+and largest data center to date. The facility, 
+located in Quincy, Washington, will be powered 
+by hydroelectricity from the Columbia River 
+Basin, a renewable and clean air resource. The 
+building design prioritizes energy efficiency, 
+water conservation, and the use of green building 
+technologies under the Leadership in Energy and 
+Environmental Design (LEED) rating system.
+
+“The solution to global warming involves everybody 
+doing their part, whether riding a bike to work, 
+putting solar power on their houses, or buying energy-
+efficient appliances. Microsoft is really a leader by 
+choosing clean power that will reduce emissions.”
+
+— kuRt newick, sieRRA cLuB memBeR 
+
+And soLAR AdvocAte
+
+responsible business practices       
+
+Avian Influenza Readiness
+At Microsoft, the health and safety of our employees 
+are top priorities. In answer to worldwide 
+concerns over avian influenza, also known as bird 
+flu, Lisa Brummel, Senior Vice President, Human 
+Resources, established a cross-company global 
+team dedicated to raising employee awareness and 
+developing preparedness and response plans.
+
+To keep our employees informed, we have compiled 
+extensive resources on the Microsoft intranet. 
+There, our employees can learn about avian 
+influenza and how to stay healthy, keep current 
+on relevant news, and get travel advisories.
+
+Preparedness and response plans — created with 
+guidance from the World Health Organization 
+(WHO), other health agencies, and local 
+governments — are being developed for all WHO-
+identified pandemic alerts and for specific regions.
+
+Our pioneering approach to avian influenza 
+preparedness has led to a number of engagements 
+with other companies and government agencies. We 
+have participated in simulations, provided expertise to 
+businesses creating their own plans, and worked with 
+local health departments to develop community plans.
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+human rights and the internet
+
+At Microsoft, we recognize that Internet 
+companies have a valuable role to play in the 
+realization of human rights, including free 
+expression. It is important to our business 
+that the Internet be fostered and protected as 
+a worldwide vehicle for reliable information 
+and communications, personal expression, 
+
+innovation, and economic development. 
+Accordingly, we are deeply concerned about 
+issues of individual security, privacy, and 
+government control of Internet content.
+
+We believe the availability of Internet 
+services provided by Microsoft and other 
+
+U.S. companies has increased the ability of 
+people worldwide to engage in free expression. 
+Just in the past few years, there have been 
+repeated examples of the ways in which 
+official responses to domestic events have been 
+affected by the availability of information and 
+opinions communicated over the Internet.
+
+At the same time, we continually review the 
+overall value of our services in the countries 
+where we provide them, and the conditions 
+created by local government policies and 
+practices. And we are actively engaged 
+with concerned parties in developing 
+principles to help guide companies in 
+managing these difficult issues.
+
+Our perspective is that we will be served 
+best as a company, as an industry, and as a 
+worldwide community if we can be guided 
+by clear principles and policies that address 
+human rights and free expression not only 
+in the case of blogging, search, e-mail, and 
+other services that exist today, but also 
+in the variety of technologies that almost 
+certainly will be offered in the years ahead.
+
+As an example, in late 2005, the Chinese 
+government requested that we remove a 
+well-known blogging site on MSN Spaces 
+written under the pseudonym of “Michael Anti.” 
+The details of that case have been carefully 
+reviewed, and although we do not think we 
+could have changed the Chinese government’s 
+determination to block this particular site, we 
+have since clarified the manner in which we 
+will deal with similar requests in the future 
+by adopting a policy that applies worldwide 
+and is intended to promote three principles:
+
+Explicit Standards for Protecting Content 
+Access. Microsoft will remove access to blog 
+content only when it receives a legally binding 
+notice from the government indicating that 
+the material violates local laws, or if the 
+content violates the service’s terms of use.
+
+Maintaining Global Access. Microsoft will 
+remove access to content only in the country 
+issuing the order. When blog content is blocked 
+due to restrictions based on local laws, the rest 
+of the world will continue to have access. This 
+is a new capability Microsoft is implementing 
+in the Windows Live Spaces infrastructure.
+
+Transparent User Notification. When local 
+laws require the company to block access to 
+certain content, Microsoft will ensure that 
+users know why that content was blocked, 
+by notifying them that access has been 
+limited due to a government restriction.
+
+for additional information  
+
+about our views on this issue, please see our 
+
+written testimony to the House International 
+
+Relations Committee’s Joint Hearing, posted 
+
+at www.microsoft.com/presspass/exec/
+
+krumholtz/02-15writtentestimony.mspx.
+
+responsible business practices       9
+
+Microsoft Government Leadership Forums
+Microsoft Government Leadership Forums (GLFs) are 
+regional events for government, industry, and academia 
+to explore the use of information and communication 
+technologies (ICT). GLFs provide a medium for government 
+delegates to formulate successful strategies related to 
+connected government, digital learning, employability 
+skills, and the transition to the knowledge economy.
+
+In fiscal year 2006, GLFs were held on three continents. 
+Bill Gates gave keynotes at each event, focusing on 
+technology trends that affect governments and their citizens.
+
+In New Delhi, at GLF Asia, Microsoft announced 
+a worldwide network of 90 Microsoft Innovation 
+Centers designed to fuel long-term economic 
+growth in regions where the centers are located.
+
+The Honourable José Manuel Barroso, President, 
+European Commission, was among the speakers at GLF 
+Europe, in Lisbon. Jean-Philippe Courtois, President, 
+Microsoft International, announced the formation of the 
+European Alliance on Skills for Employability as part of 
+Microsoft’s 21st Century Skills for Employability initiative.
+
+Microsoft formalized its commitment to the Partnerships 
+for Technology Access initiative (see the PTA story on 
+page 29) during GLF Americas, held in McLean, Virginia. 
+
+Fiscal Year 2007 began with GLF Africa, held in Capetown.  
+Bill Gates and former U.S. President Bill Clinton highlighted  
+the critical role that ICT and public-private partnerships 
+play in creating a strong, vibrant future for Africa.
+
+0       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+changing the world: microsoft volunteer policy
+
+At Microsoft, we value partnership. Our success 
+as a business is built on partnerships and 
+collaboration. By far, our most important and 
+dynamic partnership is with our employees.
+
+Microsoft employees are smart, passionate people 
+who want to change the world. Over the past 30 
+years, Microsoft and its employees have donated 
+
+more than $2 billion in communities around 
+the world. And that doesn’t even count the value 
+of the time our employees have volunteered.
+
+We encourage our employees to get involved 
+in their communities, and we make it 
+easy for them to volunteer their time. In 
+many locations — including Canada and 
+
+most of our subsidiaries in Europe, the 
+Middle East, and Asia — we allow full-time 
+employees to take three to five days of 
+paid volunteer leave each fiscal year.
+
+In the United States, each employee’s 
+charitable matching benefit — which matches 
+employee donations up to $12,000 every 
+
+responsible business practices       1
+
+Our employees also combine their efforts to 
+make a difference as a team. A small project 
+team in the Microsoft corporate leadership 
+program spent four months as advisors to 
+the Grameen Technology Center. The center 
+is an initiative of Grameen Foundation, a 
+world-renowned microfinance NGO. This 
+team worked on business strategy and a 
+scalable technology solution to manage 
+microlending around the world.
+
+year — includes a match for gifts of time as well 
+as money. When employees volunteer their 
+time in the community, Microsoft donates 
+$17 per hour to the eligible organizations they 
+serve. It’s a double benefit for the nonprofit 
+groups that our U.S. employees support.
+
+In 2005, Microsoft launched Volunteer 
+Connection, an online program that enables 
+Microsoft employees in the United States to 
+register their volunteer preferences, track 
+their volunteer activities, and find volunteer 
+opportunities that best match their interests, 
+skills, and availability. More than 76,000 
+volunteer hours have been reported by U.S. 
+employees so far. Eventually, this system will be 
+rolled out to Microsoft employees worldwide.
+
+Most of our employee volunteers donate 
+their time to projects in or near their home 
+communities — talking with children 
+about careers in high-tech, advising new 
+NGOs on business strategy, building homes 
+for low-income families — but a growing 
+number are following their interests abroad 
+and volunteering in other countries.
+
+In March 2006, Sandra Palmaro, a Microsoft 
+Canada employee, took her entire family to 
+Tanzania to volunteer at an orphanage. Palmaro 
+also volunteers closer to home, working with 
+the Boys and Girls Clubs of Canada, where 
+she has chaired the board for three years.
+
+Sybille Fleischmann is passionate about the 
+outdoors and kayaking. This passion led her 
+to Outdoor Recreation Opportunities, an 
+organization providing education and training to 
+encourage outdoor recreation for people who may 
+have difficulty accessing these opportunities. 
+She is an Adaptive Paddling Instructor and 
+leads kayak tours for paddlers with disabilities.
+
+Employee commitment to the community is 
+evident at all levels of the company. Jeff Raikes, 
+President, Business Division, and his wife, 
+Patricia, are the co-chairs of the United Way of 
+King County 2006 Community Campaign. The 
+couple will be leading the fundraising drive 
+for the next fiscal year, with the goal of raising 
+$108 million in order to drive the organization’s 
+key priorities: eliminating homelessness 
+and preparing all children for school.
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+windows principles — a principled approach to product development
+
+Recognizing the important role that the 
+Windows operating system plays in the 
+global knowledge economy, Microsoft has 
+created a set of voluntary, self-regulating 
+principles that will help guide the future 
+development of the Windows desktop platform 
+worldwide, beginning with Windows Vista.
+
+In announcing the Windows Principles, Microsoft 
+General Counsel Brad Smith said, “Our goal is 
+to be principled, transparent, and accountable 
+as we develop new versions of Windows. These 
+voluntary principles are intended to provide 
+the industry and consumers with the benefits 
+of ongoing innovation, while creating and 
+preserving robust opportunities for competition.”
+
+Smith said that the Windows Principles will make 
+Microsoft’s approach to Windows development 
+clear to customers, partners, and governments 
+around the world. The Windows Principles 
+exceed the provisions of the U.S. Antitrust 
+Ruling and will continue to apply after major 
+parts of the ruling expire in November 2007.
+
+responsible business practices       3
+
+The Windows Principles, which consist of 12 
+tenets, are divided into three categories:
+
+Choice for Computer Manufacturers and 
+Customers. Microsoft is committed to designing 
+Windows, and licensing it on contractual 
+terms, to make it easy to install non-Microsoft 
+programs and to configure Windows-based 
+PCs to use non-Microsoft programs instead 
+of, or in addition to, Windows features.
+
+Opportunity for Developers. Microsoft is 
+committed to designing and licensing Windows 
+(and all the parts of the Windows platform) on 
+terms that create and preserve opportunities 
+for applications developers and Web site 
+creators. This encourages the development of 
+more innovative products on the Windows 
+platform — including products that directly 
+compete with Microsoft’s own products.
+
+Interoperability for Users. Microsoft 
+is committed to meeting customer 
+interoperability needs and will do so in ways 
+that enable customers to control their data 
+and exchange information with improved 
+security and reliability across diverse 
+computer systems and applications.
+
+Smith said it is critical for Microsoft and 
+regulators to engage in discussion with a goal 
+
+of resolving issues during product development 
+and before the release of new products. “We 
+are committed to providing information about 
+new technologies to regulators, so we can 
+pursue an open and constructive dialogue 
+before the launch of these new products. 
+Given the global nature of the knowledge 
+economy, we recognize the importance of 
+providing this information on a global basis.”
+
+Smith also stressed that the Windows 
+Principles are not intended to supplant the 
+continued application of antitrust law or the 
+important role of government agencies and 
+courts in applying and enforcing this law.
+
+To make certain that the Windows Principles 
+continue to reflect current technological, 
+business, and legal developments, Microsoft 
+intends to review them at least once every 
+three years to determine if any new tenets 
+should be added or existing ones revised. To 
+ensure transparency, any changes will be 
+published on the Microsoft Web site.
+
+A complete list 
+
+and detailed explanation of the Windows Principles 
+
+are available at www.microsoft.com/presspass/
+
+newsroom/winxp/windowsprinciples.mspx.
+
+“You, Mr. Bill Gates, are a friend of China, and I’m a 
+friend of Microsoft.” — Chinese President Hu
+
+“Technology has expanded opportunities of millions of 
+people around the world and — whether expanding 
+access to information, education, or healthcare, or 
+increasing the collective power of individuals — it 
+has an important role to play in creating a thriving, 
+competitive Africa. The efforts I’ve seen from Bill 
+Gates and companies like Microsoft, in partnership 
+with governments, NGOs, and other private-sector 
+organizations, are helping Africa in its push to achieve 
+the United Nations Millennium Development Goals.”
+
+— Bill Clinton, Former U.S. President
+
+“The Commonwealth is very pleased with Microsoft’s 
+progress in creating an open document format. If 
+Microsoft follows through as planned, we are 
+optimistic that Office Open XML will meet our 
+new standards for acceptable open formats.”
+
+— Tom Trimarco, Massachusetts 
+Administration and Finance Secretary
+
+“In Bavaria we have been successful in the past years 
+with our focus on innovation — and we also owe this 
+to the support of companies such as Microsoft.”
+
+— Edmund Stoiber, Bavarian State Prime Minister
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+our company
+
+When Microsoft was founded in 1975, 
+
+even the most visionary among 
+us could only begin to imagine 
+
+what computers could become or predict 
+the extent to which they would transform 
+our world. Yet, today, software is providing 
+exciting opportunities for people everywhere.
+
+For more than 30 years, Microsoft has been a 
+global leader in creating innovative software that 
+enhances nearly every aspect of our personal and 
+professional lives. And now we’re working on the 
+next wave of breakthrough technology solutions.
+
+ouR mission
+At Microsoft, our mission is to enable people 
+and businesses throughout the world to realize 
+their full potential. Everything we do reflects our 
+mission and the values that make it possible.
+
+ouR vALues
+As a company, and as individuals, we value:
+
+§  Integrity and honesty
+
+§  Passion for customers, for our 
+partners, and for technology
+
+§  Openness and respectfulness
+
+§  Taking on big challenges and 
+
+seeing them through
+
+§  Constructive self-criticism, self-
+
+improvement, and personal excellence
+
+§  Accountability to customers, 
+
+§  Information worker productivity applications
+
+shareholders, partners, and employees 
+for commitments, results, and quality
+
+Business opeRAtions
+Microsoft does business all around the world. 
+We have offices in more than 90 countries, 
+which we group into six corporate regions:
+
+§  North America 
+§  Latin America 
+§  Europe, the Middle 
+East and Africa
+
+§  Japan 
+§  Asia Pacific 
+§  Greater China 
+
+We also have operational centers in Dublin, 
+Ireland; Humacao, Puerto Rico; Reno, Nevada; 
+and Singapore. The operational centers are 
+responsible for licensing, operations and 
+logistics, and manufacturing, although not 
+every center performs all of these functions.
+
+Microsoft generates revenue by 
+developing, manufacturing, licensing, 
+and supporting a wide range of software 
+products and services, including:
+
+§  Operating systems for servers, personal 
+computers (PCs), and intelligent devices
+
+§  Server applications for distributed 
+
+computing environments
+
+§  Business solutions
+
+§  Software development tools
+
+§  Consulting and product support services
+
+§  Training and certification for system 
+
+integrators and developers
+
+§  Xbox and Xbox 360 video game consoles 
+and games, PC games, and peripherals
+
+§  Online communication and information 
+
+services through our MSN portals 
+and channels around the world
+
+We also research and develop advanced 
+technologies for future software products. 
+Delivering breakthrough innovation and high-
+value solutions through our integrated platform 
+is the key to meeting our customers’ ever-
+changing needs and ensuring our future growth.
+
+We have laid a solid foundation for long-term 
+success by making global citizenship an 
+integral part of our business, consistently 
+delivering innovative new products, improving 
+our internal processes, creating opportunity 
+for our partners, and increasing customer 
+satisfaction. We are continuing to build on this 
+foundation through the work we do every day.
+
+our company       
+
+finAnciAL RepoRt
+On July 20, 2006, Microsoft announced 
+revenue of $44.28 billion for the fiscal year 
+that ended June 30, 2006, an 11 percent 
+increase over the previous year. Operating 
+income for the fiscal year was $16.47 billion, 
+or 13 percent over the previous year. In fiscal 
+year 2006, Microsoft returned more than 
+$23 billion to shareholders in the form of 
+dividends and share repurchases and invested 
+$6.58 billion in research and development.
+
+for additional details 
+
+see the 2006 Microsoft Annual Report at 
+
+LeGAL disputes
+In fiscal year 2006, Microsoft continued 
+working to resolve existing legal disputes in an 
+effort to clear the way for new opportunities 
+and more innovative products for our 
+customers worldwide. At the same time, a 
+few ongoing issues evolved significantly.
+
+Additional information 
+
+about Microsoft’s active involvement in legal 
+
+issues, whether specific to Microsoft or more 
+
+generally applicable to the software industry, is 
+
+available at www.microsoft.com/about/legal/.
+
+www.microsoft.com/msft/ar.mspx.
+
+A more detailed explanation 
+
+Revenue and Operating Income
+as reported in the 2005 annual report
+$50,000
+
+$45,000
+
+$40,000
+
+$35,000
+
+$30,000
+
+$25,000
+
+$20,000
+
+$15,000
+
+$10,000
+
+$5,000
+0
+
+2005
+
+2006
+
+Revenue
+Operating Income
+
+of Microsoft’s legal issues in fiscal year 
+
+2006 is available in the Notes section 
+
+of the 2006 Microsoft Annual Report at 
+
+www.microsoft.com/msft/ar.mspx.
+
+2006 Revenue by Segment
+as reported in the 2005 annual report
+
+$4,256
+
+$377
+
+$2,298
+$919
+
+$13,209
+
+$11,756
+
+$11,467
+
+coRpoRAte GoveRnAnce
+At Microsoft, we believe strong corporate 
+governance is a fundamental component 
+of our business success — and we 
+operate the company on that basis.
+
+Our Board of Directors establishes the standards 
+and policies for corporate governance, ethics, 
+and compliance throughout Microsoft. The 
+Board’s role is to oversee the work of management 
+in conducting the company’s business and to 
+serve the long-term interests of shareholders. 
+The Board believes that taking account of 
+the interests of other stakeholders such as 
+employees, customers, partners, suppliers, and 
+the many communities around the world where 
+we do business is an important component of 
+achieving shareholders’ long-term interests.
+
+for a list of Board members 
+
+more information about Board responsibilities,  
+
+or copies of Board committee charters, see  
+
+www.microsoft.com/about/companyinformation/
+
+corporategovernance/default.mspx.
+
+Client
+Server and Tools
+Information Worker
+Microsoft Business Solutions
+MSN
+Mobile and Embedded Devices
+Home and Entertainment
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+looking ahead
+
+Global citizenship is not a task to 
+
+be completed — it is a process that 
+requires continuous action and 
+
+engagement to move it forward and help it 
+grow. We are pleased with the progress we have 
+made and the positive changes our citizenship 
+work has brought about in communities 
+and individual lives worldwide. Those 
+achievements are the result of the extraordinary 
+dedication and innovative thinking of 
+Microsoft employees around the world.
+
+To guide us as our citizenship work 
+continues, we have set five goals for 
+fiscal year 2007 and beyond:
+
+Innovation. To improve technology 
+access to underserved populations by 
+developing new products and supporting 
+the growth of local software economies. 
+
+Responsible Business Leadership. To 
+further the integration of responsible business 
+practices into the core elements of our business, 
+including product development, product 
+life cycle planning, environmental impacts 
+assessments, employee accountability, and 
+advocacy of responsible industry policies.
+
+Security and Internet Safety. To work 
+collaboratively with partners in industry, 
+nongovernmental organizations, and 
+governments worldwide to make computing 
+safer, to improve and enhance the security 
+features of our products, and to increase 
+consumers’ awareness of how they can protect 
+themselves and their families online.
+
+Digital Inclusion. To continue to make 
+progress toward our goal of providing 
+technology access and skills training to 
+a quarter of a billion people by 2010.
+
+Employee Engagement. To increase 
+employee awareness of and involvement in 
+each of our global citizenship efforts.
+
+We have learned much over the years about our 
+role and responsibility as a global corporate 
+citizen, and how we can use our resources and 
+influence to create opportunities for more people 
+worldwide. We don’t have all of the answers. 
+No one does. By working in close collaboration 
+with our government, NGO, and industry 
+partners, however, we can continue to improve 
+and refine our approach to global citizenship 
+and make a meaningful difference in the world.
+
+awards
+
+our company       
+
+Over the course of the fiscal year, 
+
+Microsoft has been recognized for 
+its citizenship activities around 
+
+the world. This recognition includes awards 
+for business ethics, labor practices, diversity, 
+accessibility, innovation, corporate citizenship, 
+and Internet safety. A partial list includes:
+
+inteRnAtionAL RecoGnition
+Corporate Voices of Courage, Women’s 
+Commission for Refugee Women and Children
+
+World’s Most Respected Company (ranking = 1), 
+Financial Times and PricewaterhouseCoopers
+
+Global Most Admired Companies 
+2006 All-Stars (6), Fortune
+
+Argentina
+Best Companies to Work for in Latin 
+America 2005 & 2006, Great Places 
+to Work Institute Latin America
+
+Best Companies in Argentina 2005 (6), 
+Great Places to Work Institute Argentina
+
+Sadosky Award, Top foreign business supporting 
+the local industry in the investment in Argentina,  
+Chamber of Software Businesses and Information  
+Services (CESSI)
+
+Australia
+Longevity Award, Prime Minister’s Awards for 
+Excellence in Community Business Partnerships
+
+Canada
+Most Respected Corporations (14), Globe & Mail  
+and KPMG report on business
+
+Recognition in Heroes & Builders section 
+of Canada Day special feature, Maclean’s
+
+Chile
+Good Corporate Citizenship 2005, Camara 
+Chileno Americana de Comercio
+
+Outstanding Support to the Software 
+Industry Award, Grupo de Empresas 
+Chilenas de Software (GECHS)
+
+China
+Best Corporate Citizenship Practice Award 
+(finalist), 21st Century Business Review 
+and 21st Century Business Herald
+
+Trustworthy Platform Award and Trustworthy 
+Personal Security Service Provider Award, 
+State Council IT Office, Ministry of 
+Public Security, and State China National 
+Computer Emergency Response Team
+
+2005 CSC Enabling Technology Award,  
+Australian Computer Society (ACS) and  
+Australian Information Industry 
+Association (AIIA NT)
+
+Austria
+Best Workplaces in Austria 2006 (19), Die Presse 
+and Great Places to Work Institute Austria
+
+Trigos Award 2006, Association of Industrialists 
+and the Austrian Chamber of Commerce
+
+Brazil
+Best Companies to Work for in Latin 
+America 2005 & 2006, Great Places 
+to Work Institute Latin America
+
+Best Employers in Latin America,  
+Hewitt Associates and América Economía
+
+Recognition Award for contributing to the 
+first job program in the city of Guarulhos, 
+Brazilian Ministry of Labor and Oxigênio
+
+Most Admired Companies (top 10), Carta Capital
+
+Best Government Suppliers (top 10), TI & Governo
+
+Best Companies to Work For (top 10), Você S/A
+
+       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+Colombia
+Best Companies to Work for in Latin 
+America 2005 & 2006, Great Places 
+to Work Institute Latin America
+
+Best Companies in Colombia 2005 (12), 
+Great Places to Work Institute Colombia
+
+Recognition for continuous support to 
+Computers for Education program, First 
+Lady of Colombia Lina de Uribe and Ministry 
+of Communications and Education
+
+Social Responsibility Award in the Community 
+Support Category (nomination), Portafolio
+
+Costa Rica
+Contribution to the Community Award for 
+Corporate Social Responsibility 2005,  
+Costa Rican – American Chamber 
+of Commerce (AMCHAM)
+
+Most Admired Multinational Company 
+Working in the Region (top 10), 
+Estrategia & Negocios Survey
+
+Finland
+100 Best Workplaces in Europe 2006,  
+Financial Times and the Great Places 
+to Work Institute Europe
+
+Best Workplaces in Finland 2006 (1),  
+Kauppalehti and Great Places to 
+Work Institute Finland
+
+France
+100 Best Workplaces in Europe 2006,  
+Financial Times and Great Places 
+to Work Institute Europe
+
+Best Workplaces in France 2006 (3), Great 
+Places to Work Institute France
+
+Guatemala
+Award for Corporate Social Responsibility  
+in the education category,  
+Guatemalan-American Chamber of Commerce
+
+India
+IT Ratna of the Millennium,  
+in recognition of work in the field of localization 
+and education, Government of Maharashtra
+
+WISTEX Award,  
+in recognition of large contributions towards the 
+government’s IT literacy program for schools,  
+Government of Uttaranchal
+
+Ireland
+O2 Ability Award
+
+Italy
+100 Best Workplaces in Europe 2006,  
+Financial Times and Great Places 
+to Work Institute Europe
+
+Best Workplaces in Italy 2006 (1),  
+Great Places to Work Institute Italy
+
+Japan
+MIC Minister’s Award 2006,  
+Ministry of Internal Affairs and Communications
+
+Most-Respected Brand (1),  
+Nikkei Brand Perception Survey
+
+our company       9
+
+Mexico
+Best Companies to Work for in Latin 
+America 2005 & 2006, Great Places 
+to Work Institute Latin America
+
+Best Companies in Mexico 2005 (11) & 2006 (13),  
+Great Places To Work Institute Mexico and  
+Grupo Editorial Expansión
+
+Ethics and Values in the Industry, 
+National Confederation of Industrial 
+Chambers (CONCAMIN)
+
+Socially Responsible Business Award, Mexican 
+Center for Philanthropy (CEMEFI)
+
+The Netherlands
+100 Best Workplaces in Europe 2006,  
+Financial Times and Great Places 
+to Work Institute Europe
+
+Best Workplaces in Netherlands 2006 (2),  
+Great Places to Work Institute the Netherlands
+
+Norway
+100 Best Workplaces in Europe 2006, Financial 
+Times and Great Places to Work Institute Europe
+
+Best Workplaces in Norway 2006 (1), 
+Great Places to Work Institute Norway
+
+Peru
+Best Companies in Peru 2005 (9),  
+Great Places to Work Institute Peru
+
+Recognition for Ethics and Values 
+in the IT Industry, Bitacora
+
+Philippines
+Anvil Award of Excellence, Public Relations 
+Society of the Philippines (PRSP)
+
+Gold Quill Award of Merit, International 
+Association of Business Communicators (IABC)
+
+Poland
+Environmentally Friendly Best Practice, 
+Responsible Business Forum
+
+Best Employer 2005, Hewitt Associates
+
+Portugal
+100 Best Workplaces in Europe 2006,  
+Financial Times and Great Places 
+to Work Institute Europe
+
+Best Workplaces in Portugal 2006 (2), Publico 
+and Great Places to Work Institute Portugal
+
+Singapore
+Work-Life Excellence Award, 
+Ministry of Manpower
+
+Spain
+Best Workplaces in Spain 2006 (4),  
+Great Places to Work Institute Spain
+
+Sweden
+100 Best Workplaces in Europe 2006, Financial 
+Times and Great Places to Work Institute Europe 
+
+Best Workplaces in Sweden 2006 (1),  
+Veckans Affärer and Great Places 
+to Work Institute Sweden
+
+United Kingdom
+100 Best Workplaces in Europe 2006, Financial 
+Times and Great Places to Work Institute Europe
+
+Best Workplaces in the United Kingdom 
+2006 (5), Great Places to Work Institute 
+
+United Kingdom Business for Age Award, 
+Help the Aged Living Legends Awards
+
+Best Practice and Business Award for 
+Excellence, Business in the Community 
+Awards, 2006, Financial Times and 
+Department of Trade and Industry
+
+0       partners in innovation — Microsoft 2006 Global Citizenship Report
+
+United States
+America’s Most Admired Companies 
+2006 (10), Fortune
+
+100 Best Companies to Work 
+For 2006 (42), Fortune
+
+100 Best Companies to Work For with Over 
+10,000 employees 2005 (12), Fortune
+
+Circle of Humanitarian Award, 
+American Red Cross
+
+Summit Award for Employee Community 
+Engagement in the Spirit of America Award 
+program, United Way of America (UWA)
+
+100 Best Companies 2005, Working Mother
+
+Best Workplaces for Commuters,  
+U.S. Environmental Protection Agency and 
+United States Department of Transportation
+
+2005 Corporate Equality Index  
+[gay, lesbian, transgender, bisexual] (1),  
+Human Rights Campaign
+
+Top 50 Employers (1),  
+CAREERS & the disABLED
+
+Ideal Employer (16),  
+American MBA Edition of the 2006 Universum 
+Survey, Universum Communications
+
+Ideal Employer (6), Undergraduate 
+Edition of the 2006 Universum Survey, 
+Universum Communications
+
+Distinguished Online Communications, 
+Society for Technical Communications (STC), 
+Puget Sound Chapter (Washington State)
+
+Ideal Employer for IT Graduates (2), 
+Undergraduate Edition of the 2006 Universum 
+Survey, Universum Communications
+
+Large Employer of the Year, Governor’s 
+Committee on Disabilities and 
+Employment (Washington State)
+
+2005 Corporation of the Year,  
+Charlotte Post Foundation (North Carolina)
+
+2005 Million-Dollar Circle Award  
+(top 5 corporate donor), United Way of the 
+Central Carolinas (North Carolina)
+
+VIP Corporate Award 2005, American 
+Heart Association (North Carolina)
+
+Venezuela
+UNICEF Counts on You Award for businesses 
+that support UNICEF projects through 
+actions and contributions, UNICEF
+
+Ideal Employer (5), American Diversity 
+Edition of the 2006 Universum Survey, 
+Universum Communications
+
+Ideal Employer by Undergraduates (3),  
+American Diversity Edition of the 2006 
+Universum Survey, Universum Communications
+
+Ideal Employer by Hispanic Americans (4),  
+American Diversity Edition of the 2006 
+Universum Survey, Universum Communications
+
+Top Employer of the Year (5),  
+The Black Collegian Magazine
+
+Top 100 Employers 2005 (14), The Black 
+Collegian Online, Universum Communications
+
+America’s Top Organizations for Multicultural 
+Business Opportunities 2005 (26),  
+DiversityBusiness.com
+
+Corporation of the Year 2006,  
+Northwest Minority Council (serving Alaska, 
+Idaho, Montana, Oregon, and Washington) 
+
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052 USA
+Phone: 425.882.8080
+www.microsoft.com
+
+Microsoft Asia Pacific
+1 Marina Boulevard #22 – 01, Singapore 018989
+Phone: 65.6882.8899
+www.microsoft.com/asia
+
+Microsoft Greater China
+19/F, Millennium Tower, 38 Xiaoyun Road
+Chaoyang, Beijing 100027, P.R. China
+Phone: 86.10.8453.8585
+www.microsoft.com/china
+
+Microsoft Japan
+Odakyu Southern Tower, 2-2-1 Yoyogi
+Shibuya-ku, Tokyo 151-8583, Japan
+Phone: 81.3.4332.5300
+www.microsoft.com/japan
+
+Microsoft Europe, Middle East & Africa
+Coeur Défense, Tour B – 37e étage
+100, Esplanade du Général de Gaulle
+92932 Paris La Défense Cédex France
+Phone: 33.1.70.99.10.00
+www.microsoft.com/emea
+
+Microsoft Latin America
+6750 North Andrews Avenue, Suite 400
+Fort Lauderdale, FL 33309 USA
+Phone: 954.489.4800
+www.microsoft.com/latam
+
+Microsoft Canada
+1950 Meadowvale Boulevard
+Mississauga, Ontario L5N 8L9 Canada
+Phone: 905.568.0434
+www.microsoft.com/canada
+
+This report is printed on New Leaf Opaque 100, White, 
+80 lb. cover and 80 lb. text, which are made with 
+process-chlorine-free 100% post-consumer waste fiber.
+
+New Leaf Paper is an FSC certified paper broker.
+
+Printed on paper containing 100% post-consumer waste.
+
+t o  a c c e s s  t h i s  i n f o r m a t i o n  o n l i n e ,  v i s i t : 
+w w w . m i c r o s o f t . c o m / c i t i z e n s h i p
+
+© 2006 Microsoft Corporation. All rights reserved. Microsoft, Excel, MSN, PowerPoint, Windows, Windows Live, 
+
+Windows Server, Windows Vista, Xbox, Xbox 360, and Xbox Live are either registered trademarks or trademarks 
+
+of Microsoft Corporation in the United States and/or other countries. All other trademarks are property of their 
+
+respective owners. Part No. 098-106244
+
+

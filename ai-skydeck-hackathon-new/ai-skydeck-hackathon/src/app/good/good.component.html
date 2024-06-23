@@ -1,0 +1,82 @@
+<h1>"GOOD" companies</h1>
+
+<div *ngIf="goodCompanies.length > 0">
+  <h3>Select a Good Company</h3>
+  <select (change)="setCompany($event)">
+    <option value="">Select a company</option>  <option *ngFor="let company of goodCompanies" [value]="company">{{ company }}</option>
+  </select>
+</div>
+<div *ngIf="selectedCompany">
+<h2>Average Score: 63</h2>
+
+
+  <div class="info">
+    
+  </div>
+  <div class="emissionsTable">
+  <table>
+    <tbody>
+        <tr>
+            <th>Scope 1 Emissions</th>
+            <td>3252098</td>
+          </tr>
+          <tr>
+            <th>Scope 2 Emissions</th>
+            <td>2359</td>
+          </tr>
+          <tr>
+            <th>Scope 3 Emissions</th>
+            <td>45132498</td>
+          </tr>
+          <tr>
+            <th>Total Emissions in mtCo2e</th>
+            <td>48386955</td>
+          </tr>
+    </tbody>
+  </table>
+  <div *ngIf="company">
+    <h2>Sentiment Data for {{ this.selectedCompany }}</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Year</th>
+          <th>Report</th>
+          <th>Video</th>
+          <th>Report Sentiment</th>
+          <th>Video Sentiment</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let year of company | keyvalue">
+          <td>{{ year.key }}</td>
+          <td><a href="{{ year.value.report }}" target="_blank">View Report</a></td>
+          <td><a href="{{ year.value.video }}" target="_blank">Watch</a></td>
+          <td>{{ year.value.report_sentiment }}</td>
+          <td>{{ year.value.video_sentiment }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+    
+  </div>
+
+<app-emissions-graph></app-emissions-graph>
+<p>How should {{selectedCompany}} avoid greenwashing and <br>improve their sustainability given the pdf context?</p>
+    <p>{{selectedCompany}} can avoid greenwashing and enhance <br>
+      their sustainability efforts by focusing on several key areas<br>
+       highlighted in their sustainability report. Firstly, they <br>
+       should prioritize transparency by providing clear, detailed,<br>
+        and verifiable data regarding their environmental impact and <br>
+        sustainability initiatives. Secondly, they could strengthen<br>
+         their commitment to renewable energy by accelerating their <br>
+         transition to 100% renewable energy across their supply chain <br>
+         and operations. Thirdly, Apple should continue to innovate <br>
+         sustainable product design, materials sourcing, and recycling<br>
+          programs to minimize their overall environmental footprint.<br>
+           Lastly, they should engage in meaningful partnerships and <br>
+           collaborations with stakeholders, NGOs, and experts to foster <br>
+           accountability and drive industry-wide sustainability standards and <br>
+           practices. By demonstrating measurable progress in these areas, <br>{{selectedCompany}} 
+           can authentically enhance their sustainability practices and <br>avoid 
+           accusations of greenwashing</p>
+</div>

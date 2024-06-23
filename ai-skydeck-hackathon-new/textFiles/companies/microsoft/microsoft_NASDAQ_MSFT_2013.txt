@@ -1,0 +1,7544 @@
+Citizenship  
+Report
+
+2013
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Contents
+
+Citizenship at Microsoft 
+
+Serving Communities 
+
+Working Responsibly 
+
+5  Working responsibly 
+Serving communities 
+6 
+6  Citizenship governance
+7 
+
+Setting priorities and  
+stakeholder engagement
+External frameworks
+
+7 
+
+Our Company 
+
+9  Our business
+9  Where we are
+9 
+
+Engaging our customers  
+and partners
+11  Our products
+12 
+
+Investing in innovation
+
+Cover: Fashion entrepreneur Johnnie Lovett 
+
+credits much of his success to Network for 
+
+Teaching Entrepreneurship (NFTE), a Microsoft-
+
+funded high school program that inspires youth 
+
+from low-income areas to stay in school, identify 
+
+career opportunities, and focus on their future.
+
+Microsoft 2013 Citizenship Report
+
+15  Microsoft YouthSpark
+17  Empowering youth through 
+
+technology and education
+Inspiring future innovators
+
+19 
+21  Helping youth realize their potential
+
+47  Our people
+48  Compensation and benefits
+51  Diversity and inclusion
+52  Training and development
+52  Health and safety
+
+24  Technology for Good
+25  Donating software and services  
+
+to nonprofits worldwide
+Improving access to hardware
+26 
+28  Sharing knowledge to deepen 
+
+56  Environmental sustainability
+57  Making our operations carbon 
+
+neutral
+
+64  Developing technologies to  
+reduce environmental impact
+
+impact 
+
+30  Solutions in action
+
+33  Employee giving
+35  Making a difference 
+
+39  Humanitarian response
+
+41  Accessibility
+42  Expanding opportunity for  
+people with disabilities
+Improving wellness for seniors
+
+45 
+
+68  Human rights
+70  The power of technology  
+to promote human rights
+
+74  A global approach
+75  Engagement
+75  Good governance and  
+
+the rule of law
+
+77  Privacy and data security
+
+80  Responsible sourcing
+82  Hardware and packaging 
+
+production
+91  Conflict minerals
+
+93  Governance
+94  Corporate governance 
+96  Maintaining strong practices  
+
+and performance
+
+97  Public policy engagement 
+99  Compliance 
+
+About This Report
+
+101  Reporting year 
+101  Scope
+102  Additional reporting
+102  Feedback
+
+103 United Nations Global Compact
+
+ 2 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+To our stakeholders,
+
+This past year, we took the first big, bold steps forward in our 
+transformation to a devices and services company. In fact,  
+in July 2013, we announced we are rallying behind a single 
+strategy as One Microsoft. We declared that Microsoft’s focus 
+going forward will be to create a family of devices and services 
+for individuals and businesses that empower people around 
+the globe at home, at work, and on the go for the activities 
+they value most. 
+
+Fiscal year 2013 was a pivotal year for Microsoft in every 
+sense of the word — and that was reflected in our citizenship 
+work. This report describes that work and shares our vision 
+for what lies ahead. Published at the same time as our annual 
+financial report, it provides a full accounting of our citizenship 
+priorities and performance. Our commitment to citizenship 
+is brought to life by the work we do in serving communities, 
+championing the growth of our people, and meeting our 
+commitment to responsible business policies and practices. 
+
+Through our Technology for Good program, we provided 
+more than 70,000 nonprofits in more than 100 countries with 
+affordable access to technology. We also developed a program 
+to donate Office 365 to nonprofits in 41 countries to help 
+them better serve their communities. 
+
+We made strong strides in helping our company and industry 
+address climate change. This year, we met our goal of carbon 
+neutrality by establishing an internal carbon fee to guide 
+responsible choices and practices that help us minimize our 
+environmental footprint. 
+
+We also enhanced our transparency practices by releasing 
+our first report of law enforcement requests for Microsoft 
+account user data. This report detailed the number of data 
+requests we received from official legal entities, the number 
+of requests we granted, and the rigor of our review process 
+for each request. 
+
+This year we celebrated our employees’ commitment to making 
+a difference with our 30th employee giving campaign, in which 
+the company matches employee financial and volunteer con-
+tributions. In FY13, Microsoft and our employees gave more 
+than $100 million to more than 18,000 nonprofits worldwide, 
+helping us surpass the $1 billion milestone of total contributions 
+since our first campaign in 1983.
+
+I believe our citizenship commitments and actions will con-
+tinue to make significant contributions to business and 
+society as we advance our strategy of providing a family of 
+devices and services for the activities people value most. 
+
+Thank you for your interest in Microsoft. We welcome your 
+thoughts and suggestions.
+
+FY13 also saw the launch of Microsoft YouthSpark, a global 
+initiative to connect hundreds of millions of youth with oppor-
+tunities for education, employment, and entrepreneurship. 
+In its first year, YouthSpark empowered more than 100 million 
+youth to imagine and build a better future for themselves 
+and their communities.
+
+Sincerely, 
+
+Steven A. Ballmer 
+CEO, Microsoft Corp.
+
+Microsoft 2013 Citizenship Report
+
+ 3 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Citizenship  
+at Microsoft
+
+Our citizenship mission is to serve globally 
+the needs of communities and fulfill our 
+responsibilities to the public.
+
+Microsoft 2013 Citizenship Report
+
+ 4 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working responsibly
+
+Good corporate citizenship starts at home. To meet 
+our responsibilities as a global company, we’re con-
+tinually working to create a respectful and rewarding 
+work environment for our nearly 100,000 employees.
+
+We’re also pioneering new ways of reducing our 
+environmental impact. This year, we introduced  
+an internal carbon fee that helped us meet our  
+FY13 goal of carbon neutrality. In addition, we’re 
+continually strengthening expectations for our 
+hardware production suppliers to improve the 
+working conditions and environmental perfor-
+mance of electronics factories around the world. 
+
+We recognize the important responsibility we have 
+to respect human rights, and we work to bring the 
+power of technology to bear to promote respect for 
+human rights throughout the world. Through the 
+Microsoft Technology and Human Rights Center, 
+we’re working internally to promote the integration 
+of human rights into the company’s culture, business 
+operations, and strategies. Externally, we’re seeking 
+to advance public understanding of the role busi-
+ness can play in driving respect for human rights. 
+
+“ Good corporate citizenship plays 
+a vital role in our mission to help 
+people and businesses realize their 
+full potential. We’re inspired every 
+day by our employees’ passion for 
+their communities, and we honor 
+their commitment by driving social 
+change with hundreds of nonprofit 
+partners around the world.”
+
+Lori Forte Harnick, General Manager,  
+Citizenship & Public Affairs
+
+Since the release of our first product in 1975, we’ve 
+demonstrated the promise of computing to change 
+the world. But as we’ve grown as a company, so 
+have the world’s social and economic challenges. 
+We’re responding by applying our technology, 
+ingenuity, and collaborative spirit to help solve 
+these critical challenges and create fulfilling and 
+exciting opportunities for people everywhere.
+
+We focus our commitment to corporate citizenship 
+in two ways: working responsibly in our own business 
+and serving our communities around the world. 
+
+Microsoft was once  
+again recognized as a 
+corporate citizenship 
+leader with its inclusion 
+in the 2013 Dow Jones 
+Sustainability Indices 
+and the FTSE4Good Index.
+
+Microsoft 2013 Citizenship Report
+
+ 5 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving communities
+
+Citizenship governance
+
+We’re active members of the communities every-
+where we do business.
+
+At the heart of our efforts is the passion of our 
+employees, who generously donate their time and 
+money to causes around the world. This year, the 
+30th year of our employee giving campaign, we 
+met an exciting milestone — $1 billion in employee 
+contributions and Microsoft matching gifts to more 
+than 31,000 nonprofits since 1983. 
+
+Launched in September 2012, our Microsoft 
+YouthSpark initiative is also a major focus of our 
+community work. Through partnerships with  
+governments, nonprofits, and businesses, we are 
+working to empower young people to imagine  
+and realize their full potential by connecting them 
+with greater education, employment, and entre-
+preneurship opportunities. 
+
+Furthermore, we donate, on average, $2 million a 
+day in software to more than 70,000 nonprofits 
+around the world — one of many ways our technol-
+ogy and resources help nonprofit organizations 
+serve individuals and communities in need. 
+
+The Regulatory and Public Policy Committee of our 
+board of directors oversees the company’s policies 
+and programs that relate to public policy and  
+corporate citizenship. The committee’s oversight 
+includes public issues of significance to Microsoft 
+and our stakeholders that may affect Microsoft’s 
+operations, performance, or reputation.
+
+Our Citizenship and Public Affairs team has day-to-
+day responsibility for all citizenship-related work, 
+including stakeholder engagement. As part of our 
+Legal and Corporate Affairs Group, the 30-plus-
+person team develops and coordinates our global 
+strategy, supports our local citizenship teams 
+worldwide, and partners with external stakeholders 
+to fulfill our citizenship mission. 
+
+More broadly, citizenship at Microsoft relies on the 
+combined efforts of all our employees, including 
+colleagues in dozens of other leadership roles, 
+business and operational groups, and global sub-
+sidiaries. Together, they help us identify the societal 
+challenges where Microsoft can add the greatest 
+value, develop and implement new strategies and 
+programs, and monitor our progress.
+
+Global giving
+
+$949M
+FY11
+
+$844M
+
+$904M
+FY12
+
+$804M
+
+$907M
+FY13
+
+$795M
+
+$105M
+
+$99.6M
+
+$112M
+
+Software
+
+Cash
+
+$1B
+
+in employee contributions  
+and Microsoft matching gifts 
+to nonprofits since 1983
+
+Microsoft 2013 Citizenship Report
+
+ 6 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Setting priorities and  
+stakeholder engagement
+
+We regularly communicate with thousands of 
+stakeholders, including global human rights 
+experts, environmental nongovernmental organi-
+zations (NGOs), and parents concerned about  
+their children’s safety and education. Those con-
+versations help inform and guide our citizenship 
+strategies and programs.
+
+External frameworks
+
+Our work is informed by international frameworks 
+such as the Global Reporting Initiative’s 
+Sustainability Reporting Guidelines, the United 
+Nations (UN) Guiding Principles on Business  
+and Human Rights, and the UN Global Compact. 
+This report serves as the annual Communication  
+on Progress of our commitment to the UN Global 
+Compact (see index on page 103). 
+
+Our stakeholder engagement takes several forms. 
+Employees from our business and operational 
+groups regularly identify and engage with stakehold-
+ers in the course of their daily work activities. Our 
+Citizenship and Public Affairs team also manages a 
+number of stakeholder engagements and external 
+relationships to help guide our strategies.
+
+a
+
+h
+
+r
+
+S
+
+l
+
+e
+h
+o
+d
+e
+r
+s
+
+We connect with leading thinkers on corporate 
+responsibility issues as participants in groups such 
+as BSR, the Boston College Center for Corporate 
+Citizenship, the Clinton Global Initiative, Net Impact, 
+and the World Economic Forum. In partnership  
+with our colleagues in corporate governance and 
+investor relations, we discuss environmental, social, 
+and governance issues twice a year with our largest 
+institutional investors.
+
+We also work closely with and learn from a range 
+of advocacy groups, socially responsible investors, 
+corporate responsibility rating agencies, and  
+our own employees to identify new and emerging  
+citizenship issues.
+
+G o v e r n m e n t s
+
+Sharehold
+
+ers
+
+ers
+m
+o
+t
+s
+u
+C
+
+E
+
+m
+
+p
+
+l
+
+o
+
+y
+
+e
+
+e
+
+s
+
+C
+
+o
+
+m
+
+m
+u
+n
+
+i
+t
+i
+
+e
+s
+
+Partners
+
+Our 
+stakeholder
+groups 
+
+Supplie r s
+
+Microsoft 2013 Citizenship Report
+
+ 7 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Our 
+Company
+
+Our company mission is to help people 
+and businesses throughout the world 
+realize their full potential.
+
+Microsoft 2013 Citizenship Report
+
+ 8 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Our business
+
+Microsoft Corporation (NASDAQ: MSFT) was 
+founded in 1975. Our mission is to enable people 
+and businesses throughout the world to realize 
+their full potential by creating technology that 
+transforms the way people work, play, and commu-
+nicate. We develop and market software, services, 
+and hardware devices that deliver new opportuni-
+ties, greater convenience, and enhanced value to 
+people’s lives. We do business worldwide and have 
+offices in more than 100 countries.
+
+Where we are
+
+Headquartered in Redmond, Washington, Microsoft 
+employed approximately 99,000 people on a full-
+time basis in more than 100 countries/regions and 
+territories in FY13. Approximately 58,000 employees 
+were based in the United States, and 41,000 were 
+based in other countries.
+
+Engaging our customers  
+and partners
+
+Our success depends on creating new and compel-
+ling products and services, while also building strong 
+relationships with our customers and partners. 
+Listening and responding to customers is core to 
+our business. We keep in touch through online 
+feedback forms, support communities, product 
+satisfaction surveys, usability studies, research 
+forums, and our customer service Twitter account, 
+@MicrosoftHelps. The insights we gain help us 
+understand and respond to our customers’ and 
+partners’ experiences. We also use information 
+drawn from global customer and partner satisfac-
+tion surveys as a measurement for employee, 
+executive, and regional performance. 
+
+Our partner ecosystem — approximately 640,000 
+mostly small to medium-size local businesses around 
+the world — develop, market, sell, and service 
+Microsoft products, supporting millions of jobs and 
+contributing to local and global economic growth.
+
+To learn more about how we connect with custom-
+ers and partners or to provide feedback, please 
+visit the Microsoft Customer and Partner 
+Experience website.
+
+Microsoft 2013 Citizenship Report
+
+ 9 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Revenue by business division
+
+BUSINESS STRUCTURE
+
+Windows Division
+Windows 8 and prior versions of the Windows operating system, Windows Services 
+suite of applications and web services, Microsoft Surface RT and Pro devices, 
+Outlook.com, and SkyDrive
+
+FY13
+
+$19.2 billion
+
+Server and Tools
+Windows Server operating systems, Windows Azure, Microsoft SQL Server, SQL 
+Azure, Windows Intune, Windows Embedded, Microsoft Visual Studio, Microsoft 
+System Center products, Microsoft Consulting Services, Premier Support services
+
+$20.3 billion
+
+Online Services Division
+Bing, Bing Ads, MSN 
+
+Entertainment and Devices Division
+Xbox 360 gaming and entertainment console, Kinect for Xbox 360, Xbox 360 
+video games, Xbox 360 accessories, Xbox LIVE, Skype, and Windows Phone
+
+Microsoft Business Division
+Microsoft Office, Microsoft Exchange, Microsoft SharePoint, Microsoft Lync, 
+Yammer, Microsoft Office Project and Office Visio, Microsoft Dynamics ERP and 
+Dynamics CRM, and Microsoft Office 365 (an online services offering of Microsoft 
+Office, Exchange, SharePoint, Lync, and Microsoft Office Web Apps, which are  
+the online companions to Microsoft Word, Excel, PowerPoint, and OneNote)
+
+$3.2 billion
+
+$10.2 billion
+
+$24.7 billion
+
+In July 2013, we announced a change in organizational structure as part of our transformation 
+to a devices and services company. This change in structure is designed to enable us to  
+innovate with greater speed, efficiency, and capability in the fast-changing competitive  
+environment. We expect this change to alter the way we plan, develop, and market our 
+products and services, as we pursue a single strategy to offer a family of devices and services 
+designed to empower our customers to perform the activities they value most.
+
+For detailed financial information, see the Microsoft 2013 Annual Report.
+
+$69,943
+FY11
+
+$73,723
+FY12
+
+$77,849
+FY13
+
+Revenue (in millions)
+
+$27,161
+FY11
+
+$26,764
+FY13
+
+$21,763
+FY12
+
+Operating income (in millions)
+
+$2.69
+FY11
+
+$2.58
+FY13
+
+$2.00
+FY12
+
+Earnings per share
+
+Microsoft 2013 Citizenship Report
+
+ 10 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Our products
+
+Our products include operating systems for  
+computing devices, servers, phones, and other 
+intelligent devices; server applications for distrib-
+uted computing environments; productivity 
+applications; business solution applications; 
+desktop and server management tools; software 
+development tools; video games; and online adver-
+tising. We also design and sell hardware, including 
+the Xbox 360 gaming and entertainment console, 
+Kinect for Xbox 360, Xbox 360 accessories, the 
+Surface RT and Surface Pro tablets, and Microsoft 
+PC hardware products.
+
+Beyond our product portfolio, we offer consulting, 
+product, and solution support services. We also 
+train and certify computer system integrators and 
+developers. Our cloud-based solutions provide 
+customers with software, services, and content 
+through the Internet. Revenue from these technol-
+ogies mainly flows from usage fees, advertising, 
+and subscriptions. 
+
+Examples of our cloud-based computing services 
+
+•  Microsoft Office 365, an online suite that enables 
+people to work from virtually anywhere, at any 
+time, through simple collaboration and commu-
+nication solutions, including Microsoft Office, 
+Exchange, SharePoint, and Lync.
+
+•  Xbox LIVE service, which enables online gaming, 
+social networking, and access to a wide range of 
+video, gaming, and entertainment content.
+
+•  Microsoft Dynamics CRM Online, which provides 
+solutions for sales, service, and marketing  
+professionals through a familiar Microsoft 
+Outlook interface.
+
+•  Bing, our Internet search engine, which finds and 
+organizes the answers people need so they can 
+make faster, more informed decisions.
+
+•  Skype, which allows users to connect with 
+
+friends, family, clients, and colleagues through  
+a variety of devices.
+
+•  Yammer, a social network for enterprises, allows 
+users to stay connected to coworkers and infor-
+mation, and to collaborate more effectively with 
+team members. 
+
+•  The Azure family of platform and database ser-
+
+vices, which helps developers connect applications 
+and services in the cloud or onsite. These services 
+include Windows Azure, a scalable operating 
+system with computing, storage, hosting, and 
+management capabilities, and Microsoft SQL 
+Azure, a relational database.
+
+Microsoft 2013 Citizenship Report
+
+ 11 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Investing in innovation
+
+In FY13, we invested $10.4 billion in research and 
+development — equal to 13 percent of revenue —  
+focused primarily on product development. To stay 
+competitive, we make strategic, long-term invest-
+ments in research and development across a broad 
+array of technologies, tools, and platforms spanning 
+communication and collaboration, entertainment, 
+business and e-commerce, advertising, and devices. 
+
+To drive future growth, we focus our efforts on:
+
+•  Initiating and embracing disruptive  
+
+technology trends
+
+•  Entering new product and geographic markets
+
+•  Inspiring broad adoption of our products  
+
+and services
+
+The people who power our innovations drive our 
+success. We compete for talented employees from 
+universities and private companies by offering 
+broad customer reach, a wealth of resources, and 
+competitive compensation.
+
+We also collaborate with top universities through 
+Microsoft Research — one of the world’s largest 
+computer science research organizations — to 
+advance the state of the art in computer science. 
+
+Canada
+
+England
+
+Ireland
+
+Denmark
+
+United States
+
+China
+
+Israel
+
+India
+
+Innovating locally to compete globally
+More than 1,100 scientists and engineers push the  
+boundaries of computer science in 13 Microsoft  
+research labs in eight countries around the world.
+
+Research and development
+
+R&D
+
+Spending
+
+FY11
+
+FY12
+
+FY13
+
+$9.0B
+
+$9.8B
+
+$10.4B
+
+Spending as % of revenue
+
+13%
+
+13%
+
+13%
+
+More information about Microsoft investment in research and development  
+is available in our FY13 10-K filing.
+
+Microsoft 2013 Citizenship Report
+
+ 12 
+
+ 
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Innovating for good
+
+Computing innovations continue to yield dramatic 
+benefits to individuals, organizations, and societies, 
+and nowhere is this more evident than in the 
+potential of computing to tackle complex social 
+challenges. In addition to pushing boundaries in 
+the design of Microsoft products, services, and 
+technologies, we pioneer solutions to help improve 
+the health of millions worldwide, preserve endan-
+gered cultures, and strengthen communities. 
+
+Here’s a sampling of our social innovations in FY13.
+
+•  The team at Microsoft Research Cambridge is 
+working to develop software that helps physi-
+cians more accurately and rapidly identify the 
+anatomy of aggressive brain tumors, a feat that 
+will enable better-targeted therapy. 
+
+•  Microsoft Research and Microsoft Mexico, 
+
+together with the Universidad Intercultural Maya 
+of Quintana Roo and the government of the state 
+of Quintana Roo, presented a preview of the 
+Project Mayan-Microsoft Translator Hub to help 
+preserve and personalize the Mayan language.
+
+•  Microsoft Research helped launch the Queensland 
+University of Technology’s Open Source Software 
+Group and Virtual Lab, giving students the 
+resources to create software solutions for real-
+world problems and encouraging them to 
+participate in projects to better their community.
+
+•  Microsoft Research committed to sponsor four 
+more years of partnership with the National 
+Center for Women & Information Technology, 
+which aims to advance diversity and innovation 
+in computing.
+
+Our researchers also apply their talent, technology, 
+and insights to develop solutions that reduce envi-
+ronmental impact and mitigate the effects of climate 
+change. Read more in our Environment section.
+
+Physicians in New Delhi, India, and around the world are using 
+technology developed by Microsoft to deliver better health care.
+
+Microsoft 2013 Citizenship Report
+
+ 13 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving 
+Communities
+
+We’re helping create a better future for young  
+people and fostering healthier, more vibrant  
+communities worldwide.
+
+15 
+
+ Microsoft YouthSpark
+
+39  Humanitarian response
+
+24 
+
+ Technology for Good
+
+41  Accessibility
+
+33  Employee giving
+
+Microsoft 2013 Citizenship Report
+
+ 14 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Microsoft YouthSpark
+Today’s youth aspire to make a better future — for  
+themselves and the world around them. Microsoft 
+YouthSpark empowers hundreds of millions of future 
+achievers to imagine, explore, and realize their potential  
+by connecting them with greater opportunities for  
+education, employment, and entrepreneurship.
+
+103 
+million 
+
+Youth served globally  
+by YouthSpark
+
+In this section
+
+Empowering youth through 
+technology and education
+
+Inspiring future innovators 
+
+Helping youth realize  
+their potential 
+
+FY13 performance and  
+FY14 commitments
+
+186 
+
+nonprofit organizations  
+receiving YouthSpark grants
+
+Microsoft 2013 Citizenship Report
+
+ 15 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Microsoft YouthSpark
+
+“ Young people are taking the lead in 
+driving change in their lives and 
+their communities. We’re inspired 
+by their smarts and their passion, 
+and we’re committed to helping 
+them pursue their dreams every 
+step of the way — not just because 
+it’s the right thing to do, but 
+because the future of the global 
+economy depends on it.”
+
+Lori Forte Harnick, General Manager,  
+Citizenship & Public Affairs
+
+Young people face a world that’s rapidly changing. 
+As economies shift, industries emerge, and tech-
+nology sets the pace, the gap between those who 
+have access, skills, and opportunities and those 
+who don’t is glaring.
+
+We believe technology can help bridge this oppor-
+tunity divide and secure the future of young people 
+and the global economy. That’s why we’re empow-
+ering youth by increasing access to technology and 
+equipping them with the tools and skills they need to 
+succeed. Through our partnerships, programs, and 
+initiatives, we’re inspiring youth to imagine and build 
+a better future for themselves and their communities. 
+
+We’re empowering youth with the technologies and skills  
+they need to build a better future. 
+
+Microsoft 2013 Citizenship Report
+
+ 16 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Microsoft YouthSpark
+
+Empowering youth through  
+technology and education
+
+For young people to succeed in today’s economy —  
+and help build the economy of the future — they 
+need direct access to both technology and relevant 
+skills, along with support from teachers, leaders, 
+governments, and nonprofits. We’re connecting 
+youth with the resources they need to make a real 
+impact for a better tomorrow.
+
+•  Helped youth gain new skills, education, and 
+
+training by providing YouthSpark grants to non-
+profits worldwide. As part of our commitment  
+to create opportunities for 300 million youth 
+globally over the next three years, we launched 
+partnerships with the European Youth Forum; the 
+China Foundation for Youth Employment and 
+Entrepreneurship; Trust for the Americas; and the 
+African Centre for Women and ICT, among many 
+other youth-focused nonprofits. In FY13, we 
+awarded grants to a total of 186 nonprofit orga-
+nizations in 62 countries. 
+
+•  Accelerated learning and collaboration among 
+
+students and teachers worldwide through Office 
+365 for Education, which provides access to 
+Word, PowerPoint, and Excel, and a range of 
+communications tools, including email, instant 
+messaging, group video, and voice chat. 
+
+•  Fostered shared learning experiences around the 
+world while building global communities for  
+students to meet new people, speak to experts, 
+and share ideas through Skype in the Classroom. 
+Nearly 2 million students worldwide have  
+benefited from the program.
+
+Microsoft is helping transform education by  
+equipping teachers and preparing youth with  
+the technology skills they need to succeed.
+
+•  Empowered educators with technology to 
+
+enhance learning in their classrooms through 
+Partners in Learning. The Partners in Learning 
+Network added 788,000 educators from  
+134 countries and reached 10 million students  
+in FY13.
+
+•  Addressed the urgent need to improve com-
+puter science education during K–12 years by 
+placing Microsoft employees into high schools 
+across the United States as part of our Technology 
+Education and Literacy in Schools (TEALS) 
+program. In the 2012–2013 school year, 1,500  
+students from 35 schools in seven states gained 
+access to computer science courses to help 
+inspire and prepare them for university study.
+
+•  Gave educators resources, training, and software 
+to help them teach computing and technical 
+classes through the Faculty Connection program, 
+which reached 5.4 million students in FY13.
+
+Microsoft 2013 Citizenship Report
+
+ 17 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Bridging the opportunity divide 
+with Microsoft YouthSpark
+
+Microsoft is providing hundreds of millions of young  
+people around the world with education, employment,  
+and entrepreneurship opportunities to help them secure  
+a brighter future. 
+
+73.4 million
+
+youth are currently unemployed1
+
+“  I can’t tell you how 
+happy I was to find out  
+I could get Microsoft 
+training for free. I’ve 
+always wanted to learn 
+IT skills, but thought it 
+was out of my reach.”
+
+Yutiao Wang, China
+Fuping Development Institute
+
+“  Technology has changed 
+my life and the lives of  
+all of the people in my 
+family. If it hadn’t been 
+for technology, I would 
+be in some other activity 
+that would not give me 
+the prosperity that I 
+have today.”
+
+Josinaldo da Silva Batista, Brazil
+Advanced Technical and 
+Vocational Institute (ITEVA)
+
+103 million
+
+youth benefited from YouthSpark  
+in FY13 through our partnerships, 
+programs, and initiatives.
+
+“  A lot more girls need to 
+be educated beyond the 
+high school level. They 
+need the skills to be able 
+to survive in the work-
+place, know their rights, 
+and emerge as leaders.”
+
+Mary Mwende, Kenya
+Global Give Back Circle
+
+1  ILO 2013 Youth Employment Outlook.
+
+Microsoft 2013 Citizenship Report
+
+ 18 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Microsoft YouthSpark
+
+Inspiring future innovators 
+
+We’re inspiring young people to imagine what’s 
+possible for their futures through programs that 
+develop new skills, engage leaders, and ignite 
+imaginations.
+
+•  Provided a platform for young innovators to gen-
+erate groundbreaking ideas and create powerful 
+business solutions through Imagine Cup, the 
+world’s premier youth technology competition. 
+More students competed in Imagine Cup world-
+wide in FY13 than ever before, with an increase of 
+more than 70 percent compared with 2012. 
+
+•  Created the global Innovate for Good online 
+community, which encourages and enables 
+youth to collaborate, inspire, and support each 
+other’s groundbreaking ideas for social change. 
+Launched in 2012, the program brought together 
+
+more than 2,200 members in 76 countries in  
+its first year through local events and online 
+engagement tools. 
+
+•  Championed technology and technology-focused 
+
+careers for high school girls as part of our 
+DigiGirlz program, which fosters connections with 
+Microsoft employees through hands-on computer 
+and technology workshops. 
+
+•  Advanced the teaching and learning of technical 
+skills during the critical high school and college 
+years through DreamSpark, which offered more 
+than 12 million students and educators free 
+access to Microsoft designer and developer tools.
+
+•  Developed kids’ interests in computer program-
+ming at an early age with Kodu Game Lab, which 
+teaches youth how to design and build their own 
+video games for free.
+
+A group of students from the United Kingdom won $50,000 
+as the first-place winners of the Microsoft Imagine Cup 
+Innovation Competition with their mobile phone application 
+“soundSYNK.” The app creates impromptu social networks 
+that allow people to stream music simultaneously through a 
+group of phones, effectively creating a symphony of speakers.
+
+Microsoft 2013 Citizenship Report
+
+ 19 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Microsoft YouthSpark
+Working Responsibly / Our people
+
+Turning opportunity into action
+
+Bill Reese, President and CEO
+International Youth Foundation (IYF)
+
+IYF prepares young people to be healthy, 
+productive, and engaged citizens. Its  
+programs are catalysts for change that 
+help youth learn, work, and lead.
+
+In September 2013, we released “Opportunity for Action,” a report 
+commissioned by Microsoft to commemorate the one-year anniver-
+sary of the company’s YouthSpark initiative. In the report, we 
+analyzed the potential of recent trends in youth entrepreneurship, 
+second-chance education and training, and advanced skills related  
+to information and communications technology, including coding 
+and programming, to turn the global “youth bulge” into an economic 
+and social asset. 
+
+The report comes at a critical time, as voices around the globe are 
+echoing an urgent call for action on youth employment. Far too 
+many lack the resources, skills, and opportunities to stay in school, 
+obtain and keep a decent job, and become constructively engaged 
+in their community. 
+
+The benefits of youth entrepreneurship and employment are clear.  
+A “youth bonus” could pay out dividends for decades by making  
+people’s lives more productive; contributing to thriving families,  
+communities, and local economies; and building a more peaceful  
+and equitable society.
+
+In “Opportunity for Action,” we emphasize the need for concerted, 
+organized action that will lift us beyond today’s array of pilot youth 
+development programs to a place where significant investments are 
+made in proven practices and programs. Fortunately, corporations 
+like Microsoft are increasingly stepping to the fore, taking the lead in 
+forging public-private partnerships with other corporate, govern-
+ment, and civic leaders to support youth development worldwide. 
+
+We’re proud to work with Microsoft on building these multi-stake-
+holder alliances. Together, we can mobilize the resources to confront 
+poverty and close the opportunity gap for the world’s largest-ever 
+youth cohort.
+
+Microsoft 2013 Citizenship Report
+
+ 20 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Microsoft YouthSpark
+
+Helping youth realize  
+their potential 
+
+We’re helping young people realize their  
+opportunity in the world by providing access to 
+firsthand work experiences and encouraging 
+entrepreneurship.
+
+•  Strengthened fundraising opportunities for youth 
+by launching Give for Youth, a micro-giving site 
+that allows donors to fund and follow the dreams 
+of young people worldwide. Give for Youth has 
+raised more than $1.4 million for over 600 projects 
+through nearly 4,000 donors since its launch  
+in 2012. 
+
+•  Helped tech-savvy students launch their careers 
+
+and pursue their dreams by connecting them with 
+internships and employment opportunities 
+through the Microsoft Students to Business (S2B) 
+program. Students in the program benefit from 
+access to Microsoft’s global network of partners, 
+while participating Microsoft partners can find the 
+next generation of young, talented professionals.
+
+•  Assisted young, visionary entrepreneurs in start-
+ing their new businesses by providing software, 
+support, visibility, and connections to industry 
+players and investors through the BizSpark 
+program. To date, more than 30,000 startups in 
+over 100 countries have graduated from the 
+three-year program. The startups have created 
+thousands of job opportunities for young people 
+and are supported by more than 1,500 BizSpark 
+Network Partners.
+
+•  Showcased students on the rise and helped 
+
+them pursue careers in technology through the 
+Microsoft Student Partners program. Participants 
+conduct demos, build apps, host events, and 
+connect with other students, faculty, and industry 
+experts, helping them gain valuable experience 
+and create networks to improve their job pros-
+pects upon graduation.
+
+•  Fostered innovation, entrepreneurship, and 
+
+employability by bringing together students, IT 
+professionals, developers, researchers, and 
+entrepreneurs at our 100+ Microsoft Innovation 
+Centers. The state-of-the-art facilities in 37 
+countries are designed to accelerate advances  
+in technology and stimulate local software econ-
+omies through skills and professional training, 
+industry partnerships, and innovation.
+
+Assisted 30,000+ 
+young entrepreneurs
+with software, support, and  
+mentorship opportunities  
+through the BizSpark program.
+
+Microsoft 2013 Citizenship Report
+
+ 21 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Microsoft YouthSpark
+
+Sparking interest in a brighter future 
+
+Jeremy Moore never thought he would go to 
+college. The struggling economy in his rural 
+Kentucky hometown provided Jeremy with few 
+opportunities. But he always loved technology, 
+even without formal instruction. “He learned  
+what he could on his own, but didn’t really know 
+where to go from there,” says Tammy Moore, 
+Jeremy’s mother. 
+
+Microsoft founded Technology Education and 
+Literacy in Schools (TEALS) to give high school  
+students like Jeremy the opportunity to succeed  
+in the field of technology. The TEALS program 
+trains and mentors high-tech professionals from 
+Microsoft and other companies and places them  
+in schools as volunteer computer science teachers. 
+The program’s team-teaching model also trains 
+existing school faculty, so they can continue  
+teaching the courses on their own. 
+
+Jeremy now learns about computers and computer 
+programming every day. “TEALS has been a 
+godsend to us,” says William Owens, Lee County 
+Board of Education chairman. “We couldn’t afford 
+the teachers and the program, so Microsoft stepped 
+in — and we are very grateful.”
+
+The program has been a huge success so far. What 
+started as a one-school, single-volunteer program 
+with 12 students now reaches 1,500 students from 
+35 schools in seven states. “We wanted to see if  
+we could take the successes we had locally and make 
+
+a national impact,” says Microsoft Software Engineer 
+Isaac Wilson, who teaches Jeremy remotely from 
+Redmond, Washington. 
+
+More important, Jeremy made the honor roll for 
+the first time ever in the 2012–2013 school year,  
+and hopes to attend college and fulfill his dream  
+of becoming a software engineer. “TEALS helped 
+him all around,” says Tammy. “The sky’s the limit  
+for him now.”
+
+Microsoft 2013 Citizenship Report
+
+ 22 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Microsoft YouthSpark
+
+FY13 performance highlights 
+
+FY14 commitments
+
+• Empowering an additional 100 million youth to imagine and 
+realize their full potential through Microsoft YouthSpark
+
+• Continuing to evolve and grow the Microsoft YouthSpark 
+Hub, where young people can explore and access all the 
+youth-focused services, programs, and resources provided 
+by Microsoft
+
+• Continuing to evolve and grow Give for Youth, a micro-
+giving portal that helps individuals fund and follow the 
+aspirations of youth around the world 
+
+• Continuing to evolve Innovate for Good, a global online 
+
+community that encourages and enables youth to collaborate, 
+inspire, and support each other’s ideas for social change
+
+Goal: Empower 100 million youth to imagine and realize 
+their full potential by connecting them with greater 
+opportunities for education, employment, and entrepre-
+neurship through Microsoft YouthSpark, which partners 
+with governments, nonprofit organizations, and busi-
+nesses around the world. 
+We achieved our goal by providing technology and educa-
+tional opportunities to youth around the world, and partnering 
+with nonprofits, governments, and other businesses to expand 
+digital literacy.
+
+Goal: Launch the Microsoft YouthSpark Hub — an online 
+space where young people can explore and access all the 
+services, programs, and resources provided by Microsoft 
+and our partners for education, skills, employment, and 
+entrepreneurship.
+We successfully launched the YouthSpark Hub, creating three 
+separate resource portals for kids ages 6–12, teens from 
+13–18, and young adults from 19–24.
+
+Goal: Launch Give for Youth, a micro-giving portal that 
+helps individuals fund and follow the aspirations of youth 
+around the world. 
+Since its launch in 2012, Give for Youth has raised more than 
+$1.4 million for over 600 projects, with nearly 4,000 donors 
+contributing to the program.
+
+Goal: Ongoing development of Innovate for Good, a 
+global online community of youth dedicated to using 
+technology to make a difference in their communities. 
+Our global Innovate for Good online community brought 
+together more than 2,200 members in 76 countries in its 
+first year. 
+
+Microsoft 2013 Citizenship Report
+
+ 23 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Technology for Good
+Nonprofits use technology to better support individuals 
+and communities in need. Donated software and services 
+help these nonprofits magnify the social change they drive 
+around the world.
+
+70,286
+
+Organizations around the  
+world that received Microsoft 
+technology donations in FY13 
+
+1/2 million
+
+Refurbished or discounted 
+hardware devices Microsoft  
+made available to nonprofit 
+organizations 
+
+In this section
+
+Donating software and services  
+to nonprofits worldwide 
+
+Improving access to hardware 
+
+Sharing knowledge  
+to deepen impact 
+
+Solutions in action
+
+FY13 performance and  
+FY14 commitments 
+
+$795 
+million
+
+Fair market value of software 
+donations to nonprofits around  
+the world
+
+117
+
+Number of countries with 
+Microsoft software donation 
+programs, including new  
+programs in Austria, Indonesia,  
+and Vietnam
+
+Microsoft 2013 Citizenship Report
+
+ 24 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Technology for Good
+
+“ Office 365 is vital to the work we 
+do, which by its nature is cross-
+organizational and spans the 
+globe. Our Malaria Vaccine 
+Initiative is a perfect example, as 
+the software lets us collaborate 
+across geographies and access 
+files no matter where we are in 
+the world.”
+
+Erik Arnold, CIO, PATH
+
+Technology helps nonprofits deliver critical services, 
+engage new supporters, and raise money faster 
+than ever before. We give nonprofits around the 
+world access to software and services, providing 
+them new opportunities to advance their missions 
+and extend their impact.
+
+Donating software and services 
+to nonprofits worldwide 
+
+With the right software, nonprofits can provide 
+faster, better service and operate more efficiently. 
+We donate hundreds of millions of dollars in  
+software each year through our Technology for 
+Good program. 
+
+•  Increased software donations to 13 percent more 
+nonprofits in FY13, empowering 70,286 organi-
+zations globally. We now have software donation 
+programs in 117 countries around the world.
+
+•  Provided $795 million worth of software to non-
+profits around the world — including matched 
+donations through our employee giving program. 
+
+•  Launched new software donation programs in 
+Austria, Indonesia, and Vietnam through our 
+partnership with TechSoup Global.
+
+•  Developed a pilot program to help nonprofits 
+
+implement Microsoft Office 365, a cloud-based 
+software solution that provides email, productivity, 
+and collaboration tools in the familiar Microsoft 
+Office format. We will launch the full Office 365 for 
+Nonprofits program in FY14. 
+
+Microsoft 2013 Citizenship Report
+
+ 25 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Technology for Good
+
+Improving access to hardware
+
+We partner with organizations to provide PCs and 
+other hardware to the schools, libraries, and non-
+profits that need them most. 
+
+•  Gave nonprofits and educational institutions 
+access to half a million refurbished Windows 
+devices by enabling manufacturers to affordably 
+and legally license refurbished PCs through the 
+Microsoft Registered Refurbisher program. 
+
+•  Enrolled 670 additional nonprofits in our refur-
+bished PC program, which makes restored 
+hardware available to nonprofits at an affordable 
+price. This year, we expanded the program to 
+include Windows MultiPoint Servers, which allow 
+organizations to run multiple workstations 
+through a single central computer. 
+
+•  Funded the International Computer Refurbishers 
+
+Summit, which provides training and knowl-
+edge-sharing opportunities on how to refurbish 
+used electronics for the benefit of both nonprofit 
+and commercial interests. The summit helps 
+build community capacity by giving participants 
+new insights and workshop skills. 
+
+•  Piloted an affordable toolkit in partnership with 
+TechSoup and iFixit, allowing NGOs and young 
+entrepreneurs to set up small electronics repair 
+businesses to fix phones, tablets, and PCs. 
+Currently running in Egypt, South Africa, Lebanon, 
+Romania, and the United States, the pilot empow-
+ers repair technicians to grow their business  
+with access to free online repair guides, business 
+development wikis, design marketing resources, 
+and more.
+
+WorkVentures Connect IT, a nonprofit Microsoft Registered 
+Refurbisher in Australia, has distributed more than 45,000 
+refurbished computers since 2003.
+
+Microsoft 2013 Citizenship Report
+
+ 26 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+$795 million in  
+global software donations
+
+We donated software with a fair market 
+value (FMV) of $795 million to more than 
+70,000 nonprofits worldwide in FY13.1
+
+EUROPE
+
+$186 million
+Software donations
+19,486
+Nonprofits reached
+
+MIDDLE EAST 
+AND AFRICA
+
+$22.6 million
+Software donations
+693
+Nonprofits reached
+
+ASIA PACIFIC
+
+$78.6 million
+Software donations
+6,103
+Nonprofits reached
+
+USA AND CANADA
+
+$420.2 million
+Software donations
+41,476
+Nonprofits reached
+
+LATIN AMERICA
+
+$61.3 million
+Software donations
+561
+Nonprofits reached
+
+1  The total fair market value of our regional software donations and the 
+
+number of nonprofits reached do not equal our FY13 global total, as these 
+regional numbers do not fully encompass all FY13 software donations.
+
+Microsoft 2013 Citizenship Report
+
+ 27 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+•  Worked with Aidmatrix to develop tools using 
+
+the Windows Azure cloud platform that make it 
+easier for governments and organizations to 
+communicate disaster relief needs and get aid to 
+the communities and people who need it most. 
+We also supported Aidmatrix in FY13 with an 
+investment of $175,000. 
+
+•  Helped develop services and support for non-
+profits adopting Microsoft Office 365 through  
+a $25,000 grant to Tech Impact, an organization 
+committed to helping nonprofits realize their 
+potential through technology. 
+
+Serving Communities / Technology for Good
+
+Sharing knowledge  
+to deepen impact 
+
+To complement our technology donations, we help 
+nonprofits and other organizations better under-
+stand how technology can advance their work. 
+
+•  Trained nonprofits around the world on how to 
+use technology and software to increase organi-
+zational effectiveness by hosting 53 NGO 
+Connection Days in 32 countries for more than 
+3,652 NGOs and 5,675 individuals. 
+
+•  Partnered with TechSoup Global to host nine 
+
+technology-focused webinars for the nonprofit 
+community. The webinars — which provided 
+demos and training on Microsoft products, 
+including Windows 8, Office 2013, OneNote, and 
+Publisher — garnered 1,250 day-of participants 
+and 1,053 online views. 
+
+3,652
+
+NGOs were trained on how to 
+use technology and software 
+to increase effectiveness
+
+Microsoft 2013 Citizenship Report
+
+ 28 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Technology for Good
+Working Responsibly / Our people
+
+Technology in the new nonprofit environment
+
+The environment in which nonprofits work has changed dramatically. 
+Online networks have become central to our lives and work, and 
+stakeholders want more involvement in our operations. Seeing tan-
+gible results from a nonprofit organization’s efforts now requires two 
+things: leading with a network mindset and using measurements to 
+learn and continuously improve.
+
+Getting there isn’t easy. On the one hand, nonprofits must operate 
+with an awareness of the organization’s networks — both online and 
+off — and listen to and cultivate those networks to achieve impact. 
+Technology can play an important role in helping nonprofits achieve 
+this network mindset by helping them accurately measure data and 
+apply it to their decision-making processes. 
+
+At the same time, nonprofits must avoid “shiny object” syndrome, in 
+which they embrace the newest cool technology tool without consid-
+ering strategy, adoption, and transformative use.
+
+Microsoft is well aware of this potential dilemma. In addition to 
+donating software and hardware to nonprofits around the world, 
+Microsoft provides training and information resources to help non-
+profits leverage the transformative power of technology for good. 
+Armed with the right tools and knowledge, nonprofits can better 
+engage with internal and external stakeholders and create an organi-
+zational environment that embraces openness, transparency, and 
+collective decision making. 
+
+Helping nonprofits take incremental steps to absorb new technolo-
+gies is core to Microsoft’s capacity-building efforts — and is playing a 
+major role in helping nonprofits advance their missions and extend 
+their impact worldwide.
+
+Beth Kanter, Master Trainer,  
+Author, and Blogger
+
+Beth Kanter is a well-established inter-
+national leader in nonprofit technology 
+capacity building. She was named one 
+of the most influential women in tech-
+nology by Fast Company and one of 
+BusinessWeek’s Voices of Innovation for 
+social media, and is the co-author of 
+two books: The Networked Nonprofit: 
+Connecting with Social Media to Drive 
+Change and Measuring the Networked 
+Nonprofit: Using Data to Change the 
+World (winner of the 2013 Terry McAdam 
+Book Award).
+
+Microsoft 2013 Citizenship Report
+
+ 29 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+$2 million per day
+Average software donation to  
+nonprofits around the world in FY13.
+
+Serving Communities / Technology for Good
+
+Solutions in action
+
+We provide ways for nonprofits and individuals to 
+use technology to tackle the world’s most pressing 
+social problems. 
+
+•  Made it easier for people to connect to friends 
+
+and family during disasters through our 
+HelpBridge mobile app. Supported by Windows 
+Azure, the app also helps people quickly identify 
+disaster relief organizations that need financial 
+and volunteer support. 
+
+•  Launched the Windows 8 Apps for Social Good 
+contest, which encourages developers to create 
+apps that have a positive impact on the world 
+around them. FY13 winners included an app that 
+helps users locate medicine at a reduced cost, and 
+an app that combats obesity by informing users 
+how to prepare nutritious, healthy meals at home. 
+
+•  Encouraged students to develop solutions to 
+real social issues with the Imagine Cup Grant 
+program — a three-year, $3 million competitive 
+program that awards cash, software, and access 
+to resources to a select number of Imagine Cup 
+worldwide finalists. Team Graphmasters, one of 
+this year’s winners, created a traffic navigation 
+system that reduces vehicle carbon emissions, 
+fuel costs, and traffic jams by intelligently routing 
+vehicles based on traffic and weather conditions. 
+
+Microsoft 2013 Citizenship Report
+
+ 30 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Technology for Good
+
+Help made simple
+
+Reaching out to family and friends is typically the 
+first instinct during a crisis. The second is figuring 
+out how to help. But in the chaotic aftermath of a 
+natural disaster, it’s hard to know where to start. 
+
+James Rooney stripped away the frustration and 
+made it simple to do both — all from a single mobile 
+app. James, Microsoft’s Technology for Good 
+program manager, led the team that developed 
+HelpBridge, an app that allows disaster victims to 
+communicate quickly and easily with loved ones 
+while also connecting citizens with opportunities  
+to help. “Microsoft has a long history with disaster 
+response and relief efforts,” says James. “We 
+wanted to come up with a new solution to easily 
+help those in need by leveraging the technologies 
+people use every day.” 
+
+While designing HelpBridge, James and his team 
+focused on how people like to communicate today. 
+The app allows users to alert family and friends  
+to their location and condition by sending a pre-
+populated message via SMS, Facebook, and email. 
+The app makes it just as easy to contribute to relief 
+efforts. “People can choose to give money, volun-
+teer time, or donate goods from a list of needed 
+supplies,” says James. “We try to make it simple.”
+
+HelpBridge has made an impression throughout 
+Microsoft. Ben Rudolph, director of Windows Phone 
+evangelism at Microsoft, says HelpBridge skillfully 
+
+marries mobile technology with real-world needs. 
+“The app gives people the ability to get up and get 
+involved in whatever way is best for them,” says  
+Ben. “Anyone with a smartphone can download this 
+app and easily get involved or get help when they 
+need it most.” 
+
+Microsoft 2013 Citizenship Report
+
+ 31 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Technology for Good
+
+FY13 performance highlights 
+
+FY14 commitments
+
+• Launching the full Office 365 for Nonprofits program  
+
+in up to 90 countries
+
+• Continuing expansion of and access to the Microsoft 
+Software Donation Program with a goal of 80,000  
+organizations in FY14
+
+• Supporting the development and distribution of  
+three to five technology solutions for nonprofits
+
+• Creating a community of excellence within Microsoft  
+to better engage and support nonprofit technology  
+initiatives and solutions
+
+• Working with community partners to support the  
+evolution of hackathons and community-driven  
+solutions for good
+
+Goal: Expand the reach of our software donation programs.
+We provided software donations to 70,286 nonprofits in 
+FY13, up from 62,200 in FY12. 
+
+Goal: Increase the availability of our nonprofit cloud  
+programs and services for nonprofits.
+We developed a pilot program to help nonprofits implement 
+the cloud-based Microsoft Office 365, which provides online 
+access to familiar Microsoft Office tools.
+
+Goal: Help nonprofits understand and adopt new prod-
+ucts, including Windows 8, Office, and Windows Server.
+We hosted 53 NGO Connection Days in 32 countries to help 
+nonprofits increase organizational effectiveness.
+
+Goal: Create an ecosystem that increases the development 
+and distribution of technology solutions for nonprofits.
+We developed a strategy for increasing technology distribu-
+tion to nonprofits in FY13, and plan to execute it in FY14.
+
+Goal: Promote better coordination of technology delivery 
+by expanding relationships across our industry and the 
+humanitarian response community.
+We added geo-mapping leader Esri to our list of disaster 
+response partners. We also worked with groups like Random 
+Hacks of Kindness and Humanitarian Toolbox.
+
+Goal: Continue to expand the technology solutions and 
+services Microsoft can provide in a time of disaster.
+We launched the HelpBridge mobile app, which enables  
+citizens impacted by a disaster to register for assistance, 
+reconnect with loved ones, and access critical information.
+
+Goal: Raise awareness for how technology can support 
+personal, community, and organizational preparedness 
+and response.
+We used social media to share information on disaster  
+preparedness, and provided technology like cloud-based 
+maps to show a disaster’s impact in real time.
+
+Microsoft 2013 Citizenship Report
+
+ 32 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Employee giving
+Communities and charities around the world depend on 
+the engagement and support of individuals. Whether 
+volunteering time or donating money or software, our 
+employees are passionate about giving back to their 
+communities and improving people’s lives. We support  
+our employees by matching their contributions of time  
+and money, enhancing their impact.
+
+$1 billion
+
+Total contributions made by 
+Microsoft and U.S. employees 
+through the matching program 
+since 1983
+
+31,000
+
+Nonprofits served since 1983
+
+In this section
+
+Making a difference
+
+FY13 performance and  
+FY14 commitments 
+
+$100.9 
+million
+
+Employee donations (including 
+matching contributions) in FY13
+
+430,000 volunteer hours contributed 
+by employees in FY13
+
+Microsoft 2013 Citizenship Report
+
+ 33 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Employee giving
+
+“ From its earliest days, Microsoft 
+employees have been involved in 
+their communities and contrib-
+uted to their vitality and growth. 
+Thirty years and $1 billion later, 
+that impact can be felt around 
+the world.”
+
+Bill Gates, Chairman and Cofounder
+
+Employee giving is a cornerstone of our citizenship 
+efforts and an integral part of Microsoft culture.  
+In 2013, we celebrated our 30th annual giving cam-
+paign and surpassed $1 billion in contributions to 
+more than 31,000 nonprofits around the world. The 
+success of our employee giving campaign reflects 
+our respect and appreciation for our employees and 
+our dedication to serving the communities where 
+we live and work. 
+
+Chairman and Founder Bill Gates and CEO Steve Ballmer  
+commemorated Microsoft’s 30th employee giving campaign 
+during a town hall event in October 2012.
+
+Microsoft 2013 Citizenship Report
+
+ 34 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+•  Reached a new high of 64 percent participation 
+in our employee giving campaign among  
+our U.S. employees in calendar year 2012 — with 
+37 percent volunteering more than 60 hours or 
+donating more than $1,000. 
+
+•  Provided employees outside of the United States 
+
+at least three paid days off to volunteer.
+
+•  Committed $4 million through employee contri-
+butions and company matching to the American 
+Red Cross and Mayors Fund in the United States, 
+in the wake of Hurricane Sandy.
+
+Serving Communities / Employee giving
+
+Making a difference
+
+Employee giving occurs year-round at Microsoft. 
+We have a special push each October, when we 
+hold a range of campaign kickoff events, such as a 
+5K run, an online auction, and more than 300 other 
+employee-led activities. In the United States, we 
+match nonprofit donations and volunteering up  
+to $12,000 per employee each year.
+
+•  Contributed $105 million through our employee 
+giving and company match program in calendar 
+year 2012 — an increase of 4.4 percent from 2011. 
+
+•  Donated more than $7.1 million in calendar year 
+2012 through our $17-per-hour volunteer match-
+ing gift program — part of our $105 million 
+employee giving total. Since the program began 
+in 2006, employees have volunteered more than  
+2 million hours, which we’ve matched with more 
+than $34 million.
+
+Learn more about giving at Microsoft on our  
+Employee Giving site.
+
+More than 5,300 Microsoft employees volunteered in their  
+communities this year as part of our employee giving campaign.
+
+Microsoft 2013 Citizenship Report
+
+ 35 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+U.S. employee volunteerism
+
+4,412
+
+total volunteers
+7.8% of U.S. workforce in FY11
+
+4,967
+
+total volunteers
+8.9% of U.S. workforce in FY12
+
+5,341
+
+total volunteers
+10.8% of U.S. workforce in FY13
+
+Each icon represents approximately 250 people.
+
+Serving Communities / Employee giving
+
+431,608
+FY12
+
+430,162
+FY13
+
+383,566
+FY11
+
+Volunteer hours contributed 
+(U.S. only)
+
+$99.8 
+million
+FY12
+
+$52.2 
+million
+
+$100.9 
+million
+FY13
+
+$53.2 
+million
+
+$93.4 
+million
+FY11
+
+$48.9 
+million
+
+$44.5 
+million
+
+$47.6 
+million
+
+$47.7 
+million
+
+Employee giving and 
+company match donations
+
+Microsoft 2013 Citizenship Report
+
+Microsoft 
+match
+
+Employee 
+donations
+
+ 36 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Employee giving
+Working Responsibly / Our people
+
+Partnering for disaster relief
+
+For more than 130 years, the Red Cross has been alleviating human 
+suffering in the face of emergencies by mobilizing the power of volun-
+teers and the generosity of donors. Innovation and new technologies 
+have made communication and disaster response faster — bolstering 
+our efforts to ensure people are safe, informed, and connected.  
+Our partnership with Microsoft shows how technology combined with 
+compassion helps save lives.
+
+When Hurricane Sandy struck in October 2012, Microsoft’s employee 
+giving campaign helped us provide immediate relief and assist local 
+families in rebuilding their lives. When tornadoes hit the Oklahoma City 
+area in May 2013, Microsoft’s donations of electronic equipment to  
+our evacuation centers — along with Skype access — helped displaced 
+residents register for assistance and reconnect with loved ones. 
+
+Microsoft continues to support our disaster relief activities across the 
+country, and we’ve worked together to create an efficient disaster 
+volunteer force through the Ready When the Time Comes program. 
+Beginning in Redmond, Washington, and now offered nationwide, 
+the program trains employees on disaster response and mobilizes 
+them as a local skilled-volunteer force when disaster strikes. 
+
+Microsoft and its employees are remarkable examples of how the 
+power of partnerships has strengthened the Red Cross and supported 
+the people we serve. Their commitment to our humanitarian mission 
+helps ensure the Red Cross will be there to deliver care, shelter, and 
+hope to people in their times of need.
+
+Gail J. McGovern, CEO
+American Red Cross
+
+The American Red Cross exists to provide 
+compassionate care to those in need.  
+It focuses on several key service areas 
+including disaster response and health  
+and safety services.
+
+Microsoft 2013 Citizenship Report
+
+ 37 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Employee giving
+
+FY13 performance highlights 
+
+FY14 commitments
+
+• Continuing to expand and enhance our employee programs 
+
+to excite and encourage record levels of employee and 
+alumni giving and volunteering
+
+• Sharing our technology with other corporations, and  
+
+working with leaders to help scale giving and skills-based 
+volunteering
+
+Goal: Make it easier for employees and Microsoft  
+alumni to contribute their skills and expertise to local 
+communities. 
+We registered more than 5,000 new employees on Volunteer 
+Manager and extended the program to Microsoft alumni, 
+helping them find volunteer opportunities that match their 
+skill set. We also encouraged alumni to participate in the 
+Puget Sound Day of Caring by offering to match their volun-
+teer hours for the day with a donation of $25,000. 
+
+Goal: Support our employees’ giving and volunteerism 
+activities worldwide.
+We raised awareness and funds for charities worldwide through 
+the 24-Hour Global Give and Go, a fundraising activity in which 
+Microsoft employees raise funds for an hour before passing  
+the torch to employees in a different time zone. We also shared 
+tools and best practices for donating time or money from our 
+U.S.-based offices to help international giving initiatives.
+
+Goal: Champion volunteerism and assist the industry  
+to advance and better adopt skills-based volunteering.
+We supported the Taproot Foundation, which brings 
+together industry leaders to define a common language  
+for skills-based volunteerism. We also created a program  
+to tie specific employee skills to related opportunities in  
+community organizations.
+
+Microsoft 2013 Citizenship Report
+
+ 38 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Humanitarian response
+When disaster strikes, every minute counts. Relief agencies rely on quick, 
+accurate communications to help people and businesses get back to 
+normal as quickly as possible. Our technology helps organizations keep 
+vital information flowing during emergencies.
+
+When Hurricane Sandy hit the U.S. mainland in 
+October 2012 — destroying thousands of homes 
+and leaving millions without power — the Microsoft 
+Disaster Response team was ready. 
+
+As the hurricane was still gathering momentum over 
+the Atlantic Ocean, the team deployed Microsoft 
+ReadyReach, a cloud-based information portal that 
+uses Windows Azure to help emergency-manage-
+ment agencies and relief workers rapidly coordinate 
+response efforts. 
+
+In addition to offering cloud-based maps that show 
+the impact of a disaster in real time, the portal makes 
+use of social media to communicate information to 
+disaster victims about shelters, aid, and safe driving 
+routes. It also makes it easier for people to connect 
+with humanitarian relief agencies in the area in need 
+of money, food, or volunteers. The portal received a 
+record 32,766 views during Hurricane Sandy.
+
+The ReadyReach response portal is one of many 
+ways the Microsoft Disaster Response team uses 
+technology to keep vital information flowing during 
+
+Microsoft helped people connect 
+with humanitarian relief agencies in 
+the area during Hurricane Sandy
+
+32,766 
+
+recorded views
+
+of the Microsoft ReadyReach  
+portal during Hurricane Sandy
+
+Microsoft 2013 Citizenship Report
+
+ 39 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Humanitarian response
+
+emergencies — both individually and in tandem 
+with leading humanitarian response organizations 
+and technology partners. 
+
+Microsoft also provided a safe location for people 
+to store their family emergency response plans or 
+insurance policies through SkyDrive for Windows 
+or Mac — accessible from any PC or smartphone. 
+
+In addition, in partnership with Aidmatrix, the team 
+launched the Notes from the Ground program in late 
+2012. This web portal delivers eyewitness responder 
+stories to readers via photos, videos, and messages, 
+helping increase awareness of conditions on the 
+ground and rally community support.
+
+“ Technology is rapidly changing 
+the way we respond to disas-
+ters — allowing us to shift from a 
+top-down driven response to a 
+survivor-centric response. 
+Microsoft has played a leading 
+role in helping response organi-
+zations like ours and survivors 
+navigate this shift through tech-
+nology solutions like HelpBridge 
+and SharePoint. Their expertise 
+and experience working with 
+large organizations have made 
+them an ideal partner.”
+
+Gisli Olafsson, Emergency Response Director, 
+NetHope
+
+Microsoft 2013 Citizenship Report
+
+ 40 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Accessibility
+Today’s rapid advances in technology give people the 
+opportunities to connect, engage, and contribute more fully 
+to society. Our technologies inspire people of all ages  
+and abilities to make the most of their potential — eliminating 
+barriers, improving lives, and strengthening communities.
+
+Created 3-D 
+Soundscape
+
+for the visually impaired
+
+In this section
+
+Expanding opportunity for  
+people with disabilities 
+
+Improving wellness for seniors
+
+National Association of Area 
+Agencies on Aging (n4a)  
+Innovation Award 
+
+Helped New York 
+and Los Angeles 
+seniors get fit
+
+using interactive Microsoft  
+gaming technologies
+
+SECTION factoid label
+Strengthened rights for people  
+with disabilities in partnership  
+with the United Nations
+
+Microsoft 2013 Citizenship Report
+
+ 41 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Accessibility
+
+“ We envision a future where  
+technology serves people of all 
+abilities — no matter how 
+different their needs. The goal of 
+creating equal access to tech-
+nology lies at the heart of 
+Microsoft innovations.”
+
+Rob Sinclair, Chief Accessibility Officer
+
+Technology empowers people — including seniors, 
+people with disabilities, and youth — to participate 
+at the centers of social and political life. We embed 
+accessibility features into our web services, soft-
+ware, and hardware, and we partner with others to 
+advance important causes, helping our customers 
+do more with their talents and interests.
+
+Expanding opportunity for 
+people with disabilities
+
+For people with disabilities or hearing and vision 
+impairments, accessible technologies can eliminate 
+obstacles and broaden opportunities. We strive  
+to build accessibility into many of our products and 
+services, provide resources that open new doors, 
+and partner with others to discover ways of using 
+technology to improve lives. 
+
+•  Took a leadership role on accessibility by support-
+ing the formation of the International Association 
+of Accessibility Professionals. This group will 
+provide the strategic leadership, international 
+perspective, and operational focus needed to 
+globally elevate the accessibility profession and 
+build a worldwide infrastructure for accessible 
+technology development.
+
+•  Worked with UN Human Rights to strengthen 
+
+provisions in the International Convention on the 
+Rights of Persons with Disabilities. Supported by  
+a study conducted in collaboration with Middlesex 
+University and others, the new provisions also 
+suggest ways that the United Nations could 
+improve its own accessibility.
+
+•  Helped address the needs of people with autism 
+by sponsoring and hosting Hack Autism in March 
+2013. Supported by the Bing Fund, the hackathon 
+brought people together — thinkers, hackers, 
+designers — to develop scenario-specific proto-
+types to help advance knowledge and develop 
+solutions.
+
+Microsoft 2013 Citizenship Report
+
+ 42 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Accessibility
+
+•  Created a set of Microsoft Office templates for 
+families to use after a child has been diagnosed 
+with autism, in conjunction with Autism Speaks. 
+The templates were one of many Microsoft initia-
+tives in support of autism-related causes this year.
+
+•  Provided assistance to customers with disabilities 
+or who need support with accessibility features on 
+assistive technologies — such as screen readers, 
+screen magnifiers, or speech-recognition com-
+mands — by opening the Microsoft Accessibility 
+Support Desk. Free of charge, the support desk 
+offers specialized assistance from trained agents. 
+
+•  Improved the accessibility of the Xbox Video 
+
+service by adding closed-captioning support for 
+Xbox Video across Xbox and Windows 8 devices.
+
+•  Explored how Kinect for Xbox 360 could unlock 
+
+ways for people who use sign language to interact 
+with their computers. In collaboration with the 
+Institute of Computing Technology at the Chinese 
+Academy of Sciences, Kinect uses precise move-
+ment recognition to interpret hand gestures.  
+We also began working with the U.S. Air Force in  
+FY13 on a physical-therapy system based on 
+Kinect for Xbox 360.
+
+Mother and child using technology developed  
+with Autism Speaks.
+
+Microsoft 2013 Citizenship Report
+
+ 43 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Accessibility
+
+Sounds that unlock the world
+
+Amos Miller was thrilled. As a managing architect 
+for Microsoft Consulting Services (MCS) in the 
+United Kingdom, Miller — who is blind — had just 
+confirmed that his proof-of-concept innovations 
+for people with visual impairments had succeeded. 
+He had conceived a whole new way to interact with 
+his surroundings.
+
+“It’s easy to overlook the level of anxiety blind 
+people face each time they start thinking about  
+a trip outside,” Miller noted. “Has the bus stop 
+moved? Is there construction along the way?”
+
+Miller’s 3-D Soundscape helps people with visual 
+impairments overcome their anxiety and move 
+about on their own by emitting audio beacons 
+from destinations around town. Rather than  
+a voice saying “Starbucks 20 steps ahead on the 
+left,” the 3-D Soundscape sends an audio cue from 
+the actual location to create a more meaningful  
+360-degree world.
+
+“If you have someone talking in your head, then 
+your focus is on the voice, not the environment,” 
+Miller says. “We tried to create a solution that puts 
+users in control of the experience and helps them 
+focus on their environment.”
+
+Miller’s team also designed the Windows 8 UX  
+app, which allows people to use voice and natural 
+gestures such as swiping, tapping, and scrolling to 
+understand and interact with information appear-
+ing on their screen — without using their eyes. 
+
+Jarnail Chudge, user experience architect with MCS, 
+said Miller was the guide and inspiration for the 
+project, which also brought in collaborators from 
+Bing, Microsoft Research, and the Developer and 
+Platform Evangelism Division. “The sheer delight on 
+his face when he tested the products was enough 
+for everyone on the team to understand we had 
+made a real difference.”
+
+Microsoft 2013 Citizenship Report
+
+ 44 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Serving Communities / Accessibility
+
+Improving wellness for seniors
+
+Older adults can live more independent and produc-
+tive lives with the help of innovative technologies. 
+We partner with community groups and local  
+governments to promote the use of technologies 
+that reduce social isolation, increase wellness, and 
+enhance the quality of life for seniors.
+
+•  Broadened our effort to help seniors get fit, 
+socialize, and manage their personal health 
+online with the Exergamers Wellness Club.  
+The program — which employs Microsoft Kinect 
+for Xbox 360, Xbox LIVE, and Microsoft 
+HealthVault — is now offered to senior centers 
+throughout Los Angeles. Participants can take 
+part in friendly video-game competitions while 
+also uploading and tracking important health 
+data, such as blood pressure and glucose  
+readings, through their online profiles. 
+
+•  Launched a new Exergamers program in New 
+York City in collaboration with New York City’s 
+Department for the Aging and Department of 
+Information Technology & Telecommunications. 
+The fitness program is part of the city’s Innovative 
+Senior Centers project, a citywide effort to 
+encourage better fitness and wellness among 
+New York City’s older adults. 
+
+•  Received an innovation award for senior pro-
+
+gramming from the National Association of Area 
+Agencies on Aging (n4a), the leading voice on 
+aging issues. The award recognized our success 
+with the Exergamers Wellness Club, which  
+we developed in collaboration with the City  
+of Los Angeles Department of Aging. 
+
+A member of the Exergamers Wellness Club  
+in Los Angeles, California.
+
+Microsoft 2013 Citizenship Report
+
+ 45 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working 
+Responsibly
+
+We’re committed to responsible practices in our own 
+operations, with policies and programs that ensure 
+we’re acting as a good corporate citizen everywhere 
+we do business.
+
+47  Our people
+
+56 
+
+ Environmental 
+sustainability
+
+68  Human rights
+
+80  Responsible sourcing
+
+93 
+
+ Governance
+
+Microsoft 2013 Citizenship Report
+
+ 46 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Our people
+Our employees’ passion fuels our success in a competitive, 
+rapidly changing industry. Staying on top requires hiring the 
+best talent around the world and investing in their potential. 
+To attract and retain exceptional people, we provide a 
+dynamic, diverse work environment that fosters collaboration 
+and celebrates personal and professional growth.
+
+4
+
+Number of senior executive 
+women reporting to the CEO  
+in FY13 — an increase of three  
+from the previous year
+
+89%
+
+of employees feel proud  
+to work at Microsoft 
+
+In this section
+
+Compensation and benefits
+
+Diversity and inclusion
+
+Training and development
+
+Health and safety
+
+FY13 performance and  
+FY14 commitments 
+
+16,908
+
+Employees trained on diversity  
+and inclusion globally, including 
+more than 2,400 managers
+
+Named #1 place to work in 
+14 countries
+
+Microsoft 2013 Citizenship Report
+
+ 47 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Our people
+
+“ A great company starts with great 
+people. Our priority is to leverage 
+the diverse perspectives of our 
+people to deliver the inventions 
+that the world needs, to create 
+the devices that the world wants, 
+and to offer the services that the 
+world requires.” 
+
+Lisa Brummel, Executive Vice President,  
+Human Resources
+
+Our employees are innovators from every corner of 
+the globe. They bring talent, commitment, and 
+diverse life experiences that help us better under-
+stand customer needs and deliver exceptional 
+products. We invest in each individual by creating 
+opportunities for them to grow professionally, and 
+we reward their results. We also ask for — and act 
+on — employee feedback in search of new ways to 
+continually advance our status as one of the best 
+places to work in the world.
+
+Compensation and benefits
+
+We attract the world’s best talent through competi-
+tive compensation, benefits, and rewards, all of 
+which contribute to a world-class work environment 
+that motivates great people to do great work. Many 
+of our benefits programs are managed at a local 
+level to ensure they are competitive locally and meet 
+the varying interests and needs of our employees 
+around the world.
+
+•  Rewarded approximately 95 percent of eligible 
+employees with performance-based bonuses 
+and stock awards.
+
+•  Invested in employee retirement readiness by 
+matching contributions to 401(k) plans at up  
+to 3 percent of employee pay. In FY13, 87 percent 
+of our employees participated in our 401(k) plan. 
+
+•  Continued to provide U.S. health care benefits 
+that rank among the best in the industry —  
+furthering our long-standing commitment of 
+providing the highest-quality care for our 
+employees and their families.
+
+ - Contributed up to $3,750 per employee (based 
+on dependents) to health savings accounts, 
+which provide employees with tax-advantaged 
+savings for current or future health care needs.
+
+ - Launched a major campaign to educate 
+
+employees and their families on how to take 
+advantage of Microsoft’s new health plan  
+and supporting benefits. The campaign 
+included video shorts, in-person and online 
+benefits briefings, and an interactive online 
+decision guide.
+
+Microsoft 2013 Citizenship Report
+
+ 48 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Our people
+
+•  Supported the health-conscious lifestyles of our 
+
+ - Encouraged employees to be more active 
+
+throughout the day with the Move It! physical 
+activity challenge, a one-month competition 
+across the United States that awards prizes  
+for activities such as taking the stairs, working 
+out, or playing with your kids. Approximately 
+12,000 U.S. employees registered for the  
+challenge in FY13. 
+
+ - Promoted healthy eating with our farm-to-
+fork initiative and made-from-scratch food 
+options in campus cafes.
+
+employees by implementing new wellness 
+initiatives. 
+
+ - Expanded the U.S. Stay Fit benefit to support a 
+wider range of fitness goals. The benefit offers 
+a reimbursement of up to $800 per year for  
+a large variety of fitness-related expenses, 
+including workout or recreational sports 
+equipment, personal training, fitness classes, 
+or fitness center memberships. 
+
+ - Attracted 8,500 participants to Campus Jam 
+
+2013, an annual event at our Redmond campus 
+that showcases Microsoft’s wellness benefits, 
+with an emphasis on making fitness fun. This 
+year’s activities included a 5K campus fun run 
+that attracted 21 percent more runners than 
+last year, wellness seminars, sports clinics, and 
+a variety of other activities and events for 
+employees and families.
+
+ - Opened the Living Well Health Center at our 
+
+Redmond campus, a full-service health center 
+designed specifically for Microsoft employees 
+that emphasizes convenience, privacy, and 
+comfort. The Living Well Health Center pro-
+vides employees with preventive care, acute 
+care, physical therapy, chiropractic care, well-
+ness coaching, and a full-service pharmacy.
+
+Microsoft 2013 Citizenship Report
+
+ 49 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Our people
+
+35%
+FY11
+
+36%
+FY12
+
+38%
+FY13
+
+approx.
+19,200
+
+approx.
+20,200
+
+approx.
+22,100
+
+Minorities in the
+U.S. Microsoft workforce1
+
+27%
+FY12
+
+22%
+FY11
+
+33%
+FY13
+
+Women and U.S. minorities
+on the board of directors1
+
+24%
+FY11
+
+24%
+FY12
+
+24%
+FY13
+
+approx.
+21,300
+
+approx.
+22,300
+
+approx.
+23,800
+
+Women in the global 
+Microsoft workforce
+
+35
+FY11
+
+35
+FY12
+
+36
+FY13
+
+59%
+United States
+
+approx. 58,000
+
+99,139
+FY13
+
+Microsoft employees
+
+41%
+Other countries
+
+approx. 41,000
+
+Worldwide women and U.S. minorities
+in executive positions at Microsoft1
+
+Microsoft 2013 Citizenship Report
+
+1  U.S. minorities include the following populations: African American/Black,  
+
+American Indian/Alaskan Native, Asian, Hispanic/Latino(a), Native Hawaiian/ 
+Other Pacific Islander. 
+
+ 50 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Our people
+
+Diversity and inclusion
+
+Our collaborative energy is fueled by diverse talent 
+working together in an inclusive way. We foster a 
+culture where leaders use the diverse perspectives 
+and backgrounds of our employees to pioneer 
+inventions, products, and services for our customers.
+
+Representation: Building a diverse pipeline  
+of leaders 
+
+•  Added important new voices to Microsoft’s high-
+
+level decision making by increasing the number of 
+senior executive women who report to the CEO 
+from one to four.
+
+•  Raised the percentage of women and U.S. 
+
+minorities on the Microsoft board of directors 
+from 27 percent to 33 percent. 
+
+•  Grew the percentage of minorities in our overall 
+U.S. workforce from 36 percent to 38 percent. 
+
+Inclusion: Creating and maximizing  
+employee engagement 
+
+•  Completed a maturity model assessment across 
+approximately 95 percent of our business groups 
+to help us evaluate current diversity and inclusion 
+engagement, measure successes, and define 
+steps for future growth. Nearly 500 key stake-
+holders from 44 organizations have completed 
+the model since January 2012. 
+
+•  Incorporated a Global Diversity and Inclusion 
+
+Leader Commitment in the business objectives for 
+more than 2,300 Microsoft leaders — making it the 
+first CEO-led action of its kind. The commitment 
+
+helps ensure that people and talent development 
+processes are prioritized and integrated into our 
+business approach. 
+
+•  Trained 16,908 employees on diversity  
+
+and inclusion globally, including more than  
+2,400 managers.
+
+•  Ranked number 44 out of nearly 900 companies 
+surveyed on DiversityInc magazine’s Top 50 U.S. 
+companies list for 2013. Microsoft ranked number 
+4 as the top company for Asian-Americans  
+and number 9 as the top company for people 
+with disabilities.
+
+•  Scored 100% on the Human Rights Campaign 
+Foundation’s Corporate Equality Index for the 
+ninth consecutive year. The CEI provides an in-
+depth analysis and rating of corporate policies 
+and practices related to lesbian, gay, bisexual, 
+and transgender employees.
+
+Market innovation: Delivering greater business 
+value to our customers
+
+We also incorporate diversity and inclusion into our 
+business strategy by developing innovative prod-
+ucts and services to better serve the needs of a 
+broad range of customers. For example, our Native 
+American Employee Network and a Cherokee 
+Nation team joined forces to add the Cherokee 
+language to Microsoft Office 2013 and the 
+Language Interface Pack for Windows 8.
+
+Read other examples of how we help people of all ages, 
+abilities, and backgrounds live up to their full potential 
+in our Accessibility section.
+
+Microsoft 2013 Citizenship Report
+
+ 51 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Our people
+
+Training and development
+
+Health and safety
+
+We provide training that helps advance our employ-
+ees’ careers and supports today’s constantly evolving 
+workplace. We make our programs available in the 
+classroom, online, and through video, mobile, and 
+other formats to ensure our employees around the 
+world can successfully meet their training goals.
+
+•  Earned an average employee satisfaction rating 
+of 4.31 out of five for our training courses — an 
+overall increase since FY11. 
+
+•  Launched an online, interactive Career Guide to 
+help employees explore extensive career oppor-
+tunities and identify and build skills necessary 
+for success.
+
+•  Refreshed our HR web portal and invested in 
+support resources to help employees quickly 
+access accurate information on trainings and 
+other development opportunities.
+
+4.31
+
+out of 5 is the average  
+employee satisfaction rating 
+for our training courses
+
+We’re committed to creating a safe and healthy 
+work environment for our employees by integrating 
+sound safety and health practices within  
+our operations. 
+
+•  Arranged 1,656 employee enrollments in FY13  
+
+in 36 safety training courses. 
+
+•  Logged an overall recordable incident rate (RIR) 
+of 0.11 per 100 employees — compared with the 
+national average of 0.3 for software companies. 
+The RIR reflects the number of injury cases 
+requiring medical treatment beyond basic first 
+aid in a calendar year.
+
+•  Promoted better safety practices and strength-
+
+ened our internal safety culture by adding three 
+health and safety programs to our existing 
+Employee Safety and Health Manual.
+
+•  Scored a 0.01 rating for occupational injury cases 
+that resulted in employee days lost, restricted,  
+or transferred, compared with the U.S. software 
+industry average of 0.1. The rate is based on the 
+number of injury cases per 100 employees in a 
+calendar year.
+
+•  Completed baseline health and safety risk 
+
+assessment immediately upon acquiring our new 
+Perceptive Pixel manufacturing facility, helping 
+ensure compliance with Microsoft health and 
+safety standards. 
+
+Microsoft 2013 Citizenship Report
+
+ 52 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Our people
+
+Microsoft employee poll
+
+Each spring, we ask our employees to share feed-
+back about the Microsoft work experience, including 
+how they feel about their workgroups, organization, 
+and company as a whole. Managers use the poll 
+results to identify ways to enhance the employee 
+experience and develop action plans. We measure 
+our success by the extent to which these plans make 
+significant, demonstrable, and lasting improvements 
+in our employees’ daily work lives.
+
+EMPLOYEE POLL RESULTS
+
+2011
+
+2012
+
+2013
+
+Employee response rate
+
+90%
+
+88%
+
+89%
+
+Employees who feel proud to work at Microsoft
+
+86%
+
+90%
+
+89%
+
+Employees who feel they are treated with dignity  
+and respect by their managers
+
+92%
+
+92%
+
+93%
+
+Employees who would recommend Microsoft  
+as a great place to work
+
+83%
+
+86%
+
+85%
+
+Employees who feel their workgroup values 
+diverse opinions
+
+84%
+
+86%
+
+86%
+
+Employees who feel their workgroup speaks 
+openly and honestly, even when news is bad
+
+81%
+
+82%
+
+82%
+
+Employees who have a positive opinion about  
+the degree of flexibility they are given in their job
+
+83%
+
+84%
+
+84%
+
+Employees who feel Microsoft is a good corporate  
+citizen in employees' communities and in the world
+
+91%
+
+93%
+
+94%
+
+94%
+
+of employees feel Microsoft  
+is a good corporate citizen 
+in employees’ communities 
+and in the world
+
+Microsoft 2013 Citizenship Report
+
+ 53 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Our people
+
+Employees around the world creating 
+opportunities for others
+
+Approximately 80 percent of Kenyans don’t have 
+access to the Internet. The majority don’t even have 
+electricity. Fortunately, the potential to transform 
+lives in Africa — home to six of the 10 fastest- 
+growing economies in the world — has never been 
+more promising. 
+
+“We are helping millions of people improve their 
+quality of life by giving them opportunities they 
+wouldn’t have had before,” says Peter Henderson, 
+chairman of Kenyan Internet service provider 
+Indigo Telecom.
+
+Peter is a key player in the Mawingu White Spaces 
+Broadband Project — an initiative to deliver low-cost, 
+high-speed wireless broadband to Kenya. A part-
+nership between Microsoft, the Kenyan Ministry of 
+Information Communications and Technology, and 
+Indigo Telecom, the pilot project services areas 
+previously lacking even basic electricity through 
+the deployment of combined solar-powered  
+stations and TV “white space” frequencies. The 
+technology —  partially developed by Microsoft 
+Research — relies on unused channels in the 
+analog TV spectrum to provide broadband access 
+and power to the communities.
+
+The Mawingu project is part of Microsoft’s 4Afrika 
+Initiative, an ambitious program developed by  
+the Microsoft Africa team and U.S.-based African 
+Microsoft employees to boost Africa’s global com-
+petitiveness. 4Afrika also helps Microsoft realize its 
+global commitment to empowering youth —  
+known as YouthSpark — through initiatives like a 
+
+scholarship program for promising African stu-
+dents and “AppFactories” in South Africa and Egypt 
+that hire paid student interns to develop locally 
+relevant apps.
+
+Participants like Bitange Ndemo say Mawingu and 
+4Afrika will help create new opportunities for  
+commerce, education, health care, and delivery  
+of government services across the country.
+
+“We’re beginning to partner with the rest of the 
+world simply by accessing knowledge,” says 
+Bitange, permanent secretary of the Ministry  
+of Information Communications and Technology  
+in the Republic of Kenya.
+
+Microsoft 2013 Citizenship Report
+
+ 54 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Our people
+
+FY13 performance highlights 
+
+FY14 commitments
+
+Goal: Continue optimizing our pay-for-performance culture.
+We continued to monitor and adjust our pay and perfor-
+mance programs based on market and employee dynamics, 
+and rewarded employees for their impact to the business. 
+
+• Continuing to employ a variety of reward programs to  
+
+reinforce our high-performing culture while adjusting our 
+approach to performance and rewards, as needed, in 
+response to employee feedback and evolving business needs
+
+• Offering industry-leading health care in the United States 
+with no employee premiums, and continuing to provide 
+multi-modal educational materials to teach employees and 
+their dependents how to optimize their health care and 
+overall wellness 
+
+• Advancing efforts to increase the diversity of our talent, 
+
+with a focus on senior-level positions
+
+• Enhancing managers’ skills for engaging effectively with 
+employees and customers from different backgrounds 
+and cultures
+
+• Creating learning opportunities to increase employees’ 
+capabilities and skills, enabling them to deliver amazing 
+devices and services to customers
+
+Goal: Offer learning and development to meet future 
+business needs, support workforce agility, and enhance 
+change-management capabilities.
+We enhanced our training tools and resources to meet a variety 
+of learning styles. We also remained focused on helping 
+employees advance their careers and add the skills necessary 
+to be more agile in the workplace.
+
+Goal: Advance efforts to increase diversity in senior-level 
+positions, with a focus on racial minorities in the United 
+States and women globally.
+We’ve maintained steady to slight increases in the percentage 
+of women and minorities in our U.S. and global workforce.  
+At the executive level, we increased the number of senior 
+executive women reporting to our CEO from one to four.
+
+Goal: Enhance managers’ skills for engaging a diverse 
+workforce and creating inclusive work environments.
+We trained 16,908 total people on diversity and inclusion in 
+FY13. In addition, more than 2,100 employees and managers 
+completed our training on understanding conscious and 
+unconscious bias.
+
+Goal: Build U.S. employees’ awareness of and confidence 
+in the value of their employee benefits, including their 
+health coverage.
+We provided ongoing support and education for our 58,000 
+U.S. employees, beginning with open enrollment communica-
+tions and continuing throughout the year. We also kept 
+employees and their families informed and motivated to opti-
+mize their health, wellness, and financial benefits throughout 
+the year.
+
+Microsoft 2013 Citizenship Report
+
+ 55 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Environmental sustainability
+Technology can help create a more sustainable future. This 
+year, we modeled a way forward by making our operations 
+leaner and more energy efficient — helping us meet our 
+FY13 goal of carbon neutrality — and reducing the environ-
+mental impact of our services and devices. 
+
+Carbon  
+neutral in FY13
+
+300,000
+
+metric tons of CO2 offset by 
+innovative projects
+
+In this section
+
+Making our operations  
+carbon neutral
+
+FY13 performance and  
+FY14 commitments
+
+Developing technologies to  
+reduce environmental impact
+
+FY13 performance and  
+FY14 commitments 
+
+Applied 
+company-wide 
+carbon fee
+
+integrating cost of carbon pollution 
+into everyday business decisions
+
+2.3 billion
+
+kilowatt hours (kWh) of  
+renewable energy purchased — 
+more than twice the amount 
+purchased in FY12
+
+Microsoft 2013 Citizenship Report
+
+ 56 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+Making our operations  
+carbon neutral
+
+Climate change presents serious global challenges 
+that require bold responses. With our commitment 
+to carbon neutrality, we’re taking accountability  
+for the impact of our operations by embedding 
+sustainability into all of our business decisions.
+
+Our approach to carbon neutrality  
+has three pillars.
+
+“ We instituted a carbon fee last year 
+because it had the potential to ignite 
+a culture change, and that’s exactly 
+what’s starting to happen. A carbon 
+price means that we now have a 
+common language for how to drive 
+awareness around and begin to 
+reduce emissions. It’s made environ-
+mental sustainability an increasingly 
+important part of how Microsoft 
+does business.” 
+
+Rob Bernard, Chief Environmental Strategist
+
+Be lean 
+
+Be green
+
+Be accountable
+
+We’re setting targets to improve 
+energy efficiency in our data 
+centers, labs, and offices, as well 
+as reduce our use of air travel.
+
+We’re purchasing more renew-
+able energy and establishing 
+goals to reduce our waste and 
+water use.
+
+We’re measuring the carbon 
+impact of our operations and 
+charging our business groups a 
+fee for their associated carbon 
+dioxide (CO2) emissions. 
+
+Microsoft 2013 Citizenship Report
+
+ 57 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+Be lean: Driving energy savings internally
+
+Being efficient in our operations is fundamental to 
+our sustainability goals. We’re implementing new 
+technologies to reduce energy and water use 
+throughout Microsoft, while encouraging employ-
+ees to choose more sustainable behaviors.
+
+•  Reduced resource use with data centers that use 
+half the energy and between 1 to 3 percent of 
+the water required to cool traditional data 
+centers. We’re also tightly integrating resilient 
+software across our cloud services to better 
+manage the data centers, networks, and services 
+hosted within them — helping reduce energy 
+consumption and making them increasingly flex-
+ible and reliable.
+
+•  Realized energy savings for our data center in 
+Dublin, Ireland, by implementing adiabatic 
+cooling, which reduces our energy costs per 
+megawatt by up to 30 percent. We’re also retro-
+fitting existing data centers to be more efficient 
+with harder-working, lower-energy servers, com-
+pressor energy reduction, custom light-emitting 
+diode (LED) lighting, and more. 
+
+•  Dramatically increased insight into our energy use 
+at our 125-building, 500-acre Redmond campus 
+as part of our Energy-Smart Buildings (ESB) initia-
+tive, helping us cut energy costs by an estimated 6 
+to 10 percent. An interconnected energy-man-
+agement system identifies savings opportunities 
+by collecting 500 million data transactions from 
+30,000 pieces of equipment per day.
+
+•  Reduced our carbon footprint by increasing our 
+use of Microsoft collaboration technology as an 
+alternative to travel. We have tools within our 
+corporate travel reservation site that encourage 
+employees to carefully evaluate the business 
+benefit and environmental impact of travel. Since 
+2007, we’ve reduced our carbon footprint from 
+air travel by 30,000 metric tons.
+
+•  Expanded The Connector, Microsoft’s free com-
+muter bus service for employees at our global 
+headquarters in Washington state’s Puget Sound 
+region to 22 routes, 74 buses, and 700,000 
+annual rides. The service has helped eliminate 
+46.3 million miles of travel and reduced carbon 
+emissions by 19,936 metric tons since its debut 
+five years ago.
+
+Learn how we achieved our carbon neutrality goals  
+through our Be Lean + Be Green + Be Accountable strategy. 
+
+Microsoft 2013 Citizenship Report
+
+ 58 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Becoming more efficient
+
+At Microsoft, we’re taking it one step further. By committing to carbon neutrality  
+and putting a price on carbon, we are holding ourselves accountable,  
+changing our behaviors, and managing the resources we use. By implementing  
+our Be Lean + Be Green + Be Accountable = Carbon Neutral strategy, we’re  
+changing how we make choices throughout the company.
+
+12,000
+
+metric tons 
+C02 saved per year through  
+server and lab consolidation  
+on our Redmond campus
+
+Data centers
+Because servers cost more to run  
+in an unmanaged environment,  
+we benefit by consolidating them 
+in centralized data centers —  
+increasing efficiency and lowering 
+carbon emissions for the company.
+
+2,200
+
+pounds
+CO2 generated by the average  
+business trip
+
+Air travel
+The carbon fee adds the cost of 
+offsetting a flight’s emissions into the 
+price of that trip. We save money 
+and reduce carbon emissions by 
+using virtual collaboration tech-
+nologies instead of airline travel.
+
+500
+
+million
+Data transactions collected daily  
+to identify energy savings on our 
+Redmond campus
+
+Real estate
+The carbon fee provides additional 
+funds to invest in energy savings 
+projects across our operations 
+worldwide.
+
+Microsoft 2013 Citizenship Report
+
+ 59 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+Be green: More renewable energy, less waste 
+
+Using resources efficiently requires both commit-
+ment and investment. We’ve increased our 
+purchase of green energy while making respon-
+sible choices with our energy, waste, and water.
+
+•  More than doubled our investment in renewable 
+energy in FY13 by purchasing 2.3 billion kWh of 
+green power globally.
+
+•  Recognized by the U.S. Environmental Protection 
+Agency (EPA) as the second largest purchaser of 
+green energy in the United States. Our totals 
+increased nearly 70 percent from last year, and 
+were equivalent to the energy consumed by 
+204,000 average American homes. 
+
+•  Offset more than 300,000 metric tons of CO2 
+emissions through a growing portfolio of  
+innovative carbon-offset projects.
+
+•  Invested $5.5 million in a demonstration project 
+to power a data center in Cheyenne, Wyoming, 
+using biogas from a wastewater treatment facility, 
+providing ultra-clean, carbon-neutral electricity. 
+Known as the Data Plant, it will be completely 
+independent of the grid and will sustainably 
+power cloud services.
+
+•  Helped Turkey put nearly 465,000 megawatt 
+
+hours of clean electricity back into its national 
+power grid by investing in the 119 wind turbines 
+of the Soma Wind Farm in the Manisa and 
+Balikesir provinces. 
+
+•  Reduced, reused, or recycled 99 percent of the 
+waste from our Redmond dining facilities by 
+switching to compostable tableware, administer-
+ing aggressive recycling programs, and adapting 
+our menu to get the most from each item of 
+food served.
+
+Sustainable water use
+
+Our latest air-cooled data centers in Iowa, 
+Ireland, Virginia, and Washington use  
+only 1 to 3 percent of the water required  
+for a traditional data center, and produce  
+no wastewater.
+
+Microsoft 2013 Citizenship Report
+
+ 60 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+CO2
+
+Be accountable: Holding ourselves  
+
+to a new standard
+
+A critical aspect of addressing climate change is 
+holding ourselves accountable. For the first time 
+ever, we’ve integrated carbon use into the financial 
+decision making of the company. Our internal 
+carbon fee builds a more responsible corporate 
+culture while giving us a new perspective on the 
+external costs of our emissions. 
+
+•  Held every business group at Microsoft respon-
+sible for their emissions with our internal carbon 
+fee — the cornerstone of our commitment to 
+carbon neutrality. Using technologies to measure 
+the impact of our operations, we charge our 
+business groups according to their actual carbon 
+impact, from electricity use to air travel. This 
+adds discipline to our business decisions and 
+helps guide the resource choices made both at 
+our corporate headquarters and through our 
+local subsidiaries. 
+
+•  Created an internal investment fund for our 
+
+carbon fee payments. The fund will be used to 
+support a variety of energy-efficiency and car-
+bon-offset projects, helping us reduce net 
+emissions and meet our carbon neutrality goal.
+
+•  Improved transparency by measuring emissions 
+with advanced tracking software. We rolled out 
+the cloud-based CarbonSystems Enterprise 
+Sustainability Platform — based on Microsoft 
+technology — to more than 600 facilities  
+in 100 countries, providing visibility into our 
+energy use and emissions.
+
+Microsoft 2013 Citizenship Report
+
+ 61 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+Inside the Microsoft carbon fee
+
+How our carbon fee gives business groups an incentive to  
+reduce their emissions and helps us achieve carbon neutrality.
+
+A business division 
+uses carbon-based 
+energy or air travel.
+
+The carbon fee is paid by the 
+division based on the amount 
+of carbon emissions.
+
+Microsoft invests the 
+carbon fund in projects 
+to reduce our footprint.
+
+That money goes into 
+Microsoft’s carbon fund.
+
+Data Center 
+
+Water Utilization
+
+Advanced air-cooled data centers
+
+.23M
+
+ZERO
+
+gallons annual water
+
+gallons annual waste water
+
+Traditional water-cooled data centers
+
+Scope 1: Direct emissions 
+(onsite emissions)
+
+Scope 2: Indirect emissions 
+(electricity consumption) 
+
+Scope 3: Indirect emissions 
+(air travel only)
+
+1,502,736
+2010
+
+311,082
+
+1,530,352
+2011
+
+303,012
+
+1,565,930
+2012
+
+309,995
+
+1,144,271
+
+1,186,492
+
+1,207,419
+
+Renewable energy
+Wind, solar, and biogas
+
+Energy efficiency
+Projects across 
+global facilities
+
+High-quality  
+carbon offsets
+Renewables, low-carbon 
+development, 
+and reforestation
+
+47,383
+
+40,848
+
+48,516
+
+CO2  equivalent emissions (metric tons)1
+
+9.85M
+
+2.46M
+
+gallons annual water
+
+gallons annual waste water
+
+1  This data is provided on a calendar-year basis rather than a fiscal-year  
+
+basis to facilitate reporting to the Carbon Disclosure Project.
+
+Microsoft 2013 Citizenship Report
+
+ 62 
+
+ 
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+Making our operations carbon neutral
+
+FY13 performance highlights 
+
+FY14 commitments 
+
+• Achieving carbon neutrality and net-zero emissions for our 
+
+data centers, software development labs, offices, and 
+employee air travel by increasing energy efficiency and 
+investing in renewable-energy and carbon-offset projects
+
+• Evolving our internal carbon fee — based on current market 
+
+pricing for renewable energy and carbon offsets — and 
+making the company’s business divisions financially respon-
+sible for the cost of their carbon emissions
+
+• Sourcing more renewable power and continuing to  
+implement our more sustainable data center designs
+
+• Extending an energy-management program to targeted 
+U.S.-based Microsoft facilities to decrease energy use 
+
+Goal: Achieve carbon neutrality and net-zero emissions for 
+our data centers, software development labs, offices, and 
+employee air travel by increasing energy efficiency and 
+investing in renewable-energy and carbon-offset projects.
+From increasing data center efficiency to investing in offset 
+projects to implementing an internal carbon fee, our Be Lean 
++ Be Green + Be Accountable = Carbon Neutral strategy 
+helped us achieve full carbon neutrality in FY13.
+
+Goal: Implement an internal carbon fee that will place  
+a price on carbon, based on current market pricing for 
+renewable energy and carbon offsets, and make the  
+company’s business divisions financially responsible for 
+the cost of their carbon emissions.
+Our carbon fee established a price for carbon at Microsoft, 
+encouraging business groups to account for energy and 
+travel consumption in business decisions. 
+
+Goal: Source more renewable power and continue to 
+implement our more sustainable data center designs.
+We purchased 2.3 billion kWh of renewable energy in FY13 —  
+more than double last year’s number — while continuing 
+research investments in sustainable energy solutions for our 
+data centers and tightly integrating resilient software across 
+our cloud. 
+
+Goal: Roll out an energy-management program to decrease 
+energy use in the buildings on our Redmond campus.
+Our interconnected energy-management system helped  
+cut energy costs by an estimated 6 to 10 percent.
+
+Microsoft 2013 Citizenship Report
+
+ 63 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+Developing technologies to  
+reduce environmental impact
+
+Information technology accounts for up to 4 percent 
+of electricity consumed globally. To keep such power 
+use in line, we’re building new efficiencies into our 
+products and services to help our customers reduce 
+their environmental impact. And as our customers 
+and collaborators put their energies into using our 
+products, we’re advancing the conversation about 
+conservation and climate change mitigation. 
+
+Improving energy efficiency  
+in products and services
+
+Much like the cloud has revolutionized business 
+efficiency, we’ve transformed how efficient cloud 
+storage can be. Through our online products and 
+solutions, we’re helping Microsoft users worldwide 
+reduce their own energy consumption.
+
+•  Reduced our customers’ environmental impact 
+by hosting Microsoft cloud services in our 
+advanced, highly efficient data centers. Small 
+and medium-size businesses that use Microsoft 
+cloud services can reduce their energy use and 
+associated carbon emissions by up to 90 percent 
+compared with on-premises delivery.
+
+•  Cut PC energy consumption while driving better 
+performance through power management fea-
+tures built into our hardware and Windows 8.
+
+•  Equipped IT managers to better discover, track, 
+and implement potential energy efficiencies  
+with centrally managed tools such as Microsoft’s 
+System Center Configuration Manager.
+
+•  Helped customers avoid emissions from shipping 
+and packaging through our Digital by Choice 
+program, which offers digital software distribution 
+and dematerializes CD and DVD production.
+
+Power management features in Windows 8  
+help cut PC energy consumption.
+
+Microsoft 2013 Citizenship Report
+
+ 64 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+•  Reduced standby power use for the Xbox 360 by a 
+factor of 10 since its launch in 2005. Now using less 
+than three-tenths of a watt, the efficiencies have 
+resulted in a 60 percent reduction in energy use. 
+
+•  Created a public website and hosted events and 
+programs to foster community knowledge in life 
+cycle sustainability, particularly the environmental 
+choices related to buying, using, and disposing 
+of electronics.
+
+•  Enabled our sales teams and encouraged partners 
+to highlight green product offerings by flagging 
+more efficient products and holding EPEAT® 
+training courses in Central and Eastern Europe. 
+EPEAT is a comprehensive environmental rating 
+system that helps identify environmentally pref-
+erable electronics. 
+
+Working Responsibly / Environmental sustainability
+
+Reducing life cycle impact
+
+Environmental sustainability is core to our hardware 
+design and manufacturing. As part of our Design 
+for Green (DfG) initiative, we’re rethinking how we 
+build hardware from the ground up, incorporating 
+such environmental criteria as energy efficiency, 
+recyclability, materials selection, and power type.
+
+•  Redesigned our products for improved environ-
+mental performance. Windows 8, for example, 
+makes power management seamless and efficient 
+across multiple devices, including laptops, net-
+books, desktops, or tablets. We also expanded on 
+the significant battery-life improvements made  
+in Windows 7 and further developed them in 
+Windows 8, such as giving PCs and laptops the 
+ability to instantly switch between low- and high-
+power modes. 
+
+•  Introduced an environmental scorecard into our 
+DfG initiative to evaluate energy efficiency,  
+use of recycled or alternate materials, and mini-
+mization of packaging earlier in the product 
+inception process.
+
+Significant 
+battery-life 
+improvements
+enabling PCs and laptops to 
+instantly switch between 
+low- and high-power modes
+
+Microsoft 2013 Citizenship Report
+
+ 65 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+Informing discussions of climate change 
+
+Climate change mitigation requires action and 
+understanding. We’re helping collect, study, and 
+manage research into the impact of climate  
+change to support conservation strategies and 
+inform public policy.
+
+•  Advocated for large-scale ecosystem modeling 
+through a partnership with the United Nations 
+Environment Programme World Conservation 
+Monitoring Centre. Microsoft’s Computational 
+Ecology and Environmental Science (CEES) group 
+and Microsoft Research took on the challenge  
+of creating a vast, data-driven General Ecosystem 
+Model in hopes of enhancing environmental 
+understanding and promoting conservation  
+and biodiversity.
+
+•  Worked to restore large aquatic ecosystems — 
+
+particularly in the Puget Sound region — through 
+a cooperative project with the U.S. EPA. The 
+Microsoft Research Connections team explored 
+how available data and technology can help 
+build relationships between community 
+members, land holders, and decision makers at 
+the county and city level.
+
+•  Mapped out threats to endangered wildlife in 
+partnership with the International Union for 
+Conservation of Nature and Natural Resource’s 
+Red List of Threatened Species. Our dedicated 
+team of CEES environmental scientists developed 
+software built on SQL Server 2012 and Bing Maps 
+to strengthen research and create a repository  
+of evidence for threats to species.
+
+•  Helped preserve threatened plant and animal 
+species in Latin America through LiveANDES, a 
+data collection and processing tool developed 
+by Microsoft Research in collaboration with the 
+Pontifical Catholic University of Chile and the 
+Latin American and Caribbean Collaborative ICT 
+Research Virtual Institute.
+
+Time-lapse image of Tibet’s Rongbuk Glacier featured on  
+glacierworks.org — a partnership between filmmaker  
+David Breashears, GlacierWorks, and Internet Explorer. 
+GlacierWorks is telling the story of how climate change is  
+altering the glaciers of the Mount Everest region.
+
+Microsoft 2013 Citizenship Report
+
+ 66 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Environmental sustainability
+
+Developing technologies to reduce environmental impact
+
+FY13 performance highlights 
+
+FY14 commitments
+
+Goal: Provide guidance to help our industry develop 
+more efficient software. 
+Many new Windows applications are designed to work in 
+concert with Windows Power Management. We also part-
+nered with cloud developers to make their code as efficient 
+as possible, helping increase data center efficiency.
+
+• Working with cities around the world to leverage IT and 
+cloud computing to manage resources such as energy  
+and water more efficiently
+
+• Educating customers on how to dispose of old computers 
+and devices sustainably through industry partnerships,  
+collection programs, and outreach efforts
+
+Goal: Work with partners on customer solutions in five 
+key areas: greener IT, buildings, power and energy infra-
+structure, transportation, and resource management. 
+We launched a smart buildings pilot program in Seattle, 
+Washington, modeled after our Redmond Energy-Smart 
+Buildings project. The pilot is expected to produce energy 
+and management savings between 10 to 25 percent in large 
+commercial buildings across Seattle’s downtown corridor. 
+
+Goal: Collaborate with industry peers to develop new 
+metrics like Carbon Usage Effectiveness (CUE) and Water 
+Usage Effectiveness (WUE) that will help make data  
+centers as efficient as possible.
+The Green Grid’s proposed CUE and WUE metrics enable 
+operators to quickly assess the relative sustainability of  
+their data centers and determine if energy-efficiency and/or 
+sustainable-energy improvements need to be made.
+
+Goal: Educate customers on how to dispose of old  
+computers and devices sustainably through industry 
+partnerships, collection programs, and outreach efforts.
+Through our Environment website, we help customers find 
+Microsoft-supported recycling opportunities in their area. 
+We’ve also created the Greener IT Challenge, which is 
+designed to help both customers and companies make 
+more environmentally responsible choices and better 
+understand the impact associated with the purchasing,  
+use, and disposal of PCs.
+
+Microsoft 2013 Citizenship Report
+
+ 67 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Human rights
+Rapid advances in technology create new ways for people 
+to exercise their human rights, yet also introduce new 
+human rights risks. As a global technology company, we  
+are committed to helping people express and protect their 
+fundamental liberties around the world.
+
+In this section
+
+The power of technology  
+to promote human rights 
+
+A global approach
+
+Engagement
+
+Good governance and  
+the rule of law
+
+Privacy and data security
+
+FY13 performance and  
+FY14 commitments
+
+Launched Microsoft 
+Technology and 
+Human Rights Center
+
+Provided easier access to  
+the Do Not Track tool in our  
+Web browser
+
+Released 2012 Law 
+Enforcement 
+Requests Report 
+
+relating to Microsoft online  
+and cloud services
+
+Championed the free 
+exchange of ideas 
+and information as a 
+member of the Global 
+Network Initiative
+
+Microsoft 2013 Citizenship Report
+
+ 68 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+
+“ We understand the critical interplay 
+between technology and human 
+rights and our Technology and 
+Human Rights Center will focus on 
+bringing the power of technology to 
+bear in advancing respect for human 
+rights while working across Microsoft 
+to ensure compliance with our 
+Global Human Rights Statement.”
+
+Brad Smith, Executive Vice President and General 
+Counsel, Legal and Corporate Affairs
+
+New technologies create new opportunities for 
+people to promote and express their human rights. 
+Accessing information, supporting worthy causes, 
+and organizing protests — to name just a few — are 
+now possible on a worldwide scale with the touch 
+of a few buttons. But technology can also expose 
+people to unwanted privacy risks, exploitation, and 
+online safety threats. 
+
+While technology itself doesn’t take sides, technol-
+ogy providers can play a powerful role in promoting 
+human rights and helping people understand the 
+risks and rewards of using technology. We believe 
+companies such as Microsoft have a responsibility 
+to uphold universally accepted standards of human 
+rights and protect people’s privacy — starting with 
+the design and manufacturing of our products. 
+
+Our Global Human Rights Statement is a powerful 
+beacon for our business — a foundational influence 
+for relevant policies and practices. The statement 
+lays out a common set of human rights principles 
+and helps guide key business decisions in critical 
+areas, such as privacy, security, freedom of expres-
+sion, labor rights, equality, diversity, and access  
+to education. 
+
+Microsoft 2013 Citizenship Report
+
+ 69 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+
+Our Global Human Rights Statement focuses on 
+four key priorities. 
+
+•  Creating opportunity: Our products, services, 
+and devices bring the power of technology to 
+promote respect for human rights and help 
+shape the human rights agendas of governments 
+and business.
+
+•  Acting globally: Our commitment is based on 
+
+internationally recognized standards and respect 
+for all human rights, including civil, political,  
+economic, social, and cultural rights. 
+
+•  Engaging strategically: We believe our business 
+can most effectively respect human rights 
+through our presence in, rather than absence 
+from, countries that present significant human 
+rights risks.
+
+•  Promoting good governance: We will continue 
+
+to model and promote the rule of law and good 
+governance around the world.
+
+We’re also committed to meeting our human rights 
+responsibilities across our global supply chain and 
+employee community. Read more in Responsible 
+sourcing and Our people.
+
+The power of technology  
+to promote human rights
+
+We believe technology should help people achieve 
+their full potential in accordance with fundamental 
+human rights. In January 2013, we launched the 
+Microsoft Technology and Human Rights Center at 
+the World Economic Forum 2013 Annual Meeting in 
+Davos, Switzerland. A cornerstone of our human 
+rights activities, the center will help us further inte-
+grate human rights into our culture and throughout 
+our operations. We’ll also work through the center 
+to advance public understanding of the human 
+rights impacts of information and communications 
+technology (ICT). 
+
+Our FY13 actions in this area encompassed two main 
+categories: anti-human trafficking and online safety.
+
+Our Global Human Rights 
+Statement aligns with:
+•   United Nations (UN) Guiding Principles 
+
+on Business and Human Rights
+
+•   UN Universal Declaration of Human Rights
+
+•   UN International Covenant on Civil and 
+
+Political Rights
+
+•   UN International Covenant on Economic, 
+
+Social, and Cultural Rights
+
+•   International Labour Organization 
+
+Declaration on Fundamental Principles 
+and Rights at Work
+
+Microsoft 2013 Citizenship Report
+
+ 70 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+
+Anti-human trafficking 
+
+•  Supported the global fight against human traf-
+ficking and helped empower young women to 
+become leaders in computer science by sponsor-
+ing the International Women’s Hackathon. The 
+crowdsourcing event, which involved 395 women 
+on 11 university campuses worldwide, was aimed 
+at developing technical solutions to advance the 
+missions of three nonprofits: FAIR Girls, 
+Rights4Girls, and The Hindsight Group. 
+
+•  Advocated increased adoption of anti-child por-
+nography tools like Microsoft PhotoDNA, an 
+image-matching technology used by leading 
+companies, nongovernmental agencies (NGOs), 
+and law enforcement agencies to help stop the 
+redistribution of the worst-known images of child 
+sexual exploitation online.
+
+•  Partnered with several organizations to combat 
+human trafficking through the Internet, including 
+the White House Office of Science and Technology 
+Policy, the White House Council on Women and 
+Girls, several U.S. state attorneys general, the UN 
+Global Initiative to Fight Human Trafficking, and 
+local police agencies. 
+
+ - Informed California’s report “The State of 
+
+Human Trafficking in California 2012,” in part-
+nership with the office of California Attorney 
+General Kamala Harris. Released in November 
+2012, the report includes information on how 
+organizations can use technology to investigate 
+and prosecute traffickers and assist victims.
+
+ - Helped fight child exploitation by participating 
+in the Thorn Foundation Technology Task 
+Force, a cross-industry collaboration that 
+focuses on the role technology plays in crimes 
+involving child sex trafficking. This year, our 
+contributions included helping establish 
+industry best practices and guidance on how 
+to address the problem of online predators. 
+
+•  Advanced research to better understand tech-
+
+nology’s role in enabling human trafficking and 
+also inform potential solutions to the problem. 
+Microsoft Research and the Microsoft Digital 
+Crimes Unit awarded a total of $185,000 in grants 
+to researchers at Montclair State University,  
+the Center for Court Innovation, the Catholic 
+University of America, the University of New 
+Hampshire Crimes Against Children Research 
+Center, and other organizations. We’re on track 
+to release the results in FY14.
+
+•  Helped develop an employee resilience guide 
+
+for Internet service companies whose employees 
+interact with child exploitation content as 
+members of the Technology Coalition. 
+
+Microsoft 2013 Citizenship Report
+
+ 71 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+
+Online safety
+
+•  Championed the importance of online safety 
+
+within the ICT industry by naming the industry’s 
+first chief online safety officer in March 2013. 
+
+•  Raised awareness of safer online practices and 
+
+educated consumers and families about  
+trustworthy online activities by leading or partici-
+pating in online safety conferences, events, and 
+activities in Australia, Cameroon, Egypt, Ireland, 
+the United Kingdom, and several cities across  
+the United States. 
+
+•  Took steps to combat online bullying by con-
+ducting a worldwide study of negative online 
+behaviors among youth in 25 countries. The 
+study, which revealed that 54 percent of youth 
+are worried they will be bullied online, was 
+released in the summer of 2012, in tandem with 
+new anti-bullying educational materials for 
+parents, educators, and young people. 
+
+•  Promoted a safer online environment for children 
+by participating in the European Union’s CEO 
+Coalition for Child Online Safety.
+
+Microsoft 2013 Citizenship Report
+
+ 72 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Human rights
+
+As a global company, we address important human rights issues every day.
+
+Online  
+privacy
+
+Human trafficking
+
+Child online 
+safety
+
+Conflict minerals 
+and labor rights
+
+Freedom of 
+expression
+
+Data 
+security
+
+We are guided by four principles to help us make sound business decisions.
+
+The power of technology  
+to promote human rights
+
+Technology can empower 
+individuals to achieve their 
+full potential in accordance 
+with fundamental human 
+rights.
+
+A global approach
+
+Engagement worldwide
+
+Businesses should be guided 
+by internationally recognized 
+standards of human rights, 
+such as the UN Guiding 
+Principles on Business and 
+Human Rights and the 
+Universal Declaration of 
+Human Rights. 
+
+Businesses can most 
+effectively respect human 
+rights through their 
+presence in — rather than 
+absence from — countries 
+that pose human rights risks.
+
+Good governance and the 
+rule of law
+
+Businesses should respect 
+human rights by modeling 
+and promoting good 
+governance and the rule of 
+law around the world.
+
+How we demonstrated our commitment  
+to respecting human rights in FY13 
+
+•  Launched the Microsoft Technology and  
+
+•  Continued membership in the Global Network Initiative  
+
+Human Rights Center 
+
+to foster freedom of expression around the world
+
+•  Completed human rights impact assessments on key 
+areas of our business and potential global markets
+
+•  Built partnerships and led technology research  
+supporting the fight against human trafficking 
+
+•  Released our first-ever Law Enforcement Requests 
+
+Report 
+
+•  Continued advancement of the PhotoDNA software 
+program used to combat child pornography online 
+
+•  Created new tools and trainings to advance Microsoft’s 
+
+•  Sponsored the International Women’s Hackathon  
+
+internal integration of human rights policies
+
+to support the fight against human trafficking
+
+Microsoft 2013 Citizenship Report
+Microsoft 2013 Citizenship Report
+
+ 73 
+ 73 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+
+A global approach
+
+We seek to align all aspects of our business with 
+internationally recognized human rights standards. 
+As an adherent to the UN Guiding Principles on 
+Business and Human Rights, we join with other 
+businesses in embracing universal principles that 
+help shape our business strategy and operations. 
+
+Global Network Initiative
+
+The Global Network Initiative (GNI) is an interna-
+tional coalition of technology companies, civil 
+society organizations, investors, and academics 
+dedicated to safeguarding human rights in the  
+face of restrictive governments.
+
+•  Demonstrated our ongoing commitment to the 
+
+free exchange of ideas and information under the 
+Freedom of Expression policy we adopted in FY11 
+as a member of the GNI. The GNI allows us to 
+participate in discussions about how to provide 
+products and services in the ICT sector in ways 
+that respect, protect, and advance freedom of 
+expression and privacy — particularly in the face 
+of government demands for censorship and dis-
+closure of users’ personal information. 
+
+•  Collaborated with the GNI to define the scope 
+
+and method of the next phase of an independent 
+assessment of GNI company members. The 
+assessment will include third-party reviews of 
+selected cases where the government asked 
+companies to remove content or demanded user 
+information or content, helping the GNI evaluate 
+the extent to which company members followed 
+its stated policies and procedures.
+
+Impacts, assessments, and best practices
+
+•  Increased internal Microsoft understanding of 
+our human rights–related impacts and enabled 
+better business decision making by conducting 
+human rights impact assessments for Microsoft 
+products, services, and potential global markets. 
+
+•  Fostered understanding and adoption of the UN 
+
+Guiding Principles on Business and Human Rights, 
+and shared best practices through proactive 
+engagement with a broad range of stakeholders, 
+including investors, human rights organizations, 
+and other corporations. 
+
+•  Engaged in several third-party forums related to 
+human rights, including presentations at the first 
+annual UN Forum on Business and Human 
+Rights, held in Geneva in December 2012, and 
+the Business and Human Rights: Best Practices in 
+Supply Chain symposium hosted by the Council 
+on Foreign Relations in Washington, D.C., in  
+May 2013. 
+
+Read more about the Global Network Initiative’s efforts  
+to advance Internet freedom and online privacy.
+
+Microsoft 2013 Citizenship Report
+
+ 74 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+
+Engagement
+
+One of the most challenging issues we face is how 
+to most effectively advance our values in countries 
+that do not share our commitment to human 
+rights. We believe active engagement in these 
+countries holds the greatest promise for promoting 
+human rights in the long term. Read about our 
+work with BSR on engaging in emerging markets 
+on page 76.
+
+Good governance  
+and the rule of law
+
+Responsible business can serve as a model for 
+sound human rights practices. More than 10 years 
+ago, Bill Gates launched the Trustworthy Computing 
+Initiative, a company-wide effort to limit privacy and 
+data security risks. This initiative continues to inform 
+our internal policies. We also respect the rule of law 
+around the world, helping us promote a criminal 
+justice and security landscape that prioritizes trans-
+parency and fairness for all.
+
+•  Increased the transparency of Microsoft’s data-
+handling practices by releasing our first-ever 
+Law Enforcement Requests Report. The report 
+details the number of data requests we received 
+from official legal entities, categorizes them by 
+type, and describes the rigor of our review 
+process for each request. 
+
+•  Continued embedding awareness of human rights 
+issues into our company culture and organizations 
+by including our Global Human Rights Statement 
+in the business ethics and compliance materials we 
+send to all employees globally. We also provided 
+human rights training to key internal groups.
+
+•  Worked to ensure Microsoft’s commitments to 
+
+freedom of expression are met by requiring train-
+ing for software developers, privacy managers, 
+product group attorneys, and other field person-
+nel who receive requests from governments to 
+take down online content. 
+
+Microsoft 2013 Citizenship Report
+
+ 75 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+Working Responsibly / Our people
+
+Human rights due diligence at Microsoft
+
+Faris Natour,  
+Director, Human Rights
+BSR
+
+Faris leads BSR’s human rights practice, 
+advising companies on human rights  
+strategy, policy development, human 
+rights impact assessments, and other ele-
+ments of human rights due diligence.
+
+Over the last two years, BSR has worked with Microsoft to conduct 
+human rights due diligence. Our work began with a corporate-wide 
+mapping to identify relevant human rights issues, assess how 
+Microsoft has been managing these issues, and prioritize Microsoft’s 
+operations for more in-depth human rights impact assessments 
+(HRIAs). Following this mapping, BSR has conducted HRIAs of various 
+products, services, business relationships, and markets. 
+
+BSR’s assessments are aligned with the UN Guiding Principles on 
+Business and Human Rights and guided by Microsoft’s Global Human 
+Rights Statement. Through independent research, internal interviews, 
+and external engagement, BSR identified key human rights risks  
+and opportunities, and provided conclusions and recommendations 
+for Microsoft. 
+
+Among our work in 2013, we conducted a country-level human rights 
+impact assessment to inform Microsoft’s decision on whether and 
+how to enter a new market. This assessment identified key risks, such 
+as the need for more robust “know your customer” due diligence, 
+and identified opportunities, such as using technology to strengthen 
+civil society organizations in the country. Aligned with Microsoft’s 
+belief that it can most effectively respect human rights through its 
+presence in — rather than absence from — countries with significant 
+human rights risks, the assessment provided Microsoft with a road 
+map to engage in the country responsibly.
+
+Throughout the due-diligence process, we collaborate closely with 
+Microsoft to merge BSR’s human rights expertise and external per-
+spective with Microsoft’s technology expertise and understanding of 
+its products, services, and markets. We will continue to conduct 
+human rights impact assessments on additional aspects of Microsoft’s 
+business and assist Microsoft in addressing our findings.
+
+Microsoft 2013 Citizenship Report
+
+ 76 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+
+Privacy and data security
+
+Social networking sites, online communities, and 
+other Internet innovations have made it easier than 
+ever for people to share ideas and information, but 
+they’ve also introduced unprecedented privacy and 
+security risks. We continue to pioneer ways to 
+protect our customers’ privacy and help keep their 
+information secure in the design and development 
+of our products. 
+
+Privacy 
+
+•  Upheld our ongoing commitment to customer 
+privacy by enabling Do Not Track in Internet 
+Explorer 10. Do Not Track gives customers more 
+control over how their online activities are 
+recorded and used.
+
+•  Increased public awareness of potential online 
+
+privacy risks and educated customers about how 
+they can use Microsoft technologies to help  
+mitigate these risks through an international 
+education campaign. We also released the 
+online tool Your Privacy Type to help customers 
+better understand their privacy type and align  
+it with their online behavior. 
+
+•  Capped a series of worldwide privacy discus-
+
+sions with the Microsoft Global Privacy Summit 
+in Redmond in September 2012. Insights from 
+the Microsoft Global Privacy Series — which also 
+included events in Washington, D.C., Brussels, 
+Singapore, Sydney, and Sao Paulo — were pub-
+lished in the white paper “Notice and Consent in 
+a World of Big Data” by Indiana University and 
+the University of Oxford.
+
+•  Delivered the keynote address at the 34th 
+
+International Conference of Data Protection and 
+Privacy Commissioners in Punta del Este, Uruguay. 
+Brad Smith, executive vice president and general 
+counsel, Legal and Corporate Affairs at Microsoft, 
+spoke on “Privacy and Technology in Balance.”
+
+•  Continued investing in our privacy governance 
+program by employing individuals who have 
+formal privacy responsibilities, including many 
+certified information privacy professionals. All 
+are tasked with helping ensure that privacy poli-
+cies are applied across our products, devices, 
+and services. 
+
+Microsoft 2013 Citizenship Report
+
+ 77 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Microsoft Computing 
+Safety Index
+Covering more than 20 countries, our  
+second annual Computing Safety Index 
+helps gauge the extent to which consumers 
+are exercising safer habits and practices 
+when they go online. 
+
+Working Responsibly / Human rights
+
+Data and systems security
+
+•  Continued our ongoing commitment to cus-
+tomer privacy by enabling Do Not Track in 
+Internet Explorer 10. We believe that one day 
+it will give consumers the increased control 
+over their privacy they expect and deserve. 
+
+•  Advanced public awareness of online risks by 
+issuing volume 14 of the Microsoft Security 
+Intelligence Report, a comprehensive, up-to- 
+date, and geographically specific analysis of the  
+cyber-threat landscape — including exploits,  
+vulnerabilities, and malware — using data  
+from Internet services and more than 600 million 
+computers worldwide.
+
+•  Hosted the second Security Development 
+
+Conference in San Francisco, California. The event, 
+which attracted more than 270 attendees from  
+127 global organizations, showcased our ongoing 
+support for the Security Development Lifecycle —  
+Microsoft’s security assurance process for software 
+development. 
+
+•  Helped software developers and IT professionals 
+
+better understand how installing new applications 
+on Windows systems can alter the threat environ-
+ment by releasing the Attack Surface Analyzer 1.0. 
+The free tool builds awareness of security threats 
+by highlighting potential weaknesses. 
+
+Microsoft 2013 Citizenship Report
+
+ 78 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Human rights
+
+FY13 performance highlights* 
+
+FY14 commitments
+
+Goal: Advance our work with partners to fight cyber-
+crime, online child exploitation, and human trafficking.
+We partnered with the White House Office of Science and 
+Technology Policy to combat human trafficking. Our 
+PhotoDNA image-matching technology continues to be used 
+by leading organizations to help stop online child exploitation.
+
+Goal: Uphold our commitment to human rights as out-
+lined in our Global Human Rights Statement, and annually 
+communicate our progress. 
+We raised awareness of our commitment to respect human 
+rights, initiated human rights training in key areas, and 
+engaged stakeholders. 
+
+Goal: Identify, prevent, and mitigate the human rights 
+risks associated with our products and services. 
+We completed human rights impact assessments of key  
+areas of our business and potential global markets. 
+
+Goal: Conduct a GNI Phase III assessment. 
+We collaborated with GNI to define the independent Phase III 
+assessment, including describing the types of government 
+requests we receive for content removal or user information.
+
+Goal: Host the sixth U.S.-China Internet Industry Forum, 
+to discuss issues such as free expression. 
+We cohosted the forum in Beijing in April 2013.
+
+Goal: Maintain a comprehensive privacy program to mini-
+mize customer risk, foster compliance, and build privacy 
+into our products and services. 
+We employed many certified information privacy profession-
+als to help ensure privacy policies are applied across our 
+products, devices, and services. 
+
+Goal: Strengthen consumer privacy and online safety by 
+partnering with governments, NGOs, industry partners, 
+and law enforcement. 
+We hosted the Microsoft Global Privacy Summit in 2012.
+
+*  The FY13 goals were edited slightly from last year’s report  
+
+for space reasons.
+
+Microsoft 2013 Citizenship Report
+
+• Increasing our commitment to transparency by issuing  
+
+Law Enforcement Requests Report
+
+• Collaborating with privacy stakeholders from around the 
+world to generate new thinking in support of evolved 
+approaches and models to protect privacy
+
+• Developing and deploying technology solutions and  
+
+applications to advance human rights
+
+• Continuing to meet Microsoft’s human rights commitment 
+
+as outlined in our Global Human Rights Statement
+
+• Advancing public understanding of the human rights 
+
+impact of information and communications technology 
+through the work of the Microsoft Technology and Human 
+Rights Center
+
+• Performing ongoing assessments of the human rights 
+
+impacts of our operations 
+
+• Advancing internal, targeted human rights trainings
+
+ 79 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Responsible sourcing
+We ask our suppliers to uphold the high standards of  
+citizenship to which we hold ourselves. By setting clear 
+expectations in our Supplier Code of Conduct, taking steps 
+to ensure those expectations are met, and sharing best  
+practices with our suppliers, we’re working to advance the 
+health, safety, and well-being of our suppliers’ workers. 
+
+Enhanced 
+requirements  
+and efforts 
+
+to help hardware and packaging 
+suppliers manage their 
+environment, health, and  
+safety practices
+
+Centralized 
+management
+
+of the responsible sourcing 
+initiatives that apply to our  
+non-hardware suppliers
+
+In this section
+
+Hardware and  
+packaging production
+
+Conflict minerals
+
+FY13 performance and  
+FY14 commitments
+
+Defined and rolled 
+out 80 “model 
+factory” practices 
+
+related to worker living conditions 
+for our Tier 1 hardware and 
+packaging suppliers
+
+Made progress in 
+examining our 
+supply chain for 
+conflict minerals
+
+based on reports from 84 percent 
+of our suppliers of components 
+containing tin, gold, tantalum,  
+or tungsten
+
+Microsoft 2013 Citizenship Report
+
+ 80 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+“ This year, we have focused on 
+further integrating responsible 
+sourcing into how we manage 
+relationships across our broad 
+base of suppliers, as part of our 
+journey to ensure our suppliers 
+have mature ethical, social, and 
+environmental practices that 
+reflect Microsoft’s values.”
+
+Mike Simms, Chief Procurement Officer
+
+$1.9B
+
+spent with women- and minor-
+ity-owned businesses in FY13, 
+placing Microsoft in the top 20 
+companies for spending with 
+diverse suppliers.
+
+Our supplier network is critical to our business. We 
+require our suppliers to uphold the ethical business, 
+employment, environmental, and worker safety 
+practices outlined in our Supplier Code of Conduct 
+(SCC) — which aligns with the Electronic Industry 
+Citizenship Coalition’s (EICC) responsible supply 
+chain standards. This year, we enhanced our SCC 
+with provisions related to freedom of association 
+and human trafficking.
+
+We have two internal teams devoted to administer-
+ing our supply chain.
+
+•  Our Global Procurement Group oversees our 
+non-hardware suppliers, which number more 
+than 60,000. This group runs such responsible 
+sourcing initiatives as our supplier diversity 
+program, ethics training, and anti-corruption 
+screening programs. In FY13, the group created  
+a new management function solely dedicated  
+to responsible sourcing. 
+
+•  Our Manufacturing, Supply Chain, and 
+
+Information Services Group manages our hard-
+ware and packaging supply chain. For the last 
+eight years, this group has run a Social and 
+Environmental Accountability (SEA) program  
+to ensure that our hardware and packaging  
+suppliers abide by our SCC and additional pro-
+gram-specific requirements. The SEA program 
+also helps hardware and packaging suppliers 
+enhance their capabilities in areas such as  
+waste management and worker-management 
+communications.
+
+Microsoft 2013 Citizenship Report
+
+ 81 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+USA
+
+UK
+
+Netherlands
+Germany
+
+Israel
+
+China
+
+Korea
+
+Japan
+
+Hong Kong SAR
+
+Taiwan
+
+ Thailand
+
+Malaysia
+
+Philippines
+
+Singapore
+
+Indonesia
+
+Brazil
+
+Microsoft production supplier locations
+
+Hardware and  
+packaging production
+
+Beginning with the introduction of the Microsoft 
+Mouse in 1982, our hardware business has grown 
+steadily — and has accelerated even more in the 
+past several years. Our hardware and packaging 
+production activities now span 16 countries around 
+the world.
+
+As we transition to a devices and services company, 
+we have reaffirmed our expectations for hardware 
+and packaging production suppliers on issues con-
+cerning labor, health and safety, environmental 
+controls, business ethics, and management systems. 
+As we work with an increasingly large and complex 
+set of hardware and packaging production 
+
+suppliers, we are continuing to raise the bar with our 
+existing suppliers while onboarding new suppliers to 
+our requirements. 
+
+We also recognize the increasing level of public 
+interest in our supply chain management practices, 
+and are therefore expanding the scope of informa-
+tion in this report. Earlier this year, we disclosed  
+our top 100 hardware production suppliers. 
+
+Microsoft 2013 Citizenship Report
+
+ 82 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+Our approach to supplier engagement
+
+Our hardware and packaging suppliers are 
+required by contract to follow Microsoft’s social 
+and environmental specifications, which include 
+our SCC and other criteria specific to hardware  
+and packaging production. These requirements 
+apply to the following two tiers of suppliers.
+
+•  Tier 1 suppliers have a direct contractual  
+
+relationship with Microsoft to manufacture  
+our hardware components and products. 
+
+•  Tier 2 suppliers are contracted by Microsoft  
+
+to provide components and/or materials to our 
+Tier 1 suppliers for inclusion in our products. 
+
+We also require these suppliers to have systems in 
+place to ensure that their own upstream suppli-
+ers —  those that Microsoft does not contract with 
+directly — conform to our SEA specifications. 
+
+“As we pivot to a devices and 
+services business, we aim to set a 
+high bar for ourselves and our 
+suppliers on ethics, labor rights, 
+health and safety, and the 
+environment.”
+
+Brian Tobey, Corporate Vice President, 
+Manufacturing, Supply Chain, Information,  
+and Services
+
+Microsoft 2013 Citizenship Report
+
+ 83 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+All hardware and packaging suppliers contracting 
+with Microsoft undergo qualification assessments to 
+ensure they meet our standards. Before we start 
+doing business together, all Tier 1 and high- and 
+medium-risk Tier 2 suppliers face initial capability 
+assessments and audits conducted by third-party 
+auditors and/or Microsoft’s own SEA team. Once 
+these suppliers are on board, we provide a score-
+card that grades each factory on our social and 
+environmental requirements for hardware and pack-
+aging suppliers.
+
+On an ongoing basis, third parties audit our Tier 1 
+suppliers at least annually and audit Tier 2 suppliers 
+based on their risk level. Microsoft’s SEA team  
+supplements these third-party audits with onsite 
+assessments of Tier 1 factories and high- and 
+medium-risk Tier 2 component suppliers.
+
+Our approach to supplier engagement
+
+Third-party auditors and the Microsoft SEA team 
+use protocols and tools developed by the EICC that 
+we supplement with additional criteria. Audit criteria 
+include labor, health and safety, environment,  
+ethics, and management systems. During the review 
+process, auditors examine documentation; visit pro-
+duction lines, dorms, canteens, and waste storage 
+facilities; and conduct face-to-face interviews of 
+workers and factory management.
+
+When auditors or our SEA team find non-confor-
+mances with our standards, our SEA team works 
+closely with suppliers on corrective action plans to 
+resolve issues. We require suppliers to identify the 
+root cause, the corrective course of action, and 
+future preventive actions for all the issues found. 
+Suppliers must correct issues within specific dead-
+lines based on the severity of the non-conformance 
+found to avoid restrictions on new Microsoft busi-
+ness or the possibility that we’ll terminate our 
+business with them.
+
+Onboarding 
+requirements 
+
+•  Contracts
+
+•  Vendor code  
+of conduct
+
+•  SEA specifications
+
+Assessments, audits, 
+and scorecards
+
+•  Third-party auditors 
+and SEA assessors
+
+•  EICC requirements plus 
+Microsoft requirements
+
+•  Scorecards
+
+Corrective action 
+and validation
+
+•  Root cause 
+
+identification
+
+•  Corrective and 
+
+preventive action
+
+Continuous 
+improvement
+
+•  Enhanced living 
+
+conditions checklist
+
+•  Best practices
+
+Microsoft 2013 Citizenship Report
+
+ 84 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+We also conduct additional inspections of suppliers 
+when audits have identified a considerable number 
+of repeated non-conformances and/or critical/
+serious non-conformances. These factory inspec-
+tions include visits from Microsoft executives in 
+conjunction with SEA team members, and require 
+good faith efforts to address major findings. 
+Suppliers that do not address our findings risk  
+termination of business.
+
+While we demand accountability, we seek to work 
+collaboratively to help our contracted suppliers 
+build their capabilities by sharing experiences and 
+best practices, including detailed guidelines on 
+how to improve factory workers’ living environments 
+and communities.
+
+Supplier Code  
+of Conduct
+The SCC sets our expectations for ethical 
+business and employment practices 
+among all companies doing business with 
+Microsoft, including overseas suppliers and 
+service providers. Our SCC requires, among 
+other things:
+
+•   Fair, legal wages under  
+humane conditions
+
+•   A safe and healthy work environment
+
+•   A workplace free of harassment,  
+
+discrimination, or abuse
+
+•   Freedom of association
+
+•   No forced or child labor and new  
+
+protections against human trafficking
+
+•   Environmental and  
+
+regulatory compliance
+
+•   Business, legal, and  
+
+anti-corruption protections
+
+Microsoft 2013 Citizenship Report
+
+ 85 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+Ensuring supplier accountability 
+
+In FY13, we completed 278 third-party audits and 
+Microsoft assessments of 149 Tier 1 and high- and 
+medium-risk Tier 2 suppliers, up from 267 third-party 
+audits and Microsoft assessments of 120 Tier 1 and 2 
+suppliers in FY12.
+
+Last year, we disclosed in our Citizenship Report 
+the critical/serious non-conformances from labor-
+related violations. In this year’s report, we are 
+building on that disclosure by reporting on critical/
+serious non-conformances for the broader range 
+of labor, health and safety, environment, and ethics 
+requirements covered in third-party audits and 
+Microsoft assessments of suppliers. 
+
+All of the identified critical/serious non-confor-
+mances were escalated to Microsoft senior 
+management, and the suppliers were placed on 
+restricted status with no new Microsoft business 
+awarded until they had resolved these issues. In all 
+these instances, the supplier instituted a corrective 
+action plan that was approved by Microsoft — with 
+follow-up audits confirming that the supplier was 
+implementing the corrective action. As we do each 
+year, we analyzed patterns of these non-confor-
+mances to improve our supplier capability-building 
+and compliance-training efforts for the next year.
+
+As the charts indicate, the number of audits and 
+assessments conducted year over year increased 
+primarily due to the onboarding of new suppliers; 
+however, the total number of critical/serious labor 
+non-conformances decreased. 
+
+Microsoft 2013 Citizenship Report
+
+Over the past two years, we’ve found four instances 
+of underage workers in our suppliers’ factories due 
+to vulnerabilities in the suppliers’ age-verification 
+procedure. Suppliers did not detect the misuse of 
+borrowed identification indicating the employee 
+was older than he or she in fact was. To address this 
+issue, we’ve worked to help suppliers implement 
+facial-recognition software to screen new employees. 
+This substantially reduces the risk of minors misus-
+ing legitimate identification papers to get work. A 
+number of our suppliers now take this additional 
+step to validate potential employees’ ages. In the 
+four instances over the past two years where we 
+found an underage worker in a factory, we worked 
+with the supplier to ensure they provided the indi-
+vidual full compensation for their work and a safe 
+journey back home.
+
+Supplier audit and assessment results, labor
+Findings of critical/serious non-conformances
+
+PROVISION
+
+FY12 
+
+FY13 
+
+YEAR-OVER-YEAR 
+CHANGE
+
+Freely chosen 
+employment
+
+Child labor avoidance
+
+Working hours
+
+7 
+
+3      
+
+6                   
+
+Wages and benefits
+
+14              
+
+Humane treatment
+
+Non-discrimination
+
+Freedom of 
+association 
+
+0                         
+
+8 
+
+0                           
+
+2 
+
+1          
+
+1          
+
+8             
+
+1              
+
+3                
+
+0
+
+Labor subtotal
+
+38
+
+16
+
+-5
+
+-2
+
+-5
+
+-6
+
++1
+
+-5
+
+0
+
+-22
+
+ 86 
+
+ 
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Supplier audit and assessment results1
+Findings of critical/serious non-conformances
+
+Labor
+
+Health and safety
+
+FINDINGS
+
+On page 86
+
+Labor subtotal 16
+
+High-risk health and safety
+
+Occupational safety
+
+Emergency preparedness and response
+
+Occupational injury and illness
+
+Industrial hygiene
+
+Physically demanding work
+
+Machine safeguarding
+
+Dormitory and canteen
+
+Environmental permits and reporting
+
+Pollution prevention and resource reduction
+
+Hazardous substances
+
+Wastewater and solid waste
+
+Air emissions
+
+Business integrity
+
+No improper advantage
+
+Protection of intellectual property
+
+Protection of identity
+
+Environment
+
+Ethics
+
+Management systems
+
+Labor and ethics management systems
+
+Environment, health, and safety management systems
+
+1
+
+1
+
+0
+
+0
+
+2
+
+0
+
+0
+
+0
+
+Health and safety subtotal 4
+
+0
+
+0
+
+0
+
+2
+
+0
+
+Environment subtotal 2
+
+0
+
+0
+
+0
+
+0
+
+Ethics subtotal 0
+
+0
+
+0
+
+Total critical/serious findings 22
+
+1  Number of instances found of critical/serious non-conformances by third-party audits  
+
+and Microsoft SEA assessments in FY13 (which are both based on the EICC audit protocols with  
+additional Microsoft requirements).
+
+Microsoft 2013 Citizenship Report
+
+ 87 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+Working Responsibly / Our people
+
+Supporting women’s empowerment and health
+
+Racheal Meiers, Director
+HERproject
+
+Racheal oversees the HERproject Factory 
+and HERproject Farm programs, along 
+with the global HERproject team. She also 
+supervises relationships with participating 
+companies, and manages program media 
+relations, partnerships, and expansion.
+
+Women working in factories face a number of personal health risks 
+and challenges, which are often aggravated by gender inequities  
+that impact their lives at home and in their communities. Not being 
+able to practice preventive general and reproductive health —  
+whether due to lack of awareness or reluctance to seek health  
+services — negatively impacts the personal well-being of women,  
+as well as their ability to thrive as employees.
+
+BSR’s HERproject (Health Enables Returns) works to address this  
+challenge through factory-based women’s health education, using  
+a peer education methodology that also drives empowerment and 
+leadership development. Across nine countries in Asia and Africa, 
+HERproject motivates factory workers to become health ambassa-
+dors to their coworkers, their families, and within their communities, 
+training individuals on issues like safe sex and HIV/AIDS, nutrition, 
+cervical cancer and breast cancer, and general health and hygiene. 
+The HERproject also works to demonstrate the business benefits  
+of these program activities to promote long-term factory investments 
+in women’s health. 
+
+Microsoft and two key suppliers have participated in the HERproject 
+over the past three years. Our collaboration has helped reach more 
+than 5,000 women working in southern China, as well as sensitizing 
+6,000 male workers to these issues. Follow-up surveys indicate the 
+program has raised awareness of important health issues, but more 
+important, the program has promoted adoption of healthier behaviors. 
+
+Microsoft is one of only two electronics companies participating in the 
+HERproject (out of 24 company partners). The company’s involvement 
+is an important factor in driving increased attention to and support  
+for women’s health and well-being — and women’s empowerment 
+more broadly — within the electronics industry.
+
+Microsoft 2013 Citizenship Report
+
+ 88 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+Improving work and living conditions
+
+In FY13, Microsoft’s SEA team and manufacturing 
+and sourcing teams gathered input from workers 
+and suppliers to create a “model factory” scorecard 
+that we now use with all our Tier 1 suppliers. The 
+scorecard has the following five categories:
+
+•  Compliance: Scores based on third-party audits 
+
+and Microsoft SEA team assessments
+
+•  Living conditions: Scores from Microsoft’s com-
+prehensive living condition checklist of required 
+practices, such as food quality, dorm cleanliness, 
+and recreational facilities and activities
+
+•  Training and career development: Scores from 
+suppliers’ rollout of required employee classes 
+for life skills, ranging from IT training to financial 
+planning and career development courses
+
+•  Environmental, health and safety key perfor-
+
+mance indicators: Scores of injury and illness rates 
+and recordable incidences of fire, chemical spills, 
+environmental violations, and greenhouse gases
+
+•  Communication and transparency: Scores of 
+
+suppliers’ transparency in publishing an annual 
+corporate social responsibility report, and 
+implementing worker-management communi-
+cation programs and worker-grievance 
+reporting programs
+
+Our efforts to improve working and living conditions 
+are guided by input from workers. For the third 
+year in a row, we conducted anonymous worker 
+surveys through the Fair Labor Association, helping 
+to address worker concerns at our suppliers. This 
+included interviews with more than 2,000 workers 
+making Microsoft products. The findings reveal 
+that we made progress in several areas. 
+
+•  Improved worker awareness of factory rules and 
+regulations among our hardware and packaging 
+suppliers, with 92 percent reporting they under-
+stood their respective factory rules in FY13, 
+compared with 75 percent in FY11.
+
+•  Increased average worker satisfaction with work 
+conditions from 60 percent in the FY11 survey  
+to 76 percent in FY13. Worker satisfaction with 
+workplace health and safety increased from  
+62 to 77 percent.
+
+•  Improved satisfaction with working hours, with  
+
+60 percent of workers stating their working hours 
+are reasonable, and an average of 18 percent 
+desiring to work even longer hours. Survey results 
+in FY13 showed marked improvement from FY11, 
+when less than half of survey participants stated 
+their working hours were reasonable.
+
+Although good progress has been made, the survey 
+results also identified areas for improvement, includ-
+ing compensation; dining conditions related to food 
+variety, taste, and price; enhanced communications 
+between factory management and workers; and 
+more educational opportunities for career develop-
+ment and personal improvement.
+
+Microsoft 2013 Citizenship Report
+
+ 89 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+Promoting a safe working environment
+
+Health and safety is a top priority for Microsoft. We 
+believe that individuals should be able to work and 
+return safely home each night with no negative 
+impact to their health and well-being. Building on 
+the strong foundation put in place in FY11 and FY12, 
+we continued to work with suppliers to ensure that 
+working environments are safe and healthy.
+
+•  Conducted in-depth environmental health and 
+safety assessments at all Tier 1 and some high-
+risk Tier 2 suppliers, helping us proactively 
+identify areas of high risk within our supplier 
+facilities, such as electroplating and soldering 
+operations and the handling of hazardous 
+chemicals. We then helped our suppliers imple-
+ment best practices to mitigate health and safety 
+risks by providing safety guidelines, and suggested 
+metrics for monitoring performance and training 
+on recommended practices. 
+
+Improving  
+women’s health
+11,041 women in our supplier workplaces 
+were trained on reproduction, sexually 
+transmitted diseases, and other health 
+issues through our partnership with  
+BSR’s HERproject.
+
+•  Expanded our training and capability-building 
+work with suppliers to foster safe working 
+conditions.
+
+ - Partnered with BSR on HERproject (Health 
+
+Enables Returns) to educate women on such 
+health issues as reproduction, sexually trans-
+mitted diseases, and human immunodeficiency 
+virus. This year, the project reached 11,041 
+workers for a total of 22,082 training hours. 
+The program increased health awareness by  
+26 percent and adoption of healthier behaviors 
+by 60 percent.
+
+ - Promoted and raised awareness of safer 
+
+working conditions at a key supplier site in 
+China through our collaboration with the Hong 
+Kong Workers’ Health Centre. Through this 
+partnership, 1,831 workers received training, we 
+established a new onsite safety committee, and 
+the factory addressed 223 environmental 
+health and safety suggestions from workers.
+
+Microsoft 2013 Citizenship Report
+
+ 90 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+Conflict minerals
+
+Strong collaboration is the key to establishing an 
+industrywide, conflict minerals–free electronics 
+supply chain — a broad effort we’ve been behind 
+since 2007. We took a stand on this issue well 
+before the Dodd-Frank Wall Street Reform and 
+Consumer Protection Act established conflict 
+mineral–reporting requirements in the United 
+States, which will go into effect in May 2014. For 
+instance, we helped pilot the Organisation for 
+Economic Co-operation and Development’s con-
+flict minerals due-diligence process.
+
+As part of our commitment, we supported the 
+launch of the Conflict-Free Sourcing Initiative  
+by the EICC and Global e-Sustainability Initiative 
+in 2010, which aims to identify smelters that can 
+objectively demonstrate that their raw materials 
+do not originate from sources contributing to 
+conflict in the Democratic Republic of the Congo. 
+We also helped fund an early adopter program 
+to make it easier for smelters to get certified.
+
+•  Continued identifying each component used in 
+our products containing tin, gold, tantalum, or 
+tungsten, and the suppliers of these components. 
+As of June 30, 2013, 84 percent of our suppliers 
+had sent us information identifying their 
+upstream sources for the minerals in question. 
+
+•  From the supplier data we received, we identified 
+156 smelters and refineries producing the types 
+of minerals covered by the survey. The survey 
+revealed that all of the identified tantalum smelt-
+ers passed the conflict-free smelter audits, 
+although we are still tracing sources for some 
+additional suppliers.
+
+We are active members of 
+the Public-Private Alliance for 
+Responsible Minerals Trade 
+This leading multi-stakeholder group is devoted to 
+finding supply chain solutions to conflict minerals 
+challenges. Read more about the PPA. 
+
+Microsoft 2013 Citizenship Report
+
+ 91 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Responsible sourcing
+
+FY13 performance highlights 
+
+FY14 commitments
+
+Goal: Continue to enhance our programs to verify that 
+our suppliers adhere to our Supplier Code of Conduct. 
+We developed new “model factory” scorecards for Tier 1 
+hardware suppliers, and promoted other enhanced supplier-
+assurance programs for both hardware and packaging  
+suppliers and select categories of non-hardware suppliers. 
+
+Goal: Consider further enhancing the transparency of 
+our supplier auditing processes on labor and human 
+rights issues. 
+We disclosed our top 100 hardware production suppliers and 
+increased our reporting of auditing and assessment findings 
+for our hardware and packaging suppliers in this FY13 
+Citizenship Report.
+
+Goal: Support industry efforts to identify, reduce, and 
+ultimately eliminate conflict minerals from the technology 
+supply chain. 
+As of June 30, 2013, 84 percent of our component suppliers 
+had sent us information identifying their upstream sources 
+for tin, gold, tantalum, and tungsten.
+
+• Enhancing working and living conditions in our Tier 1 factories 
+through such efforts as implementing our “model factory” 
+program, which includes requirements for standardized  
+living conditions, life skills classes, IT skills training, and 
+enhanced worker-grievance reporting programs
+
+• Reducing environment and health and safety risks by provid-
+ing additional guidelines on common deficiencies identified 
+in our audits
+
+• Improving overall capabilities of low-performing, high-risk 
+Tier 2 factories by providing consulting and training on 
+identified deficiencies
+
+• Continue working to advance industrywide efforts to achieve 
+a conflict mineral–free electronics supply chain, to imple-
+ment our own conflict minerals due-diligence processes, and 
+to meet the new public disclosure requirements of the 
+Dodd-Frank Act that go into effect in May 2014
+
+Microsoft 2013 Citizenship Report
+
+ 92 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Governance
+Public trust in corporations depends in large part on the 
+basic aspects of business character: integrity, values,  
+and transparency. A strong and steady core is the bedrock  
+of both right action and good business.
+
+Engaged in the 
+global public 
+policy process 
+
+Our engagement was informed 
+and guided by our FY13 public 
+policy agenda
+
+100%
+
+Independence of directors  
+serving on board committees 
+
+In this section
+
+Corporate governance 
+
+Maintaining strong practices  
+and performance 
+
+Public policy engagement 
+
+Compliance 
+
+FY13 performance and  
+FY14 commitments 
+
+We received a rating of 7.5 out  
+of 10 from GovernanceMetrics 
+International
+
+On 2013 World’s Most Ethical 
+Companies list
+
+Microsoft 2013 Citizenship Report
+
+ 93 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Governance
+
+“ We’re unified in our intention to 
+operate with integrity. Not only 
+do we comply with all state and 
+federal laws, but we go to great 
+effort to be transparent in our 
+actions as a company.”
+
+John Seethoff, Vice President and  
+Deputy General Counsel
+
+Sound principles, practices, and leaders are critical 
+to good business. Accountability at the highest 
+levels and ethical conduct throughout the 
+company are central to earning and maintaining 
+the public’s trust.
+
+Corporate governance 
+
+Corporate governance at Microsoft is designed to 
+promote the long-term interests of our sharehold-
+ers, maintain internal checks and balances, 
+strengthen management accountability, and foster 
+responsible decision making. Microsoft continues 
+to build on its strong foundation of existing gover-
+nance practices through the establishment of new 
+policies that further promote these interests.
+
+Engaging proactively with stakeholders
+
+•  Updated investors on developments in our cor-
+
+porate governance framework in an annual letter 
+from members of our board’s Governance and 
+Nominating Committee.
+
+•  Engaged on a semi-annual basis with investors —  
+including public pension funds and socially 
+responsible investors, which collectively held 
+approximately 35 percent of our outstanding 
+shares — about governance- and citizenship-
+related topics, and delivered a summary of 
+investor feedback to the board.
+
+•  Released a new installment of our director inter-
+
+view series, which we launched in 2009 to inform 
+our shareholders about our directors, their back-
+ground and experience, and their views about 
+the board’s roles and responsibility in serving the 
+best interests of our shareholders and other stake-
+holders. The latest installment, which featured lead 
+independent director John W. Thompson, is 
+available on our Investor Relations board of 
+directors page.
+
+Microsoft 2013 Citizenship Report
+
+ 94 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Governance
+
+Managing risk at the board level
+
+Board refreshment
+
+•  Our board is responsible for overseeing risk man-
+agement at the company. The board exercises 
+direct oversight of strategic risks to the company 
+and other risk areas not delegated to one of its 
+committees. 
+
+•  Microsoft has a practice of regularly adding new 
+directors to its board to continuously infuse  
+new ideas and fresh perspective in the boardroom. 
+On average, our board appoints a new director 
+each year. 
+
+•  The Governance and Nominating Committee of 
+the board focuses on the experience and skill  
+set of each new director in an effort to create a 
+board with diverse viewpoints and expertise 
+while maintaining a strong technology-specific 
+knowledge base. 
+
+•  With two of our largest shareholders serving on 
+the board — as well as members with deep finan-
+cial and accounting expertise, proven business 
+operations, marketing and strategy experience, 
+and exceptional technology backgrounds — we 
+continue to focus on maintaining a strong 
+balance that will best perpetuate the success of 
+the company’s business. 
+
+•  The Audit Committee reviews and assesses the 
+company’s processes to manage financial 
+reporting risk and to manage investment, tax, 
+and other financial risks. It also reviews the com-
+pany’s policies for risk assessment and the steps 
+management has taken to control significant 
+risks, except those delegated by the board to 
+other committees. 
+
+•  The Compensation Committee oversees com-
+
+pensation programs and policies and their effect 
+on risk taking by management. 
+
+•  The Regulatory and Public Policy Committee 
+oversees operational risks, including those 
+related to business continuity, security, privacy, 
+and competition law.
+
+•  In each case, management periodically reports to 
+the board or relevant committee that provides 
+guidance on risk assessment and mitigation. Each 
+committee charged with risk oversight reports  
+up to the board on those matters.
+
+Microsoft 2013 Citizenship Report
+
+ 95 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Governance
+
+Maintaining strong practices  
+and performance 
+
+•  Included on the Ethisphere® Institute’s list of the 
+
+•  Ranked on CR Magazine’s list of 100 Best 
+
+World’s Most Ethical Companies.
+
+•  Received a 2 from Institutional Shareholder 
+
+Corporate Citizens, selected from all companies 
+in the Russell 1000® Index.
+
+Services, Inc. (as of September 1, 2013). A score  
+of 1 indicates a low governance risk, while a  
+10 indicates a high governance risk.
+
+•  Received a 7.5 out of 10 global market rating from 
+GovernanceMetrics International for practices and 
+performance (as of June 19, 2013).
+
+Key governance data
+
+Number of directors
+
+Percentage of independent directors
+
+9
+
+Number of board committees
+
+4
+
+77%
+
+Independence of directors  
+serving on board committees
+
+100%
+
+Separate chairman and CEO 
+
+Lead independent director
+
+Yes
+
+Yes
+
+Annual board, committee, and  
+individual member self-evaluations
+
+Number of board meetings  
+held in FY13
+
+Yes
+
+10
+
+Microsoft 2013 Citizenship Report
+
+ 96 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Governance
+
+Public policy engagement 
+
+Corporate participation in the public policy process is 
+an important means of enhancing shareholder value 
+and is fundamental to free and democratic societies. 
+Our engagement in the public policy process is 
+grounded in and guided by our unwavering commit-
+ment to strong corporate governance — centered  
+on transparency, accountability, and compliance.
+
+•  We engage in public policy discussions that relate 
+to our business, and also update our public policy 
+agenda every year to reflect changes in the policy 
+environment and our business. Our FY13 policy 
+agenda focused on accelerating economic 
+growth, addressing social challenges, and 
+working responsibly in the information economy.
+
+•  We regularly file reports that detail our advocacy 
+activities in compliance with regulations and our 
+commitment to transparency. Our disclosures 
+include consultant fees, lobbying expenses, and 
+trade-association dues related to advocacy.
+
+•  We are a member of a number of trade associa-
+tions and business coalitions that help us work 
+with industry peers to advance issues that affect 
+our business and society. A full list of the trade 
+associations and business coalitions supported 
+by our Legal and Corporate Affairs Group is avail-
+able on our Citizenship website. For a complete 
+statement on our involvement with trade asso-
+ciations, please see “Principles and Policies for 
+Guiding Microsoft’s Participation in the Public 
+Policy Process in the United States.”
+
+U.S. public policy advocacy
+
+$9,780,000
+FY13
+
+$6,750,000
+FY10
+
+$6,912,000
+FY11
+
+$7,559,000
+FY12
+
+Federal
+
+$7,920,000
+FY13
+
+$7,486,000
+FY12
+
+$6,870,000
+FY11
+
+$4,870,000
+FY10
+
+Microsoft 2013 Citizenship Report
+
+ 97 
+
+State
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Governance
+
+Adhering to strict principles and policies
+
+Transparency in political spending 
+
+•  Clear principles govern our engagement in the 
+
+political process in the United States.
+
+•  Political spending will reflect the company’s 
+
+interests and be used to further its public policy 
+agenda and not the personal agenda of individ-
+ual officers, directors, or employees.
+
+•  We do not make corporate contributions to any 
+noncandidate or nonparty political committees 
+organized under section 527 of the Internal 
+Revenue Code, which are formed solely to  
+influence elections.
+
+•  No campaign contributions are given in  
+
+anticipation of, in recognition of, or in return  
+for an official act.
+
+•  We reaffirmed our stance on not making indepen-
+dent political expenditures or electioneering 
+communications, as permitted under the U.S. 
+Supreme Court’s Citizens United ruling.
+
+Microsoft Political Action Committee 
+political contributions (calendar year)
+
+$1,472,350
+2010
+
+$728,000
+
+$1,256,260
+2012
+
+$583,000
+
+$1,085,072
+2011
+
+$472,500
+
+•  For the last calendar year, the Microsoft Political 
+Action Committee (MSPAC) made political con-
+tributions totaling $1,256,260. In addition to 
+MSPAC’s contributions, our company as a whole 
+contributed $146,300 to state and local political 
+campaigns in calendar year 2012. We do not 
+support political candidates or campaigns 
+outside the United States.
+
+•  The Regulatory and Public Policy Committee of 
+the Microsoft board of directors is responsible 
+for overseeing the company’s policies and pro-
+grams that relate to public policy and corporate 
+citizenship, including public issues of significance 
+to the company and its stakeholders that may 
+affect the company’s operations, performance, 
+or reputation.
+
+•  Management of our participation in the political 
+
+process in the United States is the responsibility of 
+the vice president for U.S. Government Affairs.  
+This position reports directly to Microsoft’s general 
+counsel, who reports to the company CEO.
+
+•  The MSPAC Steering Committee, a bipartisan 
+committee of Microsoft federal and state gov-
+ernment affairs professionals, is responsible for 
+oversight and day-to-day decision making related 
+to political spending. The committee’s oversight 
+spans corporate fund expenditures as well as 
+employee and shareholder donations made via 
+the MSPAC program.
+
+$238,550
+
+$151,572
+
+$212,760
+
+$505,800
+
+$461,000
+
+$460,500
+
+Federal candidate 
+contributions
+
+State candidate 
+contributions
+
+Noncandidate 
+committee contributions
+
+Microsoft 2013 Citizenship Report
+
+ 98 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Governance
+
+•  Microsoft requires individuals who recommend 
+corporate political contributions in the United 
+States to certify their knowledge of and adherence 
+to these policies and practices.
+
+•  Outside ethics counsel reviews and approves all 
+MSPAC and corporate political giving activities, 
+filings, reports, and materials.
+
+•  We publish MSPAC and corporate political 
+spending reports semi-annually on our  
+corporate website. 
+
+99% of employees
+We trained our employees on our Standards 
+of Business Conduct, which addresses topics 
+such as anti-corruption, conflicts of interest, 
+and financial integrity.
+
+Compliance 
+
+Businesses have a responsibility to operate in full 
+accordance with the law, and we have zero toler-
+ance for failure to adhere to our internal 
+compliance policies and practices.
+
+Competing responsibly within our industry
+
+•  We comply with antitrust rulings and apply prin-
+ciples that support innovation, choice, and 
+opportunities for developers regarding new 
+products and services.
+
+•  For information about acquisitions or our 
+
+response to rulings, see our 2013 Annual Report.
+
+Ongoing litigation
+
+At any given time, there may be a range of legal 
+actions pending against a company. For more 
+detailed information regarding ongoing litigation 
+involving Microsoft as of the end of FY13, please refer 
+to “Note 17 — Contingencies” in our FY13 10-K report. 
+
+Training employees
+
+•  In FY13, we trained more than 99 percent of our 
+
+employees on our Standards of Business Conduct, 
+which addresses topics such as anti-corruption, 
+conflicts of interest, and financial integrity.
+
+•  We promote employee awareness of business 
+conduct policies through Microsoft Policy,  
+an online tool and central resource for all  
+relevant information.
+
+Microsoft 2013 Citizenship Report
+
+ 99 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Working Responsibly / Governance
+
+FY13 performance highlights 
+
+FY14 commitments 
+
+• Maintaining or increasing dialogue between stakeholders 
+
+and the company
+
+• Engaging in cross-industry forums to help us identify and 
+
+contribute to the development of best practices
+
+• Continuing to enhance our corporate governance princi-
+
+ples and policies to serve the interests of our shareholders 
+and other stakeholders
+
+• Implementing the regulatory and disclosure requirements 
+adopted under the Dodd-Frank Wall Street Reform and 
+Consumer Protection Act
+
+Goal: Maintain or increase dialogue between stakeholders 
+and the company.
+We updated investors on developments in corporate gover-
+nance with an annual letter from the Governance and 
+Nominating Committee of the board. We also engaged 
+semi-annually with a group of investors who collectively hold 
+approximately 35 percent of outstanding shares. And we 
+released a new installment of our director interview series 
+featuring members of our board.
+
+Goal: Engage in cross-industry forums to help us identify 
+and contribute to the development of best practices.
+We engaged with a variety of organizations, including the 
+Conference Board Governance Center, the Council of 
+Institutional Investors, the Society of Corporate Secretaries 
+and Governance Professionals, and the Stanford Institutional 
+Investors’ Forum.
+
+Goal: Implement the regulatory and disclosure require-
+ments adopted under the Dodd-Frank Wall Street Reform 
+and Consumer Protection Act.
+In 2009, we voluntarily submitted our executive compensation 
+to a shareholder advisory vote, which received overwhelming 
+support. At the 2012 Annual Meeting, more than 94 percent 
+of the votes cast supported our say-on-pay resolution. We 
+continue to monitor and implement new regulations as they 
+come out, such as the recently adopted requirements relating 
+to the independence of compensation committees and  
+their advisors.
+
+Goal: Uphold our unwavering commitment to strong 
+corporate governance when participating in the public 
+policy process.
+In accordance with the “Principles and Policies for Guiding 
+Microsoft’s Participation in the Public Policy Process in the 
+United States,” the Regulatory and Public Policy Committee 
+of the Microsoft board of directors exercised oversight  
+of the company’s public policy work during FY13, and received 
+formal semi-annual reports on related activities. 
+
+Microsoft 2013 Citizenship Report
+
+ 100 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+About This Report
+
+Reporting year
+
+Unless otherwise stated, information in this  
+report is related to fiscal year 2013 (July 1, 2012,  
+to June 30, 2013).
+
+Scope
+
+This report covers Microsoft’s nonfinancial  
+performance and impact related to the company’s 
+global citizenship work in FY13 across our world-
+wide operations.
+
+The report covers material citizenship issues  
+based on:
+
+•  Internal assessments
+
+•  Ongoing engagement with a broad array of 
+
+stakeholders, ranging from socially responsible 
+investors, nongovernmental organizations, and 
+public officials to our employees
+
+•  Requests for information by global reporting 
+
+and rating agencies
+
+To improve this year’s report, we incorporated 
+information that addressed a range of stakeholder 
+requests during FY13.
+
+We used the Global Reporting Initiative (GRI) G3.1 
+Sustainability Reporting Guidelines to help deter-
+mine relevant content and metrics. Please see our 
+standalone GRI Index online for more detailed data 
+and additional information.
+
+Microsoft 2013 Citizenship Report
+
+ 101 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+Additional reporting
+
+Feedback
+
+We welcome your feedback on this report and on 
+the Microsoft Citizenship approach. Please email 
+your comments to mcitizen@microsoft.com or write 
+to us at the following address:
+
+Microsoft Corporate Citizenship 
+Microsoft Corporation 
+One Microsoft Way 
+Redmond, WA 98052, United States
+
+This report was released in conjunction with the 
+Microsoft FY13 Annual Report. These reports 
+complement each other and together provide a 
+full picture of Microsoft’s performance over the 
+fiscal year.
+
+In addition to these reports, we report on our 
+actions in many other ways throughout the year. 
+These include:
+
+•  Ongoing direct dialogue with a broad range of 
+stakeholders, as well as with industry and issue-
+advocacy organizations and public officials
+
+•  Updates to our Citizenship website, blogs, 
+
+Facebook, and Twitter to reflect recent initiatives 
+and progress
+
+•  Research and white papers on specific issues
+
+•  Economic impact data and hundreds of local 
+impact stories through the Microsoft Local 
+Impact Map
+
+•  An annual submission to the Carbon Disclosure 
+
+Project
+
+•  This report demonstrates our commitment to 
+
+the United Nations (UN) Millennium 
+Development Goals
+
+•  One Report
+
+•  Responses to a wide range of surveys covering  
+
+a broad array of issues
+
+Microsoft 2013 Citizenship Report
+
+ 102 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+United Nations Global Compact
+
+Microsoft’s commitment to the UN Global Compact 
+is aligned with and supports our mission to help 
+people and businesses around the world realize 
+their full potential.
+
+strategies, practices, policies, and operations. Our 
+involvement supports our efforts to demonstrate 
+accountability and ongoing improvement across the 
+broad range of citizenship topics.
+
+Since endorsing the Global Compact in 2006, we 
+continue to view it as an important guide for 
+Microsoft. The Global Compact’s 10 principles 
+related to human rights, labor, the environment, and 
+anti-corruption align with our company’s business 
+
+This 2013 Citizenship Report serves as Microsoft’s 
+annual Global Compact Communication on 
+Progress. The following table describes the location 
+of information about each principle in this report.
+
+Human rights
+
+Principle 1: Businesses should support and respect the protection of  
+internationally proclaimed human rights; and
+
+Principle 2: make sure that they are not complicit in human rights abuses.
+
+Our people, Human rights, 
+Responsible sourcing
+
+Our people, Human rights, 
+Responsible sourcing
+
+Labor
+
+Principle 3: Businesses should uphold the freedom of association and the  
+effective recognition of the right to collective bargaining;
+
+Responsible sourcing
+
+Principle 4: the elimination of all forms of forced and compulsory labor;
+
+Responsible sourcing
+
+Principle 5: the effective abolition of child labor; and
+
+Responsible sourcing
+
+Principle 6: the elimination of discrimination in respect of employment  
+and occupation.
+
+Our people, Responsible 
+sourcing
+
+Environment
+
+Principle 7: Businesses should support a precautionary approach to  
+environmental challenges;
+
+Principle 8: undertake initiatives to promote greater environmental  
+responsibility; and
+
+Principle 9: encourage the development and diffusion of environmentally  
+friendly technologies.
+
+Environmental sustainabilty
+
+Environmental sustainability, 
+Responsible sourcing
+
+Environmental sustainability
+
+Anti-corruption
+
+Principle 10: Businesses should work against corruption in all its forms,  
+including extortion and bribery.
+
+Responsible sourcing, 
+Governance
+
+Microsoft 2013 Citizenship Report
+
+ 103 
+
+Citizenship at Microsoft
+
+Our Company
+
+Serving Communities
+
+Working Responsibly
+
+About This Report
+
+Back to Contents
+
+This document is provided as is. Information and 
+views expressed in this document, including URL 
+and other Internet website references, may change 
+without notice. You bear the risk of using it.
+
+This document does not provide you with any legal 
+rights to any intellectual property in any Microsoft 
+product. You may copy and use this document for 
+your internal, reference purposes.
+
+© 2013 Microsoft. All rights reserved.
+
+Microsoft, Bing, BizSpark, Microsoft Dynamics, 
+Excel, HealthVault, Hotmail, Internet Explorer, 
+Kinect, Lync, MSN, MultiPoint, Office, Office 365, 
+Project, Visio, OneNote, Outlook, PhotoDNA, 
+PowerPoint, Publisher, SharePoint, Silverlight, 
+SkyDrive, Skype, SQL Azure, SQL Server, Surface, 
+Visual Studio, Windows, Windows Azure, Windows 
+Intune, Windows Live, Windows Server, Xbox,  
+Xbox 360, Xbox LIVE, and Yammer are trademarks  
+of the Microsoft group of companies. All other 
+trademarks are property of their respective owners.
+
+Photo credits: 
+GlacierWorks, Main Rongbuk Glacier  
+Black and white photo: George L. Mallory, 1921,  
+Royal Geographical Society 
+Color photo: David Breashears, 2007, GlacierWorks
+
+Microsoft 2013 Citizenship Report
+
+ 104 
+
+

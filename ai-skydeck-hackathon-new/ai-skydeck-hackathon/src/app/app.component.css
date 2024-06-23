@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: space-evenly; /* Space between elements */
+  align-items: flex-start; /* Align items to the top */
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px; /* Adjust padding as needed */
+}
+
+h1 {
+  text-align:center;
+}
+
+.cardgood {
+  border: 1px solid #ccc;
+  border-radius: 10px; 
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
+  overflow: hidden;
+  padding: 20px;
+  background-color: rgb(180, 232, 180);
+}
+
+.cardbad {
+  border: 1px solid #ccc;
+  border-radius: 10px; 
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
+  overflow: hidden;
+  padding: 20px;
+  background-color: rgb(231, 184, 184);
+}

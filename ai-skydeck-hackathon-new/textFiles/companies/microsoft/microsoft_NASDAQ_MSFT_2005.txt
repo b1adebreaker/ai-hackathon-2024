@@ -1,0 +1,2478 @@
+To  access  This  informaTion  online,  visiT:   
+W W W. m i cr os o f T.co m/ m s co r P/ci T i Zen sh i P
+
+© 2005 microsoft corporation. all rights reserved. microsoft, BizTalk, msn, Windows, Windows media, Windows server, and Xbox 
+are either registered trademarks or trademarks of microsoft corporation in the United states and/or other countries. The names of 
+actual companies and products mentioned herein may be the trademarks of their respective owners. Part no. 098-104003
+
+About This Report
+
+Reporting Scope and Structure
+
+Our citizenship reporting reflects the structure of our Global Citizenship Initiative and 
+
+related activities because we want our stakeholders — employees, customers, partners, 
+
+shareholders, and others — to be able to compare our program goals and objectives with 
+
+our results. Our report is a combination of two components: the following thematic print 
+
+volume and a more expansive and comprehensive online publication. The thematic print 
+
+volume highlights and provides an overview of some key citizenship issues the company 
+
+addressed in the last fiscal year. The more comprehensive version of the report is an 
+
+online publication that we will update on a rolling basis throughout the year. In the online 
+
+portion of this report, we have included references to applicable Global Report Initiative 
+
+(GRI) performance indicators to assist stakeholders in their review and assessment of our 
+
+Global Citizenship Initiative. (More information about the GRI performance indicators 
+
+is available at http://www.globalreporting.org.) The function of the GRI performance 
+
+indicators is to provide information about the economic, environmental, and social 
+
+impacts of organizations in a manner that enhances comparability between reports and 
+
+organizations. In addition, both the print and online components of the report provide 
+
+key links to more detailed information on Microsoft.com, Microsoft’s corporate Web site.
+
+Reporting Period
+
+This report focuses on Microsoft’s fiscal year 2005 (which began July 1, 2004, and 
+
+ended June 30, 2005). All data are for that period unless otherwise noted.
+
+Currency
+
+All money figures in this report are in U.S. dollars unless otherwise noted.
+
+Terminology
+
+The terms “Global Citizenship” and “Corporate Citizenship,” which are 
+
+used throughout this report, are interchangeable with similar terms such 
+
+as “Corporate Social Responsibility” and “Corporate Sustainability.”
+
+More information about the GRI performance indicators is available at  
+
+http://www.globalreporting.org/.   
+
+This report is printed on New Leaf 
+
+Opaque 100, White, 80 lb. cover 
+
+and 80 lb. text, which are made 
+
+with process-chlorine-free 100% 
+
+post-consumer waste fiber. 
+
+New Leaf Paper is an FSC certified  
+
+paper broker. 
+
+Printed on paper containing 100% 
+
+post-consumer waste.
+
+Microsoft Corporation
+
+One Microsoft Way
+
+Redmond, WA 98052-8300 USA
+
+Phone: 425.882.8080
+
+www.microsoft.com
+
+Microsoft Asia Pacific
+
+1 Marina Boulevard #22–01, Singapore 018989
+
+Phone: 65.6882.8899
+
+www.microsoft.com/asia
+
+Microsoft Greater China
+
+19/F, Millennium Tower, 38 Xiaoyun Road
+
+Chaoyang, Beijing 100027, P.R. China
+
+Phone: 86.10.8453.8585
+
+www.microsoft.com/china
+
+Microsoft Japan
+
+Odakyu Southern Tower, 2-2-1 Yoyogi
+
+Shibuya-ku, Tokyo 151-8583, Japan
+
+Phone: 81.3.5454.8000
+
+www.microsoft.com/japan
+
+Microsoft Europe, Middle East & Africa
+
+Coeur Défense, Tour B–37e étage
+
+100, Esplanade du Général de Gaulle
+
+92932 Paris La Défense Cédex France
+
+Phone: 33.1.70.99.10.00
+
+www.microsoft.com/emea
+
+Microsoft Latin America
+
+6740 North Andrews Avenue, Suite 400
+
+Fort Lauderdale, FL 33309-2136 USA
+
+Phone: 954.489.4800
+
+www.microsoft.com/latam
+
+Microsoft Canada
+
+1950 Meadowvale Boulevard
+
+Mississauga, Ontario L5N 8L9 Canada
+
+Phone: 905.568.0434
+
+www.microsoft.com/canada
+
+Table of Contents
+
+Executive Welcome  .................................................................... 2
+
+A Global Citizen ........................................................................... 4
+
+Global Citizenship at Microsoft  ................................................ 6
+
+Demonstrating Responsible Business Practices..................... 8
+
+Improving Security and Internet Safety ................................ 18
+
+Advancing the Knowledge Economy ..................................... 26
+
+Our Company  ............................................................................ 34
+
+Looking to the Future ............................................................... 36
+
+       Microsoft 2005 Global Citizenship Report
+
+Executive Welcome       
+
+Executive Welcome
+
+“The power of computing enables 
+
+people to pursue their passions and 
+
+realize their potential, no matter who 
+
+they are. Through global citizenship 
+
+efforts and local partnerships, 
+
+one of the ways we are helping to 
+
+strengthen communities is to extend 
+
+the benefits of technology to the 
+
+people that can benefit most.”
+
+—  Bill Gates, Microsoft Chairman  
+
+and Chief Software Architect
+
+In 2005, we’re celebrating Microsoft’s 30th anniversary. 
+Over the past three decades, our software products have 
+enabled hundreds of millions of people to fulfill their 
+personal and professional goals. We’re proud of everything 
+we have accomplished, but we haven’t done it alone.
+
+From the beginning, we have built our business through 
+partnerships with approximately 650,000 companies, and 
+we’re expanding our global citizenship efforts through the 
+same kind of proactive collaboration with other industry 
+leaders, governments, community-based organizations, 
+and nongovernmental organizations (NGOs). None 
+of our achievements would be possible without the 
+extraordinary efforts of our employees. Not only do 
+they work hard every day to make Microsoft a successful 
+business, they also contribute their time, expertise, and 
+personal resources to many of our citizenship efforts.
+
+In the course of our work, we meet often with government, 
+NGO, and community leaders worldwide, and during our 
+discussions one theme always emerges: their passion and 
+drive to create opportunities for their citizens, for local 
+businesses and industries, and for the communities they 
+serve. At Microsoft, we share this passion for creating 
+opportunities, and it is our mission to enable people and 
+businesses throughout the world to realize their full potential.
+
+That’s why we have made a commitment to provide 
+technology access and skills training to a quarter billion people 
+by 2010 — people previously underserved by technology. 
+It’s why we collaborate with law enforcement agencies and 
+officials worldwide to keep children safe online, and why we 
+work hard to make our software more secure from viruses, 
+worms, and other malicious attacks. And it’s why we have 
+created a culture of accountability at Microsoft to help ensure 
+that all of our business relationships and transactions exemplify 
+the respect and integrity we have built into our core values.
+
+But no matter how far-reaching our overall goals may be, they 
+always come down to empowering one person at a time.
+
+Whether we’re working with community-based organizations 
+and NGOs in China to increase employment opportunities for 
+unskilled migrant workers, partnering with law enforcement 
+officials in Canada to develop a customized system that helps 
+police fight computer-facilitated crimes against children, 
+collaborating in Latin America with the Organization of 
+American States and its affiliate The Trust for the Americas 
+to help people with disabilities gain the skills they need to 
+start their own businesses and find employment, or working 
+with leading companies and community organizations in 
+Europe on a grants program to help small and medium-
+sized enterprises improve productivity through technology, 
+our commitment is the same:  to make it possible for 
+people to use technology to improve their lives.
+
+We are working every day to ensure Microsoft’s 
+continuing evolution as a global corporate citizen, and 
+to create new opportunities for people everywhere.
+
+Sincerely,
+
+Bill Gates
+Chairman and  
+Chief Software Architect
+
+Steven A. Ballmer
+Chief Executive Officer 
+
+“Partnership and collaboration 
+
+are at the center of how we do 
+
+business, and that’s also how we 
+
+work with governments and NGOs. 
+
+It’s central to our commitment to 
+
+provide leadership in our industry, to 
+
+create a safe and secure computing 
+
+environment, and to advance a 
+
+worldwide knowledge economy that 
+
+creates possibilities for hundreds 
+
+of millions of people previously 
+
+underserved by technology.”
+
+—  Steve Ballmer, Microsoft  
+
+Chief Executive Officer
+
+       Microsoft 2005 Global Citizenship Report
+
+A Global Citizen       
+
+A Global Citizen
+A Global Citizen
+
+Canada
+
+Microsoft worked closely with Canadian 
+
+law enforcement to develop the Children’s 
+
+Exploitation Tracking System (CETS), which 
+
+already has helped local police identify and 
+
+track child predators and their victims.
+
+European Union
+
+Working with leading companies and community organizations, Microsoft established the European Union 
+
+Grants Advisor program, which helps small and medium-sized businesses in Europe apply for structural 
+
+funding from the EU and use those grants to improve productivity through technology. After completing 
+
+a successful pilot in Spain, Hungary, and Poland, the program was rolled out across Europe this year.
+
+Latin America
+
+Since launching Unlimited Potential in 2003, 
+
+Microsoft has donated US$15 million in cash 
+
+and software to 48 NGOs, which support 
+
+more than 1,900 community technology and 
+
+learning centers that provide technology 
+
+skills in Latin America. To date, this 
+
+program has empowered nearly 4 million 
+
+people in 17 Latin American countries.
+
+Brazil 
+
+Microsoft supports 17 innovation centers 
+
+in Brazil that offer training scholarships and 
+
+research opportunities for teachers and 
+
+students; courses, certification, and technical 
+
+guidance for software developers; and 
+
+specialized services to help companies test 
+
+their solutions. Approximately 70 percent 
+
+of all students who developed projects at 
+
+the centers in fiscal year 2005 found jobs 
+
+soon after completing the program.
+
+Africa 
+
+Microsoft and the Namibian 
+
+government have been 
+
+implementing a joint project 
+
+that puts technology to work 
+
+for educators and students. 
+
+The African Pathfinder 
+
+initiative is designed to help 
+
+bring computer technology 
+
+to schools and teaching 
+
+curricula around the country. 
+
+Microsoft has now signed 
+
+public private partnerships 
+
+with 15 African countries 
+
+to replicate the model.
+
+Japan
+
+Internet Safety Month in Japan, cosponsored 
+
+by Microsoft, government, and other industry 
+
+leaders in June and July 2005, focused on 
+
+teaching consumers how to stay safe online. 
+
+Southeast Asia
+
+When a tsunami struck Southeast Asia, killing 
+
+tens of thousands of people and leaving 
+
+many others injured or homeless, more than 
+
+8,000 Microsoft employees rushed to help 
+
+by donating cash and volunteering for on-
+
+the-ground relief efforts. Together, Microsoft 
+
+and its employees donated US$7.6 million.
+
+Australia
+
+Marvin is an award-winning application for training, education, and 
+
+presentation authoring that uses customized, three-dimensional, animated 
+
+characters to communicate important information to audiences in their 
+
+own languages. Research shows that using Marvin may increase attendance 
+
+and information retention a hundredfold over traditional communication. 
+
+Through Partners in Learning, Microsoft is providing professional training 
+
+to help teachers incorporate Marvin into classroom instruction.
+
+       Microsoft 2005 Global Citizenship Report
+
+Global Citizenship at Microsoft       
+
+Global Citizenship at Microsoft
+
+At Microsoft, we believe that every successful corporation has a 
+
+responsibility to use its resources and influence to make a positive impact 
+
+on the world and its people. Microsoft’s commitment and responsibilities 
+
+as a global corporate citizen are grounded in our company mission and 
+
+values, manifested through our business practices and operations, and 
+
+carried out by thousands of Microsoft employees and suppliers worldwide.
+
+Microsoft’s ongoing work in the area of global citizenship is focused on 
+
+mobilizing our resources across the company to create opportunities 
+
+in communities around the world, to foster economic growth, and to 
+
+serve the public good through innovative technologies and partnerships 
+
+with government, industry, and community organizations.
+
+The Global Citizenship Initiative
+
+At Microsoft, our Global Citizenship Initiative is organized around three pillars, or strategic 
+concepts, which form the foundation of our citizenship activities worldwide:
+
+Demonstrating Responsible Business Practices  
+Ensure integrity and transparency in all of our business practices, with emphasis on strong governance, 
+legal and antitrust compliance, support for industry standards, respect for intellectual property, 
+interoperability of our products, and commitment to openness in our technology practices.
+
+Improving Security and Internet Safety  
+Address the societal challenges of information and communications technology (ICT) — such 
+as security, privacy, children’s online safety, and spam — through investments in security 
+technology; partnering with industry, governments, and law enforcement to combat cybercrime; 
+and broadly distributing information to help customers make their systems more secure.
+
+An Invitation to Our Readers
+
+We appreciate frank and honest 
+
+feedback, both positive and negative, 
+
+because it helps us to improve. We 
+
+invite you to offer your observations 
+
+and suggestions about this report and 
+
+about Microsoft’s global citizenship 
+
+activities. Please send your comments 
+
+to citizenship@microsoft.com.
+
+Advancing the Knowledge Economy  
+Partner with governments and communities around the 
+world to help strengthen local economies — through 
+digital inclusion initiatives, innovation, and programs that 
+stimulate growth of the local technology industry — while 
+contributing to the vitality of the global economy 
+through ongoing technology innovation that leads 
+to job creation and overall economic growth.
+
+Constructive Stakeholder Engagement
+At Microsoft, we understand that our reputation is a direct 
+reflection of how we demonstrate our corporate values 
+through our actions every day. We believe that constructive 
+engagement with customers, partners, shareholders, 
+governments, NGOs, and other stakeholders is an essential 
+part of helping us to identify and manage key issues that 
+will test how successfully we live our values. This improves 
+our business decision–making processes, helps us to 
+anticipate and respond to the changing expectations of 
+society, and enables us to maintain a broad and balanced 
+perspective about issues affecting our business and society.
+
+More information about Microsoft’s Global Citizenship 
+
+Initiative and our progress in each of the pillars is available 
+
+at www.microsoft.com/mscorp/citizenship/report/.   
+
+       Microsoft 2005 Global Citizenship Report
+
+Demonstrating Responsible Business Practices
+
+The way we work with customers, partners, 
+
+governments, vendors, and communities worldwide 
+
+is fundamental to our success as a company. 
+
+Microsoft promotes a culture of accountability and 
+
+collaboration. We strive to ensure the quality and 
+
+integrity of all of our business relationships and 
+
+operations through strong corporate governance, 
+
+full legal compliance, and constructive engagements 
+
+with customers and partners, and by designing 
+
+functionality into our software to make it highly 
+
+interoperable with other companies’ technology.
+
+More information about Microsoft’s Global Citizenship Initiative and responsible 
+
+business practices is available at www.microsoft.com/mscorp/citizenship/.   
+
+…at a glance
+  recent examples of our work
+
+Interoperability
+In a survey by Jupiter Research, 72 percent of IT 
+managers rated Microsoft technologies as the most 
+interoperable within their existing environments.
+
+Compliance and Competition
+Recently, we transformed conflict into constructive 
+engagement by settling legal issues with competitors 
+such as Sun Microsystems and IBM and entering into new 
+collaborative agreements with them to provide better 
+products and services to our mutual customers.
+
+In fiscal year 2005, we launched several new training programs 
+for different employee audiences, including a revised New 
+Employee Orientation, designed to help make certain that 
+Microsoft employees act legally, ethically, and responsibly.
+
+Corporate Governance
+Corporate governance 
+at Microsoft establishes 
+management accountability, 
+provides a structure for 
+setting and attaining company 
+objectives and monitoring 
+performance, helps to 
+ensure business integrity and 
+responsible business practices, 
+and encourages the efficient 
+use of company resources.
+
+10       Microsoft 2005 Global Citizenship Report
+
+Demonstrating Responsible Business Practices       11
+
+Responsible Business Practices
+
+Interoperable by Design
+
+Microsoft has been working with 
+
+industry partners on a new generation 
+
+of software with built-in components 
+
+to make it “interoperable by design.” 
+
+One approach to making information 
+
+more easily understood by different 
+
+systems is to develop products using 
+
+XML. In 2005, Microsoft announced 
+
+that XML technology will be the 
+
+default file format in the next version 
+
+of Microsoft Office, scheduled for 
+
+release in 2006. Microsoft Office Open 
+
+XML Formats are fully documented 
+
+file formats with a royalty-free license. 
+
+Any organization can integrate them 
+
+directly into servers, applications, 
+
+and business processes without 
+
+financial consideration to Microsoft.
+
+One important measure of a company’s performance as a 
+corporate citizen is in the way it conducts its business and 
+manages its relationships. Transparency and integrity are 
+at the center of all of Microsoft’s business activities and 
+interactions. They help us maintain our moral compass and 
+do the right thing for consumers, businesses, community 
+partners, governments, shareholders, and employees. 
+Today, perhaps more than ever, stakeholders demand 
+accountability from a global leader such as Microsoft.
+
+One of the many ways that Microsoft ensures transparency 
+and integrity is through our responsible business practices, 
+which are guided by our corporate values, codes of conduct, 
+company policies, and business strategies. Through these 
+efforts we aim to promote innovation and competition for 
+the benefit of consumers and our industry. These practices 
+also guide us in our engagements with all parties, helping 
+us to adhere to the highest ethical and legal standards.
+
+Creating Opportunity Through 
+Transparency and Interoperability
+A clear example of our commitment to transparency is 
+our success in making our products work well with those 
+of other manufacturers, including our competitors. 
+Interoperability — the ability of heterogeneous IT 
+networks, applications, or components to exchange 
+and use information — has increasingly become a key 
+requirement for both industry and government. As a 
+result, it also has become a key focus for Microsoft.
+
+“Citrix and Microsoft customers are 
+
+going to continue to have access 
+
+to best-of-breed technology and 
+
+they’re guaranteed a high degree of 
+
+interoperability.… You’re not requiring 
+
+customers to make a choice [between 
+
+Citrix and Microsoft solutions].”
+
+—  Laura DiDio, Senior Analyst,  
+
+Yankee Group
+
+The Value of Interoperability for Customers
+Like most municipalities, the City of Siegburg, Germany, 
+collects and stores a large amount of data using 
+various methods and software applications running on 
+different operating systems. Specialized information 
+systems handle a range of services provided by the 
+city government, such as processing building permits, 
+vehicle registrations, and passport applications.
+
+Traditionally, citizens wanting to access a municipal service 
+would have to visit a local office, stand in line, and fill 
+in a paper form. A city employee would then enter the 
+information from the form into the relevant computer 
+system. The data would be processed and some weeks 
+later the citizen would receive a response to the request.
+
+Siegburg wanted to shorten the waiting time and reduce the 
+paperwork by providing citizens and businesses with more 
+convenient access to services over the Internet. To do this, it 
+needed to make electronic forms and services available from 
+a single integrated source, but its systems were built on a 
+collection of different operating systems and applications.
+
+To integrate its existing applications and services, and 
+make them available on the Web, the City of Siegburg 
+implemented the E-Government Starter Kit (EGSK), a 
+free platform solution developed by Microsoft Germany 
+specifically for public administrations that need to 
+provide electronic interdepartmental services.
+
+Developed using the Microsoft® .NET Framework, the 
+EGSK enables the interoperability of data and functions 
+by creating XML-based applications, processes, and 
+Web services. Microsoft BizTalk® Server gives automated 
+business processes the flexibility to incorporate a human 
+touch at appropriate stages throughout a workflow.
+
+1       Microsoft 2005 Global Citizenship Report
+
+Demonstrating Responsible Business Practices       1
+
+“Juniper Networks is delighted to be 
+
+working with Microsoft to integrate 
+
+user, application, and network policy 
+
+and enforcement in a seamless 
+
+manner. By working with Microsoft 
+
+on Network Access Protection, we 
+
+are furthering Juniper’s commitment 
+
+to open, multivendor standards 
+
+to facilitate more secure network 
+
+user access so our customers 
+
+can be assured of a trusted IT 
+
+environment and user experience.”
+
+—  George Riedel, Vice President,  
+
+Strategy and Corporate Development, 
+
+Juniper Networks Inc.
+
+Siegburg, for example, uses a Unix-based application for 
+its financial system. BizTalk calls a Web service to interact 
+with the application so that citizens can pay service 
+fees and fines directly over the Web. With the Starter 
+Kit, it is possible to build a layer on top of the different 
+technologies, creating the bridge they need to work 
+together efficiently. It can locate the data at the right point 
+and transport it between the Internet and the back office.
+
+Achieving interoperability with the EGSK has given the City of 
+Siegburg the ability to provide one-stop service through its 
+municipal Web portal. Services are available to citizens around 
+the clock, and they do not have go to municipal offices to 
+stand in line and fill in paper forms. With one password, they 
+can use many different applications, but all have the same look 
+and functionality. It is now very easy for the citizens of Siegburg 
+to communicate with the local government. The move to e-
+government also adds an element of transparency to municipal 
+affairs. It is possible to track an application as it makes its 
+way through different council processes, and any citizen can 
+check his or her information and requests over the Web.
+
+For the City of Siegburg, the use of leading-edge Microsoft 
+.NET technology, based on Web services and open standards  
+such as XML, has enabled communication across applications  
+and operating systems regardless of the programming 
+language in which the systems were written.
+
+The Microsoft Approach
+
+  Developing software that is 
+
+“interoperable by design” 
+
+  Supporting and implementing 
+
+industry standards (including open 
+
+standards) in products and services
+
+  Publishing and licensing 
+
+proprietary technologies and 
+
+intellectual property (IP) to the 
+
+industry, including competitors
+
+  Collaborating with partners, 
+
+competitors, and governments
+
+Providing Leadership on Interoperability
+Microsoft is a leader in developing interoperable products, 
+enabling our customers to select from and combine a 
+wide range of technologies. Microsoft’s approach to 
+interoperability is comprehensive and multifaceted.
+
+Microsoft is a world leader in promoting the development 
+and implementation of open technical standards that facilitate 
+interoperability across the widest spectrum of products and 
+services. Such standards range from those defined by the 
+numerous “open standards” bodies to broadly deployed and 
+licensed “proprietary standards” adopted by companies across 
+the marketplace. We implement hundreds of open standards 
+and proprietary standards in our products to enhance 
+their interoperability with other products and services.
+
+As part of its commitment to interoperability, Microsoft 
+has implemented a comprehensive IP licensing program. It 
+comprises licensing source code for Microsoft Windows®, 
+Microsoft Office, and other software, including hundreds 
+of Microsoft-designed communications protocols, Office 
+file formats and XML reference schemas, and other 
+elements of our diverse IP portfolio such as patents, 
+copyrights, and trademarks. Microsoft respects the IP of 
+others and is also a beneficiary of such licensing programs 
+from third parties. We believe such licensing encourages 
+innovation, competition, and interoperability.
+
+1       Microsoft 2005 Global Citizenship Report
+
+Demonstrating Responsible Business Practices       1
+
+“With this announcement, SAP 
+
+and Microsoft are delivering on 
+
+the promise to deepen integration 
+
+between SAP NetWeaver and .NET 
+
+in order to help customers better 
+
+integrate their enterprise.… SAP 
+
+NetWeaver’s open integration and 
+
+application allow customers to leverage 
+
+their existing software investments 
+
+to drive innovation through the 
+
+flexibility enabled by interoperability 
+
+of third-party platforms like .NET. 
+
+Thousands of shared customers will 
+
+benefit from the improved level of 
+
+interoperability that the PDK [Portal 
+
+Development Kit] for .NET enables.”
+
+—  Peter Graf, Senior Vice President,  
+
+Product Marketing, Collaborative  
+
+Solutions, SAP
+
+Collaborating with other companies, and even competitors, 
+can be the best way to meet the interoperability needs of 
+customers, promote innovation, and benefit consumers. In 
+addition to our continuing collaboration with governments 
+and the IT industry in general, Microsoft has entered 
+into agreements to promote interoperability with AOL, 
+Yahoo, Cisco, Oracle, palmOne, Toshiba, Motorola, 
+Symbian, Sun Microsystems, Research in Motion, Nokia, 
+Vodaphone, IBM, SAP, BEA, and Siemens, among many 
+others. Microsoft is dedicated to meeting customers’ 
+interoperability needs, now and in the future.
+
+Integrity and Compliance
+The expectations of our stakeholders — and of everyone inside 
+Microsoft — demand that each of us embody the highest 
+ethical and legal standards. There can be no compromise.
+
+We call it a culture of accountability. At every level of the 
+organization — from the Board of Directors to new employees, 
+from the mission statement to individual e-mails — we 
+are accountable for our corporate values and codes of 
+conduct, and we strive to meet or exceed them every day.
+
+In recent years, we have taken many steps to strengthen 
+our culture of accountability — from establishing an Office 
+of Legal Compliance to help employees comply with the 
+legal requirements of the jurisdictions in which they work, to 
+formalizing our Standards of Business Conduct and training 
+our employees to ensure that they understand them. In fiscal 
+year 2005, we launched several additional training programs 
+targeted to specific employee audiences, including a revised 
+New Employee Orientation, which emphasizes Microsoft’s 
+expectations that every employee act legally, ethically,  
+and responsibly.
+
+Moreover, in fiscal year 2005, Microsoft made significant 
+progress in settling or resolving our legal differences with 
+others so that we could work together for the benefit of all. For 
+example we settled legal issues with IBM (July 2005), Novell 
+(November 2004), Gateway (April 2005), and Burst.com (March 
+2005), as well as a class-action suit in Nebraska (April 2005).
+
+In addition to these legal settlements, we also continued 
+to solidify our industry relationships and to meet market 
+needs through constructive relationships with partners 
+and competitors. For example, in fiscal year 2005 we 
+expanded our areas of cooperation with Sun Microsystems 
+to include IP licensing and product development after 
+settling our legal issues with the company in April 2004.
+
+“This agreement will be of significant 
+
+benefit to both Sun and Microsoft 
+
+customers. It will stimulate new 
+
+products, delivering great new 
+
+choices for customers who want 
+
+to combine server products from 
+
+multiple vendors and achieve seamless 
+
+computing in a heterogeneous 
+
+computing environment.”
+
+—  Scott McNealy, Chairman and CEO, 
+
+Sun Microsystems, commenting 
+
+on the broad technology 
+
+collaboration arrangement that 
+
+Microsoft and Sun entered into 
+
+in April 2004 for the purposes of 
+
+enabling their products to work 
+
+together better and providing 
+
+greater value to their customers.
+
+A year later, McNealy added, 
+
+“Sun and Microsoft are working 
+
+together… and quite well at that.”
+
+1       Microsoft 2005 Global Citizenship Report
+
+Demonstrating Responsible Business Practices       1
+
+“Interoperability is the hinge on a 
+
+door that opens a completely new era 
+
+of interaction between government 
+
+agencies and the citizens they 
+
+serve… Through our partnership, 
+
+agencies can provide citizens with an 
+
+integrated, single point of access for 
+
+government services while at the same 
+
+time obtain an integrated view of the 
+
+data they need to deliver those services 
+
+more efficiently and cost-effectively. HP 
+
+and Microsoft will transform the way 
+
+governments interact with their citizens 
+
+and citizens with their governments.”
+
+—  Enrique Barkey, Worldwide 
+
+Director of Civilian Agency 
+
+Solutions, Hewlett-Packard
+
+European Commission
+In early 2004, Microsoft worked diligently to address concerns 
+raised by a European Commission investigation, attempting 
+to resolve the issues amicably through a settlement. When 
+this proved not to be possible, the European Commission 
+issued a decision in March 2004, and Microsoft appealed 
+the decision based on the merits of the case and requested 
+a suspension of the interim measures during the appeal 
+process. After the request for suspension was denied by 
+the European Court of First Instance in December 2004, 
+Microsoft’s focus turned toward full and complete compliance. 
+
+To meet its obligations under the European Commission’s 
+decision, Microsoft implemented a protocol licensing 
+program to make the technical information used to help 
+Microsoft servers communicate with non-Microsoft servers 
+available to partners and competitors. The company also 
+developed a version of the Windows operating system that 
+does not include the Windows Media® Player function. 
+
+Following feedback based on extensive industry market 
+testing by the Commission, Microsoft made additional 
+changes to further implement the Commission’s remedies. 
+The company continues the appeal process and expects to 
+present its case before the European Court of First Instance 
+in late 2005 or sometime in 2006. Meanwhile, Microsoft 
+continues to put a high priority on complying in full with 
+its legal obligations as well as developing constructive 
+relationships with European governments and institutions.
+
+Antitrust Compliance
+As a responsible industry leader, Microsoft continues to 
+meet all of its obligations under the 2002 Consent Decree 
+with the U.S. Department of Justice and state Attorneys 
+General. We have worked to strengthen programs that 
+were created prior to the Consent Decree in response 
+to the dynamics of the market, as well as those related 
+directly to the settlement. For example, Microsoft:
+
+  Maintained the standardized Windows license and 
+
+uniform royalty rates for all PC manufacturers.
+
+  Continued to provide developers with thousands of 
+
+Windows application programming interfaces (APIs) and 
+continued the protocol licensing program, both of which 
+enhance our efforts to make our software interoperable 
+and to stimulate innovation in the marketplace.
+
+  For more information on this issue please visit 
+
+www.microsoft.com/mscorp/ip/protocols.   
+
+  Conducted training programs in more than 60 countries 
+
+to help make certain that employees understand our legal 
+obligations and our commitment to full compliance.
+
+In ethics as in software, anything short of the highest 
+standard is not acceptable. At Microsoft, we are dedicated 
+to achieving the highest standards in everything we do.
+
+1       Microsoft 2005 Global Citizenship Report
+
+Improving Security and Internet Safety
+
+As an industry leader, Microsoft recognizes its 
+
+responsibility to help make the Internet safer 
+
+and computing more secure. Our ultimate goal 
+
+is to help create an environment in which adults, 
+
+children, businesses, and other organizations 
+
+can enjoy the full benefits of the Internet without 
+
+concerns about their safety, privacy, or security. 
+
+Meanwhile, we continue to work toward that goal 
+
+with the help of government, industry, and law 
+
+enforcement partners worldwide, and to help 
+
+consumers and our customers understand what they 
+
+can do to protect themselves and their systems.
+
+More information about the Microsoft’s Global Citizenship 
+Initiative and our work on security and Internet safety is 
+available at www.microsoft.com/mscorp/citizenship/.   
+
+…at a glance
+  recent examples of our work
+
+Simpler, Safer Computing
+Released in early fiscal year 2005, Windows XP Service Pack 2  
+with Advanced Security Technologies brings Windows XP users 
+stronger default security settings. It can automatically install 
+new security features that help users protect their computers 
+from hackers, viruses, and other security risks. To keep pace 
+with the dynamic nature of security threats to businesses, 
+Microsoft launched Windows Server™ 2003 Service Pack 1 with 
+new security features to help companies and organizations 
+keep their IT environments safe and under control.
+
+Innovative Technologies
+Security breaches can come in unexpected forms. That’s 
+why Microsoft is developing a series of new technologies 
+that help prevent and protect against spam and phishing 
+attacks by various means, including proof of a sender’s 
+identity and evidence of the sender’s reputation, which 
+adds another layer of safety and security on any device.
+
+Law Enforcement Partnerships
+Microsoft collaborates with law 
+enforcement agencies around 
+the world on programs like the 
+Anti-Virus Rewards Program, 
+which offers reward money to 
+help stop people who create 
+and launch viruses, worms, and 
+other malicious code attacks. 
+To date, Microsoft has filed 
+more than 200 lawsuits against 
+spammers and cybercriminals 
+worldwide. We also have worked 
+with many local and global law 
+enforcement partners — including 
+Interpol, the International 
+Centre of Missing and Exploited 
+Children, and the Australian High 
+Technology Crime Centre — to 
+provide training and to help 
+with cybercrime investigations 
+in more than 70 countries.
+
+0       Microsoft 2005 Global Citizenship Report
+
+Improving Security and Internet Safety       1
+
+Security and Internet Safety
+
+Excellence in  
+
+Security Fundamentals
+
+In fiscal year 2005, Microsoft also 
+
+released Windows Server 2003 Service 
+
+Pack 1, which offers businesses and 
+
+network administrators increased 
+
+security options and manageability.
+
+We have done a lot to improve 
+
+product quality and engineering 
+
+excellence over the last few years. 
+
+Every year, 15,000 Microsoft 
+
+developers, testers, and program 
+
+managers attend mandatory training 
+
+on how to write more secure code. 
+
+We have integrated security into 
+
+our software development process. 
+
+The results have been a significant 
+
+decrease in the number of security 
+
+bulletins issued for products like 
+
+Windows XP and Windows Server 
+
+2003 and a significant increase in the 
+
+security of our customers’ systems.
+
+Although no system as open and interconnected as the 
+Internet can ever be made perfectly secure, through our 
+investments in technology fundamentals and innovation, and 
+our collaboration with industry and government, we continue 
+to move closer to that ideal. At Microsoft, we focus on three 
+core strategies to improve security and increase Internet safety:
+
+1. Technology Innovation to help make our products more 
+secure, to improve the software update process, and to 
+provide new features and products that help improve safety.
+
+2. Partnership and Collaboration with government 
+officials, community organizations, and others in 
+industry to help develop policies and other strategies 
+to protect Internet users and prevent online harm.
+
+3. Guidance and Education to help customers 
+make their systems more secure and prepare 
+themselves against emerging threats.
+
+In fiscal year 2005, we made significant 
+progress in each of these areas.
+
+More information about those efforts and 
+achievements is available at www.microsoft.
+com/mscorp/citizenship/report/.   
+
+Throughout the year, one of our top security and 
+Internet safety goals has been to empower users through 
+simplification, which includes making the process of keeping 
+computers secure less complicated and using technology 
+to simplify the pursuit of those who harm Internet users.
+
+Simpler, Safer Computing
+In fiscal year 2005, Microsoft released Service Pack 2 
+(SP2) for the Windows XP operating system. SP2 is a free 
+download that is helping to make safer and more secure 
+computing easier for millions of computer users worldwide. 
+Its release was a substantial step forward in the company’s 
+Trustworthy Computing Initiative, an initiative launched 
+in early 2002 and aimed at fundamentally changing the 
+way we design and develop software to address more 
+holistically the complex threats to computer security.
+
+In developing SP2, Microsoft sharpened its focus on making 
+things simple. Not long ago, the people who created 
+Blaster, Slammer, and other worms did a lot of damage by 
+exploiting computers that did not have the latest security 
+updates installed. Jim Allchin, Group Vice President for the 
+Platforms Division at Microsoft, looked across the landscape 
+of unprotected systems and issued a challenge to his team:
+
+“Make the Windows security update process simple 
+enough for my mother to use.”  — Jim Allchin, Microsoft
+
+Although Microsoft had been making security 
+updates available faster than ever before, worms and 
+viruses were causing tremendous damage because 
+the updates weren’t being implemented. Ordinary 
+users, like Jim’s mother, needed a simpler way to 
+update software and keep their systems secure.
+
+The first step was to encourage more people to use a 
+service called “Microsoft Update,” which automatically 
+downloads critical software updates from Microsoft 
+whenever a user establishes an Internet connection.
+
+Trustworthy Computing
+
+Computers help transport people 
+
+into space, control critical aircraft 
+
+systems for millions of flights annually, 
+
+and move trillions of dollars around 
+
+the globe every day. Even so, many 
+
+people are hesitant about trusting 
+
+computers with personal information, 
+
+such as financial and medical records, 
+
+because they have concerns about 
+
+computer security, system reliability, 
+
+and data privacy. We understand 
+
+those concerns, and to address them 
+
+we launched Trustworthy Computing, 
+
+a long-term, collaborative effort 
+
+to provide secure, private, and 
+
+reliable computing experiences for 
+
+everyone. At Microsoft, Trustworthy 
+
+Computing is a core priority that 
+
+guides virtually everything we do.
+
+Our three-pronged approach to 
+
+Trustworthy Computing includes 
+
+extensive technology investments, 
+
+proactive customer guidance and 
+
+engagement, and responsible industry 
+
+leadership and collaboration.
+
+       Microsoft 2005 Global Citizenship Report
+
+Improving Security and Internet Safety       
+
+Internet Safety Month in Japan
+
+Internet Safety Month in Japan, 
+
+cosponsored by Microsoft, 
+
+government, and other industry 
+
+leaders in June and July 2005, 
+
+focused on teaching consumers how 
+
+to stay safe online. The initiative 
+
+included a nationally televised 
+
+symposium, featuring Microsoft 
+
+Chairman Bill Gates as a keynote 
+
+speaker, plus television public 
+
+service announcements, a new 
+
+Internet safety Web site, student and 
+
+consumer outreach events with a 
+
+national retail store, and partnership 
+
+with the Japan Education Ministry 
+
+for its Net Day event in the fall.
+
+Participants included major companies 
+
+such as NEC, Fujitsu, Hitachi, Toshiba, 
+
+Yahoo, Dell, Turbo Linux, and 
+
+Symantec, as well as government 
+
+ministries and organizations such 
+
+as UNICEF and ECPAT (End Child 
+
+Prostitution, Child Pornography 
+
+and Trafficking of Children for 
+
+Sexual Purposes). A Technical 
+
+Cooperation Agreement between 
+
+Microsoft and the National Police 
+
+Agency of Japan was signed during 
+
+Internet Safety Month, whereby 
+
+Microsoft will help support the 
+
+division’s efforts to fight cybercrime 
+
+by providing security training and 
+
+a technical information hotline.
+
+When our researchers studied how customers installed 
+Windows for the first time, they discovered that users were 
+often confused by the number of choices they were offered 
+and ended up bypassing many options, including security 
+enhancing options, without understanding them. In SP2, we 
+addressed this problem by making it impossible for users to 
+click past the feature without making a conscious choice. They 
+must either turn on Automatic Updates or decide to leave it 
+turned off, and they are presented with a clear explanation 
+of the security benefits to help them make the decision.
+
+Our developers did not stop there. SP2 is configured so that 
+the firewall in Windows XP is turned on by default to block 
+malicious programs from ever reaching a protected computer. 
+Even this seemingly simple step proved challenging, because 
+activating the firewall by default required developers to 
+relentlessly test and modify SP2 and the firewall so that other 
+applications and the overall user experience would not be 
+adversely affected by the stronger security measures. Our 
+developers also put a new set of controls in an easy-to-access 
+and easy-to-use Windows Security Center, which centralizes 
+safety information about the computer. If any security 
+features are not properly set, users receive a notification and 
+recommended actions to help them protect their computers.
+
+Our internal research shows that, compared with computers 
+running earlier versions of the Windows XP operating system, 
+PCs running Microsoft Windows XP with Service Pack 2 are 13 
+to 15 times better protected from viruses and from the most 
+prevalent forms of malicious software on the Internet today.
+
+By the end of fiscal year 2005, more than 218 million people 
+worldwide had downloaded SP2 and nearly 90 percent 
+of all SP2 users were running Automatic Updates.
+
+For those who use earlier versions of Windows, we have 
+simplified our Protect Your PC (PYPC) campaign. Now, when 
+you visit www.microsoft.com/protect, the PYPC site makes an 
+assessment as to which operating system is being used, and 
+the site is automatically populated with security and software-
+update tips tailored to that operating system. The site coaches 
+the user on firewall installation, on the importance of using 
+anti-virus and anti-spyware software, and on how to best 
+obtain updates to Microsoft software, including Windows.
+
+Microsoft released two other important security technologies in 
+fiscal year 2005: a free Malicious Software Removal Tool (MSRT) 
+and the beta version of an AntiSpyware tool. The MSRT scans a 
+user’s PC for viruses and worms, attempts to remove any that 
+it finds, and sends the user a report indicating what has been 
+found and removed. The AntiSpyware tool detects software 
+programs that may have been installed without the user’s 
+knowledge and offers the opportunity to remove them. By the 
+end of fiscal year 2005, the MSRT had been executed more than 
+800 million times. The AntiSpyware beta has been downloaded 
+more than 21 million times and has removed tens of millions 
+of spyware packages since it became available to users. Both 
+of these new tools also need to be kept up-to-date in order 
+to keep pace with evolving online threats, and our engineers 
+have worked to make updating them as simple as possible.
+
+Ensuring Greater Security Through User Education
+The fact that security threats constantly evolve underscores 
+the ongoing importance of consumer awareness. 
+Consumers need to know that the online threats they 
+face are not static, but that there are steps they can take 
+to protect themselves. To this end, in fiscal year 2005 we 
+increased our investment in consumer education.
+
+       Microsoft 2005 Global Citizenship Report
+
+Improving Security and Internet Safety       
+
+Our online safety tips are now available in more than 20 
+languages through both the Microsoft.com Web site and the 
+popular MSN® Web portal. We also have continued to partner 
+with government agencies and NGOs to disseminate similar 
+material through additional outlets. To name one example, 
+the U.S. General Services Administration has distributed 
+more than 20,000 safety brochures jointly developed by 
+Microsoft and the National Cyber Security Alliance. Additional 
+examples are described in the Web version of this report 
+at www.microsoft.com/mscorp/citizenship/report/.
+
+Using Technology to Fight Crime
+By January 2003, Toronto Police Detective Sergeant Paul 
+Gillespie had begun to feel that he was fighting a losing battle 
+in his attempts to stop child exploitation online. While officers 
+in his unit were trying to learn their way around the Internet, 
+cybercriminals were becoming increasingly adept in their 
+ability to victimize children online in relative anonymity.
+
+“It seemed like the bad guys were just getting better at 
+conducting their work on the Internet,” Gillespie recalls. 
+“In reality, we were not trained. And when we were 
+given training and tools, the criminals were a step or 
+two ahead of us. We were always playing catch-up.”
+
+In frustration, Detective Sergeant Gillespie sent an e-mail to 
+Microsoft Chairman and Chief Software Architect Bill Gates, 
+asking for help in the fight against computer-facilitated crimes 
+against children. In response, Microsoft Canada collaborated 
+with the Toronto Police Service and the Royal Canadian 
+Mounted Police to create the Child Exploitation Tracking 
+System (CETS), a custom-designed system that enables police 
+
+officers to communicate across city and county borders, 
+in real time and through incident logs, about suspects’ 
+activities and whereabouts. Interpol, Scotland Yard, and other 
+global police agencies also contributed their expertise.
+
+Like many governmental systems, Canadian law enforcement 
+agencies use a variety of tools that are not always 
+compatible. Using open industry standards combined 
+with Microsoft technology and know-how, the team built 
+an integrated, national system that eliminates previous 
+obstacles to tracking suspects across Canada. CETS helps 
+police track and apprehend criminals who use the Internet 
+to exploit or abduct children. In fact, in November 2004, 
+while the system was still undergoing beta testing, it 
+enabled police to rescue a 4-year-old girl and arrest a 
+suspected child abductor and pornographer in Toronto.
+
+International interest in CETS has been strong. Many other 
+police agencies are exploring with Microsoft the feasibility  
+of bringing comparable systems online in their regions of  
+the world.
+
+In fiscal year 2005, we continued our work with legislators 
+around the world to help them develop laws and policies 
+targeted at those who inflict harm online. We also expanded 
+our engagement with law enforcement. We actively 
+trained hundreds of law enforcement officers on cyber 
+forensics techniques, partnered with law enforcement 
+officials to bring legal actions against wrongdoers, 
+and brought our own lawsuits against spammers and 
+phishing perpetrators intent on ID theft. At the end of 
+fiscal year 2005, Microsoft was pursuing more than 135 
+lawsuits related to consumer harm on the Internet.
+
+“Criminals are using the Internet at 
+
+an unprecedented rate to exploit the 
+
+most vulnerable of our society: our 
+
+children. I commend Canadian law 
+
+enforcement and Microsoft Canada 
+
+for their vision and leadership in 
+
+creating a tool unlike any other in 
+
+the world that will help keep our 
+
+children safe from online predators.”
+
+—  The Honourable Anne McLellan, 
+
+Canadian Deputy Prime Minister 
+
+and Minister of Public Safety and 
+
+Emergency Preparedness, at the 
+
+official CETS launch in April 2005.
+
+       Microsoft 2005 Global Citizenship Report
+
+Advancing the Knowledge Economy
+
+At Microsoft, we are committed to helping countries 
+
+improve their global competitiveness, promote 
+
+local economic growth and development, and drive 
+
+innovation. Microsoft recognizes that, for millions of 
+
+people, the promise of technology is still unrealized. 
+
+So we have made a comprehensive commitment to 
+
+promote digital inclusion. Working with our partners 
+
+around the world, by 2010 we plan to broaden the 
+
+technology skills to reach a quarter billion people 
+
+who are currently underserved by technology.
+
+More information about the Microsoft’s Global Citizenship 
+Initiative and our work to advance the knowledge economy is 
+available at www.microsoft.com/mscorp/citizenship/.   
+
+…at a glance
+  recent examples of our work
+
+Guatemala
+There are at least 50 million people with disabilities in Latin 
+America and the Caribbean. Most are unemployed and 
+82 percent live in poverty. That used to describe Reyna 
+Ramos, who has a hard time walking and was unemployed 
+for seven years because of her disability. Today, Reyna is 
+an entrepreneur with a successful business, thanks to a 
+partnership between the Organization of American States 
+and Microsoft that provided training in basic computer and 
+business skills. Reyna now owns and operates an Internet café 
+in her home, advises her neighbors on how to obtain micro-
+loans to start their own businesses, and plans to establish 
+a nationwide network of Internet cafés in Guatemala.
+
+Australia
+Since 2000, Microsoft has 
+invested more than AU$20 million 
+to support 14,000 Australian 
+businesses as partners, suppliers, 
+and investors in leading-edge 
+technology. In partnership with 
+state governments in Australia, 
+Microsoft has invested more 
+than AU$10 million in high- 
+technology centers to foster 
+innovation across a range of 
+education, defense, justice, 
+healthcare, and e-government 
+projects. In addition, we have 
+established more than 160 
+Unlimited Potential community 
+technology centers throughout 
+Australia, enabling more than 
+100,000 people to develop 
+or broaden their ICT skills.
+
+       Microsoft 2005 Global Citizenship Report
+
+Advancing the Knowledge Economy       9
+
+Knowledge Economy
+
+Unlimited Potential
+
+Since the launch of Microsoft’s 
+
+Unlimited Potential program in 
+
+2003, the company has donated 
+
+more than $126 million in cash and 
+
+software and distributed more than 
+
+3,500 copies of its ICT curriculum 
+
+to support community learning and 
+
+training programs in 95 countries.
+
+Partners in Learning
+
+Through Partners in Learning, 
+
+Microsoft is partnering with nations, 
+
+communities, and educators around 
+
+the world to create sustainable 
+
+educational programs to train 
+
+teachers and prepare students to 
+
+succeed in the global economy.
+
+As governments everywhere strive to harness the 
+opportunities and meet the social and economic challenges 
+of the twenty-first-century knowledge economy, they 
+are focused on promoting job growth and skills training, 
+encouraging the development of local industry, and 
+enhancing their global competitiveness. Governments 
+understand that devising strategies to successfully address 
+these issues today will provide a solid foundation for future 
+growth and prosperity. Because computers and technology 
+are the engines that drive the knowledge economy, many 
+of these economic development strategies center on 
+increasing digital literacy and the use of technology.
+
+Meeting these objectives is a long-term effort that often 
+cannot be accomplished by governments alone. One hallmark 
+of the digital age has been the increase in public-private 
+partnerships to address issues such as skills training, access 
+to technology, and funding for new enterprises. This new 
+spirit of collaboration demonstrates that the private sector, 
+as well as governments, has an important role to play in 
+creating opportunity for local communities worldwide.
+
+Creating Opportunity for Businesses
+Microsoft is a very successful company, but our 
+accomplishments depend on the success of thousands of 
+other technology companies around the world. At the heart 
+of our business model is our reliance on other companies 
+that build hardware and software, provide solutions, 
+and offer services based on the Windows platform.
+
+This global interdependent network of 650,000 Microsoft 
+partners creates huge opportunities for local communities. 
+It creates jobs, generates tax revenue for governments, 
+offers skills and workforce development programs, 
+and makes significant investments in innovative new 
+technologies. Recent research conducted by IDC, a 
+
+“After participating in the teacher 
+
+training course from the Microsoft 
+
+Partners in Learning program, I 
+
+have realized the importance of 
+
+ICT literacy for our students. I’m 
+
+committed to making computers 
+
+and ICT courses available for my 
+
+students from kindergarten to grade 
+
+12 from next semester onward.”
+
+— Mr. Supoj Puyati, Headmaster,  
+
+Ban Huaysalao School, Thailand
+
+leading provider of marketing intelligence for the 
+information and communications technology industry, 
+shows that for every $1 of revenue Microsoft earns, 
+local software, hardware, and services firms earn 
+between $6 and $18 of downstream revenue.
+
+Creating Opportunity for Individuals
+Creating economic opportunities for nations, communities, 
+and businesses begins by opening doors of opportunity for 
+individuals. Microsoft is deeply involved in promoting digital 
+inclusion around the world, working in partnership with 
+governments, industry leaders, and community organizations 
+to offer skills training ranging from basic computer skills to 
+the most advanced professional training and certifications. 
+By 2010, through innovative technologies and partnerships, 
+Microsoft plans to provide ICT skills training to a quarter billion 
+people who were previously underserved by technology.
+
+Through our flagship digital inclusion programs, Partners 
+in Learning and Unlimited Potential, we provide technology 
+access and training to all types of learners, no matter 
+where they happen to be on the continuum of ICT skills and 
+knowledge. We offer skills training for schoolchildren, for 
+teachers who need to learn how to incorporate technology 
+as part of their classroom instruction, and for community 
+learners. We work with new users and historically underserved 
+populations — such as at-risk youth, refugees, senior 
+citizens, and people with disabilities — as well as midcareer 
+professionals who need to sharpen their skills or gain new 
+ones. Together, these digital inclusion programs lay the 
+groundwork for increased economic opportunity and  
+social improvements.
+
+An important part of our Global Citizenship Initiative is 
+creating vital and self-sustaining links between digital inclusion 
+programs that train individuals and economic development 
+efforts that create jobs and strengthen local communities.
+
+0       Microsoft 2005 Global Citizenship Report
+
+Advancing the Knowledge Economy       1
+
+Microsoft Citizenship in Africa
+
+To date, more than 40,000 community 
+
+members and 550 trainers from 
+
+20 African countries, including the 
+
+region of North Africa, have received 
+
+IT skills through Unlimited Potential 
+
+community technology centers. 
+
+Twenty thousand more are expected 
+
+to be trained by the end of 2005.
+
+South Africa
+Recently wed and with a small daughter to look after, 
+Sibusiso Dlamini was growing increasingly desperate. 
+He had spent the better part of a year looking for a 
+job after the insurance company where he worked 
+had eliminated his sales executive position.
+
+One evening, Sibusiso and his wife saw a television program 
+about a community center that provided technology 
+training to the disadvantaged communities of Soweto. 
+The Soweto Digital Village in Chiawelo was equipped with 
+state-of-the-art technology, including computers, Internet 
+access, and the latest Microsoft software and books.
+
+“When I saw that, I knew right away it was where I needed to 
+be, I was in dire need, but this Digital Village could help me. 
+It was the answer I’d been looking for.”  — Sibusiso Dlamini
+
+After six months, Sibusiso had learned enough IT skills to 
+become a tutor at the Digital Village. He wanted to attend 
+college, but he didn’t have the money. Instead, Sibusiso 
+offered to be the systems administrator of the Soweto 
+Digital Village while working toward a Microsoft Certified 
+Systems Engineer certificate. Before long, he began 
+traveling across South Africa to help open other Digital 
+Village centers. “I was excited by all of the energy people 
+at the center gave me, by the opportunities it created.”
+
+Persistent issues across most of the continent — health, 
+sanitation, education, infrastructure, and governance — have 
+led many African governments, NGOs, and the private sector  
+to focus on technology as a way to leapfrog traditional stages 
+of development, spur growth, and draw Africa more squarely  
+into the global economy.
+
+Microsoft funded the Digital Village through its Unlimited 
+Potential program and in collaboration with the NGO Africare. 
+
+Local Language Program
+
+In March 2004, Microsoft launched 
+
+the Local Language Program, a global 
+
+initiative that enables governments, 
+
+universities, and local language 
+
+authorities to develop language 
+
+localization resources for Windows XP  
+
+Home, Windows XP Professional, 
+
+and Office 2003 Editions. Using 
+
+Web tools provided by Microsoft, 
+
+sponsoring groups and volunteer 
+
+translators can develop community 
+
+glossaries of standardized technical 
+
+terminology. These glossaries in turn 
+
+provide the foundation for Language 
+
+Interface Packs, which enable 
+
+computer users to adapt their copies 
+
+of Windows and Office to display 
+
+many commonly used features in 
+
+their native languages. To date, more 
+
+than 40 Language Interface Packs 
+
+have been developed for Windows 
+
+and Office, and we continue to 
+
+receive many additional requests.
+
+Structured on the idea of the traditional African village, 
+the Digital Village aims to be a community center where 
+anyone can come to learn ICT skills or access the Internet 
+as part of “lifelong learning” or continuing education.
+
+One of the goals of the Digital Village is to become 
+self-sustainable by finding means to generate enough 
+income to offset operating expenses. With that in mind, 
+the Digital Village opened a Business Services Center, 
+offering desktop publishing, graphic design, faxing, 
+copying, and printing services for the local community.
+
+In its first year of operation, the Soweto Digital Village 
+helped more than 500 children and young adults learn the 
+basics of using database and word-processing programs. 
+More than 5,000 participants have since taken advantage 
+of services available at the Digital Village in their efforts 
+to start small businesses, promote community meetings 
+or local cultural events, link to online university courses, 
+or simply bond with other members of the community.
+
+As for Sibusiso and his wife, she is now a full-time 
+student, they have added another daughter to their 
+family, and he is working as a systems engineers at ATIO 
+Corporation. “I took a lot away from the Digital Village and 
+it has changed my life tremendously,” he says. “Though 
+I’m still miles away from achieving my ultimate goals, the 
+Digital Village put me on the road to getting there.”
+
+Brazil
+When he was just a young boy, Cristiano da Silva Souza had 
+to work to help support his family, but he never gave up 
+his dream of getting an education, and he never stopped 
+studying. Through great effort and dedication, he finished 
+primary school and became an accounting technician. In 
+2002, when he was in his early 20s, Cristiano took a university 
+entrance exam, and in 2003 he started attending an IT course 
+
+       Microsoft 2005 Global Citizenship Report
+
+Advancing the Knowledge Economy       
+
+with a focus on systems analysis. To help pay his tuition and 
+other expenses, Cristiano worked as a bus fare collector, 
+but his job gave him no opportunity to use his new skills.
+
+“I fell in love with IT and became deeply interested in 
+development and programming issues. On the other 
+hand, the course was too basic and I did not have the 
+chance of putting things into practice,” Cristiano says. 
+That is when he decided to quit his job and devote more 
+time to his studies. “Even if I had to earn less, I wanted to 
+have the chance of growing in professional terms.”
+
+In August 2004, Cristiano heard about the XML Technology 
+Center in Petrópolis, where he was living. The center is 
+part of a nationwide program in Brazil, supported by 
+Microsoft, which trains students and professionals on XML 
+technology, an industry standard that enables communication 
+among diverse applications and operating systems.
+
+Cristiano was granted one of the center’s competitive and 
+coveted scholarships. Since then, he has earned three 
+different Microsoft certifications, which are internationally 
+recognized credentials based on rigorous exams that 
+certify a candidate’s technical expertise and can lead 
+to outstanding employment opportunities. On his first 
+certification test, Cristiano had the highest score possible.
+
+Founded in 2001, the XML Technology Center in Petrópolis 
+is one of 17 centers Microsoft supports in Brazil, 12 of 
+which are focused on XML technology. These centers 
+address the needs of the local academic community and 
+the regional market by offering scholarships and research 
+opportunities for teachers and students, along with 
+courses, certification and technical guidance for software 
+developers, and specialized professional services and 
+concept tests for companies that want to test their solutions.
+
+China
+
+In July 2004, Microsoft launched 
+
+Unlimited Potential in China with a 
+
+program designed to help improve 
+
+employment opportunities for 
+
+unskilled migrant workers. China’s 
+
+phenomenal economic growth 
+
+has led to a massive influx of rural 
+
+migrant workers into cities. Lacking 
+
+the skills they need to compete in 
+
+an urban job market, many of these 
+
+young people are forced to take 
+
+menial jobs with no real future.
+
+Through community technology 
+
+centers, Microsoft is working with 
+
+local organizations to provide 
+
+technology skills training and to 
+
+create opportunities for young 
+
+Chinese men and women. Tan 
+
+Jieying, one of the migrant workers 
+
+in the program, explained: “All I 
+
+want is to use my intelligence and 
+
+diligence to change my fate.”
+
+In fiscal year 2005, 7,444 people took part in courses at the 
+XML Technology Centers, and 87 students participated in 
+the scholarship program. During that period, 63 projects 
+were carried out, 42 percent of which were for public utilities. 
+In addition, 122 local software development companies 
+used the services provided by the XML labs to improve their 
+knowledge and to validate their cutting-edge technologies.
+
+The XML Technology Centers also help students enter 
+the labor market: approximately 70 percent of all 
+students who developed projects in the labs in fiscal 
+year 2005 found jobs promptly after completing the 
+program. Cristiano expects to be hired soon.
+
+“Meanwhile, I will take advantage of the opportunities offered 
+by the XML Technology Center and try to learn more and 
+more, with a view to being ready for the labor market,” he says.
+
+The Philippines
+In 2005, the Philippine Software Industry Association and the 
+Commission on Information and Communications Technology 
+called on Microsoft to help develop a plan to improve the 
+Philippines economy by strengthening the nation’s software 
+industry. Dubbed “Fly High: Philippine Software 2010,” the 
+plan identifies five priority areas for development that will 
+help to expand and accelerate the growth of the software 
+industry in the Philippines by the end of the decade:
+
+  Grow domestic demand for software.
+  Develop skilled software professionals.
+
+Increase software exports.
+
+  Reinforce intellectual property compliance.
+  Build infrastructure for industry growth.
+
+Microsoft will continue to work with its government, 
+industry, and NGO partners in the Philippines to carry 
+out many of the action steps outlined in the plan, 
+including a variety of business development, skills 
+training, and workforce development initiatives.
+
+Humanitarian Relief
+
+Like many other people around the 
+
+world, Microsoft employees watched 
+
+the tragic events of the Indian Ocean 
+
+tsunami with an overwhelming desire 
+
+to help. More than 8,000 Microsoft 
+
+employees responded to the disaster, 
+
+donating more than $2.9 million for 
+
+relief and recovery efforts. Microsoft 
+
+contributed another $4.7 million in 
+
+matching funds and direct corporate 
+
+support, for a total contribution of 
+
+$7.6 million to date. We also formed 
+
+the Asia Disaster Technical Response 
+
+Team to develop technology-based 
+
+solutions for the relief community, 
+
+and Microsoft employees continue 
+
+to provide volunteer support for 
+
+on-the-ground relief efforts.
+
+ 
+       Microsoft 2005 Global Citizenship Report
+
+Our Company      
+
+Our Company
+
+Our Mission and Core Values
+
+Business Operations
+
+Financial Report
+
+General Counsel’s Office 
+
+Microsoft’s corporate mission is 
+
+Microsoft generates revenue by developing, manufacturing,  
+
+Our business grew in fiscal year 2005, increasing total revenue 
+
+of Legal Compliance
+
+to enable people and businesses 
+
+licensing, and supporting a wide range of software products  
+
+by $2.95 billion, or 8 percent, to $39.79 billion. For fiscal 
+
+The mission of the office is to 
+
+throughout the world to realize their 
+
+and services, including:
+
+  Operating systems for servers, personal computers (PCs), and 
+
+intelligent devices.
+
+  Server applications for distributed computing environments.
+
+  Information worker productivity applications.
+
+  Business solutions.
+
+  Software development tools.
+
+  Consulting and product support services.
+
+  Training and certification for system integrators and developers.
+
+  The Xbox® video game console and games, PC games, and peripherals.
+
+  Online communication services and information services through our 
+
+MSN portals and channels around the world.
+
+Over the past few years, we have laid the foundation for long-
+
+term growth by making global citizenship an integral part of our 
+
+business strategy and company culture by delivering innovative 
+
+new products, creating opportunity for partners, increasing 
+
+customer satisfaction, and improving our internal processes.
+
+More information about Microsoft’s business operations and 
+
+structure is available at www.microsoft.com/mscorp/default.mspx.
+
+full potential. Our mission and our core 
+
+values underscore our approach to 
+
+business and our role as a committed 
+
+corporate citizen in each of the 
+
+countries and communities where 
+
+we operate. Our ability to deliver 
+
+on our mission depends in part on 
+
+how faithfully we live these values:
+
+  We act with integrity and honesty.
+
+  We have passion for our customers 
+
+and partners, and for technology.
+
+  We practice openness and 
+
+respect for others.
+
+  We are willing to take on big 
+
+challenges and see them through.
+
+  We are self-critical and 
+
+committed to personal excellence 
+
+and self-improvement.
+
+  We are accountable for 
+
+commitments, results, and quality 
+
+to customers, shareholders, 
+
+partners, and employees.
+
+More information about 
+
+Microsoft’s mission and values 
+
+is available at www.microsoft.
+
+com/mscorp/mission/.   
+
+year 2005 revenue, operating income, and other financial 
+
+provide supervision and oversight 
+
+information, see the 2005 Microsoft Annual Report at www.
+
+in implementing and maintaining 
+
+microsoft.com/msft/ar.mspx (available in November 2005).
+
+effective and collaborative compliance 
+
+Corporate Governance
+
+At Microsoft, corporate governance is one of our top priorities. 
+
+We are always at work to strengthen and safeguard our culture 
+
+of accountability, business integrity, and responsible business 
+
+practices. We encourage the efficient use of resources, monitor 
+
+our performance in achieving company objectives, and 
+
+ensure management accountability to our shareholders.
+
+Board of Directors
+
+Our Board of Directors establishes the standards and policies 
+
+for corporate governance, ethics, and compliance throughout 
+
+Microsoft. The Board has developed corporate governance 
+
+practices to help fulfill its responsibilities to oversee the work 
+
+of management in conducting Microsoft’s business and to 
+
+serve the long-term interests of our shareholders. Having these 
+
+governance practices firmly in place and clearly stated invests 
+
+the Board with the necessary authority and autonomy to review 
+
+and evaluate the company’s business operations as needed and 
+
+to make decisions independent of Microsoft management.
+
+For more information about the Microsoft Board of  
+
+Directors, refer to the 2005 Microsoft Annual Report at  
+
+www.microsoft.com/msft/ar.mspx (available in November 2005).
+
+and corporate governance programs. 
+
+This responsibility is wide-ranging, 
+
+but two particular areas of focus 
+
+are administering the Standards of 
+
+Business Conduct in relation to specific 
+
+situations and ensuring that Microsoft 
+
+meets or exceeds all conditions 
+
+of the 2002 Consent Decree that 
+
+resulted from the antitrust lawsuit 
+
+by the U.S. Department of Justice.
+
+The Office of Legal Compliance 
+
+works closely with leaders and key 
+
+colleagues across the company, 
+
+who are accountable for compliance 
+
+with a range of legal and regulatory 
+
+obligations in specific areas, 
+
+including human resources, internal 
+
+audit, product development, 
+
+security, finance, environmental 
+
+stewardship, and marketing. The 
+
+Office of Legal Compliance was 
+
+formed by Board resolution in 
+
+2001 and reports regularly to the 
+
+Microsoft Board of Directors Audit 
+
+Committee about the company’s 
+
+compliance activities and programs.
+
+The Corporate Governance Guidelines, as well as the charters for all five Board committees, including the 
+
+Corporate Staff Council and the Executive Team, are available at www.microsoft.com/msft/corpinfo.mspx.   
+
+       Microsoft 2005 Global Citizenship Report
+
+Looking to the Future
+
+Global citizenship at Microsoft is a progressive journey, each step 
+
+forward represents worthwhile progress in our ongoing efforts 
+
+to improve our company, to increase the safety and security 
+
+of people who use our products, and to enable people and 
+
+businesses throughout the world to realize their full potential.
+
+To evaluate the progress we’ve made against our previous  
+
+objectives and to review our current goals, see  
+
+http://www.microsoft.com/mscorp/citizenship/report/.
+
+About This Report
+
+Reporting Scope and Structure
+
+Our citizenship reporting reflects the structure of our Global Citizenship Initiative and 
+
+related activities because we want our stakeholders — employees, customers, partners, 
+
+shareholders, and others — to be able to compare our program goals and objectives with 
+
+our results. Our report is a combination of two components: the following thematic print 
+
+volume and a more expansive and comprehensive online publication. The thematic print 
+
+volume highlights and provides an overview of some key citizenship issues the company 
+
+addressed in the last fiscal year. The more comprehensive version of the report is an 
+
+online publication that we will update on a rolling basis throughout the year. In the online 
+
+portion of this report, we have included references to applicable Global Report Initiative 
+
+(GRI) performance indicators to assist stakeholders in their review and assessment of our 
+
+Global Citizenship Initiative. (More information about the GRI performance indicators 
+
+is available at http://www.globalreporting.org.) The function of the GRI performance 
+
+indicators is to provide information about the economic, environmental, and social 
+
+impacts of organizations in a manner that enhances comparability between reports and 
+
+organizations. In addition, both the print and online components of the report provide 
+
+key links to more detailed information on Microsoft.com, Microsoft’s corporate Web site.
+
+Reporting Period
+
+This report focuses on Microsoft’s fiscal year 2005 (which began July 1, 2004, and 
+
+ended June 30, 2005). All data are for that period unless otherwise noted.
+
+Currency
+
+All money figures in this report are in U.S. dollars unless otherwise noted.
+
+Terminology
+
+The terms “Global Citizenship” and “Corporate Citizenship,” which are 
+
+used throughout this report, are interchangeable with similar terms such 
+
+as “Corporate Social Responsibility” and “Corporate Sustainability.”
+
+More information about the GRI performance indicators is available at  
+
+http://www.globalreporting.org/.   
+
+This report is printed on New Leaf 
+
+Opaque 100, White, 80 lb. cover 
+
+and 80 lb. text, which are made 
+
+with process-chlorine-free 100% 
+
+post-consumer waste fiber. 
+
+New Leaf Paper is an FSC certified  
+
+paper broker. 
+
+Printed on paper containing 100% 
+
+post-consumer waste.
+
+Microsoft Corporation
+
+One Microsoft Way
+
+Redmond, WA 98052-8300 USA
+
+Phone: 425.882.8080
+
+www.microsoft.com
+
+Microsoft Asia Pacific
+
+1 Marina Boulevard #22–01, Singapore 018989
+
+Phone: 65.6882.8899
+
+www.microsoft.com/asia
+
+Microsoft Greater China
+
+19/F, Millennium Tower, 38 Xiaoyun Road
+
+Chaoyang, Beijing 100027, P.R. China
+
+Phone: 86.10.8453.8585
+
+www.microsoft.com/china
+
+Microsoft Japan
+
+Odakyu Southern Tower, 2-2-1 Yoyogi
+
+Shibuya-ku, Tokyo 151-8583, Japan
+
+Phone: 81.3.5454.8000
+
+www.microsoft.com/japan
+
+Microsoft Europe, Middle East & Africa
+
+Coeur Défense, Tour B–37e étage
+
+100, Esplanade du Général de Gaulle
+
+92932 Paris La Défense Cédex France
+
+Phone: 33.1.70.99.10.00
+
+www.microsoft.com/emea
+
+Microsoft Latin America
+
+6740 North Andrews Avenue, Suite 400
+
+Fort Lauderdale, FL 33309-2136 USA
+
+Phone: 954.489.4800
+
+www.microsoft.com/latam
+
+Microsoft Canada
+
+1950 Meadowvale Boulevard
+
+Mississauga, Ontario L5N 8L9 Canada
+
+Phone: 905.568.0434
+
+www.microsoft.com/canada
+
+To  access  This  informaTion  online,  visiT:   
+W W W. m i cr os o f T.co m/ m s co r P/ci T i Zen sh i P
+
+© 2005 microsoft corporation. all rights reserved. microsoft, BizTalk, msn, Windows, Windows media, Windows server, and Xbox 
+are either registered trademarks or trademarks of microsoft corporation in the United states and/or other countries. The names of 
+actual companies and products mentioned herein may be the trademarks of their respective owners. Part no. 098-104003
+
+
