@@ -1,0 +1,2606 @@
+[
+    {
+        "source": {
+            "type": "file",
+            "filename": "Sustainability Spotlight Darren Woods Chairman & CEO of ExxonMobil.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "a82cd6ae2e5474592f7ba393f43480d5"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Sustainability Spotlight Darren Woods Chairman & CEO of ExxonMobil.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": []
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "Jeff Bezos pledges 2 billion at COP26.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "14e5be7d8ad809ccf44d005f8515d5f0"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Jeff Bezos pledges 2 billion at COP26.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": []
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "Microsoft CEO Satya Nadella on Microsoft\u2019s Commitment to Become Carbon Negative by 2030.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "7cb45516dc52353a328818bf61a121f5"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Microsoft CEO Satya Nadella on Microsoft\u2019s Commitment to Become Carbon Negative by 2030.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": []
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "Tim Cook at Climate Summit Apple To Be Ready 20 Years Early.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "61a49f7e51cfdc290ebd719bc3a76503"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Tim Cook at Climate Summit Apple To Be Ready 20 Years Early.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": [
+                                {
+                                    "id": "unknown",
+                                    "predictions": [
+                                        {
+                                            "time": {
+                                                "begin": 4.0,
+                                                "end": 5.0
+                                            },
+                                            "emotions": [
+                                                {
+                                                    "name": "Admiration",
+                                                    "score": 0.06770092993974686
+                                                },
+                                                {
+                                                    "name": "Adoration",
+                                                    "score": 0.08592495322227478
+                                                },
+                                                {
+                                                    "name": "Aesthetic Appreciation",
+                                                    "score": 0.03024718165397644
+                                                },
+                                                {
+                                                    "name": "Amusement",
+                                                    "score": 0.5572942495346069
+                                                },
+                                                {
+                                                    "name": "Anger",
+                                                    "score": 0.007412942126393318
+                                                },
+                                                {
+                                                    "name": "Anxiety",
+                                                    "score": 0.0618186816573143
+                                                },
+                                                {
+                                                    "name": "Awe",
+                                                    "score": 0.009389603510499
+                                                },
+                                                {
+                                                    "name": "Awkwardness",
+                                                    "score": 0.23397895693778992
+                                                },
+                                                {
+                                                    "name": "Boredom",
+                                                    "score": 0.0674428790807724
+                                                },
+                                                {
+                                                    "name": "Calmness",
+                                                    "score": 0.08267567306756973
+                                                },
+                                                {
+                                                    "name": "Concentration",
+                                                    "score": 0.017240773886442184
+                                                },
+                                                {
+                                                    "name": "Confusion",
+                                                    "score": 0.025378024205565453
+                                                },
+                                                {
+                                                    "name": "Contemplation",
+                                                    "score": 0.048164427280426025
+                                                },
+                                                {
+                                                    "name": "Contempt",
+                                                    "score": 0.11846666038036346
+                                                },
+                                                {
+                                                    "name": "Contentment",
+                                                    "score": 0.17727987468242645
+                                                },
+                                                {
+                                                    "name": "Craving",
+                                                    "score": 0.02597353421151638
+                                                },
+                                                {
+                                                    "name": "Desire",
+                                                    "score": 0.054259415715932846
+                                                },
+                                                {
+                                                    "name": "Determination",
+                                                    "score": 0.01294789556413889
+                                                },
+                                                {
+                                                    "name": "Disappointment",
+                                                    "score": 0.048354730010032654
+                                                },
+                                                {
+                                                    "name": "Disgust",
+                                                    "score": 0.011295013129711151
+                                                },
+                                                {
+                                                    "name": "Distress",
+                                                    "score": 0.07711822539567947
+                                                },
+                                                {
+                                                    "name": "Doubt",
+                                                    "score": 0.06977611780166626
+                                                },
+                                                {
+                                                    "name": "Ecstasy",
+                                                    "score": 0.1331045925617218
+                                                },
+                                                {
+                                                    "name": "Embarrassment",
+                                                    "score": 0.15610280632972717
+                                                },
+                                                {
+                                                    "name": "Empathic Pain",
+                                                    "score": 0.03302539512515068
+                                                },
+                                                {
+                                                    "name": "Entrancement",
+                                                    "score": 0.04747946187853813
+                                                },
+                                                {
+                                                    "name": "Envy",
+                                                    "score": 0.026393957436084747
+                                                },
+                                                {
+                                                    "name": "Excitement",
+                                                    "score": 0.2100674957036972
+                                                },
+                                                {
+                                                    "name": "Fear",
+                                                    "score": 0.023840028792619705
+                                                },
+                                                {
+                                                    "name": "Guilt",
+                                                    "score": 0.019126104190945625
+                                                },
+                                                {
+                                                    "name": "Horror",
+                                                    "score": 0.009923584759235382
+                                                },
+                                                {
+                                                    "name": "Interest",
+                                                    "score": 0.1689455360174179
+                                                },
+                                                {
+                                                    "name": "Joy",
+                                                    "score": 0.4607515335083008
+                                                },
+                                                {
+                                                    "name": "Love",
+                                                    "score": 0.16682285070419312
+                                                },
+                                                {
+                                                    "name": "Nostalgia",
+                                                    "score": 0.0652555599808693
+                                                },
+                                                {
+                                                    "name": "Pain",
+                                                    "score": 0.03478808328509331
+                                                },
+                                                {
+                                                    "name": "Pride",
+                                                    "score": 0.058601703494787216
+                                                },
+                                                {
+                                                    "name": "Realization",
+                                                    "score": 0.02774028852581978
+                                                },
+                                                {
+                                                    "name": "Relief",
+                                                    "score": 0.028546595945954323
+                                                },
+                                                {
+                                                    "name": "Romance",
+                                                    "score": 0.08580105751752853
+                                                },
+                                                {
+                                                    "name": "Sadness",
+                                                    "score": 0.08936315029859543
+                                                },
+                                                {
+                                                    "name": "Satisfaction",
+                                                    "score": 0.17639052867889404
+                                                },
+                                                {
+                                                    "name": "Shame",
+                                                    "score": 0.03313569724559784
+                                                },
+                                                {
+                                                    "name": "Surprise (negative)",
+                                                    "score": 0.002561702625826001
+                                                },
+                                                {
+                                                    "name": "Surprise (positive)",
+                                                    "score": 0.005193192046135664
+                                                },
+                                                {
+                                                    "name": "Sympathy",
+                                                    "score": 0.06340063363313675
+                                                },
+                                                {
+                                                    "name": "Tiredness",
+                                                    "score": 0.03834562376141548
+                                                },
+                                                {
+                                                    "name": "Triumph",
+                                                    "score": 0.07091692090034485
+                                                }
+                                            ],
+                                            "descriptions": [
+                                                {
+                                                    "name": "Ah",
+                                                    "score": 0.0023175126407295465
+                                                },
+                                                {
+                                                    "name": "Aha",
+                                                    "score": 0.01875680685043335
+                                                },
+                                                {
+                                                    "name": "Ahh",
+                                                    "score": 0.002623765729367733
+                                                },
+                                                {
+                                                    "name": "Argh",
+                                                    "score": 0.0016569269355386496
+                                                },
+                                                {
+                                                    "name": "Aww",
+                                                    "score": 0.001098786131478846
+                                                },
+                                                {
+                                                    "name": "Cackle",
+                                                    "score": 0.09735416620969772
+                                                },
+                                                {
+                                                    "name": "Cheer",
+                                                    "score": 0.03338681161403656
+                                                },
+                                                {
+                                                    "name": "Chuckle",
+                                                    "score": 0.530002236366272
+                                                },
+                                                {
+                                                    "name": "Cry",
+                                                    "score": 0.0805901363492012
+                                                },
+                                                {
+                                                    "name": "Eek",
+                                                    "score": 0.004906316287815571
+                                                },
+                                                {
+                                                    "name": "Eww",
+                                                    "score": 0.0036321007646620274
+                                                },
+                                                {
+                                                    "name": "Gasp",
+                                                    "score": 0.009767565876245499
+                                                },
+                                                {
+                                                    "name": "Giggle",
+                                                    "score": 0.49818575382232666
+                                                },
+                                                {
+                                                    "name": "Groan",
+                                                    "score": 0.026287173852324486
+                                                },
+                                                {
+                                                    "name": "Growl",
+                                                    "score": 0.0025415762793272734
+                                                },
+                                                {
+                                                    "name": "Grr",
+                                                    "score": 0.006452933419495821
+                                                },
+                                                {
+                                                    "name": "Grunt",
+                                                    "score": 0.0056224181316792965
+                                                },
+                                                {
+                                                    "name": "Ha",
+                                                    "score": 0.030187368392944336
+                                                },
+                                                {
+                                                    "name": "Hah",
+                                                    "score": 0.03381578251719475
+                                                },
+                                                {
+                                                    "name": "Haha",
+                                                    "score": 0.15073606371879578
+                                                },
+                                                {
+                                                    "name": "Hehe",
+                                                    "score": 0.3310261070728302
+                                                },
+                                                {
+                                                    "name": "Hiss",
+                                                    "score": 0.005204165820032358
+                                                },
+                                                {
+                                                    "name": "Hmm",
+                                                    "score": 0.11976877599954605
+                                                },
+                                                {
+                                                    "name": "Hoot",
+                                                    "score": 0.0077941459603607655
+                                                },
+                                                {
+                                                    "name": "Howl",
+                                                    "score": 0.004264526069164276
+                                                },
+                                                {
+                                                    "name": "Huh",
+                                                    "score": 0.005095809232443571
+                                                },
+                                                {
+                                                    "name": "Hurray",
+                                                    "score": 0.006925535388290882
+                                                },
+                                                {
+                                                    "name": "Laugh",
+                                                    "score": 0.3939974009990692
+                                                },
+                                                {
+                                                    "name": "Mhm",
+                                                    "score": 0.12421685457229614
+                                                },
+                                                {
+                                                    "name": "Mmm",
+                                                    "score": 0.09095892310142517
+                                                },
+                                                {
+                                                    "name": "Moan",
+                                                    "score": 0.030152935534715652
+                                                },
+                                                {
+                                                    "name": "Oh",
+                                                    "score": 0.0010773699032142758
+                                                },
+                                                {
+                                                    "name": "Ohh",
+                                                    "score": 0.0018360954709351063
+                                                },
+                                                {
+                                                    "name": "Ooh",
+                                                    "score": 0.0024799033999443054
+                                                },
+                                                {
+                                                    "name": "Ooph",
+                                                    "score": 0.0016582751413807273
+                                                },
+                                                {
+                                                    "name": "Ouch",
+                                                    "score": 0.0012766473228111863
+                                                },
+                                                {
+                                                    "name": "Oww",
+                                                    "score": 0.000499980291351676
+                                                },
+                                                {
+                                                    "name": "Pant",
+                                                    "score": 0.008374948985874653
+                                                },
+                                                {
+                                                    "name": "Pff",
+                                                    "score": 0.012825190089643002
+                                                },
+                                                {
+                                                    "name": "Phew",
+                                                    "score": 0.0023734464775770903
+                                                },
+                                                {
+                                                    "name": "Roar",
+                                                    "score": 0.0019096843898296356
+                                                },
+                                                {
+                                                    "name": "Scream",
+                                                    "score": 0.003618719521909952
+                                                },
+                                                {
+                                                    "name": "Screech",
+                                                    "score": 0.01046673208475113
+                                                },
+                                                {
+                                                    "name": "Shout",
+                                                    "score": 0.00206059031188488
+                                                },
+                                                {
+                                                    "name": "Shriek",
+                                                    "score": 0.007819654420018196
+                                                },
+                                                {
+                                                    "name": "Sigh",
+                                                    "score": 0.015290291048586369
+                                                },
+                                                {
+                                                    "name": "Snicker",
+                                                    "score": 0.493211567401886
+                                                },
+                                                {
+                                                    "name": "Snort",
+                                                    "score": 0.03533903881907463
+                                                },
+                                                {
+                                                    "name": "Sob",
+                                                    "score": 0.12261328101158142
+                                                },
+                                                {
+                                                    "name": "Squeal",
+                                                    "score": 0.0761718600988388
+                                                },
+                                                {
+                                                    "name": "Tsk",
+                                                    "score": 0.011645693331956863
+                                                },
+                                                {
+                                                    "name": "Ugh",
+                                                    "score": 0.004012914374470711
+                                                },
+                                                {
+                                                    "name": "Uh",
+                                                    "score": 0.003679613582789898
+                                                },
+                                                {
+                                                    "name": "Uh-huh",
+                                                    "score": 0.03208142891526222
+                                                },
+                                                {
+                                                    "name": "Umm",
+                                                    "score": 0.00979625340551138
+                                                },
+                                                {
+                                                    "name": "Wail",
+                                                    "score": 0.027327921241521835
+                                                },
+                                                {
+                                                    "name": "Whee",
+                                                    "score": 0.016037575900554657
+                                                },
+                                                {
+                                                    "name": "Wheep",
+                                                    "score": 0.05125616863369942
+                                                },
+                                                {
+                                                    "name": "Whew",
+                                                    "score": 0.00735782366245985
+                                                },
+                                                {
+                                                    "name": "Whimper",
+                                                    "score": 0.10069785267114639
+                                                },
+                                                {
+                                                    "name": "Woah",
+                                                    "score": 0.0008721475605852902
+                                                },
+                                                {
+                                                    "name": "Wow",
+                                                    "score": 0.0005853383336216211
+                                                },
+                                                {
+                                                    "name": "Yawn",
+                                                    "score": 0.0035198356490582228
+                                                },
+                                                {
+                                                    "name": "Yay",
+                                                    "score": 0.004531574435532093
+                                                },
+                                                {
+                                                    "name": "Yelp",
+                                                    "score": 0.0012780155520886183
+                                                },
+                                                {
+                                                    "name": "Yippee",
+                                                    "score": 0.013734506443142891
+                                                },
+                                                {
+                                                    "name": "Yuck",
+                                                    "score": 0.0026241696905344725
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "Sustainability Spotlight Tamara Lundgren Chairman President & CEO of Schnitzer Steel.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "e34bf134774c08158dba04a0e53a3e3b"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Sustainability Spotlight Tamara Lundgren Chairman President & CEO of Schnitzer Steel.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": []
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "Investing in Employees Jim Burke President and Chief Executive Officer of Vistra Corp.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "80072cabf359790b4168020300146cce"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Investing in Employees Jim Burke President and Chief Executive Officer of Vistra Corp.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": []
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "Chevron CEO Mike Wirth Environmental protection and affordable reliable energy are essential.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "5321fe158829aef2da8f6c544cd97a2c"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Chevron CEO Mike Wirth Environmental protection and affordable reliable energy are essential.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": []
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "Interview with Matt Granitto Evoqua Water Technologies.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "faa1f250277e9228fb51155a4b18ea9c"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Interview with Matt Granitto Evoqua Water Technologies.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": [
+                                {
+                                    "id": "unknown",
+                                    "predictions": [
+                                        {
+                                            "time": {
+                                                "begin": 158.0,
+                                                "end": 159.0
+                                            },
+                                            "emotions": [
+                                                {
+                                                    "name": "Admiration",
+                                                    "score": 0.022891467437148094
+                                                },
+                                                {
+                                                    "name": "Adoration",
+                                                    "score": 0.02650453895330429
+                                                },
+                                                {
+                                                    "name": "Aesthetic Appreciation",
+                                                    "score": 0.00956262368708849
+                                                },
+                                                {
+                                                    "name": "Amusement",
+                                                    "score": 0.12004490196704865
+                                                },
+                                                {
+                                                    "name": "Anger",
+                                                    "score": 0.01741001568734646
+                                                },
+                                                {
+                                                    "name": "Anxiety",
+                                                    "score": 0.11887119710445404
+                                                },
+                                                {
+                                                    "name": "Awe",
+                                                    "score": 0.024983786046504974
+                                                },
+                                                {
+                                                    "name": "Awkwardness",
+                                                    "score": 0.15428368747234344
+                                                },
+                                                {
+                                                    "name": "Boredom",
+                                                    "score": 0.09158389270305634
+                                                },
+                                                {
+                                                    "name": "Calmness",
+                                                    "score": 0.04233065992593765
+                                                },
+                                                {
+                                                    "name": "Concentration",
+                                                    "score": 0.023586276918649673
+                                                },
+                                                {
+                                                    "name": "Confusion",
+                                                    "score": 0.07491989433765411
+                                                },
+                                                {
+                                                    "name": "Contemplation",
+                                                    "score": 0.034425415098667145
+                                                },
+                                                {
+                                                    "name": "Contempt",
+                                                    "score": 0.04868820309638977
+                                                },
+                                                {
+                                                    "name": "Contentment",
+                                                    "score": 0.027690818533301353
+                                                },
+                                                {
+                                                    "name": "Craving",
+                                                    "score": 0.0358564667403698
+                                                },
+                                                {
+                                                    "name": "Desire",
+                                                    "score": 0.2750574052333832
+                                                },
+                                                {
+                                                    "name": "Determination",
+                                                    "score": 0.015279690735042095
+                                                },
+                                                {
+                                                    "name": "Disappointment",
+                                                    "score": 0.12969127297401428
+                                                },
+                                                {
+                                                    "name": "Disgust",
+                                                    "score": 0.0388169027864933
+                                                },
+                                                {
+                                                    "name": "Distress",
+                                                    "score": 0.24702490866184235
+                                                },
+                                                {
+                                                    "name": "Doubt",
+                                                    "score": 0.07188833504915237
+                                                },
+                                                {
+                                                    "name": "Ecstasy",
+                                                    "score": 0.24886275827884674
+                                                },
+                                                {
+                                                    "name": "Embarrassment",
+                                                    "score": 0.13063733279705048
+                                                },
+                                                {
+                                                    "name": "Empathic Pain",
+                                                    "score": 0.0991576761007309
+                                                },
+                                                {
+                                                    "name": "Entrancement",
+                                                    "score": 0.026470109820365906
+                                                },
+                                                {
+                                                    "name": "Envy",
+                                                    "score": 0.005975373089313507
+                                                },
+                                                {
+                                                    "name": "Excitement",
+                                                    "score": 0.06516470015048981
+                                                },
+                                                {
+                                                    "name": "Fear",
+                                                    "score": 0.17139042913913727
+                                                },
+                                                {
+                                                    "name": "Guilt",
+                                                    "score": 0.06502041965723038
+                                                },
+                                                {
+                                                    "name": "Horror",
+                                                    "score": 0.07190880179405212
+                                                },
+                                                {
+                                                    "name": "Interest",
+                                                    "score": 0.06341059505939484
+                                                },
+                                                {
+                                                    "name": "Joy",
+                                                    "score": 0.08922963589429855
+                                                },
+                                                {
+                                                    "name": "Love",
+                                                    "score": 0.04341047629714012
+                                                },
+                                                {
+                                                    "name": "Nostalgia",
+                                                    "score": 0.022142328321933746
+                                                },
+                                                {
+                                                    "name": "Pain",
+                                                    "score": 0.2291736602783203
+                                                },
+                                                {
+                                                    "name": "Pride",
+                                                    "score": 0.022441614419221878
+                                                },
+                                                {
+                                                    "name": "Realization",
+                                                    "score": 0.06456872820854187
+                                                },
+                                                {
+                                                    "name": "Relief",
+                                                    "score": 0.0640292838215828
+                                                },
+                                                {
+                                                    "name": "Romance",
+                                                    "score": 0.09213750809431076
+                                                },
+                                                {
+                                                    "name": "Sadness",
+                                                    "score": 0.10210607200860977
+                                                },
+                                                {
+                                                    "name": "Satisfaction",
+                                                    "score": 0.2318786233663559
+                                                },
+                                                {
+                                                    "name": "Shame",
+                                                    "score": 0.06151864677667618
+                                                },
+                                                {
+                                                    "name": "Surprise (negative)",
+                                                    "score": 0.02120022661983967
+                                                },
+                                                {
+                                                    "name": "Surprise (positive)",
+                                                    "score": 0.013425872661173344
+                                                },
+                                                {
+                                                    "name": "Sympathy",
+                                                    "score": 0.02467062510550022
+                                                },
+                                                {
+                                                    "name": "Tiredness",
+                                                    "score": 0.11880373954772949
+                                                },
+                                                {
+                                                    "name": "Triumph",
+                                                    "score": 0.03432665020227432
+                                                }
+                                            ],
+                                            "descriptions": [
+                                                {
+                                                    "name": "Ah",
+                                                    "score": 0.10098786652088165
+                                                },
+                                                {
+                                                    "name": "Aha",
+                                                    "score": 0.05023288354277611
+                                                },
+                                                {
+                                                    "name": "Ahh",
+                                                    "score": 0.1173432394862175
+                                                },
+                                                {
+                                                    "name": "Argh",
+                                                    "score": 0.029156770557165146
+                                                },
+                                                {
+                                                    "name": "Aww",
+                                                    "score": 0.019263381138443947
+                                                },
+                                                {
+                                                    "name": "Cackle",
+                                                    "score": 0.030089231207966805
+                                                },
+                                                {
+                                                    "name": "Cheer",
+                                                    "score": 0.04580801725387573
+                                                },
+                                                {
+                                                    "name": "Chuckle",
+                                                    "score": 0.17686745524406433
+                                                },
+                                                {
+                                                    "name": "Cry",
+                                                    "score": 0.06987810134887695
+                                                },
+                                                {
+                                                    "name": "Eek",
+                                                    "score": 0.00443052314221859
+                                                },
+                                                {
+                                                    "name": "Eww",
+                                                    "score": 0.008243966847658157
+                                                },
+                                                {
+                                                    "name": "Gasp",
+                                                    "score": 0.0684063732624054
+                                                },
+                                                {
+                                                    "name": "Giggle",
+                                                    "score": 0.16534152626991272
+                                                },
+                                                {
+                                                    "name": "Groan",
+                                                    "score": 0.1193484291434288
+                                                },
+                                                {
+                                                    "name": "Growl",
+                                                    "score": 0.011157440021634102
+                                                },
+                                                {
+                                                    "name": "Grr",
+                                                    "score": 0.0074444725178182125
+                                                },
+                                                {
+                                                    "name": "Grunt",
+                                                    "score": 0.024206414818763733
+                                                },
+                                                {
+                                                    "name": "Ha",
+                                                    "score": 0.027705473825335503
+                                                },
+                                                {
+                                                    "name": "Hah",
+                                                    "score": 0.025368109345436096
+                                                },
+                                                {
+                                                    "name": "Haha",
+                                                    "score": 0.07615280151367188
+                                                },
+                                                {
+                                                    "name": "Hehe",
+                                                    "score": 0.04181184247136116
+                                                },
+                                                {
+                                                    "name": "Hiss",
+                                                    "score": 0.006338313687592745
+                                                },
+                                                {
+                                                    "name": "Hmm",
+                                                    "score": 0.039494629949331284
+                                                },
+                                                {
+                                                    "name": "Hoot",
+                                                    "score": 0.002616051584482193
+                                                },
+                                                {
+                                                    "name": "Howl",
+                                                    "score": 0.01773633435368538
+                                                },
+                                                {
+                                                    "name": "Huh",
+                                                    "score": 0.011223286390304565
+                                                },
+                                                {
+                                                    "name": "Hurray",
+                                                    "score": 0.001398415770381689
+                                                },
+                                                {
+                                                    "name": "Laugh",
+                                                    "score": 0.15304125845432281
+                                                },
+                                                {
+                                                    "name": "Mhm",
+                                                    "score": 0.019932549446821213
+                                                },
+                                                {
+                                                    "name": "Mmm",
+                                                    "score": 0.01206433866173029
+                                                },
+                                                {
+                                                    "name": "Moan",
+                                                    "score": 0.29478487372398376
+                                                },
+                                                {
+                                                    "name": "Oh",
+                                                    "score": 0.061525776982307434
+                                                },
+                                                {
+                                                    "name": "Ohh",
+                                                    "score": 0.12843668460845947
+                                                },
+                                                {
+                                                    "name": "Ooh",
+                                                    "score": 0.06832851469516754
+                                                },
+                                                {
+                                                    "name": "Ooph",
+                                                    "score": 0.027191713452339172
+                                                },
+                                                {
+                                                    "name": "Ouch",
+                                                    "score": 0.004918463993817568
+                                                },
+                                                {
+                                                    "name": "Oww",
+                                                    "score": 0.04336928576231003
+                                                },
+                                                {
+                                                    "name": "Pant",
+                                                    "score": 0.03468833863735199
+                                                },
+                                                {
+                                                    "name": "Pff",
+                                                    "score": 0.0037327671889215708
+                                                },
+                                                {
+                                                    "name": "Phew",
+                                                    "score": 0.0037340661510825157
+                                                },
+                                                {
+                                                    "name": "Roar",
+                                                    "score": 0.006132693495601416
+                                                },
+                                                {
+                                                    "name": "Scream",
+                                                    "score": 0.023725664243102074
+                                                },
+                                                {
+                                                    "name": "Screech",
+                                                    "score": 0.024394609034061432
+                                                },
+                                                {
+                                                    "name": "Shout",
+                                                    "score": 0.016324980184435844
+                                                },
+                                                {
+                                                    "name": "Shriek",
+                                                    "score": 0.03198874741792679
+                                                },
+                                                {
+                                                    "name": "Sigh",
+                                                    "score": 0.05264095962047577
+                                                },
+                                                {
+                                                    "name": "Snicker",
+                                                    "score": 0.06884510070085526
+                                                },
+                                                {
+                                                    "name": "Snort",
+                                                    "score": 0.012437090277671814
+                                                },
+                                                {
+                                                    "name": "Sob",
+                                                    "score": 0.10828688740730286
+                                                },
+                                                {
+                                                    "name": "Squeal",
+                                                    "score": 0.02344014309346676
+                                                },
+                                                {
+                                                    "name": "Tsk",
+                                                    "score": 0.003983161877840757
+                                                },
+                                                {
+                                                    "name": "Ugh",
+                                                    "score": 0.058608897030353546
+                                                },
+                                                {
+                                                    "name": "Uh",
+                                                    "score": 0.0749567449092865
+                                                },
+                                                {
+                                                    "name": "Uh-huh",
+                                                    "score": 0.11102999001741409
+                                                },
+                                                {
+                                                    "name": "Umm",
+                                                    "score": 0.009365692734718323
+                                                },
+                                                {
+                                                    "name": "Wail",
+                                                    "score": 0.12913691997528076
+                                                },
+                                                {
+                                                    "name": "Whee",
+                                                    "score": 0.009657083079218864
+                                                },
+                                                {
+                                                    "name": "Wheep",
+                                                    "score": 0.053809624165296555
+                                                },
+                                                {
+                                                    "name": "Whew",
+                                                    "score": 0.01049345638602972
+                                                },
+                                                {
+                                                    "name": "Whimper",
+                                                    "score": 0.11541778594255447
+                                                },
+                                                {
+                                                    "name": "Woah",
+                                                    "score": 0.0035249926149845123
+                                                },
+                                                {
+                                                    "name": "Wow",
+                                                    "score": 0.0012776696821674705
+                                                },
+                                                {
+                                                    "name": "Yawn",
+                                                    "score": 0.038130998611450195
+                                                },
+                                                {
+                                                    "name": "Yay",
+                                                    "score": 0.00255911098793149
+                                                },
+                                                {
+                                                    "name": "Yelp",
+                                                    "score": 0.01918896660208702
+                                                },
+                                                {
+                                                    "name": "Yippee",
+                                                    "score": 0.007366582285612822
+                                                },
+                                                {
+                                                    "name": "Yuck",
+                                                    "score": 0.013110566884279251
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "Nuclear has to be a part of the transition to carbon-free economy Southern Company CEO Chris Womack.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "a9901f581905f19ffd79bf9295d614c6"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "Nuclear has to be a part of the transition to carbon-free economy Southern Company CEO Chris Womack.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": [
+                                {
+                                    "id": "unknown",
+                                    "predictions": [
+                                        {
+                                            "time": {
+                                                "begin": 37.0,
+                                                "end": 38.0
+                                            },
+                                            "emotions": [
+                                                {
+                                                    "name": "Admiration",
+                                                    "score": 0.030818147584795952
+                                                },
+                                                {
+                                                    "name": "Adoration",
+                                                    "score": 0.0191778764128685
+                                                },
+                                                {
+                                                    "name": "Aesthetic Appreciation",
+                                                    "score": 0.012460295110940933
+                                                },
+                                                {
+                                                    "name": "Amusement",
+                                                    "score": 0.16103094816207886
+                                                },
+                                                {
+                                                    "name": "Anger",
+                                                    "score": 0.03249109536409378
+                                                },
+                                                {
+                                                    "name": "Anxiety",
+                                                    "score": 0.11599151045084
+                                                },
+                                                {
+                                                    "name": "Awe",
+                                                    "score": 0.040463048964738846
+                                                },
+                                                {
+                                                    "name": "Awkwardness",
+                                                    "score": 0.08276290446519852
+                                                },
+                                                {
+                                                    "name": "Boredom",
+                                                    "score": 0.05861514061689377
+                                                },
+                                                {
+                                                    "name": "Calmness",
+                                                    "score": 0.029415979981422424
+                                                },
+                                                {
+                                                    "name": "Concentration",
+                                                    "score": 0.011417360045015812
+                                                },
+                                                {
+                                                    "name": "Confusion",
+                                                    "score": 0.026346923783421516
+                                                },
+                                                {
+                                                    "name": "Contemplation",
+                                                    "score": 0.013334100134670734
+                                                },
+                                                {
+                                                    "name": "Contempt",
+                                                    "score": 0.03861752897500992
+                                                },
+                                                {
+                                                    "name": "Contentment",
+                                                    "score": 0.03765588626265526
+                                                },
+                                                {
+                                                    "name": "Craving",
+                                                    "score": 0.022209851071238518
+                                                },
+                                                {
+                                                    "name": "Desire",
+                                                    "score": 0.22561059892177582
+                                                },
+                                                {
+                                                    "name": "Determination",
+                                                    "score": 0.015269242227077484
+                                                },
+                                                {
+                                                    "name": "Disappointment",
+                                                    "score": 0.07512237876653671
+                                                },
+                                                {
+                                                    "name": "Disgust",
+                                                    "score": 0.027956392616033554
+                                                },
+                                                {
+                                                    "name": "Distress",
+                                                    "score": 0.2335946261882782
+                                                },
+                                                {
+                                                    "name": "Doubt",
+                                                    "score": 0.028211789205670357
+                                                },
+                                                {
+                                                    "name": "Ecstasy",
+                                                    "score": 0.2028479129076004
+                                                },
+                                                {
+                                                    "name": "Embarrassment",
+                                                    "score": 0.05338212475180626
+                                                },
+                                                {
+                                                    "name": "Empathic Pain",
+                                                    "score": 0.07554901391267776
+                                                },
+                                                {
+                                                    "name": "Entrancement",
+                                                    "score": 0.03122042305767536
+                                                },
+                                                {
+                                                    "name": "Envy",
+                                                    "score": 0.005994005594402552
+                                                },
+                                                {
+                                                    "name": "Excitement",
+                                                    "score": 0.1480928212404251
+                                                },
+                                                {
+                                                    "name": "Fear",
+                                                    "score": 0.2712304890155792
+                                                },
+                                                {
+                                                    "name": "Guilt",
+                                                    "score": 0.0340428464114666
+                                                },
+                                                {
+                                                    "name": "Horror",
+                                                    "score": 0.20868821442127228
+                                                },
+                                                {
+                                                    "name": "Interest",
+                                                    "score": 0.05277503281831741
+                                                },
+                                                {
+                                                    "name": "Joy",
+                                                    "score": 0.15728682279586792
+                                                },
+                                                {
+                                                    "name": "Love",
+                                                    "score": 0.059850603342056274
+                                                },
+                                                {
+                                                    "name": "Nostalgia",
+                                                    "score": 0.017338186502456665
+                                                },
+                                                {
+                                                    "name": "Pain",
+                                                    "score": 0.1865456998348236
+                                                },
+                                                {
+                                                    "name": "Pride",
+                                                    "score": 0.024400966241955757
+                                                },
+                                                {
+                                                    "name": "Realization",
+                                                    "score": 0.031058883294463158
+                                                },
+                                                {
+                                                    "name": "Relief",
+                                                    "score": 0.07467305660247803
+                                                },
+                                                {
+                                                    "name": "Romance",
+                                                    "score": 0.07576125115156174
+                                                },
+                                                {
+                                                    "name": "Sadness",
+                                                    "score": 0.10158306360244751
+                                                },
+                                                {
+                                                    "name": "Satisfaction",
+                                                    "score": 0.1725550889968872
+                                                },
+                                                {
+                                                    "name": "Shame",
+                                                    "score": 0.032331060618162155
+                                                },
+                                                {
+                                                    "name": "Surprise (negative)",
+                                                    "score": 0.059932246804237366
+                                                },
+                                                {
+                                                    "name": "Surprise (positive)",
+                                                    "score": 0.04934851452708244
+                                                },
+                                                {
+                                                    "name": "Sympathy",
+                                                    "score": 0.02381402626633644
+                                                },
+                                                {
+                                                    "name": "Tiredness",
+                                                    "score": 0.12620049715042114
+                                                },
+                                                {
+                                                    "name": "Triumph",
+                                                    "score": 0.054581012576818466
+                                                }
+                                            ],
+                                            "descriptions": [
+                                                {
+                                                    "name": "Ah",
+                                                    "score": 0.06388214230537415
+                                                },
+                                                {
+                                                    "name": "Aha",
+                                                    "score": 0.042029108852148056
+                                                },
+                                                {
+                                                    "name": "Ahh",
+                                                    "score": 0.051926661282777786
+                                                },
+                                                {
+                                                    "name": "Argh",
+                                                    "score": 0.028987713158130646
+                                                },
+                                                {
+                                                    "name": "Aww",
+                                                    "score": 0.009684387594461441
+                                                },
+                                                {
+                                                    "name": "Cackle",
+                                                    "score": 0.06413768231868744
+                                                },
+                                                {
+                                                    "name": "Cheer",
+                                                    "score": 0.025798287242650986
+                                                },
+                                                {
+                                                    "name": "Chuckle",
+                                                    "score": 0.07615266740322113
+                                                },
+                                                {
+                                                    "name": "Cry",
+                                                    "score": 0.11669953912496567
+                                                },
+                                                {
+                                                    "name": "Eek",
+                                                    "score": 0.00801069475710392
+                                                },
+                                                {
+                                                    "name": "Eww",
+                                                    "score": 0.004487281199544668
+                                                },
+                                                {
+                                                    "name": "Gasp",
+                                                    "score": 0.2116083949804306
+                                                },
+                                                {
+                                                    "name": "Giggle",
+                                                    "score": 0.0616379976272583
+                                                },
+                                                {
+                                                    "name": "Groan",
+                                                    "score": 0.0550207793712616
+                                                },
+                                                {
+                                                    "name": "Growl",
+                                                    "score": 0.014506292529404163
+                                                },
+                                                {
+                                                    "name": "Grr",
+                                                    "score": 0.008343195542693138
+                                                },
+                                                {
+                                                    "name": "Grunt",
+                                                    "score": 0.044642992317676544
+                                                },
+                                                {
+                                                    "name": "Ha",
+                                                    "score": 0.0378674753010273
+                                                },
+                                                {
+                                                    "name": "Hah",
+                                                    "score": 0.07102740556001663
+                                                },
+                                                {
+                                                    "name": "Haha",
+                                                    "score": 0.057360030710697174
+                                                },
+                                                {
+                                                    "name": "Hehe",
+                                                    "score": 0.026355359703302383
+                                                },
+                                                {
+                                                    "name": "Hiss",
+                                                    "score": 0.01015527918934822
+                                                },
+                                                {
+                                                    "name": "Hmm",
+                                                    "score": 0.011171652004122734
+                                                },
+                                                {
+                                                    "name": "Hoot",
+                                                    "score": 0.02505875565111637
+                                                },
+                                                {
+                                                    "name": "Howl",
+                                                    "score": 0.07267443835735321
+                                                },
+                                                {
+                                                    "name": "Huh",
+                                                    "score": 0.021664079278707504
+                                                },
+                                                {
+                                                    "name": "Hurray",
+                                                    "score": 0.013939768075942993
+                                                },
+                                                {
+                                                    "name": "Laugh",
+                                                    "score": 0.12102288752794266
+                                                },
+                                                {
+                                                    "name": "Mhm",
+                                                    "score": 0.003105312353000045
+                                                },
+                                                {
+                                                    "name": "Mmm",
+                                                    "score": 0.004624813329428434
+                                                },
+                                                {
+                                                    "name": "Moan",
+                                                    "score": 0.1552717536687851
+                                                },
+                                                {
+                                                    "name": "Oh",
+                                                    "score": 0.02309841848909855
+                                                },
+                                                {
+                                                    "name": "Ohh",
+                                                    "score": 0.035200733691453934
+                                                },
+                                                {
+                                                    "name": "Ooh",
+                                                    "score": 0.025365492329001427
+                                                },
+                                                {
+                                                    "name": "Ooph",
+                                                    "score": 0.012651903554797173
+                                                },
+                                                {
+                                                    "name": "Ouch",
+                                                    "score": 0.028256624937057495
+                                                },
+                                                {
+                                                    "name": "Oww",
+                                                    "score": 0.01659010350704193
+                                                },
+                                                {
+                                                    "name": "Pant",
+                                                    "score": 0.11784526705741882
+                                                },
+                                                {
+                                                    "name": "Pff",
+                                                    "score": 0.00514650996774435
+                                                },
+                                                {
+                                                    "name": "Phew",
+                                                    "score": 0.008443465456366539
+                                                },
+                                                {
+                                                    "name": "Roar",
+                                                    "score": 0.05686667561531067
+                                                },
+                                                {
+                                                    "name": "Scream",
+                                                    "score": 0.05558423697948456
+                                                },
+                                                {
+                                                    "name": "Screech",
+                                                    "score": 0.1457226276397705
+                                                },
+                                                {
+                                                    "name": "Shout",
+                                                    "score": 0.07267551869153976
+                                                },
+                                                {
+                                                    "name": "Shriek",
+                                                    "score": 0.1384865790605545
+                                                },
+                                                {
+                                                    "name": "Sigh",
+                                                    "score": 0.06923942267894745
+                                                },
+                                                {
+                                                    "name": "Snicker",
+                                                    "score": 0.020578671246767044
+                                                },
+                                                {
+                                                    "name": "Snort",
+                                                    "score": 0.024477263912558556
+                                                },
+                                                {
+                                                    "name": "Sob",
+                                                    "score": 0.11300764977931976
+                                                },
+                                                {
+                                                    "name": "Squeal",
+                                                    "score": 0.1093747690320015
+                                                },
+                                                {
+                                                    "name": "Tsk",
+                                                    "score": 0.0029883338138461113
+                                                },
+                                                {
+                                                    "name": "Ugh",
+                                                    "score": 0.01965859718620777
+                                                },
+                                                {
+                                                    "name": "Uh",
+                                                    "score": 0.025513246655464172
+                                                },
+                                                {
+                                                    "name": "Uh-huh",
+                                                    "score": 0.024498267099261284
+                                                },
+                                                {
+                                                    "name": "Umm",
+                                                    "score": 0.0023262191098183393
+                                                },
+                                                {
+                                                    "name": "Wail",
+                                                    "score": 0.11000805348157883
+                                                },
+                                                {
+                                                    "name": "Whee",
+                                                    "score": 0.014261769130825996
+                                                },
+                                                {
+                                                    "name": "Wheep",
+                                                    "score": 0.06147250533103943
+                                                },
+                                                {
+                                                    "name": "Whew",
+                                                    "score": 0.028240790590643883
+                                                },
+                                                {
+                                                    "name": "Whimper",
+                                                    "score": 0.15414190292358398
+                                                },
+                                                {
+                                                    "name": "Woah",
+                                                    "score": 0.01817265897989273
+                                                },
+                                                {
+                                                    "name": "Wow",
+                                                    "score": 0.010640253312885761
+                                                },
+                                                {
+                                                    "name": "Yawn",
+                                                    "score": 0.04142284020781517
+                                                },
+                                                {
+                                                    "name": "Yay",
+                                                    "score": 0.006821440067142248
+                                                },
+                                                {
+                                                    "name": "Yelp",
+                                                    "score": 0.04368284344673157
+                                                },
+                                                {
+                                                    "name": "Yippee",
+                                                    "score": 0.01741780899465084
+                                                },
+                                                {
+                                                    "name": "Yuck",
+                                                    "score": 0.010069526731967926
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "time": {
+                                                "begin": 251.0,
+                                                "end": 252.0
+                                            },
+                                            "emotions": [
+                                                {
+                                                    "name": "Admiration",
+                                                    "score": 0.036887288093566895
+                                                },
+                                                {
+                                                    "name": "Adoration",
+                                                    "score": 0.023614108562469482
+                                                },
+                                                {
+                                                    "name": "Aesthetic Appreciation",
+                                                    "score": 0.022681429982185364
+                                                },
+                                                {
+                                                    "name": "Amusement",
+                                                    "score": 0.08141341060400009
+                                                },
+                                                {
+                                                    "name": "Anger",
+                                                    "score": 0.18658991158008575
+                                                },
+                                                {
+                                                    "name": "Anxiety",
+                                                    "score": 0.08268573135137558
+                                                },
+                                                {
+                                                    "name": "Awe",
+                                                    "score": 0.053588468581438065
+                                                },
+                                                {
+                                                    "name": "Awkwardness",
+                                                    "score": 0.11098330467939377
+                                                },
+                                                {
+                                                    "name": "Boredom",
+                                                    "score": 0.13435186445713043
+                                                },
+                                                {
+                                                    "name": "Calmness",
+                                                    "score": 0.06463438272476196
+                                                },
+                                                {
+                                                    "name": "Concentration",
+                                                    "score": 0.04296526685357094
+                                                },
+                                                {
+                                                    "name": "Confusion",
+                                                    "score": 0.058691464364528656
+                                                },
+                                                {
+                                                    "name": "Contemplation",
+                                                    "score": 0.06536564230918884
+                                                },
+                                                {
+                                                    "name": "Contempt",
+                                                    "score": 0.18496668338775635
+                                                },
+                                                {
+                                                    "name": "Contentment",
+                                                    "score": 0.04420149326324463
+                                                },
+                                                {
+                                                    "name": "Craving",
+                                                    "score": 0.027894463390111923
+                                                },
+                                                {
+                                                    "name": "Desire",
+                                                    "score": 0.09206908941268921
+                                                },
+                                                {
+                                                    "name": "Determination",
+                                                    "score": 0.07151713222265244
+                                                },
+                                                {
+                                                    "name": "Disappointment",
+                                                    "score": 0.244065061211586
+                                                },
+                                                {
+                                                    "name": "Disgust",
+                                                    "score": 0.09652284532785416
+                                                },
+                                                {
+                                                    "name": "Distress",
+                                                    "score": 0.22605226933956146
+                                                },
+                                                {
+                                                    "name": "Doubt",
+                                                    "score": 0.08427057415246964
+                                                },
+                                                {
+                                                    "name": "Ecstasy",
+                                                    "score": 0.09219347685575485
+                                                },
+                                                {
+                                                    "name": "Embarrassment",
+                                                    "score": 0.0937005877494812
+                                                },
+                                                {
+                                                    "name": "Empathic Pain",
+                                                    "score": 0.08387687057256699
+                                                },
+                                                {
+                                                    "name": "Entrancement",
+                                                    "score": 0.031955257058143616
+                                                },
+                                                {
+                                                    "name": "Envy",
+                                                    "score": 0.028497016057372093
+                                                },
+                                                {
+                                                    "name": "Excitement",
+                                                    "score": 0.07576662302017212
+                                                },
+                                                {
+                                                    "name": "Fear",
+                                                    "score": 0.0773322656750679
+                                                },
+                                                {
+                                                    "name": "Guilt",
+                                                    "score": 0.04684662073850632
+                                                },
+                                                {
+                                                    "name": "Horror",
+                                                    "score": 0.0676664337515831
+                                                },
+                                                {
+                                                    "name": "Interest",
+                                                    "score": 0.08269984275102615
+                                                },
+                                                {
+                                                    "name": "Joy",
+                                                    "score": 0.07393862307071686
+                                                },
+                                                {
+                                                    "name": "Love",
+                                                    "score": 0.033050499856472015
+                                                },
+                                                {
+                                                    "name": "Nostalgia",
+                                                    "score": 0.016738003119826317
+                                                },
+                                                {
+                                                    "name": "Pain",
+                                                    "score": 0.22352410852909088
+                                                },
+                                                {
+                                                    "name": "Pride",
+                                                    "score": 0.08773571997880936
+                                                },
+                                                {
+                                                    "name": "Realization",
+                                                    "score": 0.10916640609502792
+                                                },
+                                                {
+                                                    "name": "Relief",
+                                                    "score": 0.08943024277687073
+                                                },
+                                                {
+                                                    "name": "Romance",
+                                                    "score": 0.02560577169060707
+                                                },
+                                                {
+                                                    "name": "Sadness",
+                                                    "score": 0.02892134338617325
+                                                },
+                                                {
+                                                    "name": "Satisfaction",
+                                                    "score": 0.13667580485343933
+                                                },
+                                                {
+                                                    "name": "Shame",
+                                                    "score": 0.0958634689450264
+                                                },
+                                                {
+                                                    "name": "Surprise (negative)",
+                                                    "score": 0.04166116565465927
+                                                },
+                                                {
+                                                    "name": "Surprise (positive)",
+                                                    "score": 0.03961755707859993
+                                                },
+                                                {
+                                                    "name": "Sympathy",
+                                                    "score": 0.02860218845307827
+                                                },
+                                                {
+                                                    "name": "Tiredness",
+                                                    "score": 0.10877139121294022
+                                                },
+                                                {
+                                                    "name": "Triumph",
+                                                    "score": 0.07595653086900711
+                                                }
+                                            ],
+                                            "descriptions": [
+                                                {
+                                                    "name": "Ah",
+                                                    "score": 0.13453909754753113
+                                                },
+                                                {
+                                                    "name": "Aha",
+                                                    "score": 0.059159185737371445
+                                                },
+                                                {
+                                                    "name": "Ahh",
+                                                    "score": 0.24441680312156677
+                                                },
+                                                {
+                                                    "name": "Argh",
+                                                    "score": 0.16655100882053375
+                                                },
+                                                {
+                                                    "name": "Aww",
+                                                    "score": 0.03791709244251251
+                                                },
+                                                {
+                                                    "name": "Cackle",
+                                                    "score": 0.020454755052924156
+                                                },
+                                                {
+                                                    "name": "Cheer",
+                                                    "score": 0.024791399016976357
+                                                },
+                                                {
+                                                    "name": "Chuckle",
+                                                    "score": 0.08336731046438217
+                                                },
+                                                {
+                                                    "name": "Cry",
+                                                    "score": 0.011536137200891972
+                                                },
+                                                {
+                                                    "name": "Eek",
+                                                    "score": 0.019385620951652527
+                                                },
+                                                {
+                                                    "name": "Eww",
+                                                    "score": 0.008393639698624611
+                                                },
+                                                {
+                                                    "name": "Gasp",
+                                                    "score": 0.03922821581363678
+                                                },
+                                                {
+                                                    "name": "Giggle",
+                                                    "score": 0.035009924322366714
+                                                },
+                                                {
+                                                    "name": "Groan",
+                                                    "score": 0.1685355305671692
+                                                },
+                                                {
+                                                    "name": "Growl",
+                                                    "score": 0.0831468254327774
+                                                },
+                                                {
+                                                    "name": "Grr",
+                                                    "score": 0.039260134100914
+                                                },
+                                                {
+                                                    "name": "Grunt",
+                                                    "score": 0.08580887317657471
+                                                },
+                                                {
+                                                    "name": "Ha",
+                                                    "score": 0.015319829806685448
+                                                },
+                                                {
+                                                    "name": "Hah",
+                                                    "score": 0.02960103563964367
+                                                },
+                                                {
+                                                    "name": "Haha",
+                                                    "score": 0.027675269171595573
+                                                },
+                                                {
+                                                    "name": "Hehe",
+                                                    "score": 0.01678335666656494
+                                                },
+                                                {
+                                                    "name": "Hiss",
+                                                    "score": 0.0058061471208930016
+                                                },
+                                                {
+                                                    "name": "Hmm",
+                                                    "score": 0.027053849771618843
+                                                },
+                                                {
+                                                    "name": "Hoot",
+                                                    "score": 0.01571975275874138
+                                                },
+                                                {
+                                                    "name": "Howl",
+                                                    "score": 0.007130367681384087
+                                                },
+                                                {
+                                                    "name": "Huh",
+                                                    "score": 0.013645884580910206
+                                                },
+                                                {
+                                                    "name": "Hurray",
+                                                    "score": 0.006326732225716114
+                                                },
+                                                {
+                                                    "name": "Laugh",
+                                                    "score": 0.06884092092514038
+                                                },
+                                                {
+                                                    "name": "Mhm",
+                                                    "score": 0.026303604245185852
+                                                },
+                                                {
+                                                    "name": "Mmm",
+                                                    "score": 0.02767838165163994
+                                                },
+                                                {
+                                                    "name": "Moan",
+                                                    "score": 0.07014210522174835
+                                                },
+                                                {
+                                                    "name": "Oh",
+                                                    "score": 0.01035944651812315
+                                                },
+                                                {
+                                                    "name": "Ohh",
+                                                    "score": 0.029637901112437248
+                                                },
+                                                {
+                                                    "name": "Ooh",
+                                                    "score": 0.012946443632245064
+                                                },
+                                                {
+                                                    "name": "Ooph",
+                                                    "score": 0.004612975288182497
+                                                },
+                                                {
+                                                    "name": "Ouch",
+                                                    "score": 0.002445196732878685
+                                                },
+                                                {
+                                                    "name": "Oww",
+                                                    "score": 0.0116914426907897
+                                                },
+                                                {
+                                                    "name": "Pant",
+                                                    "score": 0.0079190107062459
+                                                },
+                                                {
+                                                    "name": "Pff",
+                                                    "score": 0.004532758612185717
+                                                },
+                                                {
+                                                    "name": "Phew",
+                                                    "score": 0.005540390498936176
+                                                },
+                                                {
+                                                    "name": "Roar",
+                                                    "score": 0.02067679353058338
+                                                },
+                                                {
+                                                    "name": "Scream",
+                                                    "score": 0.021384388208389282
+                                                },
+                                                {
+                                                    "name": "Screech",
+                                                    "score": 0.011360431089997292
+                                                },
+                                                {
+                                                    "name": "Shout",
+                                                    "score": 0.05244214087724686
+                                                },
+                                                {
+                                                    "name": "Shriek",
+                                                    "score": 0.020808713510632515
+                                                },
+                                                {
+                                                    "name": "Sigh",
+                                                    "score": 0.07304325699806213
+                                                },
+                                                {
+                                                    "name": "Snicker",
+                                                    "score": 0.01712656393647194
+                                                },
+                                                {
+                                                    "name": "Snort",
+                                                    "score": 0.020962564274668694
+                                                },
+                                                {
+                                                    "name": "Sob",
+                                                    "score": 0.014529449865221977
+                                                },
+                                                {
+                                                    "name": "Squeal",
+                                                    "score": 0.009479927830398083
+                                                },
+                                                {
+                                                    "name": "Tsk",
+                                                    "score": 0.012880203314125538
+                                                },
+                                                {
+                                                    "name": "Ugh",
+                                                    "score": 0.15173612534999847
+                                                },
+                                                {
+                                                    "name": "Uh",
+                                                    "score": 0.016646385192871094
+                                                },
+                                                {
+                                                    "name": "Uh-huh",
+                                                    "score": 0.012148131616413593
+                                                },
+                                                {
+                                                    "name": "Umm",
+                                                    "score": 0.00763399014249444
+                                                },
+                                                {
+                                                    "name": "Wail",
+                                                    "score": 0.016915615648031235
+                                                },
+                                                {
+                                                    "name": "Whee",
+                                                    "score": 0.004108445718884468
+                                                },
+                                                {
+                                                    "name": "Wheep",
+                                                    "score": 0.005511000752449036
+                                                },
+                                                {
+                                                    "name": "Whew",
+                                                    "score": 0.006999805103987455
+                                                },
+                                                {
+                                                    "name": "Whimper",
+                                                    "score": 0.019581738859415054
+                                                },
+                                                {
+                                                    "name": "Woah",
+                                                    "score": 0.006022782530635595
+                                                },
+                                                {
+                                                    "name": "Wow",
+                                                    "score": 0.007087009958922863
+                                                },
+                                                {
+                                                    "name": "Yawn",
+                                                    "score": 0.015425857156515121
+                                                },
+                                                {
+                                                    "name": "Yay",
+                                                    "score": 0.002615738660097122
+                                                },
+                                                {
+                                                    "name": "Yelp",
+                                                    "score": 0.034552156925201416
+                                                },
+                                                {
+                                                    "name": "Yippee",
+                                                    "score": 0.01492571271955967
+                                                },
+                                                {
+                                                    "name": "Yuck",
+                                                    "score": 0.02508516237139702
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    },
+    {
+        "source": {
+            "type": "file",
+            "filename": "How Duke Energy Is Planning for a Renewable Future.mp4",
+            "content_type": "video/mp4",
+            "md5sum": "5ed88de840ad726d23252ba680f9923d"
+        },
+        "results": {
+            "predictions": [
+                {
+                    "file": "How Duke Energy Is Planning for a Renewable Future.mp4",
+                    "file_type": "video_no_audio",
+                    "models": {
+                        "burst": {
+                            "metadata": null,
+                            "grouped_predictions": [
+                                {
+                                    "id": "unknown",
+                                    "predictions": [
+                                        {
+                                            "time": {
+                                                "begin": 147.0,
+                                                "end": 148.0
+                                            },
+                                            "emotions": [
+                                                {
+                                                    "name": "Admiration",
+                                                    "score": 0.027424171566963196
+                                                },
+                                                {
+                                                    "name": "Adoration",
+                                                    "score": 0.023786401376128197
+                                                },
+                                                {
+                                                    "name": "Aesthetic Appreciation",
+                                                    "score": 0.014812570996582508
+                                                },
+                                                {
+                                                    "name": "Amusement",
+                                                    "score": 0.15037153661251068
+                                                },
+                                                {
+                                                    "name": "Anger",
+                                                    "score": 0.15097354352474213
+                                                },
+                                                {
+                                                    "name": "Anxiety",
+                                                    "score": 0.11287490278482437
+                                                },
+                                                {
+                                                    "name": "Awe",
+                                                    "score": 0.0522385872900486
+                                                },
+                                                {
+                                                    "name": "Awkwardness",
+                                                    "score": 0.13742820918560028
+                                                },
+                                                {
+                                                    "name": "Boredom",
+                                                    "score": 0.08785291761159897
+                                                },
+                                                {
+                                                    "name": "Calmness",
+                                                    "score": 0.07276604324579239
+                                                },
+                                                {
+                                                    "name": "Concentration",
+                                                    "score": 0.04162323847413063
+                                                },
+                                                {
+                                                    "name": "Confusion",
+                                                    "score": 0.09180663526058197
+                                                },
+                                                {
+                                                    "name": "Contemplation",
+                                                    "score": 0.036321382969617844
+                                                },
+                                                {
+                                                    "name": "Contempt",
+                                                    "score": 0.2729751169681549
+                                                },
+                                                {
+                                                    "name": "Contentment",
+                                                    "score": 0.04181728884577751
+                                                },
+                                                {
+                                                    "name": "Craving",
+                                                    "score": 0.019716743379831314
+                                                },
+                                                {
+                                                    "name": "Desire",
+                                                    "score": 0.0441354364156723
+                                                },
+                                                {
+                                                    "name": "Determination",
+                                                    "score": 0.10639721900224686
+                                                },
+                                                {
+                                                    "name": "Disappointment",
+                                                    "score": 0.20252138376235962
+                                                },
+                                                {
+                                                    "name": "Disgust",
+                                                    "score": 0.12014660984277725
+                                                },
+                                                {
+                                                    "name": "Distress",
+                                                    "score": 0.21681733429431915
+                                                },
+                                                {
+                                                    "name": "Doubt",
+                                                    "score": 0.13868308067321777
+                                                },
+                                                {
+                                                    "name": "Ecstasy",
+                                                    "score": 0.08011072129011154
+                                                },
+                                                {
+                                                    "name": "Embarrassment",
+                                                    "score": 0.10172150284051895
+                                                },
+                                                {
+                                                    "name": "Empathic Pain",
+                                                    "score": 0.07568203657865524
+                                                },
+                                                {
+                                                    "name": "Entrancement",
+                                                    "score": 0.028923770412802696
+                                                },
+                                                {
+                                                    "name": "Envy",
+                                                    "score": 0.04999614879488945
+                                                },
+                                                {
+                                                    "name": "Excitement",
+                                                    "score": 0.10420659184455872
+                                                },
+                                                {
+                                                    "name": "Fear",
+                                                    "score": 0.13951873779296875
+                                                },
+                                                {
+                                                    "name": "Guilt",
+                                                    "score": 0.04750781133770943
+                                                },
+                                                {
+                                                    "name": "Horror",
+                                                    "score": 0.0909879207611084
+                                                },
+                                                {
+                                                    "name": "Interest",
+                                                    "score": 0.0672827661037445
+                                                },
+                                                {
+                                                    "name": "Joy",
+                                                    "score": 0.13253304362297058
+                                                },
+                                                {
+                                                    "name": "Love",
+                                                    "score": 0.03566339239478111
+                                                },
+                                                {
+                                                    "name": "Nostalgia",
+                                                    "score": 0.028829608112573624
+                                                },
+                                                {
+                                                    "name": "Pain",
+                                                    "score": 0.15589246153831482
+                                                },
+                                                {
+                                                    "name": "Pride",
+                                                    "score": 0.05157378315925598
+                                                },
+                                                {
+                                                    "name": "Realization",
+                                                    "score": 0.07755125313997269
+                                                },
+                                                {
+                                                    "name": "Relief",
+                                                    "score": 0.0791376382112503
+                                                },
+                                                {
+                                                    "name": "Romance",
+                                                    "score": 0.021777642890810966
+                                                },
+                                                {
+                                                    "name": "Sadness",
+                                                    "score": 0.05392580106854439
+                                                },
+                                                {
+                                                    "name": "Satisfaction",
+                                                    "score": 0.08792774379253387
+                                                },
+                                                {
+                                                    "name": "Shame",
+                                                    "score": 0.04723193496465683
+                                                },
+                                                {
+                                                    "name": "Surprise (negative)",
+                                                    "score": 0.0699010118842125
+                                                },
+                                                {
+                                                    "name": "Surprise (positive)",
+                                                    "score": 0.06444402039051056
+                                                },
+                                                {
+                                                    "name": "Sympathy",
+                                                    "score": 0.03884201496839523
+                                                },
+                                                {
+                                                    "name": "Tiredness",
+                                                    "score": 0.09855902194976807
+                                                },
+                                                {
+                                                    "name": "Triumph",
+                                                    "score": 0.05934290215373039
+                                                }
+                                            ],
+                                            "descriptions": [
+                                                {
+                                                    "name": "Ah",
+                                                    "score": 0.05888587608933449
+                                                },
+                                                {
+                                                    "name": "Aha",
+                                                    "score": 0.010139212012290955
+                                                },
+                                                {
+                                                    "name": "Ahh",
+                                                    "score": 0.028147650882601738
+                                                },
+                                                {
+                                                    "name": "Argh",
+                                                    "score": 0.029526039958000183
+                                                },
+                                                {
+                                                    "name": "Aww",
+                                                    "score": 0.011050540022552013
+                                                },
+                                                {
+                                                    "name": "Cackle",
+                                                    "score": 0.06093708425760269
+                                                },
+                                                {
+                                                    "name": "Cheer",
+                                                    "score": 0.02318597212433815
+                                                },
+                                                {
+                                                    "name": "Chuckle",
+                                                    "score": 0.13165494799613953
+                                                },
+                                                {
+                                                    "name": "Cry",
+                                                    "score": 0.06139405444264412
+                                                },
+                                                {
+                                                    "name": "Eek",
+                                                    "score": 0.02102089300751686
+                                                },
+                                                {
+                                                    "name": "Eww",
+                                                    "score": 0.017607389017939568
+                                                },
+                                                {
+                                                    "name": "Gasp",
+                                                    "score": 0.132840096950531
+                                                },
+                                                {
+                                                    "name": "Giggle",
+                                                    "score": 0.0553843155503273
+                                                },
+                                                {
+                                                    "name": "Groan",
+                                                    "score": 0.08507594466209412
+                                                },
+                                                {
+                                                    "name": "Growl",
+                                                    "score": 0.04346778616309166
+                                                },
+                                                {
+                                                    "name": "Grr",
+                                                    "score": 0.035703688859939575
+                                                },
+                                                {
+                                                    "name": "Grunt",
+                                                    "score": 0.13195139169692993
+                                                },
+                                                {
+                                                    "name": "Ha",
+                                                    "score": 0.03552418202161789
+                                                },
+                                                {
+                                                    "name": "Hah",
+                                                    "score": 0.02328694425523281
+                                                },
+                                                {
+                                                    "name": "Haha",
+                                                    "score": 0.047297049313783646
+                                                },
+                                                {
+                                                    "name": "Hehe",
+                                                    "score": 0.03517274186015129
+                                                },
+                                                {
+                                                    "name": "Hiss",
+                                                    "score": 0.03126060217618942
+                                                },
+                                                {
+                                                    "name": "Hmm",
+                                                    "score": 0.017261816188693047
+                                                },
+                                                {
+                                                    "name": "Hoot",
+                                                    "score": 0.04423051327466965
+                                                },
+                                                {
+                                                    "name": "Howl",
+                                                    "score": 0.025344431400299072
+                                                },
+                                                {
+                                                    "name": "Huh",
+                                                    "score": 0.04331778734922409
+                                                },
+                                                {
+                                                    "name": "Hurray",
+                                                    "score": 0.016942057758569717
+                                                },
+                                                {
+                                                    "name": "Laugh",
+                                                    "score": 0.06742715835571289
+                                                },
+                                                {
+                                                    "name": "Mhm",
+                                                    "score": 0.01003981288522482
+                                                },
+                                                {
+                                                    "name": "Mmm",
+                                                    "score": 0.0063595897518098354
+                                                },
+                                                {
+                                                    "name": "Moan",
+                                                    "score": 0.017426006495952606
+                                                },
+                                                {
+                                                    "name": "Oh",
+                                                    "score": 0.05010448023676872
+                                                },
+                                                {
+                                                    "name": "Ohh",
+                                                    "score": 0.0332053042948246
+                                                },
+                                                {
+                                                    "name": "Ooh",
+                                                    "score": 0.021488307043910027
+                                                },
+                                                {
+                                                    "name": "Ooph",
+                                                    "score": 0.04432130232453346
+                                                },
+                                                {
+                                                    "name": "Ouch",
+                                                    "score": 0.025714686140418053
+                                                },
+                                                {
+                                                    "name": "Oww",
+                                                    "score": 0.01662328839302063
+                                                },
+                                                {
+                                                    "name": "Pant",
+                                                    "score": 0.02690301463007927
+                                                },
+                                                {
+                                                    "name": "Pff",
+                                                    "score": 0.03025447577238083
+                                                },
+                                                {
+                                                    "name": "Phew",
+                                                    "score": 0.018500788137316704
+                                                },
+                                                {
+                                                    "name": "Roar",
+                                                    "score": 0.013334403745830059
+                                                },
+                                                {
+                                                    "name": "Scream",
+                                                    "score": 0.030492525547742844
+                                                },
+                                                {
+                                                    "name": "Screech",
+                                                    "score": 0.05736010521650314
+                                                },
+                                                {
+                                                    "name": "Shout",
+                                                    "score": 0.045614320784807205
+                                                },
+                                                {
+                                                    "name": "Shriek",
+                                                    "score": 0.06937103718519211
+                                                },
+                                                {
+                                                    "name": "Sigh",
+                                                    "score": 0.0708770751953125
+                                                },
+                                                {
+                                                    "name": "Snicker",
+                                                    "score": 0.17396683990955353
+                                                },
+                                                {
+                                                    "name": "Snort",
+                                                    "score": 0.1149810180068016
+                                                },
+                                                {
+                                                    "name": "Sob",
+                                                    "score": 0.027166146785020828
+                                                },
+                                                {
+                                                    "name": "Squeal",
+                                                    "score": 0.09471128135919571
+                                                },
+                                                {
+                                                    "name": "Tsk",
+                                                    "score": 0.11236302554607391
+                                                },
+                                                {
+                                                    "name": "Ugh",
+                                                    "score": 0.07984250038862228
+                                                },
+                                                {
+                                                    "name": "Uh",
+                                                    "score": 0.07252591103315353
+                                                },
+                                                {
+                                                    "name": "Uh-huh",
+                                                    "score": 0.009657581336796284
+                                                },
+                                                {
+                                                    "name": "Umm",
+                                                    "score": 0.005463436245918274
+                                                },
+                                                {
+                                                    "name": "Wail",
+                                                    "score": 0.02544475346803665
+                                                },
+                                                {
+                                                    "name": "Whee",
+                                                    "score": 0.009091086685657501
+                                                },
+                                                {
+                                                    "name": "Wheep",
+                                                    "score": 0.025379233062267303
+                                                },
+                                                {
+                                                    "name": "Whew",
+                                                    "score": 0.016835788264870644
+                                                },
+                                                {
+                                                    "name": "Whimper",
+                                                    "score": 0.05000794306397438
+                                                },
+                                                {
+                                                    "name": "Woah",
+                                                    "score": 0.010608833283185959
+                                                },
+                                                {
+                                                    "name": "Wow",
+                                                    "score": 0.005473851226270199
+                                                },
+                                                {
+                                                    "name": "Yawn",
+                                                    "score": 0.002877714578062296
+                                                },
+                                                {
+                                                    "name": "Yay",
+                                                    "score": 0.008935393765568733
+                                                },
+                                                {
+                                                    "name": "Yelp",
+                                                    "score": 0.1034553274512291
+                                                },
+                                                {
+                                                    "name": "Yippee",
+                                                    "score": 0.03686013072729111
+                                                },
+                                                {
+                                                    "name": "Yuck",
+                                                    "score": 0.023007633164525032
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ],
+            "errors": []
+        }
+    }
+]

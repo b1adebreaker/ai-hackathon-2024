@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  justify-content: space-evenly; /* Space between elements */
+  align-items: flex-start; /* Align items to the top */
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px; /* Adjust padding as needed */
+}

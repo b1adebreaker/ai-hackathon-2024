@@ -1,0 +1,62 @@
+[
+    {
+        "pk": 1,
+        "company_name": "Chevron",
+        "youtube_url": "https://www.youtube.com/watch?v=elyMmfUFr-g",
+        "video_path": "downloaded_videos/Chevron CEO Mike Wirth Environmental protection and affordable reliable energy are essential.mp4"
+    },
+    {
+        "pk": 2,
+        "company_name": "Vistra Energy",
+        "youtube_url": "https://www.youtube.com/watch?v=1MYIi4DXiDE",
+        "video_path": "downloaded_videos/Investing in Employees Jim Burke President and Chief Executive Officer of Vistra Corp.mp4"
+    },
+    {
+        "pk": 3,
+        "company_name": "Southern Company",
+        "youtube_url": "https://www.youtube.com/watch?v=4o3-UjQJ-Ds",
+        "video_path": "downloaded_videos/Nuclear has to be a part of the transition to carbon-free economy Southern Company CEO Chris Womack.mp4"
+    },
+    {
+        "pk": 4,
+        "company_name": "Exxon Mobil",
+        "youtube_url": "https://www.youtube.com/watch?v=tKMCq7VF7hI",
+        "video_path": "downloaded_videos/Sustainability Spotlight Darren Woods Chairman & CEO of ExxonMobil.mp4"
+    },
+    {
+        "pk": 5,
+        "company_name": "Duke Energy",
+        "youtube_url": "https://www.youtube.com/watch?v=cVuEOFjA2gQ",
+        "video_path": "downloaded_videos/How Duke Energy Is Planning for a Renewable Future.mp4"
+    },
+    {
+        "pk": 6,
+        "company_name": "Microsoft",
+        "youtube_url": "https://www.youtube.com/watch?v=LeQxTI-s48A",
+        "video_path": "downloaded_videos/Microsoft CEO Satya Nadella on Microsoft\u2019s Commitment to Become Carbon Negative by 2030.mp4"
+    },
+    {
+        "pk": 7,
+        "company_name": "Schnitzer",
+        "youtube_url": "https://www.youtube.com/watch?v=eH2t5ZMaJs8",
+        "video_path": "downloaded_videos/Sustainability Spotlight Tamara Lundgren Chairman President & CEO of Schnitzer Steel.mp4"
+    },
+    {
+        "pk": 8,
+        "company_name": "Apple",
+        "youtube_url": "https://www.youtube.com/watch?v=pIZxu4l_y14",
+        "video_path": "downloaded_videos/Tim Cook at Climate Summit Apple To Be Ready 20 Years Early.mp4"
+    },
+    {
+        "pk": 9,
+        "company_name": "Evoqua Water Technologies",
+        "youtube_url": "https://www.youtube.com/watch?v=XxPsTxI_NbA",
+        "video_path": "downloaded_videos/Interview with Matt Granitto Evoqua Water Technologies.mp4"
+    },
+    {
+        "pk": 10,
+        "company_name": "Amazon",
+        "youtube_url": "https://www.youtube.com/watch?v=oqkeLcQeOso&t=18s",
+        "video_path": "downloaded_videos/Jeff Bezos pledges 2 billion at COP26.mp4"
+    }
+]

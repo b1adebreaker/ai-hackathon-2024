@@ -1,0 +1,8 @@
+pdf2image
+pdfminer.six
+openai
+scikit-learn
+rich
+tqdm
+pdfminer
+hume[stream]

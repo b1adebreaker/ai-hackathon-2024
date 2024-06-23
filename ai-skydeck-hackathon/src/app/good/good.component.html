@@ -1,0 +1,59 @@
+<h1>"GOOD" companies</h1>
+
+<div *ngIf="goodCompanies.length > 0">
+  <h3>Select a Good Company</h3>
+  <select (change)="setCompany($event)">
+    <option value="">Select a company</option>  <option *ngFor="let company of goodCompanies" [value]="company">{{ company }}</option>
+  </select>
+</div>
+<div *ngIf="selectedCompany">
+<h2>Average Score: XX</h2>
+
+
+  <div class="info">
+    <p>Why: "company" is....</p>
+  </div>
+  <div class="emissionsTable">
+  <table>
+    <tbody>
+        <tr>
+            <th>Scope 1 Emissions</th>
+            <td>1</td>
+          </tr>
+          <tr>
+            <th>Scope 2 Emissions</th>
+            <td>1</td>
+          </tr>
+          <tr>
+            <th>Scope 3 Emissions</th>
+            <td>1</td>
+          </tr>
+          <tr>
+            <th>Total Emissions in mtCo2e</th>
+            <td>3</td>
+          </tr>
+    </tbody>
+  </table>
+    <div *ngIf="company">
+      <h2>Sentiment Data for {{ this.selectedCompany }}</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Year</th>
+            <th>Report</th>
+            <th>Video</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let year of company | keyvalue">
+            <td>{{ year.key }}</td>
+            <td><a href="{{ year.value.report }}" target="_blank">View Report</a></td>
+            <td><a href="{{ year.value.video }}" target="_blank">Watch</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+<app-emissions-graph></app-emissions-graph>
+</div>

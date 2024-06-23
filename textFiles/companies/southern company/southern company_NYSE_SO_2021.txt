@@ -1,0 +1,1661 @@
+2021 Corporate Responsibility
+Executive Summary
+
+  Sustainable 
+
+Commitment
+
+Across our family of companies, Southern Company1 continues to prioritize the 
+delivery of clean, safe, reliable and affordable energy to our customers. We know that 
+building a successful and sustainable business means delivering the same exceptional 
+service our customers expect today, while transforming to meet expectations for 
+tomorrow’s new energy economy, including a net zero future. Our Values – Safety 
+First, Unquestionable Trust, Superior Performance and Total Commitment – will guide 
+us as we make decisions that impact our customers, communities, employees and the 
+varied stakeholders who have an interest in Southern Company. Join us as we work 
+together for a more sustainable future.
+
+In 2021, Southern Company partnered with the Electric Power Research Institute (EPRI) to conduct a Sustainability 
+Priorities Assessment to understand internal and external stakeholder interests in key areas related to sustainability. 
+The valuable insights gained from this extensive study are informing our corporate sustainability strategy, 
+stakeholder engagement and sustainability disclosures. The study also contributed to the development of our six 
+corporate sustainability priorities: Net Zero and Environment; Reliability, Resilience and Affordability; Innovation; 
+Workforce Sustainability; Diversity, Equity, and Inclusion; and Community Relationships. For more information on 
+the Sustainability Priorities Assessment see page 24.
+
+In March 2022, Southern Company launched a new section on its website focused on sustainability. We view the 
+Sustainability site, which covers a wide range of environmental, social and governance (ESG) topics that are 
+important to our company and stakeholders, as the primary source of information for parties interested in Southern 
+Company’s perspectives, performance and progress on key sustainability topics. We aim to refresh this website 
+annually during the first quarter. 
+
+Our 2021 Corporate Responsibility Executive Summary, based on our Sustainability website, serves as a short-form, 
+printable report and roadmap for stakeholders wishing to learn more about priority topics. In addition, this executive 
+summary provides an update on key initiatives announced through the first nine months of 2022, alignment of our 
+priorities with the United Nations’ Sustainable Development Goals (UN SDGs), and easy access to key ESG data, 
+metrics and ESG reporting frameworks. We aim to publish a summary report annually in the third quarter.
+
+[1] In this document, the terms we, us and our all refer to Southern Company. Southern Company is a holding company that conducts its 
+
+business through its subsidiaries. Accordingly, unless the context otherwise requires, references in this document to Southern Company’s 
+
+operations, such as generating activities, greenhouse gas emissions and employment practices, refer to those operations conducted through 
+
+its subsidiaries.
+
+2
+
+Corporate ResponsibilityUN SDG Alignment 
+
+Southern Company has mapped our six corporate 
+sustainability priorities to the United Nations’ 
+Sustainable Development Goals framework, indicating 
+our alignment with a sustainable future. See page 26 for 
+a more detailed description of our UN SDG alignment.
+
+Net Zero and 
+Environment
+
+Reliability, 
+Resilience and 
+Affordability
+
+Innovation
+
+Workforce 
+Sustainability
+
+Diversity, Equity 
+and Inclusion
+
+Community 
+Relationships
+
+3
+
+Corporate ResponsibilityTABLE OF CONTENTS
+
+New or notable highlights
+
+5 
+
+7 
+
+9 
+
+Letter from Management Council
+
+Southern Company Overview
+
+Priority Topics:
+
+  Net Zero and Environment
+
+Reliability, Resilience and Affordability
+
+Innovation
+
+  Workforce Sustainability
+
+  Diversity, Equity and Inclusion
+
+Community Relationships
+
+22  Governance and Policy Engagement
+
+24  Priority Sustainability Assessment 
+
+26  UN SDG Alignment
+
+27  Key Data and Metrics 
+
+Southern Company ESG Data Table
+
+SASB Content Index (Sustainability Accounting Standards  
+
+Board) - Electric Utilities & Power Generators
+
+SASB Content Index – Gas Utilities and Distributors
+
+TCFD Content Index (Task Force on Climate-related    
+
+Financial Disclosures)
+
+  GRI Content Index (Global Reporting Initiative)
+
+E
+N
+V
+
+I
+
+R
+O
+N
+M
+E
+N
+T
+A
+L
+
+S
+O
+C
+
+I
+
+A
+L
+
+G
+O
+V
+E
+R
+N
+A
+N
+C
+E
+
+Updated timelines for proposed 
+coal-fired generation retirements/
+repowering and renewable energy 
+additions
+
+Independent assurance of 
+Scope 1 and 2 emissions
+
+Expanded Scope 3 data disclosure 
+responsive to stakeholder feedback
+
+Just Transition Report published
+
+2021 EEO-1 data published
+
+Moving to Equity Transformation 
+Report published
+
+Racial Equity Audit commitment 
+for 2023
+
+Trade Association and Climate 
+Engagement Report published
+
+Updated Board of Directors 
+Committee Charters to better 
+describe ESG oversight
+
+4
+
+Corporate Responsibility 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Letter from Management Council
+
+For more than a century Southern 
+Company has focused on providing 
+reliable energy to its customers. As our 
+business has grown, we continue to 
+place customers at the center of all we 
+do. Today, customers, communities and 
+a wide array of stakeholders are relying 
+on us to provide clean, safe, reliable and 
+affordable energy. We are committed to 
+meeting these needs. 
+
+A new energy future is upon us. Technology 
+advancements, changes in fuel supply and demand, 
+geopolitical dynamics and evolving customer preferences 
+are leading to a future reliant on a diverse range of energy 
+sources. In addition, advancing workforce sustainability, 
+promoting diverse viewpoints, supporting our 
+communities and engaging with our stakeholders require 
+continued agility and appropriate oversight at all levels of 
+the company, including by the Board of Directors.
+
+In the coming years, customers and stakeholders 
+of Southern Company can expect:
+
+•  Continued investment in our electric and natural 
+
+gas infrastructure to help ensure affordable, best-in-
+class service.
+
+•  A lower-carbon generating fleet facilitated by the 
+addition of renewable resources, nuclear capacity 
+and gas-fired generation as well as the retirement of 
+uneconomic coal-fired generating units - all aligned 
+with our long-term goal to reach net zero greenhouse 
+gas (GHG) emissions by 2050.
+
+•  Natural gas businesses that continue to drive 
+
+down methane and other GHG emissions from 
+operations and seek opportunities to leverage existing 
+infrastructure for new, lower-carbon sources of gas.
+
+•  Continued leadership within the U.S. utility sector 
+in the development, funding and demonstration of 
+innovative research necessary to provide clean, safe, 
+reliable and affordable energy and meet our net 
+zero goal.
+
+5
+
+Corporate Responsibility•  A focus on workforce sustainability, aiming to 
+ensure we have the right people with the right 
+skills who are trained to perform their jobs safely 
+and ethically to meet current and future business 
+requirements.
+
+•  Consistent work toward our goal of ensuring all 
+groups, and especially historically underrepresented 
+and marginalized groups, are well represented, 
+included and fairly treated within all levels of our 
+organization and in our communities. 
+
+•  An enduring commitment to make our 
+
+communities better because we are there through 
+a focus on outreach and engagement, support of 
+education initiatives and partnerships to foster 
+economic development.
+
+Annual Energy Mix[2]
+
+2007 (Baseline)
+
+Natural Gas: 16%
+
+Nuclear: 14%
+
+Coal: 69%
+
+Renewables/Other: 1%
+
+•  Continued emphasis on consistent dialogue 
+
+with all our stakeholders, including customers, 
+stockholders, employees, policymakers and members 
+of the communities that we serve. 
+
+At Southern Company, we have long believed corporate 
+responsibility and corporate strategy are inextricably 
+linked. Effectively aligning our corporate strategy with 
+our commitments to stakeholders requires the attention 
+of our entire leadership team, as well as the Board 
+of Directors. This report describes our endeavors and 
+serves as a roadmap for stakeholders wishing to learn 
+more. We look forward to engaging with you on these 
+important issues.
+
+Southern Company Management Council
+
+2019
+
+Nuclear: 16%
+
+Coal: 22%
+
+Natural Gas: 50%
+
+Renewables/Other: 12%
+
+2020
+
+Nuclear: 17%
+
+Coal: 17% Natural Gas: 51%
+
+Renewables/Other: 15%
+
+2021
+
+Nuclear: 16%
+
+Coal: 21%
+
+Natural Gas: 48%
+
+Renewables/Other: 15%
+
+[2] Annual energy mix represents all of the energy the Southern 
+Company system uses to serve its retail and wholesale customers 
+during the year. It is not meant to represent delivered energy mix to 
+any particular retail customer or class of customers. Annual energy mix 
+percentages include non-affiliate power purchase agreements. 
+
+Renewables/Other category includes wind, solar, hydro, biomass and 
+landfill gas. 
+
+With respect to certain renewable generation and associated renewable 
+energy credits (RECs), to the extent an affiliate of Southern has the right 
+to the RECs associated with renewable energy it generates or purchases, it 
+retains the right to sell the energy and RECs, either bundled or separately, 
+to retail customers and third parties.
+
+6
+
+Corporate ResponsibilitySouthern Company 
+Overview 
+
+Southern Power: A leading wholesale energy provider 
+that develops, constructs, acquires, owns and manages 
+power generation assets, including large renewable and 
+energy storage portfolios to provide wholesale energy 
+in 14 states.
+
+Southern Company Gas: An energy services holding 
+company that provides natural gas through local 
+distribution companies (LDCs) in four states, including 
+Atlanta Gas Light (Ga.), Chattanooga Gas (Tenn.), Nicor 
+Gas (Ill.) and Virginia Natural Gas (Va.), as well as other 
+complementary natural gas businesses.
+
+Southern Nuclear: An operator and service provider to 
+the Southern Company system’s nuclear power plants 
+and construction manager for Plant Vogtle Units 3 and 4.
+
+PowerSecure, Southern Linc and Southern Telecom: 
+Complementary non-utility businesses.
+
+Southern Company is a leading energy 
+company known for excellent customer 
+service, high reliability and affordability. 
+We are committed to supporting and 
+improving our communities and the 
+environment at the local level and 
+beyond, while conducting business with 
+honesty, integrity and fairness. Through 
+industry-leading innovation and a 
+commitment to a net zero future, we are 
+delivering sustainable and resilient energy 
+solutions that help drive growth and 
+prosperity. Our uncompromising values 
+put the needs of those we serve at the 
+center of everything we do and govern 
+our business to the benefit of our world. 
+
+Southern Company is a holding company that 
+conducts its business through its subsidiaries, 
+including:
+
+Alabama Power, Georgia Power and Mississippi 
+Power: Traditional electric operating companies that 
+provide service to both retail and wholesale customers 
+in the Southeast.
+
+7
+
+Corporate ResponsibilitySouthern Company
+Corporate Responsibility Goals
+
+2021 Progress
+
+50% GHG emissions reduction  
+by 2030 relative to 2007 levels
+
+47%
+
+reduction
+
+Achieve net zero GHG  
+emissions by 2050
+
+Scope 1 GHG emissions
+
+82M
+
+metric tons 
+(down from 157M in 2007)
+
+50% light-duty fleet vehicle 
+electrification by 2030[3]
+
+[3] Goal applies to traditional electric operating companies.
+
+21%
+
+converted to electric
+
+Invest $225 million by 2025 to 
+advance racial equity and social 
+justice in our communities
+
+$66M
+
+invested
+
+Increase our total diverse 
+spend to 30% by 2025
+
+26%
+
+total diverse spend
+
+8
+
+Corporate Responsibility
+
+Net Zero and Environment
+
+Southern Company is proud to support the communities we serve, and we are 
+committed to protecting the environment we all share. We recognize our obligations to:
+
+•  Reduce our greenhouse gas (GHG) emissions through both internal efforts and partnerships with customers, 
+communities and other industries. Our goal of net zero by 2050 includes direct Scope 1 emissions across our 
+electric and gas businesses. We are also committed to reducing our Scope 2 emissions and working with partners 
+and customers to reduce Scope 3 upstream and downstream emissions.
+
+•  Support a Just Transition for our employees and communities as we decarbonize our energy portfolio. 
+
+•  Continuously improve energy efficiency through technological advancements and innovative programming 
+
+across our service territories.
+
+•  Meet or surpass all environmental laws and regulations – compliance is the foundation of our environmental 
+
+commitment.
+
+•  Practice conservation, promote biodiversity on our land and in the communities we serve.
+
+Learn more 
+
+Among Industry Leaders in Emissions Reporting
+
+Southern Company reports all relevant Scope 1, 2 and 3 emissions 
+through its annual CDP submission and other company disclosures. 
+Notably, we received limited assurance from Deloitte & Touche, 
+LLP for our 2021 and 2020 Scopes 1 and 2 GHG emissions, and we 
+continued to expand our Scope 3 emissions reporting in 2022. Our 
+enhanced reporting is responsive to feedback received through 
+Southern Company’s robust stakeholder engagement efforts. 
+
+9
+
+Corporate ResponsibilitySpotlight: GHG Emissions Reductions
+
+Southern Company’s net zero strategy considers 
+both direct and indirect emissions reductions. 
+Drivers for direct emissions reduction include: reduced 
+reliance on coal-fired generating assets, use of natural 
+gas to enable the low-carbon energy transition, further 
+growth in our portfolio of zero-carbon resources, 
+enhanced energy efficiency initiatives, negative carbon 
+solutions and continued investment in research and 
+development (R&D) of clean energy technologies. While 
+our net zero goal is focused on direct emissions, we 
+are also committed to reducing emissions across our 
+full value chain through engagement, energy efficiency 
+measures and partnerships with customers, suppliers 
+and other organizations. 
+
+As we transition to net zero, we believe having a 
+diversified energy portfolio is crucial to reducing 
+emissions while maintaining reliability and affordability 
+for our customers. Since 2007, we have significantly 
+reduced our reliance on coal-fired generation, 
+meaningfully increased generation from zero-carbon 
+resources and made strategic decisions around our use 
+of natural gas.
+
+Southern Company continues to reduce the number 
+of generating units in our coal fleet, lowering emissions 
+and retiring uneconomic resources. We have proposed 
+to have just eight coal units remaining in our generating 
+fleet with a nameplate capacity of less than 4,500 MWs 
+by the end of 2028, and we expect to further reduce 
+our coal fleet in the 2030s, pending regulatory approval. 
+In July 2022, Georgia Power received approval of 
+its 2022 Integrated Resource Plan that includes a 
+transformation of Georgia’s energy resources, growing 
+renewable resources, investments in reliability and 
+resilience and diverse, flexible customer programs.
+
+10
+
+Southern Company Coal Fleet Over Time [4]
+
+Number of Coal Units
+
+66
+
+Coal Capacity Megawatts (MW)
+(Nameplate)
+
+20,457
+
+91%
+
+reduction 
+in the number 
+of coal units*
+
+8
+
+6
+
+18
+
+16
+
+9,799
+
+8,873
+
+87%
+
+reduction 
+in coal 
+capacity*
+
+4,430
+
+2,670
+
+2007
+
+2020
+
+2022
+
+2028E*
+
+2035E*
+
+2007
+
+2020
+
+2022
+
+2028E*
+
+2035E*
+
+Units Remaining
+
+Minority Ownership (2 Units)
+
+MW Remaining
+
+Minority Ownership (137 MW)
+
+[4] Reflects Effluent Limitations Guidelines (ELG) compliance filings made by Southern Company’s 
+traditional electric operating companies, as well as the 2021 Integrated Resource Plan (IRP) for Mississippi 
+Power and the 2022 IRP for Georgia Power. Units are expected to be either retired or repowered to burn 
+natural gas during peak loads. Minority ownership units are subject to compliance decisions made by 
+majority owners. 
+
+*For 2028, regulatory approvals have already been received to reduce the total number of coal generating 
+units to 10. In its 2022 IRP, Georgia Power requested to retire Plant Bowen Units 1&2 by 2028 and expects 
+this request to be considered in future regulatory proceedings. In addition, Georgia Power’s planning 
+assumption includes the retirement of Plant Bowen Units 3&4 by 2035, which would also require 
+regulatory approval.
+
+Southern Company Renewables Growth [5]
+
+>17,000
+MWs
+
+Over 300%
+
+increase in renewable resources
+
+<5,000
+MWs
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2024E*
+
+2030E*
+
+Solar
+
+Wind
+
+Hydro
+
+Other
+
+[5] Includes owned and contracted resources including 100% capacity for jointly owned projects. With 
+respect to certain renewable generation and associated renewable energy credits (RECs), to the extent an 
+affiliate of Southern Company has the right to the RECs associated with renewable energy it generates or 
+purchases, it retains the right to sell the energy and RECs, either bundled or separately, to retail customers 
+or third parties. Other includes battery storage, landfill gas and biomass.
+
+*Future estimates include owned and contracted capacity that have received regulatory approval. 
+Additional renewable resources could be added prior to 2030 at Southern Power or at our operating 
+companies, should they be proposed and approved through regulatory processes. 
+
+Corporate ResponsibilityImportantly, we continue to emphasize the 
+well-being of our employees and communities 
+by focusing on a Just Transition as we seek to 
+make significant changes to our generating mix 
+in a relatively short timeframe. In early 2022, 
+Southern Company published a set of Just 
+Transition Principles that aim to foster:
+
+Strong governance 
+
+Effective stakeholder engagement and 
+transparent communication 
+
+Employee support and coordination with 
+labor unions 
+
+Ongoing community and environmental 
+commitment  
+
+Continued safety, reliability, resilience and 
+affordability 
+
+11
+
+Corporate Responsibility 
+ 
+ 
+ 
+ 
+Reliability, 
+Resilience and 
+Affordability
+
+A reliable, resilient and affordable 
+energy system is central not only to our 
+company and mission, but also to the 
+future of energy. Southern Company 
+is dedicated to delivering reliable and 
+affordable energy to our customers and 
+communities.
+
+•  Southern Company is focused on modernizing 
+our infrastructure to improve system reliability 
+and resilience and working to ensure protections 
+are in place to minimize physical risks to our 
+energy systems
+
+•  Continued innovation will be required – and 
+is underway – to support future reliability and 
+resilience needs in a carbon-constrained world
+
+•  Southern Company is committed to providing 
+
+clean, safe, reliable and affordable energy for   
+our customers
+
+Learn more 
+
+12
+
+Corporate ResponsibilityLearn more 
+
+Southern Company is a leading participant in 
+EPRI’s Climate READi: Power Resilience and 
+Adaptation initiative
+
+As 1-in-50 or 1-in-100-year extreme events of the past increase in 
+frequency, and society increasingly depends on electricity, EPRI is 
+strengthening the power sector’s collective approach to managing 
+climate risk to the power system. EPRI’s collaborative model will 
+convene the global thought leaders and scientific researchers 
+necessary to build an informed and consistent approach. The 
+framework will enable energy companies, regulators and other 
+stakeholders to use science-informed insights in a more consistent 
+way to better understand, plan for and disclose future global 
+power system challenges arising from the changing environment.
+
+Spotlight: Reliability and Resilience
+
+Increases in severe weather, changing customer 
+preferences and advancements in technology 
+continue to transform our world and the way we 
+provide energy to those we serve. We understand 
+that having reliable energy is essential, which is why we 
+are at the forefront of industry-leading innovation and 
+are focused on making smart investments to provide 
+reliable and resilient service to our customers. We do 
+this by upgrading and enhancing our infrastructure, 
+protecting electric and natural gas infrastructure from 
+physical and cyber-threats, reducing our GHG emissions, 
+and deploying distributed generation solutions, among 
+other initiatives. We are always preparing for the future.
+
+As we transition to cleaner fuel sources, Southern 
+Company is focused on modernizing our infrastructure 
+to improve system resilience and ensuring processes 
+are in place to minimize physical risks to our energy 
+systems. Over the 2022-2026 planning period, we aim 
+to invest $17 billion across our electric transmission 
+and distribution (T&D) systems, including smart grid 
+infrastructure, energy storage, microgrids, and demand 
+response technology. These efforts will help further 
+modernize our T&D infrastructure, build system-wide 
+resilience and enhance our ability to identify problems 
+and avoid service disruptions for our customers.
+
+13
+
+Corporate ResponsibilityInnovation
+
+Southern Company leads the U.S. utility 
+industry in the development, funding 
+and demonstration of innovative 
+research necessary to provide clean,   
+safe, reliable and affordable energy.
+
+•  For more than a century, Southern Company 
+has been building the future of energy and 
+developing a diverse portfolio of energy 
+resources, including carbon-free nuclear, advanced 
+carbon capture technologies, natural gas, renewables, 
+energy efficiency and storage technology. To 
+accomplish this, we invest heavily in R&D and 
+innovative energy solutions. 
+
+•  We lead the U.S. utility industry in the 
+
+development, funding and demonstration of 
+innovative research necessary to provide clean, safe, 
+reliable and affordable energy. Our aim is to develop 
+the customized energy solutions our customers and 
+communities require to drive growth and prosperity. 
+
+•  In addition to R&D, we invest in early-stage energy 
+
+technology companies and solutions through 
+entities such as our New Ventures organization and 
+Energy Impact Partners (EIP).
+
+Learn more 
+
+Learn more 
+
+Georgia Power, Mitsubishi Power, EPRI 
+Complete World’s Largest Hydrogen Fuel 
+Blending at Plant McDonough-Atkinson
+
+In June 2022, Georgia Power and Mitsubishi Power, alongside EPRI, 
+successfully validated fuel blending of hydrogen and natural gas 
+at both partial and full load on an M501G natural gas turbine at 
+Georgia Power’s Plant McDonough-Atkinson in Smyrna, Georgia. 
+The demonstration project was the first to validate 20% hydrogen 
+fuel blending on an advanced class gas turbine in North America, 
+and the largest test of this kind to date, with the 20% blend 
+providing an approximately 7% reduction in carbon emissions 
+compared to natural gas.
+
+14
+
+Corporate ResponsibilitySpotlight: R&D Strategy Roadmap
+
+Southern Company’s R&D organization provides 
+innovative energy solutions and creates value 
+for customers in the evolving energy landscape. 
+Our research is facilitating the transition to a net-zero 
+future by exploring a full spectrum of solutions such 
+as more cost-effective and efficient carbon capture, 
+high-potential advanced nuclear technologies and next-
+generation power delivery and end-use innovations.
+
+Southern Company has undertaken a systematic, 
+comprehensive review of our R&D plan, including the 
+identification of long-term objectives and aspirations 
+and development of a refined strategy roadmap. Our 
+roadmap prioritizes four primary objectives:
+
+•  Develop a sustainable energy future 
+
+•  Provide delivery, storage and distributed generating 
+
+solutions
+
+•  Support expanding customer needs
+
+•  Advance the existing generating fleet
+
+Develop a Sustainable Energy Future
+
+Advanced 
+Generation
+
+Carbon 
+Capture 
+& Storage
+
+Negative
+Emissions
+
+Dispatchable
+Renewables
+
+Advanced
+Nuclear
+
+Provide Delivery, Storage & Distributed 
+Generating Solutions
+
+Energy
+Storage
+
+Reliability 
+& Resiliency
+
+Integrated 
+Energy 
+Delivery
+
+Zero-Carbon       
+Energy 
+Carriers
+
+Distributed 
+Energy 
+Resources
+
+Support Expanding Customer Needs
+
+Building 
+Technology
+
+Sustainability 
+Solutions
+
+Low-Carbon…
+Transportation
+
+Data Analytics 
+for Business 
+Intelligence
+
+Industrial 
+Process 
+Solutions
+
+Advance the Existing Generating Fleet
+
+Address Legacy                  
+Environmental 
+Risks
+
+Increase Flexibility, 
+Maximize Efficiency, 
+Reduce Cost
+
+Minimize 
+Stranded 
+Assets
+
+15
+
+Corporate ResponsibilitySpotlight: Safety First – Southern 
+Company’s No. 1 Value 
+
+Safety First is a pledge to our employees, 
+customers, contractors and communities that our 
+actions will contribute to a safe environment for 
+everyone. Our system has long had a commitment 
+to completing every job, every day, safely. We are 
+dedicated to continuous safety improvement to 
+advance our safety culture. 
+
+As part of our focus on continuous improvement, 
+in 2018 we recognized that our “Target Zero” safety 
+initiative to pursue zero workplace injuries, set with the 
+best of intentions, had unintended consequences – a 
+hesitance to report minor incidents and near-misses. 
+While we continue to measure rates of recordable 
+injuries, lost-time rate and days away, we have modified 
+a portion of our compensation goals to focus on 
+serious injuries rather than total injuries. We have come 
+to recognize that lessons learned from reporting all 
+incidents provide the best opportunities to build trust, 
+apply human performance principles and advance our 
+safety program. Better understanding the precursors 
+of potentially serious incidents helps us identify and 
+implement the critical controls necessary to prevent 
+serious injuries. We hone and build on our safety culture 
+by engaging all employees in our solutions, continuing 
+to share and build on learnings, and contributing to 
+continuous process improvement to enhance safety.  
+Our programs and processes resulted in a reduction to 
+serious injuries and the best safety performance in our 
+history in 2021.  
+
+Our commitment is to Safety First. We work hard 
+every day to live up to this core element of Our Values 
+and to sustain a culture in which our employees are 
+empowered to contribute to making us better.  
+
+Workforce 
+Sustainability 
+
+Southern Company is focused on having 
+the right people with the right skills who 
+are trained to perform their jobs safely 
+and ethically to meet current and future 
+business requirements. This focus is 
+exemplified through Our Values and our 
+Code of Ethics. We uphold our values, 
+ethics and human capital beliefs in all we 
+do and remain cognizant of what they 
+mean to our workforce’s culture and 
+well-being.
+
+•  Our uncompromising values and ethics are key to 
+
+our sustained success
+
+•  People are the power behind a safe workplace 
+
+•  Our people are central to all we do
+
+Learn more 
+
+16
+
+Corporate ResponsibilityDemographics and Transparency 
+
+To demonstrate our commitment to human capital and all it encompasses, it is essential to transparently 
+share information about our workforce demographics and data. In 2021, 27,300 employees worked at 
+Southern Company. Of those employees in 2021, the following is representative:
+
+27,300
+
+Total Headcount
+(99.8% full-time employees)
+
+25%
+
+Women
+
+29%
+People of Color
+
+32%
+Employees Covered
+by Union Agreements
+
+58%
+
+Underrepresented 
+Groups as % of New Hires
+
+58%
+
+Promotions to People 
+of Color and Women
+
+45 yrs. Average Age
+ 15 yrs. Average Tenure
+
+7.7%
+Low Turnover Rate
+(Majority retirements)
+
+Beginning with the 2020 reporting year, Southern Company committed to disclose annually an aggregate 
+summary of workforce data each Southern Company subsidiary submits to the Equal Employment 
+Opportunity Commission (EEOC) through Form EEO-1.
+
+17
+
+Corporate ResponsibilityDiversity, Equity 
+and Inclusion 
+
+Diversity, equity and inclusion (DE&I) 
+are essential aspects for our company. 
+At Southern Company, Our Values 
+foster a diverse, inclusive, equitable and 
+innovative culture so that employees 
+can execute our business strategy 
+with agility and accountability. Our 
+Moving to Equity work reflects our 
+committment to DE&I in our workforce 
+and our communities. Our community 
+efforts include partnerships with diverse 
+suppliers and philanthropic investments 
+in historically underrepresented and 
+marginalized communities.
+
+•  We have refocused our efforts toward a more 
+holistic goal of diversity, equity and inclusion
+
+•  Energy justice has been added as a focus area 
+
+in our Moving to Equity initiative
+
+•  Southern Company is committed to supplier 
+diversity that reflects the diversity of our 
+customer base and energizes our success
+
+Learn more 
+
+18
+
+Spotlight: Moving to Equity 
+
+Following events in 2020 highlighting racial 
+injustice in our society, we adopted Moving 
+to Equity as our framework to demonstrate a 
+collective commitment to our work. Subsequently, 
+we published a 2021 Moving to Equity report updating 
+stakeholders on progress in our commitment areas.
+
+Key efforts and commitments include:
+
+•  Talent: committing to a diverse, equitable and 
+
+inclusive workplace to better serve our customers 
+and communities; increasing and improving outreach, 
+recruitment, hiring and retention of diverse groups 
+at all levels of the workforce; ensuring equity in 
+leadership development programs; and seeking 
+diverse candidate slates for all positions, including 
+management roles.
+
+•  Culture: promoting an actively anti-racist culture 
+to ensure that all groups, especially historically 
+underrepresented and marginalized groups, are well-
+represented, included and fairly treated within all 
+levels of the organization, and that everyone feels 
+welcomed, valued and respected.
+
+•  Community: committing $225 million over five 
+
+years to advance racial equity and social justice in 
+our communities with a focus on criminal justice, 
+economic empowerment, the advancement of 
+educational equality and energy justice.
+
+•  Political Engagement: advocating for racial equity 
+through our political engagement, policy positions 
+and ongoing public dialogues. 
+
+•  Suppliers: aiming to increase our minority business 
+enterprise spend to 20% and total diverse spend to 
+30% by 2025, and committing to developing and 
+doing business with more Black-owned businesses in 
+our industry and communities.
+
+We provide updates on our progress through our Boldly 
+Forward website and an annual Moving to Equity 
+report.
+
+Corporate ResponsibilityCommitment to Undertake a Racial Equity Audit
+
+Southern Company has committed to undertake a racial 
+equity audit, conducted by a third party in 2023, in response 
+to feedback from key stakeholders. The audit will focus on 
+Southern Company’s implementation of initiatives to support racial 
+equity and inclusivity within our workforce and the communities we 
+serve, as set forth in our Moving to Equity commitment framework. 
+As part of the process, we will engage key stakeholders including 
+employees and civic organizations relevant to the audit. We 
+anticipate publishing a report based on the audit at the end of 2023. 
+
+19
+
+Corporate ResponsibilityCommunity Relationships 
+
+Southern Company is committed 
+to being “A Citizen Wherever We 
+Serve,” meaning our employees 
+are inextricably woven into the 
+communities we are privileged to 
+serve. Our charitable giving, employee 
+volunteer efforts and economic 
+development initiatives are focused 
+on making communities thrive for 
+generations to come.
+
+•  We work proudly within our communities to make    
+
+a difference every day
+
+•  Each year, Southern Company contributes to 
+
+independent funds, non-profit organizations and 
+foundations that are working to improve education 
+equity, increase economic empowerment, promote 
+environmental stewardship and revitalize communities
+
+•  Southern Company has been helping hometowns 
+
+across our states grow and prosper for over 100 years
+
+Learn more 
+
+20
+
+Corporate ResponsibilitySpotlight: Community Support 
+
+Day in and day out, we work proudly within 
+our communities to make a difference. Southern 
+Company weaves together financial grants, 
+philanthropic programs, community board leadership 
+and employee volunteerism to create positive 
+momentum in communities where we serve, live and 
+play. Our support is broad-based spanning education, 
+health and human services, civic and community, 
+environment, economic development and arts and 
+culture. Social justice and equity considerations are at 
+the forefront of our efforts.
+
+We have a strong philanthropic commitment to our 
+communities which is executed through several private 
+foundations and corporate giving efforts across our 
+subsidiaries. In 2021 we invested approximately $110 
+million in grants, sponsorships, and impact investments 
+across our territories.
+
+2021 System-Wide Giving
+
+~$110M invested in 2021
+
+Commitment to Advancing Equity in Education
+
+In 2022, the Nicor Gas Foundation committed to help fund 
+the proposed Technology Lab within the Goodwill Excel 
+Center School, a tuition-free charter school in Rockford, IL, 
+that supports adult students in earning industry-recognized 
+certifications and high school diplomas. The Excel Center 
+Technology Lab will be a critical component to the Northern 
+Illinois campus and will serve up to 300 low-income adult 
+students per semester as they work to earn their high school 
+diplomas and obtain jobs in growing, sustainable local industries. 
+Nicor Gas is committed to advancing equity in education by 
+serving our neighbors and ensuring students at the Excel Center 
+School have access to the latest technology and tools needed to 
+take the next step in their career.
+
+21
+
+Corporate ResponsibilityEducation35%Civic & Community35%Entertainment,Arts & Other12%Health &Human Services18%Governance and Policy Engagement 
+
+Spotlight: Constructive Regulation  
+and Public Policy 
+
+Southern Company believes it has a responsibility 
+to customers and stakeholders to participate in the 
+political process and that our success is dependent 
+on political engagement and advocacy. Meeting 
+our net zero goal will require continued active and 
+constructive engagement with government officials, 
+investors and a wide variety of other public and 
+private stakeholders. Policies that encourage and 
+advance innovation while protecting the affordability, 
+reliability and resilience of service are essential to 
+meeting this goal.
+
+Southern Company’s delivery of clean, safe, reliable 
+and affordable energy is linked to constructive 
+relationships with policymakers. Through these 
+constructive relationships, we can communicate 
+to policymakers the interests of our company and 
+stakeholders. Southern Company engages directly 
+with lawmakers and regulators and also participates 
+in trade associations and industry groups that, among 
+their many activities, engage in lobbying and advocacy 
+on various matters.
+
+Learn more 
+
+In November of 2022, 
+Southern Company 
+published a Trade 
+Association and Climate 
+Engagement Report that 
+includes information 
+about our engagement 
+with policymakers, with 
+a focus on the climate-
+related positions of trade 
+associations to which 
+Southern Company or a 
+subsidiary pays dues of 
+$50,000 or more and that 
+lobby on federal energy policy. 
+
+Southern Company promotes corporate 
+governance standards and practices that 
+drive long-term value for our stakeholders. 
+Core to effective governance is consistent 
+dialogue with our stakeholders, including 
+regulators, investors and suppliers. We 
+are committed to the highest ethical 
+standards and proactive transparency at 
+the Board level and throughout the entire 
+organization.
+
+Southern Company’s independent directors provide 
+substantive oversight on strategy and risk issues across 
+the ESG spectrum. The full Board discusses key ESG 
+topics as part of its regular agenda, including fleet 
+transition and human capital management. Committees 
+take a deeper dive into ESG risks and opportunities and 
+report out to full Board on key issues.
+
+Learn more 
+
+22
+
+Corporate ResponsibilityBOARD COMMITTEES
+
+Compensation & Talent 
+Development Committee 
+
+Oversees human capital management 
+strategies, practices and programs, including 
+talent acquisition, development and retention, 
+diversity, equity and inclusion, employee 
+engagement and wellbeing, performance 
+management and pay equity reviews.
+
+Nominating, Governance & 
+Corporate Responsibility 
+Committee
+
+Oversees significant corporate responsibility 
+strategies, programs and practices, including 
+environmental sustainability and climate 
+change, supporting community investment 
+and social justice, advancing supplier diversity, 
+public policy advocacy, political contributions 
+and lobbying and assessing ESG feedback 
+from shareholders and other stakeholders.
+
+The full Board 
+
+regularly discusses 
+
+key ESG topics as part 
+
+of its regular agenda, 
+
+including fleet 
+
+transition and human 
+
+capital management.
+
+Committees take 
+
+a deeper dive 
+
+into ESG risks and 
+
+opportunities and 
+
+report out to full 
+
+Board.
+
+Operations, 
+Environmental & 
+Safety Committee
+
+Oversees reduction of greenhouse gas emissions 
+and fleet transition, including net zero carbon 
+strategies, resource planning, emerging 
+technologies and R&D and the impact on 
+employees and communities of implementing 
+the business strategies and operations.
+
+Audit 
+Committee
+
+Oversees the adequacy and effectiveness of 
+internal controls, including the development 
+of internal controls for non-financial 
+ESG-related data and disclosures.
+
+Finance 
+Committee
+
+Oversees capital investment, including 
+alignment of long-term capital allocation 
+strategies with net zero objectives.
+
+Business Security & 
+Resiliency Committee
+
+Oversees cybersecurity, physical security 
+and operational resiliency, including issues 
+and policies relating to climate change and 
+its impact on business resiliency.
+
+23
+
+Corporate ResponsibilityOur Sustainability Priority Matrix
+
+Our internal and external stakeholders 
+scored the key sustainability priorities on a 
+scale from 1 to 10 for impact (the ability of 
+Southern Company to influence the priority) 
+and importance. This graph represents those 
+collective perspectives.
+
+Southern Company and external stakeholder 
+top three sustainability priorities align:
+
+1. Clean Energy
+
+2. Safety and Health
+
+3. Energy Reliability and Resiliency
+
+2021 
+Sustainability 
+Priorities 
+Assessment
+
+Southern Company partnered with the 
+EPRI to conduct a Sustainability Priorities 
+Assessment to understand internal and 
+external stakeholder interests in key 
+areas related to sustainability. Leadership 
+and employees from across the system, 
+including from the five largest operating 
+companies, provided feedback for 
+the internal stakeholder perspective. 
+External stakeholders included 
+customers, investors, non-governmental 
+organizations and suppliers.
+
+Through internal focus groups and interviews with 
+select stakeholders, we identified 23 key sustainability 
+priorities, which were further evaluated through a 
+survey distributed to a broader stakeholder base. 
+Both internal and external stakeholders rated Clean 
+Energy, Safety and Health and Energy Reliability 
+and Resiliency in the top five of the sustainability 
+priorities. The additional top priorities were Cyber and 
+Physical Security and Financial Performance for internal 
+stakeholders, and Diversity, Equity and Inclusion and 
+Human Rights for external stakeholders.
+
+The valuable insights gained from this extensive study 
+are informing our corporate sustainability strategy, 
+stakeholder engagement and sustainability disclosures. 
+Leadership across the Southern Company system 
+have engaged in thoughtful discussions around the 
+priorities, which contributed to the development of 
+our six corporate sustainability priorities: Net Zero and 
+Environment; Reliability, Resilience and Affordability; 
+Innovation; Workforce Sustainability; Diversity, Equity 
+and Inclusion; and Community Relationships.
+
+24
+
+High Impact 
+and High 
+Importance
+
+Scale 0 to 10
+
+Corporate ResponsibilitySustainability Priorities
+
+Priority Descriptions
+
+Air Quality 
+
+Clean Energy
+
+Climate Change 
+
+Community Vitality 
+
+Environmental and health impacts from non-GHG air emissions produced by 
+company operations
+
+Facilitation of decarbonization through investment and deployment of low and 
+zero-carbon resources, including energy efficiency, renewables, storage and other 
+solutions
+
+Physical, operational, and planning risks and opportunities resulting from changes 
+in the climate
+
+Economic prosperity, betterment, and involvement in communities served or 
+impacted by company operations
+
+Customer Engagement 
+
+Interaction with customers through evolving services, technologies, communication, 
+and education
+
+Cyber and Physical 
+Security
+
+Diversity, Equity 
+and Inclusion
+
+Energy Affordability 
+
+Energy Reliability 
+and Resiliency
+
+Protection of facilities, systems, infrastructure, and customer and company 
+information from digital and physical threats
+
+An inclusive company culture that embraces, motivates, promotes, and supports     
+a diverse workforce, leadership team, and other partners in our community
+
+Affordability of energy services for all customers accounting for the value of 
+services delivered
+
+Effectiveness of operational infrastructure and resource planning to ensure 
+dependable delivery of energy for customers and timely, safe recovery from 
+disruptive events
+
+Financial Performance 
+
+Short- and long-term financial performance
+
+Greenhouse Gases
+
+Greenhouse gas emissions produced through company operations
+
+Governance
+
+Business systems and processes and senior leadership that identify and manage 
+internal and external risks and enable accountability and effectiveness of company 
+activities
+
+Habitat and Biodiversity
+
+Vitality and stewardship of natural habitats and the species that depend on them
+
+Human Rights
+
+Innovation
+
+Just Transition
+
+Transparency and improvement of human rights practices including, but not limited 
+to, fair treatment, forced labor, child labor, and freedom of association
+
+Technology and process advancements that substantially enhance the value of 
+energy services
+
+Equitable access for workers and communities to the benefits and protection from 
+the risks associated with decarbonization of the economy
+
+Public Policy Engagement
+
+Ethical engagement with local, state, and federal regulators and elected officials 
+consistent with business strategies and priorities
+
+Safety and Health
+
+Safety, health, and well-being of employees, contractors, and the public with 
+respect to interaction with owned or managed assets
+
+Stakeholder Relationships 
+
+Trust-based and transparent relations with all stakeholders
+
+Supply Chain 
+
+Economic, environmental, human rights and social performance of diverse suppliers 
+and resilience from disruptive events
+
+Waste 
+
+Water 
+
+Management, reduction, and/or reuse of waste, including coal combustion residuals 
+and spent nuclear fuel
+
+Quality, availability, and efficient use of water resources
+
+Workforce Development
+
+Hiring, training, mentoring, engaging, and retaining appropriately skilled and 
+experienced workers that reflect the communities we serve
+
+25
+
+Corporate ResponsibilitySouthern Company Alignment with UN Sustainable Development Goals
+
+The United Nations has established a framework of 17 Sustainable Development Goals, which serve as a blueprint 
+for protecting the planet and reaching global peace and prosperity. Sustainable development has been defined as 
+development that meets the needs of the present without compromising the ability of future generations to meet 
+their own needs. These goals are used by countries, companies and organizations to demonstrate progress toward 
+the reduction of poverty and inequalities, preservation of natural resources, promotion of quality education and 
+responsible consumption and innovation for energy and infrastructure. Southern Company has mapped our six 
+corporate sustainability priorities to the goals, indicating our alignment with a sustainable future.  
+
+Our core business as an energy company has the most direct impact on progress for the following goals:
+
+•  Increased zero and low-carbon resources to 31% of the generation mix in 2021 (from 15% in 2007)
+•  Plans to increase renewable generation to greater than 17,000 MW by 2030 from 11,000 MW in 2021
+•  Constructing the first two new nuclear units in the United States in more than three decades 
+•  Proposes to reduce the coal fleet to 8 units (<4,500 MW) by the end of 2028, approximately half of 2021 capacity
+•  Leading Department of Energy (DOE)-funded project with TerraPower to develop the molten chloride fast reactor
+
+•  Invested $66 million toward the 2025 goal of $225 million to advance racial equity and social justice in our 
+
+communities 
+
+•  Increased our total diverse spend to 26% in 2021 with a 30% goal for 2025
+•  Published the 2021 Transformation Report: Moving to Equity
+•  Partnered with Apple to launch the Propel Center for HBCU students
+
+•  Transitioned 21% of light-duty fleet vehicle to electric in 2021 with a 50% electrification goal for 2030
+•  Southern Company and Southern Company Gas collaborated with industry partners to establish a two-year DOE 
+project, HyBlend, which will address the technical barriers of blending hydrogen in natural gas infrastructure
+
+•  Awarded a renewed five-year collaborative agreement in 2020 to continue managing and operating the 
+
+National Carbon Capture Center for DOE
+
+•  Founding member of Energy Impact Partners, a venture capital fund dedicated to accelerating the transition 
+
+to a clean energy future
+
+•  $4 billion combined investment for transmission and distribution infrastructure enhancements and the 
+
+construction of additional zero carbon resources in 2021 
+
+•  $44 billion planned for capital investment for transmission and distribution infrastructure, renewables, grid 
+
+resilience, electric transportation and other opportunities for 2022-2026
+
+•  Leading participant in EPRI’s Climate READi: Power Resilience and Adaptation initiative aimed at 
+
+strengthening the power sector’s collective approach to managing climate risk to the power system
+
+•  Southern Power added two battery-based energy storage projects at solar facilities in California
+
+•  Reduced GHG emissions by 47% in 2021 from the 2007 baseline, with a goal of 50% by 2030 and net zero by 2050
+•  Completed third-party verification/assurance of Scopes 1 and 2 GHG emissions for 2021 and 2020
+•  Natural gas distribution operation fugitive methane intensity of 0.195% in 2021, below the ONE Future 2025 
+
+goal of 0.44%
+
+•  Transition plan aligned to the 1.5°C climate scenario
+•  Guided by four Environmental Principles: demonstrate commitment, lead innovation, be accountable and 
+
+promote conservation and stewardship
+
+Southern Company less directly impacts the following goals through employee and community initiatives, and conservation 
+and stewardship.
+
+26
+
+Corporate ResponsibilityKey Data 
+and Metrics 
+
+We recognize the value our investors and stakeholders place on transparency, 
+and we are committed to continued enhancements. Our ongoing dialogue 
+with investors and stakeholders helps to inform our disclosures and ensure 
+we are providing meaningful information. As part of our commitment to 
+transparency, we compile an ESG Data Table that includes the data and metrics 
+most applicable to our company and desired by our stakeholders. We also align 
+our reporting with the frameworks commonly used by our industry and in our 
+country of domicile. The links below provide direct access to each document.
+
+Southern Company 
+ESG Data Table
+
+TCFD Content 
+Index (Task Force 
+on Climate-
+related Financial 
+Disclosures)
+
+SASB Content Index 
+(Sustainability 
+Accounting 
+Standards Board) – 
+Electric Utilities & 
+Power Generators
+
+GRI Content Index 
+(Global Reporting 
+Initiative) 
+
+SASB Content 
+Index – Gas 
+Utilities and 
+Distributors
+
+27
+
+Corporate Responsibilitysoutherncompany.com
+
+
